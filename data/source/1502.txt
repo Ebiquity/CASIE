@@ -1,0 +1,41 @@
+<source> https://www.wired.com/2017/04/hackers-hijacked-banks-entire-online-operation/ </source>
+<date> 2017_04_06 </date>
+<text>
+The traditional model of hacking a bank isn't so different from the old-fashioned method of robbing one.
+But one enterprising group of hackers targeting a Brazilian bank seems to have taken a more comprehensive and devious approach: One weekend afternoon, they rerouted all of the bank's online customers to perfectly reconstructed fakes of the bank's properties, where the marks obediently handed over their account information.
+Researchers at the security firm Kaspersky on Tuesday described an unprecedented case of wholesale bank fraud, one that essentially hijacked a bank's entire internet footprint.
+In practice, that meant the hackers could steal login credentials at sites hosted at the bank's legitimate web addresses.
+Kaspersky researchers believe the hackers may have even simultaneously redirected all transactions at ATMs or point-of-sale systems to their own servers, collecting the credit card details of anyone who used their card that Saturday afternoon.
+"Absolutely all of the bank's online operations were under the attackers' control for five to six hours," says Dmitry Bestuzhev, one of the Kaspersky researchers who analyzed the attack in real time after seeing malware infecting customers from what appeared to be the bank's fully valid domain.
+From the hackers' point of view, as Bestuzhev puts it, the DNS attack meant that "you become the bank.
+Kaspersky isn't releasing the name of the bank that was targeted in the DNS redirect attack.
+But the firm says it's a major Brazilian financial company with hundreds of branches, operations in the US and the Cayman Islands, 5 million customers, and more than $27 billion in assets.
+And though Kaspersky says it doesn't know the full extent of the damage caused by the takeover, it should serve as a warning to banks everywhere to consider how the insecurity of their DNS might enable a nightmarish loss of control of their core digital assets.
+"This is a known threat to the internet," Bestuzhev says.
+"But we’ve never seen it exploited in the wild on such a big scale."
+But attacking those records can take down sites or, worse, redirect them to a destination of the hacker's choosing.
+In 2013, for instance, the Syrian Electronic Army hacker group altered the DNS registration of The New York Times to redirect visitors to a page with their logo.
+More recently, the Mirai botnet attack on the DNS provider Dyn knocked a major chunk of the web offline, including Amazon, Twitter, and Reddit.
+But the Brazilian bank attackers exploited their victim's DNS in a more focused and profit-driven way.
+Kaspersky believes the attackers compromised the bank's account at Registro.br.
+That's the domain registration service of NIC.br, the registrar for sites ending in the Brazilian .br top-level domain, which they say also managed the DNS for the bank.
+And those sites even had valid HTTPS certificates issued in the name of the bank, so that visitors' browsers would show a green lock and the bank's name, just as they would with the real sites.
+Kaspersky found that the certificates had been issued six months earlier by Let's Encrypt, the non-profit certificate authority that's made obtaining an HTTPS certificate easier in the hopes of increasing HTTPS adoption.
+"If an entity gained control of DNS, and thus gained effective control over a domain, it may be possible for that entity to get a certificate from us," says Let's Encrypt founder Josh Aas.
+"Such issuance would not constitute mis-issuance on our part, because the entity receiving the certificate would have been able to properly demonstrate control over the domain."
+Ultimately, the hijack was so complete that the bank wasn't even able to send email.
+"They couldn’t even communicate with customers to send them an alert," Bestuzhev says.
+"If your DNS is under the control of cybercriminals, you’re basically screwed."
+Aside from mere phishing, the spoofed sites also infected victims with a malware download that disguised itself as an update to the Trusteer browser security plug-in that the Brazilian bank offered customers.
+According to Kaspersky's analysis, the malware harvests not just banking logins—from the Brazilian banks as well as eight others—but also email and FTP credentials, as well as contact lists from Outlook and Exchange, all of which went to a command-and-control server hosted in Canada.
+The Trojan also included a function meant to disable antivirus software; for infected victims, it may have persisted far beyond the five-hour window when the attack occurred.
+And the malware included scraps of Portugese language, hinting that the attackers may have themselves been Brazilian.
+After around five hours, Kaspersky's researchers believe, the bank regained control of its domains, likely by calling up NIC.br and convincing it to correct the DNS registrations.
+But just how many of the bank's millions of customers were caught up in the DNS attack remains a mystery.
+Kaspersky says the bank hasn't shared that information with the security firm, nor has it publicly disclosed the attack.
+But the firm says it's possible that the attackers could have harvested hundreds of thousands or millions of customers' account details not only from their phishing scheme and malware but also from redirecting ATM and point-of-sale transactions to infrastructure they controlled.
+Kaspersky's Bestuzhev argues that, for banks, the incident should serve as a clear warning to check on the security of their DNS.
+He notes that half of the top 20 banks ranked by total assets don't manage their own DNS, instead leaving it in the hands of a potentially hackable third party.
+And regardless of who controls a bank's DNS, they can take special precautions to prevent their DNS registrations from being changed without safety checks, like a "registry lock" some registrars provide and two-factor authentication that makes it far harder for hackers to alter them.
+Without those simple precautions, the Brazilian heist shows how quickly a domain switch can undermine practically all other security measures a company might implement.
+</text>

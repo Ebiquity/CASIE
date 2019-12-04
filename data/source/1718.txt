@@ -1,0 +1,11 @@
+<title>Microsoft Patches Vulnerabilities After Hack | PYMNTS.com</title>
+<source> http://www.pymnts.com/safety-and-security/2017/microsoft-patches-vulnerabilities-after-hackers-warn-of-microsoft-apocalypse-hackers-hack-nsa-leak-cybersecurity-security-and-fraud-hacking-tools-script-kiddies/ </source>
+<date> 2017_04_18 </date>
+<text>
+A group known as the Shadow Brokers published on Good Friday a set of confidential hacking tools used by the NSA to exploit software vulnerabilities in Microsoft Windows software.
+According to Fortune, Microsoft announced on the same day that it had patched the vulnerabilities related to the NSA leak. It was especially important that the company moved quickly since juvenile hackers — also known as script kiddies — were expected to be active over the holiday weekend while defenders were away.
+The threat was the latest and, according to security experts, the most damaging set of stolen documents published by the Shadow Brokers, which is believed to be tied to the Russian government.
+Experts say the leak, which was mostly lines of computer code, was made up of a variety of “zero-day exploits” that can infiltrate Windows machines and then be used for espionage, vandalism or document theft. The group also published another set of documents that show that the NSA penetrated the SWIFT banking network in the Middle East.
+“There appears to be at least several dozen exploits, including zero-day vulnerabilities, in this release. Some of the exploits even offer a potential ‘God mode’ on select Windows systems. A few of the products targeted include Lotus Notes, Lotus Domino, IIS, SMB, Windows XP, Windows 8, Windows Server 2003 and Windows Server 2012,” said Cris Thomas, a strategist at Tenable Network Security.
+The Shadow Brokers have been threatening the U.S. government for some time but until last Friday had not released anything critical. There is speculation that this document dump could be retaliation by Russia (if the hackers are indeed tied to the country) in response to recent U.S. military actions.
+</text>

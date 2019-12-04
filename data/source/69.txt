@@ -1,0 +1,8 @@
+<title>WSJ: How a Michigan Utility Got Hacked with Ransomware
+<source> https://www.linkedin.com/pulse/wsj-how-michigan-utility-got-hacked-ransomware-phil-neray </source>
+<date> 2017_01_05 </date>
+<text>
+The ransomware was delivered via a phishing attack and malicious attachments that locked them out of all their systems.
+The Lansing Board of Water & Light chose to pay $25,000 in bitcoin because it was cheaper than replacing all the infected computers and software, which would have cost up to $10 million.
+As it is, the incident cost them $2.5 million to wipe the infected computers and beef up their security controls, much of which was covered by insurance.
+</text>

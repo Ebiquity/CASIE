@@ -1,0 +1,15 @@
+<title> IRS Warns of New Email Phishing Scams </title>
+<source> http://bigislandnow.com/2017/11/28/irs-warns-of-new-email-phishing-scams/ </source>
+<date> 2017_11_28 </date>
+<text>
+The IRS, state tax agencies and the nation’s tax industry urge people to be on the lookout for new, sophisticated email phishing scams that could endanger their personal information and next year’s tax refund.
+The most common way for cybercriminals to steal bank account information, passwords, credit cards or social security numbers is to simply ask for them. Every day, people fall victim to phishing scams that cost them their time and their money.
+Those emails urgently warning users to update their online financial accounts—they’re fake. That email directing users to download a document from a cloud-storage provider? Fake. Those other emails suggesting the recipients have a $64 tax refund waiting at the IRS or that the IRS needs information about insurance policies—also fake. So are many new and evolving variations of these schemes.
+The Internal Revenue Service, state tax agencies and the tax community are marking National Tax Security Awareness Week with a series of reminders to taxpayers and tax professionals.
+Phishing attacks use email or malicious websites to solicit personal, tax or financial information by posing as a trustworthy organization. Often, recipients are fooled into believing the phishing communication is from someone they trust. A scam artist may take advantage of knowledge gained from online research and earlier attempts to masquerade as a legitimate source, including presenting the look and feel of authentic communications, such as using an official logo. These targeted messages can trick even the most cautious person into taking action that may compromise sensitive data.
+The scams may contain emails with hyperlinks that take users to a fake site. Other versions contain PDF attachments that may download malware or viruses.
+Some phishing emails will appear to come from a business colleague, friend or relative. These emails might be an email account compromise. Criminals may have compromised your friend’s email account and begin using their email contacts to send phishing emails.
+Not all phishing attempts are emails, some are phone scams. One of the most common phone scams is the caller pretending to be from the IRS and threatening the taxpayer with a lawsuit or with arrest if payment is not made immediately, usually through a debit card.
+Phishing attacks, especially online phishing scams, are popular with criminals because there is no fool-proof technology to defend against them. Users are the main defense. When users see a phishing scam, they should ensure they don’t take the bait.
+</text>
+

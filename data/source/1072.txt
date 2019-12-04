@@ -1,0 +1,17 @@
+<title>Poorly-configured online backup leaks US Air Force documents - Bitdefender BOX Blog</title>
+<source> https://www.bitdefender.com/box/blog/iot-news/poorly-configured-online-backup-leaks-us-air-force-documents/ </source>
+<date> 2017_03_14 </date>
+<text>
+Sensitive information related to the United States Air Force has been found exposed publicly on the internet, allowing anyone with a web connection to peruse them without authorisation and no need for a password.
+The discovery was made by security researchers at MacKeeper who said that they had found gigabytes of files on an internet-connected backup drive that was not password-protected:
+The most shocking document was a spreadsheet of open investigations that included the name, rank, location, and a detailed description of the accusations.
+The investigations range from discrimination and sexual harassment to more serious claims.
+One example is an investigation into a Major General who is accused of accepting $50k a year from a sports commission that was supposedly funneled into the National Guard.
+As ZDNet reports, the names and addresses, ranks, and social security numbers of more than 4000 US Air Force officers were included in the stash of personal information.
+Further documents included phone numbers and contact information for workers and their spouses.
+Clearly some of the details exposed through the security lapse would be of value to foreign intelligence agencies and criminal gangs, and could lead to blackmail attempts or identity theft.
+What we don’t know is how long the information has been accessible online, and we also do not know if anyone other than the security researchers had managed to stumble across the exposed information.
+But the truth of the matter is that we shouldn’t ever have to find ourselves in a question to ask such questions.
+Whenever you decide to store information on the internet, particularly sensitive data, you should be doing your utmost to ensure that you have minimised the risk of it falling into the wrong hands.
+That means always keeping your computer patched and running an up-to-date anti-virus, using encryption, enabling passwords and ensuring that the password chosen is a strong one, turning on additional authentication checks such as two-step verification and restricting the range of trusted IP addresses from where users can login from.
+</text>

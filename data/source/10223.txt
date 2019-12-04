@@ -1,0 +1,17 @@
+<title> Cybersecurity Firm Reveals Vulnerability in DJI’s Infrastructure (It’s Patched Now) </title>
+<source> https://dronelife.com/2018/11/08/cybersecurity-firm-reveals-vulnerability-in-djis-infrastructure-its-patched-now/ </source>
+<date> 2018_11_08 </date>
+<text>
+Researchers at cybersecurity company Check Point have today shared details of a vulnerability in DJI’s infrastructure that could have given hackers access to consumer and corporate user accounts, personal data, flight logs, photos, videos, and – if the user was flying with DJI’s FlightHub application – a live camera feed and map during missions.
+Check Point submitted a report to DJI’s Bug Bounty Program, highlighting a process in which an attacker could have gained access to a user’s account through a vulnerability discovered in the user identification process within DJI Forum.
+Check Point’s researchers found that DJI’s various platforms used a token to identify registered users across different aspects of the customer experience. Hackers could plant malicious links that would compromise accounts within that framework.
+In a blog post outlining their investigation, Check Point explained the process of a possible exploit:
+The vulnerability was accessed through DJI Forum, an online forum DJI runs for discussions about its products. A user who logged into DJI Forum, then clicked a specially-planted malicious link, could have had his or her login credentials stolen to allow access to other DJI online assets:
+        DJI’s web platform (account, store, forum)
+        Cloud server data synced from DJI’s GO or GO 4 pilot apps
+        DJI’s FlightHub (centralized drone operations management platform)
+
+We notified DJI about this vulnerability in March 2018 and DJI responded responsibly. The vulnerability has since been patched. DJI classified this vulnerability as high risk but low probability, and indicated there is no evidence this vulnerability was ever exploited by anyone other than Check Point researchers.
+Check Point even made a Mission Impossible-style trailer for their findings, which is… interesting.
+</text>
+

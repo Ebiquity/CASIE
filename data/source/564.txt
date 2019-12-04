@@ -1,0 +1,18 @@
+<title>A rash of invisible, fileless malware is infecting banks around the globe | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/02/a-rash-of-invisible-fileless-malware-is-infecting-banks-around-the-globe/ </source>
+<date> 2017_02_09 </date>
+<text>
+Further ReadingStepson of Stuxnet stalked Kaspersky for months, tapped Iran nuke talksTwo years ago, researchers at Moscow-based Kaspersky Lab discovered their corporate network was infected with malware that was unlike anything they had ever seen.
+Virtually all of the malware resided solely in the memory of the compromised computers, a feat that had allowed the infection to remain undetected for six months or more.
+Kaspersky eventually unearthed evidence that Duqu 2.0, as the never-before-seen malware was dubbed, was derived from Stuxnet, the highly sophisticated computer worm reportedly created by the US and Israel to sabotage Iran’s nuclear program.
+The Kaspersky Lab researchers still don't know if a single group of individuals is behind the attacks, or if they're being carried out by competing hacker gangs.
+The use of the fileless malware and command-server domains that aren't associated with any whois data makes the already difficult task of attribution almost impossible.
+The researchers first discovered the malware late last year, when a bank's security team found a copy of Meterpreter—an in-memory component of Metasploit—residing inside the physical memory of a Microsoft domain controller.
+After conducting a forensic analysis, the researchers found that the Meterpreter code was downloaded and injected into memory using PowerShell commands.
+The infected machine also used Microsoft's NETSH networking tool to transport data to attacker-controlled servers.
+To obtain the administrative privileges necessary to do these things, the attackers also relied on Mimikatz.
+To reduce the evidence left in logs or hard drives, the attackers stashed the PowerShell commands into the Windows registry.
+Fortunately, the evidence on the domain controller was intact, presumably because it hadn't been restarted before Kaspersky Lab researchers began their investigation.
+An analysis of the dumped memory contents and the Windows registries allowed the researchers to restore the Meterpreter and Mimikatz code.
+The attackers, the researchers later determined, had used the tools to collect passwords of system administrators and for the remote administration of infected host machines.
+</text>

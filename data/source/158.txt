@@ -1,0 +1,17 @@
+<title>Gallery: The top zero day Dark Web markets - TechRepublic</title>
+<source> http://www.techrepublic.com/pictures/gallery-the-top-zero-day-dark-web-markets/ </source>
+<date> 2017_01_11 </date>
+<text>
+Kapustkiy won't buy malware, but the hacker claims to sell zero day exploits, software loopholes that allow attackers to exploit software and networks.
+"I can't name the site I use, but I think that most hackers would use the same [sites]," he said.
+Kapustkiy is a young, ideologically driven hacker who frequently tunnels into government and corporate sites.
+"I hack for political reasons," he said in translated, broken English, "but make money sometimes from selling hacks."
+Zero day exploits are a major profit center for many hackers and are at the heart of underground cyberwar ecosystem.
+Malware and software bugs can sell for tens or hundreds of thousands of dollars on the Dark Web.
+SEE: IT leader's guide to the blockchain (Tech Pro Research)
+Zero day bugs are valuable because of the high stakes for victims.
+Bugs in Flash or Windows grant hackers easy access to corporate systems.
+Malware in the form of Stuxnet was allegedly developed and deployed by the United States and Israel to attack Iran's nuclear program, and Sandworm was allegedly used by Russian hackers to attack NATO.
+I got a huge list of around 20 domains and I saw that all of them were running on the same server and also had the same vulnerability.
+So I found a exploit in the web-server and I managed to hack [several sites].
+</text>

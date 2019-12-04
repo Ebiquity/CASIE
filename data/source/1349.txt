@@ -1,0 +1,17 @@
+<title>Security flaws found in 'panic button' for Colombian activists, journalists | TheHill</title>
+<source> http://thehill.com/policy/cybersecurity/325987-panic-button-issued-to-colombian-activists-journalists-has-serious </source>
+<date> 2017_03_29 </date>
+<text>
+A "panic button" distributed by the Colombian government to high-risk activists and journalists has a number of security flaws, at least one of which is by design, a security firm reported.
+Rapid7 investigated the Eview EV-07S GPS tracker at the behest of The Associated Press.
+The site lists main applications of the EV-07S as elderly care, disabled and patient care, child protection, employee management, and pet and animal tracking.
+"I wouldn't be worried about giving this to my grandma.
+But I would be more concerned giving it to anyone who might be at risk," said Deral Heiland, internet of things research lead at Rapid7.
+The group found another six vulnerabilities not listed in the manual.
+Those include a web portal for the device that allows anyone (even people without passwords) to access GPS coordinates of any device.
+Anyone who logs into an account on the site has access to other information from all accounts, including phone numbers and device configurations.
+The device also transmits data in "clear," unencrypted text, allowing anyone to tamper or alter information in transit.
+Rapid7 spoke with the manufacturer in December to relay its findings.
+Eview has not informed Rapid7 of any intention to repair the security flaws.
+"We thought we had a responsibility to alert users that these vulnerabilities exist," said Heiland.
+</text>

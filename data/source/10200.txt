@@ -1,0 +1,12 @@
+<title> More Spectre protection comes with some of Intel’s new 9th-gen CPUs, but not all  </title>
+<source> https://www.digitaltrends.com/computing/intel-9-series-cpu-spectre/ </source>
+<date> 2018_10_08 </date>
+<text>
+Intel’s newly announced 9-series CPUs bring a lot of exciting new features to the table, including higher clock speeds and the promise of greater gaming performance. But arguably one of the most important factors is in security. These chips are the first generation of new desktop CPUs to come with hardware fixes for the Spectre and Meltdown bugs which emerged in recent years.
+In particular, it’s the new K-series of gaming CPUs that are receiving the fix. Those chips come with changes at the hardware level and should be far more secure against the kind of attacks that Spectre and its ilk have brought to light in recent years. Although they are still based on the same 14nm node that has dominated Intel’s chip designs since 2014, these would be the first ones to come with a fix for these sorts of bugs at the hardware level.
+The second set of new 9th-gen chips, the X-series (and Xeon-class chips), don’t have those same security fixes. Because they’re based on the older Skylake-X architecture, Intel is relying solely on software updates to keep them protected against these possible vulnerabilities.
+News of the fixes were shared at Intel’s recent desktop press event, where it stated that, “the new desktop processors include protections for the security vulnerabilities commonly referred to as ‘Spectre,’ ‘Meltdown,’ and ‘L1TF.’ These protections include a combination of the hardware design changes we announced earlier this year as well as software and microcode updates.”
+The hardware alterations made to the chips protect against Meltdown V3, otherwise known as the rogue data cache load bug. The L1 terminal fault exploit was also shored up with hardware changes. Software and microcode changes protect those same chips against the Spectre V2 branch target injection bug, the Meltdown V3, a rogue system register read, and the variant V4 speculative store bypass flaw.
+In the laptop world, Intel has had a similar approach toward making hardware-level fixes. Some, but not all, have implemented hardware protections. Intel has been criticized in the past for the way it has handled these potentially critical flaws and has had a relatively slow move toward patching the vulnerabilities on a hardware level throughout 2018.
+</text>
+

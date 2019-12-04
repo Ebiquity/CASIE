@@ -1,0 +1,20 @@
+<title>45% of large British businesses sustained a successful ransomware attack - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/05/british-ransomware-attack/ </source>
+<date> 2017_04_05 </date>
+<text>
+Over a third of British businesses (36 percent) are not very confident that efforts to completely eradicate a recent ransomware attack from work systems have been successful.
+The research, carried out by One Poll, quizzed 500 IT decision makers in companies with 250 or more employees across the UK to uncover the extent to which large British organisations are prepared for the threat of ransomware.
+The research also considered the proportion of businesses which have been targeted with a successful ransomware attack and the current impact of these attacks on corporate devices.
+45 percent of large British businesses have fallen victim to a successful ransomware attack.
+Despite this, 11 percent of large organisations still do not have a formal ransomware policy in place.
+Although British businesses are increasingly threatened by this strain of malware, 38 percent of these unprepared businesses are not planning to implement a ransomware-focused policy in the next 12 months.
+Conversely, half of this group confirmed that firm plans are in place to put such a policy into practice in the next year.
+“Cybercriminals are continuing to exploit British businesses by launching ransomware attacks to remove access to mission-critical data or to make significant sums of money by demanding large ransoms for the safe return of such data.
+Despite this, many organisations have yet to take action and implement policies which will ensure the IT network is well prepared for a possible attack,” said Chris Mayers, chief security architect, Citrix.
+“By committing to robust cybersecurity techniques and ensuring specific policies are in place in case of an attack, companies can lessen the chances of falling prey to ransomware and creating any vulnerabilities for cyber-attackers to find”.
+The poll also dug into the extent to which ransomware attacks have affected corporate devices and systems, revealing that IT often faces significant numbers of infected devices.
+On average, businesses reported that 47 devices had been infected by their most recent ransomware attack but one third of businesses with over 1000 employees reported that more than 101 devices were affected.
+Among those organisations which had fallen victim to a ransomware attack, 31 percent saw 25 or fewer devices affected.
+“Falling prey to a ransomware campaign can have a devastating effect on a business, from the loss of highly sensitive corporate data to reduced revenues and a sharp decline in public trust.
+It’s worrying to see many businesses are concerned that ransomware may be lingering on the corporate network after mitigation efforts have taken place, particularly when it can spread across many different devices,” Chris Mayers added.
+</text>

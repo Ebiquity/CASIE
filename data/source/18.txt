@@ -1,0 +1,12 @@
+<title>Inside the Ring: Russia cyberspace intelligence targets critical U.S. infrastructure - Washington Times</title>
+<source> http://www.washingtontimes.com/news/2015/dec/16/inside-the-ring-russia-cyberspace-intelligence-tar/ </source>
+<date> 2017_01_03 </date>
+<text>
+U.S. intelligence agencies recently identified a Russian cybersecurity firm, which has expertise in testing the network vulnerabilities of the electrical grid, financial markets and other critical infrastructure, as having close ties to Moscow’s Federal Security Service, the civilian intelligence service.
+The relationship between the company and the FSB, as the spy agency is known, has heightened fears among U.S. cyberintelligence officials that Moscow is stepping up covert efforts to infiltrate computer networks that control critical U.S. infrastructure such as oil and gas pipelines and transportation.
+The Russian company is taking steps to open a U.S. branch office as part of the intelligence-gathering, said officials familiar with reports of the effort who spoke on background.
+Officials familiar with reports about the company did not identify it by name.
+However, security officials are quietly alerting government security officials and industry cybersecurity chiefs about the Russian firm and its covert plans for operations in the United States.
+The Russian firm is said to have extensive technical experience in security vulnerabilities of supervisory control and data acquisition systems that are used to remotely control critical infrastructure.
+These systems are employed by both government and private-sector system controllers for equipment running water treatment and distribution, wastewater collection and treatment, oil and gas pipelines, electrical power grids, wind farms and large communication systems.
+</text>

@@ -1,0 +1,18 @@
+<title>Super Mario Run Android Update: Security Threats All Users Should Consider Before Downloading : News : Mobile &amp; Apps</title>
+<source> http://www.mobilenapps.com/articles/28191/20170102/super-mario-run-android-update-security-threats-all-users-should-consider-before-downloading.htm </source>
+<date> 2017_01_03 </date>
+<text>
+Android users have been given a warning by experts that they should not get too eager for their new Super Mario Run Android game.
+The game is finally Google Play Store official, but its actual release date is yet unknown, and this eagerness is being exploited by criminals.
+Super Mario Run for iOS Released
+Nintendo's first official Mario game on mobile was first launched for all iOS devices before Christmas, which has already been downloaded by millions of users and has reached the top 10, despite its $9.99 price tag.
+However, the game is yet to be launched for Android users, and this gap is getting used well by cyber criminals, as reported by The Express.
+Warnings on Fake Super Mario Android Apps
+Recent warnings have been given by security experts for Android users that they should be aware of the apps that falsely claim to be the Super Mario Run for their device.
+However, such fake downloads end up uncovering an actual mountain of malware instead of the game.
+Trend Micro Findings on Malicious Apps
+Security Firm Trend Micro's Researchers have recently found an increasing count of fake Super Mario Run Android apps that claim as the trending game Super Mario Run or other content related to it.
+Also, some of the apps even made users install unwanted apps in user's device.
+For example one of the apps had an emulated version of the original Super Mario Bros game.
+However, it was filled with pop-ups and banner apps when the user tried downloading the app, said Trend Micro.
+</text>

@@ -1,0 +1,17 @@
+<title> Ransomware attacks Ohio hospitals leading to disabled networks  </title>
+<source> https://www.2-spyware.com/ransomware-attacks-ohio-hospitals-leading-to-disabled-networks </source>
+<date> 2018_12_02 </date>
+<text>
+East Ohio Regional Hospital in Harper's Ferry, Ohio, and Ohio Valley Medical Center in Wheeling, West Virginia, both got affected by ransomware on the last weekend of November.[1] Due to this incident, ambulance patients were transported to other hospitals nearby and emergency room admissions were limited to walk-up patients only. 
+Due to attack, employees needed to switch to paper charting and various systems were taken offline immediately. This fairly quick response limited the ransomware damage and prevented the possible data breach.[2] According to Karin Janiszewski, director of marketing and public relations for EORH and OVMC, hospitals reacted as soon as possible and, at the moment of writing, they are already using the computer network.
+On the following Saturday, Karin Janiszewski stated:
+    There has been no patient information breach. The hospitals are switching to paper charting to ensure patient data protection. We have redundant security, so the attack was able to get through the first layer but not the second layer.
+IT staff dealt with the outbreak to avoid a data breach
+When it comes to malware attacks on large companies, the loss of personal customer data is the worst thing that can happen. It seems that this time the situation was handled quick enough to prevent having the sensitive data being compromised. 
+IT team took several computers offline, and, because of this, most of the clinical operations transferred to other units, and emergency patients were automatically taken to different locations. On Saturday, when the incidents occurred, hospital officials stated that the staff is ready to take everything on paper until the downtime is over.
+Also, since this is a ransomware-type malware attack, hackers demand a ransom. However, officials did not select the scenario involving making the payment. No matter how big or how little the ransom demand is, officials shouldn't even consider making the payment because it may lead to system damage or permanent data loss.[3]
+In the United States, data breaches and malware attacks on huge organizations have become a common thing, especially in the healthcare industry. In 2016 Hollywood Presbyterian Hospital paid the demanded ransom in Bitcoin after having its data encrypted.[4] The infection was widespread and the attack cost around $17 000.
+Another incident that resulted in ransom payment was spotted in Kansas Heart Hospital in 2016 also. Unfortunately, after the payment was made, attackers disappeared ignoring the promise to decrypt locked files. They send yet another ransom demand instead and asked for a bigger amount of money. 
+Previously this year, the Indiana-based hospital got infected with SamSam which is an infamous ransomware virus which has been relying on specific infection tactics which is highly personalized. After considering different scenarios, the hospital decided to pay 4 BTC (equal to $45 000 at that time) for ransomware developers to get private keys needed for files' recovery. Ransomware developers gave what they promised.
+</text>
+

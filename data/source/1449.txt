@@ -1,0 +1,30 @@
+<title>Why ransomware increasingly targets the little guys - The Parallax</title>
+<source> https://www.the-parallax.com/2017/04/03/ransomware-small-businesses-consumers/ </source>
+<date> 2017_04_04 </date>
+<text>
+Cyberthieves are increasingly targeting the malicious software, which locks all files on a targeted computer or network until the owner pays up, at smaller and arguably more vulnerable organizations.
+The Catholic Charities of Santa Clara County in California was a recent target.
+Seconds after a co-worker clicked on a malicious email attachment, “the compressed file she had opened connected her computer with a server in the Ukraine,” says Will Bailey, director of IT for the organization.
+“It downloaded the ransomware code and began to encrypt files on her device”.
+While cyberthieves ostensibly have more to gain from large organizations, experts say they see smaller organizations as lower-hanging fruit.
+Because a successful breach of an institution with fewer information security resources is easier to achieve and more likely to have a meaningful impact, it is also more likely to result in a payment.
+“Small businesses are frequently a more appealing target for ransomware because they sit at the juncture of money and vulnerability,” says Ryan Olson, director of the Palo Alto Networks Unit 42 cybersecurity threat intelligence team.
+“They frequently have more money than individuals, but being small businesses, they lack the more sophisticated defenses that larger business have”.
+“These attackers have also learned that the most profitable method is to hit many small businesses with low ransom demands—usually $300 to $2,000.
+Even small businesses can generally afford to pay those amounts”.
+— Eric Hodge, director of consulting, IDT911 Consulting
+The stats are staggering.
+The frequency of ransomware attacks against organizations with fewer than 200 employees is poised to “triple or quadruple” from that of 2015, according to Eric Hodge, director of consulting for IDT911 Consulting.
+And 60 percent of small businesses that suffer a ransomware attack are already going out of business within six months, according to the U.S. National Cyber Security Alliance.
+For many small businesses, if the ransom is low enough, and data backups aren’t available, experts say the most cost-effective response is often to pay the ransom.
+“At this point, it seems to be the small companies, and individuals providing service as a company, who are in the crosshairs,” Hodge says.
+“These attackers have also learned that the most profitable method is to hit many small businesses with low ransom demands—usually $300 to $2,000.
+Even small businesses can generally afford to pay those amounts”.
+Ransomware reportedly has cost U.S. small to midsize businesses alone more than $75 billion in damages and payments, according to a September 2016 survey by data protection vendor Datto.
+Indeed, 31 percent of the Datto survey’s respondents said they had experienced multiple ransomware attacks within a single day, and a whopping 63 percent said these attacks led to downtime in their business operations, which could cost them as much as $8,500 per hour.
+And according to Symantec’s 2016 Internet Security Threat Report, 43 percent of last year’s phishing emails, the vast majority of which were laced with ransomware, targeted small businesses—up from 18 percent in 2011.
+New research indicates that consumers similarly are becoming more attractive ransomware targets.
+According to a recent study from IBM X-Force, which surveyed 600 business professionals and 1,000 consumers, 54 percent of consumers said they would pay a ransom to retrieve their financial data, and 55 percent of parents said they would pay to have digital photos returned.
+With cybercriminals constantly upping their game in ransomware, small businesses and consumers have little choice but to remain vigilant and take “simple steps” to mitigate the risk of an attack, Palo Alto Networks’ Olson says.
+In addition to keeping systems up-to-date with security updates, and taking precautions before opening attachments or clicking on links, he recommends maintaining offline backups—or cloud-based backups outside your network—to recover potentially compromised files.
+</text>

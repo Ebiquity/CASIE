@@ -1,0 +1,26 @@
+<title>New Malware Underscores the Danger of Assumed Mac Security | The Mac Security Blog</title>
+<source> https://www.intego.com/mac-security-blog/new-malware-underscores-the-danger-of-assumed-mac-security/ </source>
+<date> 2017_02_09 </date>
+<text>
+This week researchers found a piece of malware in the wild, built to steal passwords from the macOS keychain.
+Named "MacDownloader" and posing as, what else, a fake Flash Player update, the new malware was found on the Mac of a human rights advocate and believed to originate from Iran.
+The malware's code is very sloppy and appears to have been made by an amateur who took pieces of other's code and repurposed them.
+The threat report mentions the following:
+MacDownloader seems to be poorly developed and created towards the end of 2016, potentially a first attempt from an amateur developer.
+In multiple cases, the code used has been copied from elsewhere.
+The simple activity of downloading the remote file appears to have been sourced from a cheat sheet.
+The main purpose of MacDownloader seems to be to perform an initial profiling of the infected system and collection of credentials from macOS’s Keychain password manager – which mirrors the focus of Windows malware developed by the same actors.
+At this time, it appears the malware is not a threat and the Command & Control server has been taken down.
+Intego VirusBarrier offers protection from this malware, detected as OSX/MacDownloader.
+Security researchers found that this malware was originally designed as a fake Bitdefender antivirus, but was later repackaged as a fake Flash Player update.
+Once installed, the malware attempts to achieve persistence by use of a poorly implemented shell script, which at the time of writing did not function due to the C&C server being offline.
+MacDownloader displays a fake Flash Player update that offers an "Update Flash-Player" button and a "Close" button.
+Unlike other malware of its kind, clicking the Close button actually exists the installer and nothing malicious is placed on the system.
+If the Update button is clicked though, a malware dialog will pop-up, which is, of course, fake as well.
+These dialogues are also rife with basic typos and grammatical errors, indicating that the developer paid little attention to quality control.
+After a user clicks on OK, the software mimics the System Preferences to request the admin password in order to grab more info on the system.
+If the user enters their password and clicks OK, the software grabs the info, and then it tries to open a remote connection to:
+MacDownloader collects user keychain information and uploads it to said C&C server, including documents the running processes, installed applications and the username and password, which are acquired through a fake System Preferences dialog.
+The name and password, which in almost all cases are Administrator credentials, give the malware everything it needs to access the keychain information.
+With access to the keychain the sky is the limit, because email account passwords, social network account details, and much more, are all stored in the keychain.
+</text>

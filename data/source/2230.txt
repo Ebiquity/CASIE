@@ -1,0 +1,16 @@
+<title>Edge Security Flaw Allows Theft of Facebook and Twitter Credentials</title>
+<source> https://www.bleepingcomputer.com/news/security/edge-security-flaw-allows-theft-of-facebook-and-twitter-credentials/ </source>
+<date> 2017_05_12 </date>
+<text>
+Argentinean security researcher Manuel Caballero has discovered another vulnerability in Microsoft's Edge browser that can be exploited to bypass a security protection feature and steal data such as passwords from other sites, or cookie files that contain sensitive information.
+The vulnerability is a bypass of Edge's Same Origin Policy (SOP), a security feature that prevents a website from loading resources and code from other domains except its own.
+To exploit the flaw, Caballero says that an attacker can use server redirect requests combined with data URIs, which would allow him to confuse Edge's SOP filter and load unauthorized resources on sensitive domains. The expert explains the attack step by step on his blog.
+In the end, the attacker will be able to inject a password form on another domain, which the built-in Edge password manager will automatically fill in with the user's credentials for that domain. Below is a video of the attack.
+Additionally, an attacker can steal cookies in a similar manner. More demos are available on a page Caballero set up here.
+Two weeks ago, Caballero found another SOP bypass in Edge, which an attacker could also exploit to steal cookies and passwords. That particular exploit relied on a combination of data URIs, meta refresh tag, and domainless pages, such as about:blank.
+Compared to the previous SOP bypass, the technique Caballero disclosed yesterday has the advantage that it's faster to execute compared to the first, which required the attacker to log users out of their accounts and re-authenticate them in order to collect their credentials.
+Caballero has a history of finding severe bugs in Microsoft browsers. He previously also bypassed the Edge SOP using Edge's new Reading Mode, showed how you could abuse the SmartScreen security filter for tech support scams, and found a serious JavaScript attack in Internet Explorer 11 (still unpatched) .
+What's more worrisome is that Microsoft has not patched any of the SOP bypass issues the expert discovered.
+"We have 3 SOP bypasses right now," Caballero told Bleeping Computer today when asked to confirm the status of the three bugs.
+This month's Patch Tuesday, released two days ago, patched the Edge SmartScreen issue Caballero discovered last December, but the researcher found a way to bypass Microsoft's patch within minutes.
+</text>

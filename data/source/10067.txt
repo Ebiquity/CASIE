@@ -1,0 +1,17 @@
+<title> Google and Facebook duped in huge 'scam'   </title>
+<source> https://www.bbc.com/news/technology-39744007 </source>
+<date> 2017_04_28 </date>
+<text>
+Google and Facebook have confirmed that they fell victim to an alleged $100m (£77m) scam.
+In March, it was reported that a Lithuanian man had been charged over an email phishing attack against "two US-based internet companies" that were not named at the time.
+They had allegedly been tricked into wiring more than $100m to the alleged scammer's bank accounts.
+On 27 April, Fortune reported that the two victims were Facebook and Google.
+The man accused of being behind the scam, Evaldas Rimasauskas, 48, allegedly posed as an Asia-based manufacturer and deceived the companies from at least 2013 until 2015.
+"Fraudulent phishing emails were sent to employees and agents of the victim companies, which regularly conducted multimillion-dollar transactions with [the Asian] company," the US Department of Justice (DOJ) said in March.
+These emails purported to be from employees of the Asia-based firm, the DOJ alleged, and were sent from email accounts designed to look like they had come from the company, but in fact had not.
+The DOJ also accused Mr Rimasauskas of forging invoices, contracts and letters "that falsely appeared to have been executed and signed by executives and agents of the victim companies".
+"We detected this fraud against our vendor management team and promptly alerted the authorities," a spokeswoman for Google said in a statement.
+"We recouped the funds and we're pleased this matter is resolved."
+However, the firm did not reveal how much money it had transferred and recouped.
+Nor did Facebook - but a spokeswoman said: "Facebook recovered the bulk of the funds shortly after the incident and has been cooperating with law enforcement in its investigation." 
+</text>

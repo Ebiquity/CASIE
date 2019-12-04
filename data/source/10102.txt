@@ -1,0 +1,21 @@
+<title> SamSam ransomware now demands $33,000 from victims  </title>
+<source> https://www.zdnet.com/article/samsam-ransomware-now-demands-33000-from-victims/ </source>
+<date> 2017_06_26 </date>
+<text>
+	SamSam ransomware attacks are on the rise and operators are demanding more than ever from their victims, researchers have warned.
+Ransomware, a kind of malware which locks infected systems, encrypts files and demands a payment in return for decryption, can be debilitating for businesses. Without access to core networks and systems, many firms and organizations will pay up rather than suffer through disruption which can be far more costly in the long run.
+Consumers also face the same issue, albeit on a personal scale, and while security experts caution that paying up only funds this kind of cybercrime, losing access to your files, photos, and media can be devastating.
+	When payment demands are a few hundred dollars or so, victims may be more inclined to pay the fee. However, the SamSam ransomware is now demanding far more than the average person would be able to raise.
+Written in C#, SamSam is usually installed after an unpatched, known server vulnerability is exploited. It is believed the threat actors behind the ransomware are relatively new to extortion, having spent the last few years gradually scaling up their demands.
+	The ransomware caught the attention of the FBI last year, resulting in two alerts being issued.
+"MSIL or Samas (SAMSAM) was used to compromise the networks of multiple US victims, including 2016 attacks on healthcare facilities that were running outdated versions of the JBoss content management application," the FBI says. "SAMSAM exploits vulnerable Java-based Web servers. SAMSAM uses open-source tools to identify and compile a list of hosts reporting to the victim's active directory." 
+"The actors then use psexec.exe to distribute the malware to each host on the network and encrypt most of the files on the system," the FBI added. "The actors charge varying amounts in Bitcoin to provide the decryption keys to the victim."
+According to AlientVault researchers, the ransomware is more akin to a targeted attack than opportunistic ransomware. After being installed on one machine, the ransomware propagates and spreads to any others in the network. SamSam attacks can result in web shell deployment, batch script usage for running the malware over multiple machines, remote access, and tunneling.
+The ransomware has recently been updated, and will now demand different payments depending on the scope of infection.
+If one machine has been infected, 1.7 Bitcoin (BTC), roughly $4,600, is demanded. If more machines are locked by the ransomware, half will be decrypted for 6 BTC ($16,400), and for all of them, a total of 12 BTC, or $32,800, is demanded.
+	Last week's attacks appear to have been successful, with $33,000 being paid to a Bitcoin wallet associated with SamSam.
+While SamSam is not the most sophisticated kind of ransomware out there, the successful exploit of victims reminds us that this malware is out in the wild. Like so many other kinds of ransomware, however, keeping systems patched and up-to-date can prevent infection.
+	An NYC hospital was forced to either pay $44,000 to SamSam operators or lose access to their systems after a successful infection. However, the organization refused to capitulate to the hacker's demands and instead endured a month of disruption before the hospital's systems were restored.
+Another ransomware variant which has hit the headlines is WannaCry. After striking down hospitals and businesses across the globe, the Windows-based malware is yet to finish its rampage, with an estimated 300,000 victims worldwide.
+</text>
+

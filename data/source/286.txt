@@ -1,0 +1,14 @@
+<title>Cyber Criminals Held Cancer Services Computers for Ransom</title>
+<source> https://www.hackread.com/cancer-services-computers-for-ransom/ </source>
+<date> 2017_01_20 </date>
+<text>
+The executive director of the organization revealed on Tuesday that their computer systems have been infected with a ransomware by cyber criminals who happen to be “an international cyber terrorist organization”.
+Aimee Fant, the Executive Director of Little Red Door, officially revealed its involvement in the agency’s computer system hack in a press release.
+According to their Facebook post, the attack occurred last week on Wednesday night when the hackers attacked the terminal service and backup driver of Cancer Services’ computer systems.
+They managed to access, hack and encrypt the data.
+After carrying out the hack attack, the notorious gang of cyber criminals demanded $43,000 ransom on Thursday.
+The press release also revealed that the perpetrators of the crime were gearing up to threaten the family members of living or deceased “cancer clients, donors and community partners”.
+She further informed that the FBI has been contacted to conduct an “active investigation”.
+It is worth noting that a majority of the agency’s data is stored in cloud storage.
+Perhaps, this is why the organization is not willing to pay the ransom and believes that “all funds raised must go to serving families, all stage cancer patients, late stage care/hospice support and preventative screenings,” instead of cyber criminals.
+</text>

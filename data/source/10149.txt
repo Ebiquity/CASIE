@@ -1,0 +1,19 @@
+<title> Foscam Issues Patches For Vulnerabilities in IP Cameras  </title>
+<source> https://threatpost.com/foscam-issues-patches-for-vulnerabilities-in-ip-cameras/132738/ </source>
+<date> 2018_06_11 </date>
+<text>
+Researchers found three vulnerabilities in Foscam connected security cameras that could enable a bad actor to gain root access knowing only the camera’s IP address.
+Foscam  is urging customers to update their security cameras after researchers found three vulnerabilities in that could enable a bad actor to gain root access knowing only the camera’s IP address.
+The vulnerability trifecta includes an arbitrary file-deletion bug, a shell command-injection flaw and a stack-based buffer overflow vulnerability according to the researchers at VDOO who found the flaws.
+The proof-of-concept attack revolved around a process in the cameras called webService, which receives requests from servers and can be used to verify the user’s credentials, if necessary, and run the handler for the desired API command.
+To launch an attack, an attacker would have to obtain the camera’s IP address or DNS name. Generally if the camera is configured so that it has direct interface to the internet, its address might be exposed to certain internet scanners.
+The PoC attacker then crashed the webService process by exploiting the stack-based buffer overflow vulnerability (CVE-2018-6832).
+After it crashes, the webService process automatically restarts via the watchdog daemon (which restarts important processes after they’re terminated), and during the process reload, an attacker could leverage a second flaw, the arbitrary file-deletion vulnerability (CVE-2018-6830), to delete certain critical files.
+This will result in authentication bypass when the webService process reloads; so that the bad actor is able to gain administrative credentials. From there, an attacker could use the third vuln (CVE-2018-6831) to execute root commands. This bug is a shell command-injection vulnerability that requires administrator credentials.
+“Since the adversary gained administrator credentials in the previous stage, he can now use this vulnerability to execute commands as the root user for privilege escalation,” researchers said.
+The Internet of Things continues to post a significant problem as many connected devices lack proper security controls. The 2016 Mirai botnet attack,  which was orchestrated as a distributed denial of service attack through 300,000 vulnerable IoT  devices like webcams, routers and video recorders, showed just how big of an impact the lack of IoT security has.
+The patches also come after reports of a hacked baby camera emerged last week, when a woman from South Carolina said a stranger hacked into her baby monitor to spy on her and her family. These IoT security incidents show not only that connected products are highly vulnerable to security hacks, but also that such hacks could mean a complete invasion of privacy at the most personal level.
+Foscam, for its part, urged customers to upgrade their cameras as soon as possible, saying that “the latest firmware for Foscam cameras utilizes protection against various types of online hacking and unauthorized access.”
+It added, “Foscam is fully committed to maintaining the safety and integrity of our user experience and will take all action reasonably necessary to ensure the privacy and security of our cameras.”
+</text>
+

@@ -1,0 +1,48 @@
+<title>Russia engineered election hacks and meddling in Europe</title>
+<source> http://www.usatoday.com/story/news/world/2017/01/09/russia-engineered-election-hacks-europe/96216556/ </source>
+<date> 2017_01_11 </date>
+<text>
+Buzz60
+A view of the Kremlin in Moscow on Jan. 6, 2017.
+Russia's alleged use of computer hacking to interfere with the U.S. presidential election fits a pattern of similar incidents across Europe for at least a decade.
+Cyberattacks in Ukraine, Bulgaria, Estonia, Germany, France and Austria that investigators attributed to suspected Russian hackers appeared aimed at influencing election results, sowing discord and undermining faith in public institutions that included government agencies, the media and elected officials.
+Those investigations bolster U.S. intelligence findings of Russian meddling to help elect Donald Trump, a conclusion the president-elect has disputed — although he conceded Friday after a private intelligence briefing that Russia was among the possible hacking culprits.
+“They’ve been very good at using the West’s weaknesses against itself, the open Internet to hack, the free media to sow discord, and to cause people to question the underpinnings of the systems under which they live,” said Hannah Thoburn, a research fellow at the Hudson Institute, a Washington think tank.
+U.S. National Intelligence Director James Clapper told a Senate committee Thursday that Russian intelligence hackers, masquerading as third parties, have conducted attacks abroad that targeted critical infrastructure networks.
+“Russia also has used cyber tactics and techniques to seek to influence public opinion across Europe and Eurasia,” Clapper said.
+A declassified intelligence report on the Russian hacking released Friday accused Russian President Vladimir Putin of ordering the effort to help elect Trump.
+It warned that Russia would use lessons learned from the effort to disrupt elections of U.S. allies.
+USA TODAY
+Intel chiefs: We're certain that Russia tried to influence U.S. election
+In 2007, Putin told the Munich Security Conference that the United States’ effort to spread its form of democracy was an insidious threat to Russia and other nations and that his government would push back.
+Russian sabotage of Western computer systems started that same year.
+In 2007, Estonia accused hackers using Russian IP addresses of a wide-scale denial of service attack that shut down the Internet in the former Soviet republic and one of NATO’s newest members.
+According to The Guardian newspaper, the attacks came in waves that coincided with riots on May 3, 2007, over the statue, whose removal drew objections from Russia and Russian-speaking Estonians, and on May 8 and 9, when Russia celebrated its victory over Nazi Germany.
+They blamed the attacks on a pro-Russia group called CyberBerkut.
+Hudson analyst Thoburn, who was working as an election observer in Ukraine at the time, said the Ukrainians were able to get around it by deleting their entire system and restoring it from a backup that was not contaminated.
+Ukrainian officials have also accused Russia of being behind a power grid attack in December 2015 that cut power to 80,000 in western Ukraine.
+In overt actions against Ukraine, Russia seized the province of Crimea in 2014 and helped armed separatists launch a rebellion in eastern Ukraine.
+German intelligence in 2015 accused Russia of hacking at least 15 computers belonging to members of Germany’s lower house of parliament, the Bundestag, and stealing data.
+Germany’s Federal Office for the Protection of the Constitution (BfV) said the attack was conducted by a group called Sofacy, which “is being steered by the Russian state."
+BfV chief Hans-Georg Maassen told Reuters in November that Moscow has tried to manipulate the media and public opinion through various means, including planting false stories.
+One in 2015 by Russian media was about a German-Russian girl kidnapped and raped by migrants in Berlin.
+German Chancellor Angela Merkel said she could not rule out Russian interference in Germany's 2017 federal election through Internet attacks and disinformation campaigns.
+The country's Central Election Commission had been hacked during a referendum and local elections in 2015 that was almost certainly linked to Russia and a group that had hacked NATO headquarters in Brussels in 2013, then-President Rosen Plevneliev told the BBC in November.
+"The same organization that has attacked the (German Parliament) — stealing all the emails of German members of Parliament — the same institution that has attacked NATO headquarters, and that is the same even that has tried to influence American elections lately and so in a very high probability you could point east from us” (to Moscow), Plevneliev said.
+A pro-Russian political novice was elected in November to replace Plevneliev.
+The Vienna-based Organization for Security and Cooperation in Europe, whose tasks include monitoring elections across Europe and the conflict in eastern Ukraine, was attacked in “a major information security incident” in November, spokeswoman Mersiha Causevic Podzic said.
+The incident “compromised the confidentiality” of the organization’s IT networks, Podzic said.
+The French daily Le Monde, which first reported the incident, cited a Western intelligence agency attributing the attack to the Russia-linked group APT28, aka Fancy Bear, and Sofacy.
+Russia, a member of the OSCE, has objected to the group’s criticism of Russian-backed forces battling the Ukrainian government in eastern Ukraine.
+Russian hackers posing as the “Cyber Caliphate” were suspected of attacking France’s TV5Monde television channel in 2014, causing extensive damage to the company’s computer systems, FireEye, a cyber security firm that examined the attack, told BuzzFeed.
+The attack involved posting of Islamic State propaganda, but appeared to use the same servers and have other similarities with Russian-linked APT28, the group that is a suspect in attacks on the Democratic National Committee, the OSCE and several other European countries.
+“APT28 focuses on collecting intelligence that would be most useful to a government,” FireEye said.
+“Specifically, since at least 2007, APT28 has been targeting privileged information related to governments, militaries and security organizations that would likely benefit the Russian government”.
+The security chief of France's ruling Socialist Party recently warned that the country's presidential election this spring is at risk of being hacked.
+Hackers in 2014 attacked the Warsaw Stock Exchange and at least 36 other Polish sites, stealing data and posting graphic images from the Holocaust.
+The group that claimed responsibility, CyberBerkut, is the same Russian-linked group that attacked Ukrainian sites.
+The group, posing as Islamic radicals, stole data and released dozens of client log-in data, causing mayhem for the exchange, according to Bloomberg News.
+Dan Wallach, a computer scientist at Rice University who testified about election computer security on Capitol Hill in September, said definitive proof of who conducted an attack would reveal methods and sources who would be lost or killed if exposed.
+“You’re never going to have definitive attribution,” Wallach said in an interview.
+“The proof is some crazy top secret thing and not for public dissemination”.
+</text>

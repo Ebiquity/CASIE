@@ -1,0 +1,16 @@
+<title> Windows 10 security: Microsoft patches critical flaw in Windows Defender </title>
+<source> https://www.zdnet.com/article/windows-10-security-microsoft-patches-critical-flaw-in-windows-defender/ </source>
+<date> 2018_04_04 </date>
+<text>
+Microsoft has rolled-out security updates to fix a critical remote code execution flaw affecting Windows Defender and other anti-malware products.
+Ahead of April's Patch Tuesday, Microsoft has released patches for the critical flaw, which affects Microsoft Malware Protection Engine, or mpengine.dll, the core of Windows Defender in Windows 10.
+"An attacker who successfully exploited this vulnerability could execute arbitrary code in the security context of the LocalSystem Account and take control of the system," warns Microsoft.
+"An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights."
+Google Project Zero researcher Thomas Dullien, aka Halvar Flake, discovered that attackers can trigger a memory-corruption issue in the engine if they can get Windows Defender and other affected security products to scan a specially-crafted file.
+Microsoft warns there are many ways an attacker could achieve this, including placing the file on a website, in an email or instant message, on any site that hosts files, or in a shared directory.
+As with similar vulnerabilities reported last year by the UK's National Cyber Security Centre (NCSC) and Project Zero, an attack would be instant if the affected antivirus has real-time protection enabled.
+
+Although the patch is being released before Microsoft's monthly security update, the bug, CVE2018-0986, is not an out-of-band patch as Microsoft updates the engine as needed.
+Microsoft also notes that the default configuration for Microsoft's anti-malware products in the enterprise is to automatically receive updates. 
+</text>
+

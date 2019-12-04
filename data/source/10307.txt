@@ -1,0 +1,24 @@
+<title> 4 of the most common email scams to be aware of this Safer Internet Day </title>
+<source> https://www.irishexaminer.com/breakingnews/technow/4-of-the-most-common-email-scams-to-be-aware-of-this-safer-internet-day-826608.html </source>
+<date> 2018_02_06 </date>
+<text>
+Email is great for keeping in touch with friends and family and quickly conversing with colleagues but it’s not without its pitfalls.
+Scammers approach people via email to encourage them to hand over private or sensitive information about themselves or the company they work for.
+“The most prevalent threats we see targeting consumers today are phishing attacks predominantly via email, where scammers try to trick people into sharing private information or access to money,” Jessica Brookes, director of EMEA consumer at McAfee, told the Press Association.
+“The first thing you should know about phishing is that it almost always involves a form of ‘social engineering’, in which the scammer tries to manipulate you into trusting them for fraudulent purposes, often by pretending to be a legitimate person or business. Secondly, if an email doesn’t seem legitimate, it probably isn’t; it’s always better to be safe than sorry.”
+Here are four of the most popular scams circulating today:
+1) The CEO Scam 
+This scam appears as an email from a leader in your organisation, asking for highly sensitive information like company accounts or employee salaries. The hackers fake the boss’s email address so it looks like a legitimate internal company email.
+That’s what makes this scam so convincing – the lure is that you want to do your job and please your boss. But keep this scam in mind if you receive an email asking for confidential or highly sensitive information, and ask the apparent sender directly whether the request is real, before responding.
+2) The Lucky Email
+How fortunate! You’ve won a free gift, an exclusive service, or a great deal on a trip abroad. Just remember, whatever “limited time offer” you’re being sold, it’s probably a phishing scam designed to get you to give up your credit card number or identity information. The lure here is something free or exciting at what appears to be little or no cost to you.
+3) The Urgent Email Attachment
+Phishing emails that try to trick you into downloading a dangerous attachment that can potentially infect your computer and steal your private information have been around for a long time. This is because they work.
+You’ve probably received emails asking you to download attachments confirming a package delivery, trip itinerary or prize. They might urge you to “respond immediately”. The lure here is offering you something you want, and invoking a sense of urgency to get you to click.
+4) The Romance Scam
+This one can happen completely online, over the phone, or in person once initial contact is established. But the romance scam always starts with someone supposedly looking for love. The scammer often poses as a friend-of-a-friend via email and contacts you directly.
+But what starts as the promise of love or partnership, often leads to requests for money or pricey gifts.
+The scammer will sometimes spin a hardship story, saying they need to borrow money to come visit you or pay their phone bill so they can stay in touch. The lure here is simple – love and acceptance.
+Brookes added: “It is everyone’s responsibility to be aware and educate each other – we need to share knowledge and collaborate to protect ourselves against the current threats we face as people living in a connected world.”   
+</text>
+

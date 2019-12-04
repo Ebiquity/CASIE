@@ -1,0 +1,32 @@
+<title> 
+Shock as Lloyds fraud chief admits scam texts sent by criminals posing as a bank are so sophisticated even HE can't tell if they are genuine  </title>
+<source> https://www.dailymail.co.uk/news/article-6220653/Lloyds-fraud-chief-admits-tell-fraud-texts-genuine.html </source>
+<date> 2018_09_23 </date>
+<text>
+A fraud chief at Britain’s biggest bank has admitted scam texts are now so sophisticated even he sometimes cannot tell if they are genuine.
+Paul Davis, retail fraud director at Lloyds Banking Group, told Money Mail criminals can mimic the exact format of messages – which appear as though they are sent from a bank’s number using a technique called ‘spoofing’.
+With fake banking texts now so difficult to spot, Mr Davis said customers should be taught how to respond to them to avoid being lured into a scam.
+He added: ‘It’s the new “don’t talk to strangers”. 
+'We teach children how to cross the road and we also need to teach everyone how to be aware of and stay safe from scams. 
+It’s the new basic life safety advice we all need to know.’
+Mr Davis said the key to avoiding falling for scams was to treat all messages with caution. 
+‘It’s about what you say when you reply,’ he said. ‘Don’t ever give out your bank details and never give more than a simple answer like yes or no.’
+The context of messages could be crucial, he explained. For example, when shopping online, if a customer is texted at the same time to confirm they intended to make this exact purchase, it is more likely to be genuine. 
+But if a person receives a text out of the blue saying they have made a payment and can they confirm the purchase, it is more likely to be a scam.
+Mr Davis accepted it was hard to know what messages to trust because even genuine ones can appear suspicious if they come from a variety of numbers.
+‘If in doubt, don’t reply and ring the number on the back of your card,’ he said.
+Customers were also warned never to click on links in texts or open email attachments claiming to be from the bank, as this could download malware which can spy on their phone or computer to find out their password. 
+The Daily Mail is campaigning for fairer treatment for customers who fall prey to so-called authorised push payment fraud – sophisticated scams where victims are tricked into transferring money.
+In the first six months of this year alone, around £145million was lost to this crime – of which only £31million was refunded.
+There is currently no obligation on banks to reimburse customers who authorise payment in this type of fraud – and many say the victim is to blame for allowing the transaction to go through.
+But consumer campaigners argue most scams are now so sophisticated even the savviest customers can fall for them.
+Mr Davis said Lloyds examined each case on an individual basis and ‘often’ refunded victims as a gesture of goodwill. 
+He said: ‘The key to stopping this type of fraud is working together. There’s a shared responsibility. The bank needs to do things to protect its customers but the victim also needs to take steps to protect themselves.’
+He added: ‘Helping keep our customers’ money safe is our priority and we fully support Money Mail’s campaign.’
+Yesterday, new rules were announced proposing greater protection for scam victims, in a victory for the Mail’s campaign.
+The guidelines say banks must flash up warnings if a customer is making a questionable transfer and should carry out greater checks to ensure they are paying who they think they are. 
+Banks should also delay payments if they are concerned they may be fraudulent and refund vulnerable victims, such as those who have been recently bereaved – even if the bank was not at fault.
+But there was no agreement on who should bankroll the cost of refunds for victims – and some campaigners criticised the code for not going far enough.
+The voluntary agreement between most banks and consumer groups follows an eight-month consultation by a steering group appointed by the Payment Systems Regulator, following a super-complaint by consumer group Which?
+</text>
+

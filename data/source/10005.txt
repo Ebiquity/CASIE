@@ -1,0 +1,16 @@
+<title>Eurostar forces all customers to reset passwords after data breach</title>
+<source> https://www.telegraph.co.uk/technology/2018/10/30/eurostar-forces-customers-reset-passwords-data-breach/ </source>
+<date> 2018_10_30 </date>
+<text>
+Eurostar has forced all of its customers to reset their passwords after detecting an "unauthorised attempt" to hack into its systems and access their accounts. 
+Customers reported receiving an email on Tuesday stating that the company had identified an attempt to access eurostar.com accounts using users' email and passwords between the 15 and 19 of October. 
+Eurostar confirmed that credit card details and payment details were not compromised because the company does not store that information online. 
+Eurostar has yet to confirm how many people have been affected by this data breach or whether any data has been taken. 
+The company has reported the data breach to the Information Commissioner's Office.
+"We have taken this action as a precaution because we identified what we believe to be an unauthorised automated attempt to access eurostar.com accounts using your email address and password," the company told customers. 
+"We've since carried out an investigation which shows that your account was logged into between the 15 and 19 October. If you didn't log in during this period, there's a possibility your account was accessed by this unauthorised attempt."
+Customers were told to check their accounts for "anything unusual" and update login details on any other site where they use the same password.
+A Eurostar spokesman said: "This email was sent after we identified what we believe to be an unauthorised automated attempt to access customer accounts, so as a precaution, we asked all account holders to reset their password. We deliberately never store any payment details or bank card information, so there is no possibility of those being compromised."
+An ICO spokesman said: “We’ve received data breach report from Eurostar and are making enquiries.”
+Last week, British Airways revealed that almost 200,000 further passengers may have had their personal data stolen by hackers in the September attack in what experts described as one of the biggest breaches of consumer data the UK had ever seen. 
+</text>

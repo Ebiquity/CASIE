@@ -1,0 +1,14 @@
+<title>N-day Nvidia, Android driver security flaw details revealed | ZDNet</title>
+<source> http://www.zdnet.com/article/nvidia-android-driver-n-day-security-flaws-revealed/ </source>
+<date> 2017_04_26 </date>
+
+<text>
+The technical details of security vulnerabilities impacting the Nvidia Video and an Android driver have been revealed by Zimperium, which acquired the flaws as part of an exploit acquisition program.
+On Tuesday, Zimperium zLabs researchers published a blog post detailing the security flaws, two escalation of privilege bugs found within the NVIDIA Video driver and MSM Thermal driver.
+The Nvidia bug, CVE-2016-2435, impacts Android 6.0 on the Nexus 9 handset. The problem arises when attackers craft an application to tamper with read/write memory values and force privilege escalation.
+The second security flaw, CVE-2016-2411, involves a Qualcomm power management kernel driver, the MSM Thermal driver, in Android version 6. If an attacker crafts a malicious application, they can give themselves root access through an internal bug in the driver, leading to privilege escalation.
+These bugs are well documented, known, and for the most part security updates have been issued. However, Zimperium says that making the technical details available of these so-called "N-day" flaws is important and can act as a catalyst to boost the speed of patch production and to iron out problems arriving between a patch being created and vendors distributing the update in good time.
+In February, Zimperium launched an N-day acquisition program which is only interested in known security problems, rather than unknown and unpatched zero-days. Over the next year, the exploit purchaser is budgeting a total of $1.5 million to pick up the details on these exploits.
+Once a bug has been discovered and a fix is being worked on, an N-day exploit indicates a time of one or more days in which user systems can be compromised until a security update is issued.
+"By focusing on N-days, or patched vulnerabilities, Zimperium is applying pressure on the mobile ecosystem to re-think how and when users receive security updates," the company said at the time. "[The] program will reward the hard work of researchers who wouldn't otherwise receive compensation for an N-day exploit."
+</text>

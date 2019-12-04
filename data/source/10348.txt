@@ -1,0 +1,12 @@
+<title> Cloquet School District Again Targeted by a Ransomware Attack  </title>
+<source> https://www.spamfighter.com/News-21734-Cloquet-School-District-Again-Targeted-by-a-Ransomware-Attack.htm </source>
+<date> 2018_08_29 </date>
+<text>
+Cloquet school district has been hit by a ransomware attack second time in the past three years. The ransomware is a virulent computer malware, which attacks by spreading from one computer to another and locking up the access to the network servers. The ransomware also encrypts the documents and then demands ransom for providing a key to unlock encrypted files.
+In March 2016, the previous occasion when the ransomware attacked, the district cancelled the school for one day so as to let the technology staff have time for recovering from the malware. During that attack, the district servers as well as over 600 computers got infected badly.
+The current attack took place during the summer vacation, and was not as harmful as of last time. As per staff report from T.J. Smith, Cloquet School District Technology Director, the virus has encrypted files available on all the servers except one, this included the network shared drives. However, the attack does not indicate stealing of any information. The virus only encrypted the files, so that the users were not able to open them.
+Board members of Cloquet School were explained by Smith on 13 Aug, 2018, that the district only was left with two options other than succumbing to the demands of ransom by the hacker - one, trying to recover data with a probability that the data may not be retrieved and then it would be a complete waste of money and time. The second option was to plan out the way of recreating the data and rebuilding the affected servers.
+Smith, however, advocated for second option as the data lost was not so important and the insurance will help in paying out for recovering the infected servers. Unanimously, the board members also voted for second option, which is recreating the data and rebuilding the affected servers. Besides, the board members suggested hiring a "forensic" company to investigate on the ransomware attack and determine the source from where the virus has entered.
+On a brighter side, Smith revealed that the technology staffs have been able to recover some of the lost data, and they are also capable of recreating the data that is unrecoverable. He also commented that the process of recovery will not at any cost affect the commencement of the school session in the month of September.
+</text>
+

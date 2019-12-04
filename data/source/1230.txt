@@ -1,0 +1,28 @@
+<title>DoubleAgent attack uses built-in Windows tool to hijack applications - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/22/windows-doubleagent-attack/ </source>
+<date> 2017_03_23 </date>
+<text>
+Security researchers from computer and network security outfit Cybellum have revealed a new zero-day code injection and persistence technique that can be used by attackers to take over applications and entire Windows machines.
+They demonstrated the attack on antivirus solutions, and ultimately dubbed it DoubleAgent, as it turns the antivirus security agent into a malicious agent.
+“DoubleAgent exploits a legitimate tool of Windows called ‘Microsoft Application Verifier’ which is a tool included in all versions of Microsoft Windows and is used as a runtime verification tool in order to discover and fix bugs in applications,” the company explained.
+“Our researchers discovered an undocumented ability of Application Verifier that gives an attacker the ability to replace the standard verifier with his own custom verifier.
+An attacker can use this ability in order to inject a custom verifier into any application.
+Once the custom verifier has been injected, the attacker now has full control over the application”.
+In fact, the attack can be used to compromise all kinds of applications, but the researchers chose to focus on antivirus solutions since this type of software is generally considered to be trusted.
+“By using DoubleAgent, the attacker can take full control over the antivirus and do as he wish without the fear of being caught or blocked,” they noted.
+This includes:
+Cybellum researchers demonstrated a DoubleAgent code injection against Symantec Norton antivirus, and offered PoC exploit code on GitHub.
+More technical details about the DoubleAgent technique can be found here.
+The researchers have notified major antivirus vendors of their findings, and some of them (Malwarebytes, AVG) have already issued a patch for the vulnerability.
+Among the still vulnerable antivirus apps are those by Avast, BitDefender, ESET, Kaspersky, and F-Secure.
+“Microsoft has provided a new design concept for antivirus vendors called Protected Processes.
+The new concept is specially designed for antivirus services.
+Antivirus processes can be created as ‘Protected Processes’ and the protected process infrastructure only allows trusted, signed code to load and has built-in defense against code injection attacks,” the researchers explained.
+“This means that even if an attacker found a new zero-day technique for injecting code, it could not be used against the antivirus as its code is not signed.
+Currently no antivirus (except Windows Defender) has implemented this design, even though Microsoft made this design available more than 3 years ago”.
+The vulnerability that allows the DoubleAgent attack works on all Microsoft Windows versions and architectures.
+The attack technique can be used to take over any application, and even the OS.
+“We need to make more efforts to detect and prevent these attacks, and stop blindly trusting traditional security solutions,” the researchers noted.
+We implemented the fix at the time of reporting and therefore can confirm that both the Avast and AVG 2017 products, launched earlier this year, are not vulnerable.
+It is important to note that the exploit requires administrator privileges to conduct the attack which is difficult for hackers to achieve.
+</text>

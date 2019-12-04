@@ -1,0 +1,8 @@
+<title>FIN10: Anatomy of a Cyber Extortion Operation « FIN10: Anatomy of a Cyber Extortion Operation | FireEye Inc</title>
+<source> https://www.fireeye.com/blog/threat-research/2017/06/fin10-anatomy-of-a-cyber-extortion-operation.html </source>
+<date> 2017_06_16 </date>
+<text>
+FireEye has identified a set of financially motivated intrusion operations being carried out by a threat actor we have dubbed FIN10. FIN10 is known for compromising networks, stealing sensitive data, and directly engaging victim executives and board members in an attempt to extort them into paying between 100 and 500 bitcoins (valued at between $125,000 and $620,000 as of mid April 2017).
+For some victims that did not give into the demand, FIN10 escalated their operation and destroyed critical production systems and leaked stolen data to journalists in an attempt to increase visibility of the compromise and coerce victims into paying up.
+The first known FIN10 operation was in 2013 and their operations have continued until at least 2016. To date, we are primarily aware of Canadian victims – specifically casinos and mining organizations. Given the release of sensitive victim data, extortion, and destruction of systems, FireEye considers FIN10 to be one of the most disruptive threat actors observed in the region so far.
+</text>

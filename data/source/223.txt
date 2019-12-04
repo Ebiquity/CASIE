@@ -1,0 +1,19 @@
+<title>Cerber Ransomware Distributed By A New RIG Campaign</title>
+<source> http://virusguides.com/cerber-ransomware-distributed-new-rig-campaign/ </source>
+<date> 2017_01_17 </date>
+<text>
+A brand new RIG campaign has been registered over the past few days.
+According to Heimdal Security, it’s been targeting the old versions of popular applications such as Internet Explorer, Microsoft Edge, or Flash, in order to distribute the Cerber ransomware.
+The campaign involves a number of malicious domains to launch drive-by attacks against unsuspecting visitors and relies on their failure to update applications regularly.
+Nevertheless, according to Heimdal Security, just the outdated versions of Internet Explorer, Silverlight, Flash Player, and Microsoft Edge are targeted.
+Heimdal Security also claims that RIG attempts to exploit one of 8 vulnerabilities in Internet Explorer, Silverlight, Flash Player, and Microsoft Edge, including CVE-2015-8651 (CVSS Score: 9.1), CVE-2015-5122 (CVSS Score: 10, affects nearly 100 Flash versions), CVE-2016-4117 (CVSS Score: 10), CVE-2016-1019 (CVSS Score: 10), CVE-2016-7200 and CVE-2016-7201 (both CVSS Score: 7.6, affecting Microsoft Edge), CVE-2016-3298 (CVSS Score: 3.6, affects Internet Explorer versions 9, 10, 11), and CVE-2016-0034 (CVSS Score: 9.3).
+After infecting the victim’s PC, the exploit kit continues downloading and installing the Cerber ransomware.
+This is one of the most dangerous infections developed to encrypt user’s files and demand a ransom for the decryption key.
+According to security researchers, the RIG exploit kit version which was noticed in this campaign is the Empire Pack version (RIG-E), while the abused domains are part of the so-called Pseudo-Darkleech gateway.
+Last month, the gate was registered dropping Cerber as well.
+In the past, it was used to distribute some other types of ransomware.
+The Heimdal Security experts state that the only thing which users must do to ensure increased protection is to keep their software updated at all times.
+Long said to be essential to good security, applying security updates in a timely manner is at the heart of prevention when it comes to exploit kit attacks.
+“As you can see, cybercriminals often use vulnerabilities already patched by the software developer in their attacks, because they know that most users fail to apply updates when they’re released.
+In spite of the wave of attacks, many Internet users still choose to ignore updates, but we hope that alerts such as this one will change their mind and make them more aware of the key security layer that updates represent,” the Heimdal Security evangelist Andra Zaharia states.
+</text>

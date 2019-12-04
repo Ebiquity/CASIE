@@ -1,0 +1,17 @@
+<title> Tumblr patches bug that could have exposed user data </title>
+<source> https://www.welivesecurity.com/2018/10/18/tumblr-patches-bug-could-exposed-user-data/ </source>
+<date> 2018_10_18 </date>
+<text>
+ Tumblr has fixed a vulnerability that it says could have exposed private user data, according to an announcement by the microblogging and social networking site.
+The information that could have been viewed by unauthorized parties includes email addresses, hashed and salted passwords, locations, previously used email addresses, and last login IPs.
+The flaw resided in the “Recommended Blogs” feature in the desktop version of Tumblr. The widget shows logged-in users a list of blogs that may be of interest to them.
+“If a blog appeared in the module, it was possible, using debugging software in a certain way, to view certain account information associated with the blog,” said Tumblr.
+Discovered and reported through the platform’s bug bounty program several weeks ago, the security vulnerability was resolved within 12 hours.
+The New York-based company also said that it couldn’t determine which specific accounts were at risk, although its analysis is said to have shown that “the bug was rarely present”.
+The site, which has over 440 million blogs, gave assurances to its users that it has found no evidence to suggest that any data was actually lifted.
+At the same time, the platform said that users needn’t take any action. In these cases, “taking action” usually means “Change your passwords!”
+Nevertheless, the company’s decision to disclose the flaw is because of what Tumblr says is its commitment to transparency and because it believes that “it’s simply the right thing to do”. It has also taken steps to “improve monitoring and analysis procedures to help it identify and fix any similar bugs in the future”.
+Tumblr has joined the ranks of other high-profile technology companies, such as Twitter, Facebook and Google, that have all revealed vulnerabilities in recent weeks that could have been exploited, or were actually exploited, for harvesting the private information of some users.
+Back in 2016, Tumblr had its hands full with a security incident that compromised the details of 65 million Tumblr users as a result of a breach dating back to 2013.
+</text>
+

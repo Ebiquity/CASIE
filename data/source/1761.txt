@@ -1,0 +1,17 @@
+<title>Foodie social network Allrecipes warns that someone stole users' email addresses and passwords</title>
+<source> https://www.grahamcluley.com/foodie-social-network-allrecipes-warns-someone-stole-users-email-addresses-passwords/ </source>
+<date> 2017_04_19 </date>
+<text>
+Allrecipes, the self-described "food-focused social network", has sent an email out to some of its users warning that their email addresses and passwords may have been intercepted by an unknown third-party.
+In the email, the site warns that users who registered an allrecipes.com account or logged on as a registered member of the site prior to June 2013 (yes, that's almost four years ago), may have had their email address and password stolen.
+Part of the email reads as follows:
+We recently determined that the email address and password typed into allrecipes.com by members when they created or logged into their accounts prior to June 2013 may have been intercepted by an unauthorized third party. Based on information available to us, we cannot determine with certainty who did this or how this occurred. Our best analysis is that email addresses and allrecipes.com passwords were intercepted during account registration or login by our members.
+To its credit, the site has advised affected users to change their Allrecipes password, and ensure that they are not using the same password anywhere else on the net:
+Out of an abundance of caution, we recommend that all members who registered or logged into allrecipes.com prior to June 2013 promptly change their password. We are taking other steps as well and will continue to work diligently to deter unauthorized activity.
+You should promptly change your password on allrecipes.com and on any other sites for which you use the same username and password. 
+From what I have seen, Allrecipes has only mentioned the breach when asked direct questions about it via Twitter. How hard would it have been to post a link to an advisory on the front page of its website, and tweet out a link to it?.
+Clearly plenty of questions remain about how this security breach might have happened, and Allrecipes' response to it.  But at the very least I would have been pleased to see them be more transparent with their users.
+The data breach has, understandably, left an unpleasant taste in the mouths of affected users - some of whom turned to Twitter to express themselves.
+That Twitter user is correct.  It's not just a problem that their password has been exposed.  Passwords, after all, can be changed fairly easily and if you're only using it one place than the risks are, at least, reduced.
+Most users, however, only have one email address and aren't keen to change them that often.  A hacker who has stolen your email address and password may not only attempt to use those credentials to unlock other online accounts you own, but might also monetise their theft by launching spam or phishing attacks against your inbox.
+</text>

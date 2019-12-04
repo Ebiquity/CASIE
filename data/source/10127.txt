@@ -1,0 +1,15 @@
+<title> Fake Minecraft Mods in Google Play Rack Up Nearly a Million Downloads   </title>
+<source> https://www.infosecurity-magazine.com/news/fake-minecraft-mods-in-google-play/ </source>
+<date> 2017_03_23 </date>
+<text>
+Fake “mods” for Minecraft, the wildly popular pixelated sandbox game for kids, have turned up in Google Play.
+Mods, short for modifications, are add-ons for games that change the functionality or add additional levels or features. There are many, many legitimate mods out there for all kinds of games, including Minecraft. But in this case, a bevy rogue apps offer more sinister changes. Android gamers that fall for them will find themselves bombarded with aggressive ads and scam activity, according to ESET.
+ESET said that players have been exposed to 87 fake mods, and up to 990,000 users have installed them. These fall into two buckets: Ad-displaying downloaders (there are so far 14 of these that ESET has uncovered, with 80,000 installs and counting), and fake apps redirecting users to scam websites (73 apps and 910,000 installs).
+The downloaders are for now merely plying unfortunate users with in-your-face ads. But that could easily change.
+“Since [this] is able to download any sort of additional malware to the victim’s device, there is no reason to believe malware authors would stop at only displaying unwanted ads,” researchers noted. “Seeing they can lure thousands of users into installing their deceptive applications, more dangerous threats distributed under similar disguise might be the next logical step.”
+As for the latter, “once launched, the apps display a screen with a download button,” ESET researchers said. “Clicking the button does not download any mods; instead, it redirects the user to a website opened in a browser and displays all kinds of obtrusive content.”
+In terms of how to tell the mod from the con, reviews are, as usual, a handy barometer: The downloader versions for instance are spamming victims with ads, so poor reviews are the norm. Mobile security products should also detect the malicious apps prior to download.
+This isn’t the first time the bad guys have targeted Minecraft—it is, after all, a pop culture phenomenon for elementary school kids and tweens. In 2015, ESET researchers discovered more than 30 fake applications in Google Play, which pretended to be cheats for the popular world-building-with-pixels game. And in 2014, a trojanized version of the Android Minecraft PE app was found being sold at half the official price through third party Russian app stores.
+To clean a device of the downloaders, ESET said that users must first deactivate device administrator rights for both the app and the downloaded module (found under Settings -> Security -> Device administrators). Then, users can uninstall the apps by going to Settings -> Application Manager. For the scam app, victims can just uninstall the app in Settings -> Application Manager.
+</text>
+

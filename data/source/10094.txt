@@ -1,0 +1,22 @@
+<title> Don't pay WannaCry demands, cybersecurity experts say   </title>
+<source> https://www.theguardian.com/technology/2017/may/15/dont-pay-ransomware-demands-cybersecurity-experts-say-wannacry </source>
+<date> 2017_05_15 </date>
+<text>
+In wake of last week’s ransomware attack, technology specialists warn that ‘paying money to a criminal is never a good idea’
+Cybersecurity experts have warned businesses against meeting hackers’ demands for money in the wake of the “unprecedented” attack on hundreds of thousands of computer systems around the world.
+Ransomware is a type of malicious software that blocks access to a computer or its data and demands money to release it. The worm used in Friday’s attack, dubbed WannaCry or WanaCrypt0r, encrypted more than 200,000 computers in more than 150 countries for ransoms of $300 to $600 to restore access.
+The full damage of the attack and its economic cost was still unclear, but Europol’s director, Rob Wainwright, said its global reach was precedented, and more victims were likely to become known in the coming days.
+The extent of the WannaCry attack prompted questions about what to do in the event of a ransomware infection, with many experts advising against paying the ransom, saying not only could it fail to release the data, it could expose victims to further risk.
+Peter Coroneos, the former chief executive of the Internet Industry Association and an expert on cyber policy, said whether or not to agree to ransomware demands presented practical and ethical dilemmas.
+“These people are criminals, and paying money to a criminal is never a good idea. However, if it’s a trade-off between losing your lifetime’s family photos and making a payment to a criminal, then it’s up to the individual to make that judgment call.
+“It would be very hard to walk away.”
+But Gregory said it would be “self-defeating” for hackers not to release data upon receipt of a ransom, “because that would immediately hit the media, and no one would pay”.
+But not all ransomware attacks were motivated by financial gains, he added.
+“If they’re a professional criminal organisation, their business model will be to release people’s computers once they’ve paid the money, but you don’t know. It could be someone having a laugh, or someone who’s trying to learn, or someone who’s released it accidentally.
+“You just do not know – that’s the problem.”
+With such attacks hitting computer systems at an “ever-increasing rate”, Gregory said prevention was the best course of action.
+With outdated operating systems “easy targets”, he urged individuals and businesses to automate updates and invest in software that protected against viruses, malware and ransomware across not only their computers, but tablets and mobile phones as well.
+“It’s a combination of factors that will keep people safe ... For individuals, families have got to work together and companies have to take the time to ensure that their cybersecurity practices are up to date.”
+Gregory recommended regular if not daily backups of personal data, which would allow victims to wipe the infected computer, reload their data, and start again.
+</text>
+

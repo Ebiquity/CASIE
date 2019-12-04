@@ -1,0 +1,24 @@
+<title>Hacker claims our private cell number on Facebook may not be so private</title>
+<source> https://www.hackread.com/facebook-privacy-settings-phone-numbers/ </source>
+<date> 2017_01_18 </date>
+<text>
+De Ceukelaire has discovered that he can exploit Facebook to obtain cell phone numbers of users; which they want to remain hidden.
+According to De Ceukelaire, he can easily identify the cell phone numbers of well-known personalities including top politicians and “Flemish” celebs simply through checking out their Facebook profile.
+This is done by analyzing the numbers that are associated with their profiles.
+It must be noted that these numbers are supposed to be confidential information and aren’t viewable by the public.
+Must Read: Hacking Facebook Account by Knowing Account Phone Number
+Reportedly, De Ceukelaire proved his claim by obtaining the cell number of Jan Jambon, the Interior Minister for Belgium, through his Facebook profile.
+He further stated that: “For clarity, I could find out his number on his account, not vice versa; roughly, I think you get the number 20 percent of the Flemish people can find that way.
+Of all the people who have their mobile number linked to their profile goes to the 80 percent”.
+De Ceukelaire already warned the Facebook security team twice about this issue and stated that he might expose it to the public if the social network does not fix the issue and make necessary changes.
+However, according to Facebook’s representatives, this isn’t a vulnerability that has been exploited but a feature.
+He also notified law enforcement authorities about the exploitable aspect of this feature.
+“If the users enter their private phone numbers and don’t lock them down in the privacy settings section, chances of a privacy leak are quite bright”.
+Facebook informed De Ceukelaire about how to control the searching criteria, that is, who can search for you through your phone number or email address but De Ceukelaire asserts that this is a privacy leak because phone numbers are visible to the public while these are supposed to remain confidential.
+This problem was identified way back in 2012 because the cell number’s setting could not be set to visible by “Only Me”.
+Facebook did make some modifications in its privacy settings feature, due to which only a limited number of reverse lookups would come from a particular IP address.
+This happened after a security researcher managed to access thousands of random phone numbers.
+But, it is apparent that the problem hasn’t been fixed even today.
+It is worth noting that De Ceukelaire didn’t release details about how he managed to exploit Facebook to conduct this privacy leak and whether he used any different method than previous security researchers or not.
+But, yet again Facebook is paying no heed to his pleas of getting this feature fixed and he has been given the same ‘Feature not Flaw’ reply this time as well.
+</text>

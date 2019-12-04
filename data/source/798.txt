@@ -1,0 +1,23 @@
+<title>Avast Exposes Internet of Things Attack Risk in Barcelona, Home of Mobile World Congress 2017 | Business Wire</title>
+<source> http://www.businesswire.com/news/home/20170227005485/en/Avast-Exposes-Internet-Attack-Risk-Barcelona-Home </source>
+<date> 2017_02_28 </date>
+<text>
+Half a million smart devices including webcams and baby monitors in the city are currently vulnerable to cyber attack.
+BARCELONA, Spain--(BUSINESS WIRE)--Avast, the leader in digital security products for consumers and businesses, today reveals the findings from its latest research experiment into smart devices, including public and private webcam vulnerabilities in Spain, and, specifically, in Barcelona.
+Avast identified more than 22,000 webcams and baby monitors in the city that are vulnerable to attack, which means that cybercriminals could livestream the videos directly to the internet.
+The findings identified more than 493,000 smart devices in Barcelona and 5.3 million in Spain overall – including smart kettles, coffee machines, garage doors, fridges, thermostats and other IP-connected devices – that are connected to the internet and vulnerable to attacks.
+As webcams and other devices are vulnerable, there are a range of security, legal and privacy concerns to be addressed.
+Snoopers could easily access and watch Mobile World Congress visitors and Barcelona residents in private and public spaces, and stream the video directly to the internet, or turn the device into a bot.
+When a device is infected, it can also be used to infect other devices, to add them to a botnet, or to take control over them and do harm to their owner.
+This includes kitchen and other household devices, to which cybercriminals can give remote orders, for example, to heat up water in a kettle.
+Smart device manufacturers also collect and store private user data, including behavioral data, contact information, and credit card details, which poses an additional risk if intercepted by cybercriminals.
+And while the problem is in no way confined to Barcelona, Spain, or indeed to webcams, it is particularly challenging for the city as it is hosting thousands of mobile and technology industry executives at Mobile World Congress 2017 this week.
+In the experiment, Avast found:Conducted in partnership with IoT search engine specialists Shodan.io, the experiment proves just how easy it is for anyone - including cybercriminals - to scan IP addresses and ports over the Internet and classify what device is on each IP address.
+And, with a little extra effort and know-how, hackers can also find out the type of device (webcam, printer, smart kettle, fridge and so on), brand, model and the version of software it is running.
+“With databases of commonly known device vulnerabilities publicly available, it doesn’t take a vast amount of effort and knowledge for cybercriminals to connect the dots and find out which devices are vulnerable,” comments Vince Steckler, CEO at Avast.
+“And even if the devices are password protected, hackers often gain access by trying out the most common user names and passwords until they crack it”.
+Avast’s latest research experiment highlights a serious and growing problem which, unless addressed, will only worsen in line with the increasing number of devices connected to the Internet.
+Vince Steckler, Avast, continues: “If webcams are set to livestream for example, hackers or anyone can connect, making it easy for cybercriminals to spy on innocent Mobile World Congress trade show visitors, or oblivious school pupils, workers or citizens nearby.
+In the future, we could also see cases where cybercriminals harvest personal data, including credit card information from unsuspected IoT users”.
+To be aware of vulnerabilities and secure all connected devices against unwanted attacks, users need to contribute to making the online world a safer place by keeping software updated and choosing strong, complex passwords.
+</text>

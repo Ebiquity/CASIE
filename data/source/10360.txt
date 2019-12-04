@@ -1,0 +1,15 @@
+<title> Ransomware attack hits hospital in Navi Mumbai; attackers demand ransom in Bitcoins  </title>
+<source> https://www.mid-day.com/articles/ransomware-attack-hits-hospital-in-navi-mumbai-attackers-demand-ransom-in-bitcoins/19618168 </source>
+<date> 2018_07_18 </date>
+<text>
+The Cyber Cell of Navi Mumbai police is investigating the case, DCP Doshi said. "We are trying to ascertain the Internet Protocol Address (IP) from where the email (demanding ransom) originated," Doshi said
+Computer systems of a private hospital in Navi Mumbai have come under a malware attack, with attackers seeking ransom in Bitcoins, police today said. The cyber attack on the computer systems of Mahatma Gandhi Mission Hospital came to light on July 15, police said.
+Hospital administrators found the systems locked, with an encrypted message by unidentified attackers demanding ransom in Bitcoins to unlock it, said Tushar Doshi, Deputy Commissioner of Police (Crime).
+Authorities found that access to the data of the previous 15 days had been blocked. Such attacks are described as `ransomware' attacks,
+where a malicious software enters the victim's computer system, and the attackers threaten to publish the data or block access to it unless a ransom is paid.
+The Cyber Cell of Navi Mumbai police is investigating the case, DCP Doshi said. "We are trying to ascertain the Internet Protocol
+Address (IP) from where the email (demanding ransom) originated," Doshi said.
+Computerised billing and medicine prescription system were affected due to the malware attack, but the hospital maintains a written record of all its data, he said. Cyber experts were trying to get the system back on track, the DCP said.
+A case under section 43 (hacking) of the Information Technology Act has been registered with the Vashi Police Station. Among the recent cyber attacks of this kind, the `WannaCry ransomware attack' of May 2017 infected more than 2,30,000 computers across 150 countries.
+</text>
+

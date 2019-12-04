@@ -1,0 +1,22 @@
+<title> Phishing attacks: How hunting down fake websites is making life harder for hackers  </title>
+<source> https://www.zdnet.com/article/phishing-attacks-how-hunting-down-fake-websites-is-making-life-harder-for-hackers/ </source>
+<date> 2018_09_23 </date>
+<text>
+Cybercriminals are finding it more difficult to maintain the malicious URLs and deceptive domains used for phishing attacks for more than a few hours because action is being taken to remove them from the internet much more quickly.
+That doesn't mean that phishing -- one of the most common means of performing cyber-attacks -- is any less dangerous, but a faster approach to dealing with the issue is starting to hinder attacks.
+Deceptive domain names look like those of authentic services, so that somebody who clicks on a malicious link may not realise they aren't visiting the real website of the organisation being spoofed.
+One of the most common agencies to be imitated by cyber-attackers around the world is that of government tax collectors. The idea behind such attacks is that people will be tricked into believing they are owed money by emails claiming to be from the taxman.
+However, no payment ever comes, and if a victim falls for such an attack, they're only going to lose money when their bank details are stolen, and they can even have their personal information compromised.
+In order to combat phishing and other forms of cyber-attack, the UK's National Cyber Crime Centre -- the internet security arm of GCHQ -- launched what it called the Active Cyber Defence programme a year ago.
+It appears to have some success in its first 12 months because, despite a rise in registered fraudulent domains, the lifespan of a phishing URL has been reduced and the number of global phishing attacks being carried out by UK-hosted sites has declined from five percent to three percent. The figures are laid out in a new NCSC report: Active Cyber Defence - One Year On.
+During that time, 121,479 phishing sites hosted in the UK, and 18,067 worldwide spoofing UK government, were taken down, with many of them purporting to be HMRC and linked to phishing emails in the form of tax refund scams. 
+An active approach to dealing with phishing domains has also led to a reduction in the amount of time these sites are active, potentially limiting cybercriminal campaigns before they can gain any real traction.
+Prior to the launch of the program, the average time a phishing website spoofing a UK government website remained active was for 42 hours -- or almost two days. Now, with an approach designed around looking for domains and taking them down, that's dropped to ten hours, leaving a much smaller window for attacks to be effective.
+However, while this does mean there's less time for the attackers to steal information or finances, it doesn't mean that they're not successful in carrying out attacks.
+The increased number of registered domains for carrying out phishing attacks shows that crooks are happy to work a little bit harder in order to reap the rewards of campaigns -- and the NCSC isn't under any illusion that the job of protecting internet users is anywhere near complete.
+"The ACD programme intends to increase our cyber adversaries' risk and reduces their return on investment to protect the majority of people in the UK from cyber attacks," said Dr Ian Levy, technical director of the NCSC.
+"The results we have published today are positive, but there is a lot more work to be done. The successes we have had in our first year will cause attackers to change their behaviour and we will need to adapt."
+A focus on taking down HMRC and other government-related domains has helped UK internet users, but cyber-attacks aren't limited by borders, with many malicious IPs hosted in practically every country used to carry out cyber-attacks around the world -- meaning every country should be playing a part.
+"Obviously, phishing and web-inject attacks are not connected to the UK's IP space and most campaigns of these types are hosted elsewhere. There needs to be concerted international effort to have a real effect on the security of users," says the report. 
+</text>
+

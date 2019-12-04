@@ -1,0 +1,16 @@
+<title>Patient files so far okay after ECMC cyber attack | wivb.com</title>
+<source> http://wivb.com/2017/04/11/patient-files-so-far-okay-after-ecmc-cyber-attack/ </source>
+<date> 2017_04_12 </date>
+<text>
+In the wake of a weekend cyber attack, ECMC officials say the hospital’s IT staff discovered the virus and shut down the hospital’s computer network, before it could infect their files. ECMC spokesman Peter Cutler said, State Police and the FBI are investigating.
+“We do know that a virus was launched into our system and the good news, again, is that we reacted to it immediately.”
+With the medical center’s computer network still offline, ECMC is conducting business the old fashioned way, on paper—no website, no email—and Cutler says they don’t believe patient files were compromised in any way.
+“Through the assessments that we have been running, we have seen no indication that there has been a compromise of patient health information.”
+Investigators would not say how hackers attacked ECMC’s computers, but authorities in the field of cyber security say, this attempted intrusion has all the hallmarks of ransomware.
+University at Buffalo cyber security expert Arun Vishwanath says ransomware attacks have grown exponentially in the last two years, and likens them to Internet extortion.
+“They are very successful, and so that is why we are seeing an exponential growth in ransomware attacks. We are talking about somewhere between 5,000 attacks per day that are reported–let alone the ones that are not even reported.”
+Vishwanath says ransomware attacks are big reward low risk ventures, since the hackers are usually from other countries, and rarely get caught. Unwitting victims download an infected attachment from an email and the virus spreads quickly.
+“The moment you click on the malware, this malware basically locks down your computer, and all the files in it, and any file that is connected to any other computer that you are connected to. So this can spread through your network in minutes.”
+The hacker then demands the target pay a ransom to get their files unencrypted, and in just about every ransomware attack, the hackers cover their tracks by demanding payment in bitcoin–a virtual currency that is hard, if not impossible to trace.
+Once the ransom is paid, the hackers send their victim an electronic key to unlock their encrypted files, but if the payment is not made within a certain time frame the hacked files are lost forever.
+</text>

@@ -1,0 +1,25 @@
+<title>Report: IRS-related phishing scams seen running rampant | CSO Online</title>
+<source> http://www.csoonline.com/article/3166556/security/report-irs-related-phishing-scams-seen-running-rampant.html </source>
+<date> 2017_02_08 </date>
+<text>
+If this year is anything like last we are in the midst of phishers’ attempts to trick taxpayers, employers and tax preparers into giving up information that will allow attackers to file bogus tax returns and collect IRS refunds, according to PhishLabs’ annual phishing report.
+The latest Phishing Trends and Intelligence Report, which has data about January 2016, says that the IRS phishing sites spotted in that one month totaled more than the IRS phishing attempts seen during all of the previous year.
+While the numbers for this January aren’t in yet, PhishLabs researchers expect yet another spike.
+That’s because last year, 40 businesses that phishers asked for their employees’ W2 forms actually sent them to the scammers, says Crane Hassold, a senior security threat researcher at PhishLabs.
+That’s compounded by other phishing attempts that ask tax professionals to update their accounts, then direct them to fake Web sites that steal their credentials.
+And individuals received emails purportedly from tax preparers, tax software companies or banks, asking them to update their information in order to receive their returns.
+The IRS posted a warning page including these and other scams criminals are using to collect someone else’s refunds or to file bogus returns.
+The report is based on data gathered by PhishLabs researchers of about 1 million confirmed malicious phishing sites on more than 170,000 domains and including more than 66,000 IP addresses.
+The phishing trends report found that by yearend, cloud storage services will be the most frequently targeted businesses, and almost all those attacks will be aimed at just two providers, Google and Dropbox, according to the report.
+In 2016, it was nearly a dead heat for whether the financial industry or cloud storage services would be the top victim, with financial edging storage 23% to 22.6%, and “there is a strong likelihood that cloud storage services will overtake financial institutions as the most targeted industry in 2017,” the report says.
+Those providers are being targeted, PhishLabs says, because they use email addresses as usernames.
+“By launching phishing attacks targeting popular online services that use this authentication practice, phishers are mass harvesting email address, password credential combination that can be used to attack secondary targets,” the report says.
+These secondary targets are vulnerable because it is known they use email addresses as usernames and because many people use the same usernames and passwords across different sites.
+Financial industries are targets because once attackers compromise customers’ credentials, the attackers can directly steal from their accounts.
+Even though cloud storage services are edging out financial services as targets, the total number of attacks against each is rising.
+The number is just rising faster against the cloud storage services.
+Besides financial and cloud storage, the remaining three among the top five targeted industries are webmail/online services, payment services and ecommerce sites.
+Those five accounted for 91% of all phishing attacks in 2016, the report says.
+Attacks against software-as-a-service businesses is increasing rapidly, targeting mainly two companies, Adobe (Adobe ID) and DocuSigh.
+Again, attackers are attracted to them because they use email addresses as usernames.
+</text>

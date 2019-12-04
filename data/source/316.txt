@@ -1,0 +1,22 @@
+<title>Twitter Accidentally Made Half a Million People Follow Trump - Motherboard</title>
+<source> http://motherboard.vice.com/read/inauguration-twitter-accounts-trump-obama-potus </source>
+<date> 2017_01_23 </date>
+<text>
+Approximately 560,000 people were affected by a flaw in the script used to migrate followers to the new archival handles.
+"If you were following @POTUS before 12pET, by end of day you'd be following *two* accounts: @POTUS44 (44th Admin) and @POTUS (45th Admin)," Dorsey tweeted.
+Dorsey apologized for the mistake, and said Twitter has worked to correct the issue.
+He did add, however, that the Obama Administration felt it was fair to automatically migrate followers after the transition, since @POTUS is an institutional account.
+One of the most visible transfers of executive power happened today on Twitter.
+The official @POTUS account was handed off to President Trump, and former-President Obama re-assumed his personal handle, @BarackObama.
+(Trump predictably continued to tweet from his personal account long into the inauguration, however.)
+Michelle and I are off on a quick vacation, then we'll get back to work.
+But some Twitter users are complaining that despite never following @POTUS in the first place, the presidential handle is suddenly showing up in their timelines.
+Somehow, they claim, Twitter had automatically followed it for them.
+Folks: Check if you're following GraemeJanuary 21, 2017
+"I specifically UNFOLLOWED this account earlier today.
+Yet now I am following it again without having resubscribed," one user tweeted.
+"@POTUS turned up in my feed despite me not following, willingly or otherwise," said another person.
+A spokesperson for Twitter told Motherboard they couldn't comment on these specific claims, but said that post-inauguration, Twitter automatically migrated the followers of @POTUS over to the newly created @POTUS44 account, which acts as an archive for President Obama's tweets.
+The same was done for @FLOTUS44, belonging to Michelle Obama, and @VP44, belonging to former-Vice President Biden.
+As you can see, both versions have somewhat similar follower counts.
+</text>

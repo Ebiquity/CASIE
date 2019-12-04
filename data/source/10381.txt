@@ -1,0 +1,20 @@
+<title> MyHeritage Genealogy Site Announces Mega Breach Affecting 92 Million Accounts  </title>
+<source> https://www.bleepingcomputer.com/news/security/myheritage-genealogy-site-announces-mega-breach-affecting-92-million-accounts/ </source>
+<date> 2018_06_05 </date>
+<text>
+Family genealogy and DNA testing site MyHeritage announced on Monday a security breach during which an attacker made off with account details for over 92 million MyHeritage users.
+In a statement on its website, MyHeritage said it became aware of the incident on Monday, the same day of the announcement.
+The incident came to light after a security researcher found an archive on a third-party server containing the personal details of 92,283,889 MyHeritage users.
+Only emails and hashed password were exposed.
+The archive contained only emails and hashed passwords, but not payment card details or DNA test result. MyHeritage says it uses third-party payment processors for financial operations, meaning payment data was never stored on its systems, while DNA test results were saved on separate servers from the one that managed user accounts.
+Based on the creation dates of some accounts, the breach appears to have taken place on October 26, 2017. It is unclear if the breach is the result of a hacker attack or because of a malicious employee selling the company's data.
+MyHeritage says that user accounts are safe, as the passwords were hashed using a per-user unique cryptographic key.
+"MyHeritage does not store user passwords, but rather a one-way hash of each password, in which the hash key differs for each customer," the company said. "Since Oct 26, 2017 (the date of the breach) and the present we have not seen any activity indicating that any MyHeritage accounts had been compromised."
+The company announced the breach in the same day it found out about it because of the EU's GDPR legislation that forces companies activating in the EU to disclose any security incident within three days of finding out.
+MyHeritage says it has now reached out to a cyber-security firm to help it investigate the breach severity and what other systems the hacker might have accessed. 
+MyHeritage to roll out 2FA
+The company also promised to roll out a two-factor authentication (2FA) feature for user accounts, so even if the hacker manages to decrypt the hashed passwords, these would be useless without the second-step verification code.
+It goes without saying that MyHeritage users should change their passwords as soon as possible.
+The MyHeritage incident marks the biggest data breach of the year, and the biggest leak since last year's Equifax hack.
+</text>
+

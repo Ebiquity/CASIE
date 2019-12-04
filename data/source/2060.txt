@@ -1,0 +1,12 @@
+<title>All your Googles are belong to us: Look out for the Google Docs phishing worm | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/05/google-docs-phish-worm-grabs-your-google-app-permissions-contacts/ </source>
+<date> 2017_05_04 </date>
+<text>
+A widely reported e-mail purporting to be a request to share a Google Docs document is actually a well-disguised phishing attack. It directs the user to a lookalike site and grants the site access to the target's Google credentials. If the victim clicks on the prompt to give the site permission to use Google credentials, the phish then harvests all the contacts in the victim's Gmail address book and adds them to its list of targets.
+The phish appears to have been initially targeted at a number of reporters, but it quickly spread widely across the Internet. Some of the sites associated with the attack appear to have been shut down.
+The e-mail uses a technique that a Trend Micro report linked last week to Pawn Storm, an ongoing espionage campaign frequently attributed to Russian intelligence operations. The attack uses the OAuth authentication interface, which is also used by many Web services to allow users to log in without using a password. By abusing OAuth, the attack is able to present a legitimate Google dialogue box requesting authorization. However, the authentication also asks permission for access to "view and manage your e-mail" and "view and manage the files in your Google Drive."
+The fake application used in the Pawn Storm phish (which posed as a Google security alert) was named "Google Defender." Today's phish asks the target to grant access to "Google Docs"—a fake application using the name of Google's service. If the target grants permission, the malicious site will immediately harvest contacts from the target's e-mail and send copies of the original message to them.
+
+[Update, 4:40 pm EDT:] Google has struck hard at the worm. Not only have all the sites associated with the phish been taken offline, but the permissions associated with the worm have been dropped from victims' accounts.
+The domains used in the attack were registered through NameCheap, and used a Panama-based privacy service to conceal the registration information. The hostnames were pointed at a server behind Cloudflare's content delivery and denial-of-service protection network.
+</text>

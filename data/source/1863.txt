@@ -1,0 +1,12 @@
+<title>Phishing attacks responsible for three-quarters of all malware - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/25/phishing-attacks-malware/ </source>
+<date> 2017_04_25 </date>
+<text>
+With phishing now widely used as a mechanism for distributing ransomware, a new NTT Security reveals that 77% of all detected ransomware globally was in four main sectors – business & professional services (28%), government (19%), health care (15%) and retail (15%).
+While technical attacks on the newest vulnerabilities tend to dominate the media, many attacks rely on less technical means. According to the GTIR, phishing attacks were responsible for nearly three-quarters (73%) of all malware delivered to organizations, with government (65%) and business & professional services (25%) as the industry sectors most likely to be attacked at a global level. When it comes to attacks by country, the U.S.(41%), Netherlands (38%) and France (5%) were the top three sources of phishing attacks.
+The report also reveals that just 25 passwords accounted for nearly 33% of all authentication attempts against NTT Security honeypots last year. Over 76% of log on attempts included a password known to be implemented in the Mirai botnet – a botnet comprised of IoT devices, which was used to conduct, what were at the time, the largest ever distributed denial of service (DDoS) attacks. 
+DDoS attacks represented less than 6% of attacks globally, but accounted for over 16% of all attacks from Asia and 23% of all attacks from Australia.
+Finance was the most commonly attacked industry globally, subject to 14% of all attacks. The finance sector was the only sector to appear in the top three across all of the geographic regions analysed, while manufacturing appeared in the top three in five of the six regions. Finance (14%), government (14%) and manufacturing (13%) were the top three most commonly attacked industry sectors. 
+“We identified more than six billion attempted attacks over the 12-month period – that’s around 16 million attacks a day – and monitored threat actors using nearly every type of attack,” said Steven Bullitt, Vice President Threat Intelligence & Incident Response, GTIC, NTT Security.
+With visibility into 40 percent of the world’s internet traffic, NTT Security summarizes data from over 3.5 trillion logs and 6.2 billion attacks for the 2017 Global Threat Intelligence Report (GTIR). Analysis is based on log, event, attack, incident and vulnerability data.
+</text>

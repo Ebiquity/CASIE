@@ -1,0 +1,23 @@
+<title>Hackers: We Will Remotely Wipe iPhones Unless Apple Pays Ransom - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/hackers-we-will-remotely-wipe-iphones-unless-apple-pays-ransom </source>
+<date> 2017_03_21 </date>
+<text>
+ A hacker or group of hackers is apparently trying to extort Apple over alleged access to a large cache of iCloud and other Apple email accounts.
+The hackers, who identified themselves as 'Turkish Crime Family', demanded $75,000 in Bitcoin or Ethereum, another increasingly popular crypto-currency, or $100,000 worth of iTunes gift cards in exchange for deleting the alleged cache of data.
+"I just want my money and thought this would be an interesting report that a lot of Apple customers would be interested in reading and hearing," one of the hackers told Motherboard.
+The hackers provided screenshots of alleged emails between the group and members of Apple's security team.
+One also gave Motherboard access to an email account allegedly used to communicate with Apple.
+"Are you willing to share a sample of the data set?"
+an unnamed member of Apple's security team wrote to the hackers a week ago, according to one of the emails stored in the account.
+The hackers also uploaded a YouTube video of them allegedly logging into some of the stolen accounts.
+The hacker appears to access an elderly woman's iCloud account, which includes backed-up photos, and the ability to remotely wipe the device.
+"We firstly kindly request you to remove the video that you have uploaded on your YouTube channel as it's seeking unwanted attention, second of all we would like you to know that we do not reward cyber criminals for breaking the law," a message allegedly from a member of Apple's security team reads.
+The alleged Apple team member then says archived communications with the hacker will be sent to the authorities.
+According to one of the emails in the accessed account, the hackers claim to have access to over 300 million Apple email accounts, including those use @icloud and @me domains.
+However, the hackers appear to be inconsistent in their story; one of the hackers then claimed they had 559 million accounts in all.
+The hackers did not provide Motherboard with any of the supposedly stolen iCloud accounts to verify this claim, except those shown in the video.
+By reading other emails included in the account, it appears the hackers have approached multiple media outlets.
+This may be in an attempt to put pressure on Apple; hackers sometimes feed information to reporters in order to help extortion efforts.
+After the publication of this article, an Apple spokesperson told Motherboard in an email, "There have not been any breaches in any of Apple's systems including iCloud and Apple ID.
+The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services.
+</text>

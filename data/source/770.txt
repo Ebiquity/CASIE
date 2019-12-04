@@ -1,0 +1,16 @@
+<title>Ransomware 'customer support' chat reveals criminals' ruthlessness | CSO Online</title>
+<source> http://www.csoonline.com/article/3173987/security/ransomware-customer-support-chat-reveals-criminals-ruthlessness.html </source>
+<date> 2017_02_27 </date>
+<text>
+Ransomware criminals chatting up victims, offering to delay deadlines, showing how to obtain Bitcoin, dispensing the kind of customer support that consumers lust for from their cable and mobile plan providers, PC and software makers?
+Finnish security vendor F-Secure yesterday released 34 pages of transcripts from the group chat used by the crafters of the Spora ransomware family.
+The back-and-forth not only put a spotlight on the gang's customer support chops, but, said a company security advisor, illustrated the intertwining of Bitcoin and extortion malware.
+"We should be thankful that there are at least some practical barriers to purchase Bitcoins," wrote Sean Sullivan of F-Secure in a Wednesday post to the firm's blog.
+"If it were any easier to do so, very little else would check the growth of crypto-ransomware's business model."
+Sullivan originally penned that conclusion last month, in a short section of the "State of Cyber Security" report that F-Secure published then.
+Yesterday, F-Secure posted the transcripts, 20,000 words or more, and dubbed the collection a "new supplemental appendix" to the original report.
+In one exchange, a Spora victim said he or she had paid the extortion fee, but had gotten nothing in return.
+"The malware technology to encrypt data has been possible for many, many years; the bigger challenge has always been getting paid," Sullivan pointed out.
+"In the past, cyber-crime schemes (such as scareware) have been killed off by disrupting the money supply.
+The same may well be true of cyber extortion; to kill the business model, it may be necessary to ban Bitcoin."
+</text>

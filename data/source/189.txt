@@ -1,0 +1,31 @@
+<title>How does Russia hack? FireEye analysis exposes main tactics used by 'Fancy Bear' APT group</title>
+<source> http://www.ibtimes.co.uk/how-russia-hacks-fireeye-analysis-exposes-main-tactics-used-by-fancy-bear-1600768 </source>
+<date> 2017_01_13 </date>
+<text>
+Last December the US Intelligence Community (IC) released a report naming APT28, a suspected Russian hacking group, as being linked to numerous cyberattacks designed to influence the outcome of the 2016 presidential election with a mixture of leaks and misinformation.
+Highlighting Russian "malicious cyber activity" the IC's analysis reported on this "advanced persistent threat" by confirming it was likely linked to the county's military or intelligence services.
+The hackers go by many names: Fancy Bear, Pawn Storm, Sofacy, Sednit, Tsar Team and more.
+The group – after targeting the Democratic National Committee (DNC), the World Anti-Doping Agency (Wada) and the German government – is the focus of a new report from US-based cybersecurity firm FireEye, discussing the key hacking techniques it uses.
+"We have observed APT28 rely on four key tactics when attempting to compromise intended targets," the report states.
+These include the use of spearphishing to deploy exploit kits, the spreading of malware, compromising web-facing servers and creating fake internet addresses.
+Some of the tactics are straightforward, but work.
+In one hypothetical case, a hacker would craft an exploit document with "enticing lure content" and send it to a carefully chosen victim.
+Once the document is opened, malware is automatically installed by exploiting a vulnerability in computer software.
+According to FireEye, APT28 has exploited a number of known security flaws in the past including previously undiscovered "zero day" vulnerabilities in Adobe Flash Player, Java, and Windows.
+The hackers then contact targets saying they need to reset passwords, lead the victim to a malicious login page and hijack passwords.
+"APT28 employs a suite of malware with features indicative of the group's plans for continued operations, as well as the group's access to resources and skilled developers," the report states.
+After information is stolen, FireEye explains, the hacking group will often leak it to "further political narratives".
+These reportedly include the conflict in Syria, Nato, the European Union refugee crisis and the 2016 Olympics and Paralympics athlete doping scandal.
+In agreement with the US government, the security firm believes the hacking group conducts its operations "in support of Russian strategic interests" and is made up of a "sophisticated and prolific set of developers and operators".
+This is denied by Russian president, Vladimir Putin.
+"The recent activity in the US is but one of many instances of Russian government influence operations conducted in support of strategic political objectives, and it will not be the last," the report states.
+"As the 2017 elections in Europe approach - most notably in Germany, France, and the Netherlands – we are already seeing the makings of similarly concerted efforts."
+The research paper adds another layer to the already-impressive body of work released by organisations including ThreatConnect, Crowdstrike, SecureWorks and Fidelis Cybersecurity.
+The firms, while less open to attributing with utmost certainty, continue to link APT28 with Putin's state.
+"We stand by our research that the attack data we were given to analyse mirrors previous attacks of APT28," John Bambenek, threat intelligence manager at Fidelis told IBTimes UK.
+"The malware and the tactics we can speak with expertise on.
+What we cannot answer is what the intent of those actors were and at whose direction they were acting, as we do not have direct intelligence on those subjects nor are we in a position to get them."
+Tom Finney, a counter threat researcher from SecureWorks, said: "We've been able to link this activity to Russia because of the wider targeting seen in this campaign.
+"The majority of the activity appears to focus on Russia's military involvement in eastern Ukraine; for example, the email address targeted by the most phishing attempts (nine) was linked to a spokesperson for the Ukrainian prime minister.
+"Other targets included individuals in political, military, and diplomatic positions in former Soviet states, as well as journalists, human rights organisations and regional advocacy groups in Russia."
+</text>

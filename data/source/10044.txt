@@ -1,0 +1,10 @@
+<title>    </title>
+<source> https://www.itworldcanada.com/article/hardware-based-keyloggers-found-on-carleton-u-computers/391895 </source>
+<date> 2017_03_29 </date>
+<text>
+Universities often need to have a number of computers in classrooms ready for faculty and staff to use for presentations and Internet access, which can be a security challenge. Carleton University is the latest to find that out when a regular inspection discovered USB keylogging devices had been plugged into six classroom PCs.
+The computers themselves can’t store data, said Beth Gorham, Carleton’s manager of public affairs, so there was no risk of university data being captured. However, the PCs are connected to the campus network so keyloggers would be able to capture login information. As a result all staff, faculty, contract instructors and teaching assistants have been ordered to change their passwords. In addition, the university has recommended all students do the same “out of an abundance of caution.”
+“We have no indication that any personal information has been obtained,” she said.
+Discovery of the devices was made a week ago during a regular inspection of classroom devices by the instructional media services staff, Gorham said. Until now because presenters use USB memory sticks for presentations the USB ports of the computers hadn’t been locked, Gorham said.
+However, she said, since the discovery “those computers and other were secured [with locks] so this can’t happen again.” And as a result of the incident classroom inspections have been stepped up.
+</text>

@@ -1,0 +1,18 @@
+<title>Everything you need to know about Intel's scary security flaw</title>
+<source> http://mashable.com/2017/05/08/intel-hijacking-security-flaw/#jCEHSw3cVqqN </source>
+<date> 2017_05_09 </date>
+<text>
+Last week, Intel revealed that a serious security flaw in some of its chips left potentially thousands of devices vulnerable to attackers.
+Then, security researchers revealed the problem was way worse than anyone initially thought as the vulnerability could allow attackers to remotely "hijack" affected machines.
+It's still not clear just how many devices are impacted as Intel has't said, but some in the industry have put the number as high as 8,000. Here's a look at what you need to know and how to protect yourself.
+The vulnerability stems from something called Intel Active Management Technology, (AMT), a technology that allows devices to be remotely managed to make it easier to update software and perform maintenance remotely. It's a feature typically used by businesses that may be responsible for many devices that may not all be in the same place.
+Since the technology is integrated at a chip level, AMT can do a bit more than other software-enabled management tools. Using AMT's capabilities, for instance, a system administrator could remotely access and control a computer's mouse and keyboard, or turn on a computer that's already been powered down. 
+While those can be helpful capabilities for corporate IT departments to have, it's obviously the type of access you'd want locked down pretty tightly. And that's just the problem. Security researchers found that AMT's web portal can be accessed with just the user admin and literally any password or even no password at all. 
+That's why some have labeled it a "hijacking" flaw since anyone who exploits the vulnerability would be able to remotely control so many processes. 
+Most importantly, the flaw doesn't impact every Intel chip out there. Since it's rooted in AMT, the vulnerability primarily affects businesses, though, as Intel points out, some consumers use computers made for businesses. 
+One of the easiest ways to check if you might be affected is to check that Intel sticker that comes on so many PCs. Look for a "VPro" logo as that indicates the presence of AMT.
+Of course, looking for a sticker is hardly foolproof. Intel has also released a downloadable detections guide, which will guide you through the process of checking your machines. You can find the detection guide here.
+Though Intel has long supplied Apple with chips for Macs, AMT is only present on processors in Windows-based machines, so all Macs are safe from this particular exploit. 
+If you do have a machine that's impacted by the security flaw, you'll need to update your firmware as soon as possible. Intel has already created a patch and is now waiting on manufacturers to make it available. 
+Some, including Dell, Lenovo, HP, and Fujitsu, have already rolled it out. You can find links to those over on Intel's website, which will be updated as more manufacturers release updates. 
+</text>

@@ -1,0 +1,24 @@
+<title> Update now: Adobe fixes 85 serious flaws in Acrobat and Reader </title>
+<source> https://nakedsecurity.sophos.com/2018/10/03/update-now-adobe-fixes-85-serious-flaws-in-acrobat-and-reader/ </source>
+<date> 2018_10_03 </date>
+<text>
+Adobe has released updates fixing a long list of security vulnerabilities discovered in the Mac and Windows versions of Acrobat and Reader.
+In total, the first October update brings 85 CVEs, including 47 rated as ‘critical’ with the remaining 39 classified as ‘important’.
+It’s too early to get much detail on the flaws but those rated critical break down as 46 allowing code execution and one allowing privilege escalation. The majority of the flaws rated important involve out-of-bounds read issues leading to information disclosure.
+As far as Adobe is aware, none are being actively exploited.
+
+The update you should download depends on which version you have installed:
+    For most Windows or Mac users it’ll be either Acrobat DC (the paid version) or Acrobat Reader DC (free) so look for update version 2019.008.20071.
+    For anyone on the classic Acrobat 2017 or Acrobat Reader DC 2017, it’s version 2017.011.30105.
+    Those on the even more classic Acrobat DC (2015) or Acrobat Reader DC (2015) it’s version 2015.006.30456.
+
+Anyone who still has the old Acrobat XI or Reader XI on their computer, the last version was 11.0.23 when support for this ended a year ago.
+A sign of success?
+There was a time when having to patch so many flaws in a small suite of products from one company would have been seen as a failure.
+Arguably, these days, it’s a sign of success – researchers are devoting the time to finding vulnerabilities before the bad guys do and Adobe is turning around fixes.
+What’s surprising is that despite crediting every one of them (and it’s quite a list), the company doesn’t seem to have a formal bug bounty reward program other than the separate web applications program run via third party company, HackerOne.
+If Adobe’s 85 vulnerabilities sounds excessive, have some sympathy for users of the rival Foxit PDF Reader and Foxit PhantomPDF programs. Foxit last week released what appears to be 116 vulnerabilities of their own (confusingly, many of which are not yet labelled with CVEs).
+For some reason, the number of flaws being found in Foxit’s programs has surged this year, reaching 183 before this September’s count, compared to 76 for the whole of 2017.
+As for Adobe, these updates are unlikely to be the last we hear of the company this month – expect the usual flaws to be patched in Adobe’s legacy Flash plug-in when Microsoft releases its Windows Patch Tuesday on 9 October.
+</text>
+

@@ -1,0 +1,21 @@
+<title> Intel Patches High-Severity Privilege-Escalation Bugs  </title>
+<source> https://threatpost.com/intel-patches-privilege-escalation-bugs/140665/ </source>
+<date> 2019_01_09 </date>
+<text>
+Overall, the chip giant patched five vulnerabilities across an array of its products.
+Intel on Tuesday patched three high-severity vulnerabilities that could allow the escalation of privileges across an array of products. Overall, the chip giant fixed five bugs – three rated high-severity, and two medium-severity.
+The most concerning of these bugs is an escalation-of-privilege glitch in Intel’s PROset/Wireless Wi-Fi software, which is its wireless connection management tool. The vulnerability, CVE-2018-12177, has a “high” CVSS score of 7.8, according to Intel’s update.
+“Intel is releasing software updates to mitigate this potential vulnerability,” it said, urging users to update to version 20.90.0.7 or later of the software.
+The vulnerability, reported by Thomas Hibbert of Insomnia Security, stems from improper directory permissions plaguing the software’s ZeroConfig service in versions before 20.90.0.7. The issue could allow an authorized user to potentially enable escalation of privilege via local access.
+The other high-severity bug exists in the company’s System Support Utility for Windows, which offers support for Intel-packed Windows device users.
+This bug (CVE-2019-0088) is due to insufficient path checking in the support utility, allowing an already-authenticated user to potentially gain escalation of privilege via local access. The vulnerability has a CVSS score of 7.5.
+Versions of System Support Utility for Windows before 2.5.0.15 are impacted; Intel recommends users update to versions 2.5.0.15 or later. Independent security researcher Alec Blance was credited with discovering the flaw.
+The chip-maker also patched a high-severity and medium-severity flaw in its Software Guard Extensions (SGX) platform and software, which help application developers to protect select code and data from disclosure or modification.
+“Multiple potential security vulnerabilities in Intel SGX SDK and Intel SGX Platform Software may allow escalation of privilege or information disclosure,” said Intel.
+The high-severity flaw in SGX (CVE-2018-18098) has a CVSS score of 7.5 and could allow an attacker with local access to gain escalated privileges. The vulnerability is rooted in improper file verification in the install routine for Intel’s SGX SDK and Platform Software for Windows before 2.2.100.  It was discovered by researcher Saif Allah ben Massaoud.
+Another vulnerability in the platform (CVE-2018-12155) is only medium in severity, but could allow an unprivileged user to cause information disclosure via local access. That’s due to data leakage in the cryptographic libraries of the SGX platform’s Integrated Performance Primitives, a function that provides developers with building blocks for image and data processing.
+And finally, a medium escalation of privilege vulnerability in Intel’s SSD data-center tool for Windows has been patched.
+“Improper directory permissions in the installer for the Intel SSD Data Center Tool for Windows before v3.0.17 may allow authenticated users to potentially enable an escalation of privilege via local access,” said Intel’s update. The company recommends users update to v3.0.17 or later.
+Intel’s patch comes during a busy patch Tuesday week, which includes fixes from Adobe and Microsoft.
+</text>
+

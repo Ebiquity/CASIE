@@ -1,0 +1,22 @@
+<title> French candidate Macron claims massive hack as emails leaked | Reuters</title>
+<source> http://mobile.reuters.com/article/idUSKBN1812AZ?il=0 </source>
+<date> 2017_05_08 </date>
+<text>
+Leading French presidential candidate Emmanuel Macron’s campaign said on Friday it had been the target of a “massive” computer hack that dumped its campaign emails online 1-1/2 days before voters choose between the centrist and his far-right rival, Marine Le Pen. 
+Macron, who is seen as the frontrunner in an election billed as the most important in France in decades, extended his lead over Le Pen in polls on Friday.   
+As much as 9 gigabytes of data were posted on a profile called EMLEAKS to Pastebin, a site that allows anonymous document sharing. It was not immediately clear who was responsible for posting the data or if any of it was genuine. 
+In a statement, Macron’s political movement En Marche! (Onwards!) confirmed that it had been hacked. 
+“The En Marche Movement has been the victim of a massive and co-ordinated hack this evening which has given rise to the diffusion on social media of various internal information,” the statement said. 
+An interior ministry official declined to comment, citing French rules that forbid any commentary liable to influence an election, which took effect at midnight on Friday (2200 GMT). 
+The presidential election commission said in statement that it would hold a meeting later on Saturday after Macron’s campaign informed it about the hack and publishing of the data.  
+Former economy minister Macron’s campaign has previously complained about attempts to hack its emails, blaming Russian interests in part for the cyber attacks. 
+On April 26, the team said it had been the target of a attempts to steal email credentials dating back to January, but that the perpetrators had failed to compromise any campaign data. 
+The Kremlin has denied it was behind any such attacks, even though Macron’s camp renewed complaints against Russian media and a hackers’ group operating in Ukraine. 
+Vitali Kremez, director of research with New York-based cyber intelligence firm Flashpoint, told Reuters his review indicates that APT 28, a group tied to the GRU, the Russian military intelligence directorate, was behind the leak. He cited similarities with U.S. election hacks that have been previously attributed to that group.  
+APT28 last month registered decoy internet addresses to mimic the name of En Marche, which it likely used send tainted emails to hack into the campaign’s computers, Kremez said. Those domains include onedrive-en-marche.fr and mail-en-marche.fr. 
+“If indeed driven by Moscow, this leak appears to be a significant escalation over the previous Russian operations aimed at the U.S. presidential election, expanding the approach and scope of effort from simple espionage efforts towards more direct attempts to sway the outcome,” Kremez said. 
+France is the latest nation to see a major election overshadowed by accusations of manipulation through cyber hacking. 
+En Marche said the documents only showed the normal functioning of a presidential campaign, but that authentic documents had been mixed on social media with fake ones to sow “doubt and misinformation”. 
+Ben Nimmo, a UK-based security researcher with the Digital Forensic Research Lab of the Atlantic Council think tank, said initial analysis indicated that a group of U.S. far-right online activists were behind early efforts to spread the documents via social media. They were later picked up and promoted by core social media supporters of Le Pen in France, Nimmo said. 
+The leaks emerged on 4chan, a discussion forum popular with far right activists in the United States. An anonymous poster provided links to the documents on Pastebin, saying, “This was passed on to me today so now I am giving it to you, the people.”  
+</text>

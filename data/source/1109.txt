@@ -1,0 +1,16 @@
+<title>Apache Struts 2 bug bites Canada, Cisco, VMware and others • The Register    </title>
+<source> https://www.theregister.co.uk/2017/03/14/canada_struts_2_outage/ </source>
+<date> 2017_03_15 </date>
+<text>
+The site was taken offline to patch the security bug, and only publicly accessible information was lifted from the compromised web servers, we're told.
+The flaw in the Struts 2 framework is trivial to exploit: just upload a file with an invalid Content-Type value.
+It then throws an exception, and opens the target to remote code execution.
+Shortly after the Struts 2 vulnerability was discovered and documented last week, researchers at Cisco's Talos said they'd observed it under “active attack”.
+The Canada Revenue Agency held a press conference in Ottawa Monday afternoon, and confirmed Struts 2 was the reason it took down its services over the weekend.
+Shared Service Canada COO John Glowacki said while forensic work is continuing, analysis of system logs so far shows nobody “got inside” CRA's systems.
+“We will not speak for other countries, but we will say we have information that some other countries are having greater problems with this specific vulnerability,” he added.
+Expect vendors to start issuing their own advisories about Struts 2.
+Cisco has posted its first product advisory, and so far there's more "confirmed not vulnerable" than vulnerable products.
+So far, only Cisco's Identity Services Engine, Prime Service Catalog Virtual Appliance, and Unified SIP Proxy Software need fixing.
+There is, however, an extensive list of products still under investigation.
+</text>

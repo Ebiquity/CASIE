@@ -1,0 +1,16 @@
+<title>Ransomware Locks Down Public Libraries at All Locations Across Saint Louis</title>
+<source> https://www.bleepingcomputer.com/news/security/ransomware-locks-down-public-libraries-at-all-locations-across-saint-louis/ </source>
+<date> 2017_01_23 </date>
+<text>
+Over 700 computers at all of SLPL's 16 branches have been hit.
+According to library spokesperson Jen Hatton, SLPL doesn't intend to pay the ransom, which is around $35,000, about $50 per infected PC.
+Instead, library technicians plan to wipe and reinstall all computers from the ground up, an operation that might take a while, several local news outlets have reported [1, 2, 3, 4].
+Hatton said the infection took root on the night between Wednesday and Thursday.
+By the next day, the library had to shut down all book returns and checkout operations.
+SLPL libraries also served as public WiFi access points, allowing people to come in and use its Internet connection or computers to surf the web.
+Internet access is also down, as the ransomware hit those servers as well, along with the staff's email system.
+It is unknown if the ransomware infection took place because of the library's staff or because of a user that used its public computers.
+A request for comment sent by Bleeping Computer wasn't answered at the time of publishing.
+UPDATE [January 23]: SLPL announced today they started recovering some of the locked computers and are slowly resuming service.
+I've been trying since this morning to get in contact with them.
+</text>

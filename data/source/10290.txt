@@ -1,0 +1,13 @@
+<title> Cisco patches privilege escalation flaw in Adaptive Securty Appliance software </title>
+<source> https://www.scmagazine.com/home/security-news/cisco-patches-privilege-escalation-flaw-in-adaptive-securty-appliance-software/ </source>
+<date> 2018_12_21 </date>
+<text>
+Cisco Systems this week issued an update for its Adaptive Security Appliance (ASA) software, fixing a high-severity vulnerability that could allow authenticated attackers with low-level access to remotely escalate their privileges on Cisco devices with web management access enabled.
+Designated CVE-2018-15465, the flaw is the result of an improper validation process while using the web management interface.
+“An attacker could exploit this vulnerability by sending specific HTTP requests via HTTPS to an affected device as an unprivileged user,” states a Dec. 19 Cisco security advisory. “An exploit could allow the attacker to retrieve files (including the running configuration) from the device or to upload and replace software images on the device.”
+The cybersecurity firm Tenable, whose researchers discovered the bug, explained its findings in further detail in a Dec 19 blog post.
+“When command authorization is not enabled, an authenticated remote unprivileged (level 0 or 1) user can change or download the running configuration as well as upload or replace the appliance firmware,” wrote blog author and Tenable technical support engineer Ryan Seguin. “Downgrading appliance firmware to an older version would allow an attacker to leverage known vulnerabilities that have been well researched or have publicly available exploit modules.”
+“Enabling command authorization prevents exploitation of this vulnerability,” notes the Cisco advisory, although “administrators should not enable command authorization using the AAA authorization command” until they have defined “which actions are allowed per privilege level using the privilege command in global configuration mode.”
+Cisco adds the AAA configuration must be “accurate and complete” in order for the software fix to properly take effect.
+</text>
+

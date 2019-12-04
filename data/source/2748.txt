@@ -1,0 +1,17 @@
+<title>Hackers can steal large amount of data using router's LEDs</title>
+<source> https://www.hackread.com/hackers-can-steal-data-using-routers-leds/ </source>
+<date> 2017_06_08 </date>
+<text>
+Researchers from the University of Negvu have developed a way in which hackers can extract data from a victim’s computer using the LED lights displayed on their router. They can do so using a malware named xLED, as reported by JPost.
+The Cyber Security Research Center at the Ben-Gurion University of the Negvu which is located in Israel have come up with a way to hack into a user’s computer and steal vital data in the form of LED lights that are displayed on a router.
+Essentially, the operation would require a specially crafted malware named xLED which will need to be installed on a router in order to hack a victim. That is, the router needs to have a security flaw so as to allow the hacker to install the malware in the first place.
+It can also be possible if a flawed firmware has been installed in the router, thus making it easier for the attacker to break through the device.
+Once the malware is installed, the data can be exfiltrated in the binary form represented by the blinking of lights. Hence, when the light is off, it will represent a zero while when it is on, it will represent a one.
+A video recording device can be used to capture the blinking pattern and utilized to steal vital information that is being transmitted through the router. The device can be anything from a recording drone to a CCTV camera.
+As long as the camera captures the blinking lights, the data being transmitted can be easily stolen.
+The researchers indicated that since the rate of exfiltration of data depends upon the number of LEDs being present on a router, it goes without saying that the more number of LEDs on a router, the more amount of data can be exfiltrated at any one time.
+Furthermore, the researchers tested various video-recording setups to see which is the most efficient and found out that the method involving Optical Sensors was the best. This is because it received data at a higher rate and was able to sample the LED lights more quickly than any other methods.
+Primarily, a data exfiltration rate of 1000 bit/sec per LED was achieved using Optical Sensors.
+Although the researchers indicated that the method is the most effective one to steal a large amount of data, they, however, stated that since the method involves installing malware on a router, a number of other techniques can be used to extract data anyway.
+This is because once the malware is already on the router, there are other ways in which attackers can directly intercept the data being transmitted without the need of any video recording devices.
+</text>

@@ -1,0 +1,13 @@
+<title> Cisco patches a critical patch on its software-license manager </title>
+<source> https://www.networkworld.com/article/3329941/security/cisco-patches-a-critical-patch-on-its-software-license-manager.html </source>
+<date> 2018_12_21 </date>
+<text>
+CIsco has issued a critical patch of a patch for a Cisco Prime License Manager SQL fix.
+Cisco this week said it patched a “critical” patch for its Prime License Manager (PLM) software that would let attackers execute random SQL queries.
+The Cisco Prime License Manager offers enterprise-wide management of user-based licensing, including license fulfillment.
+Released in November, the first version of the Prime License Manager patch caused its own “functional” problems that Cisco was then forced to fix. That patch, called ciscocm.CSCvk30822_v1.0.k3.cop.sgn addressed the SQL vulnerability but caused backup, upgrade and restore problems, and should no longer be used Cisco said.
+Cisco wrote that “customers who have previously installed the ciscocm.CSCvk30822_v1.0.k3.cop.sgn patch should upgrade to the ciscocm.CSCvk30822_v2.0.k3.cop.sgn patch to remediate the functional issues. Installing the v2.0 patch will first rollback the v1.0 patch and then install the v2.0 patch.”
+As for the vulnerability that started this process, Cisco says it “is due to a lack of proper validation of user-supplied input in SQL queries. An attacker could exploit this vulnerability by sending crafted HTTP POST requests that contain malicious SQL statements to an affected application. A successful exploit could allow the attacker to modify and delete arbitrary data in the PLM database or gain shell access with the privileges of the postgres [SQL] user.”
+The vulnerability impacts Cisco Prime License Manager Releases 11.0.1 and later.
+ </text>
+

@@ -1,0 +1,19 @@
+<title> Google Chrome under attack: Have you used one of these hijacked extensions?  </title>
+<source> https://www.zdnet.com/article/google-chrome-under-attack-have-you-used-one-of-these-hijacked-extensions/ </source>
+<date> 2017_08_16 </date>
+<text>
+ Attackers have been phishing developers as a way of compromising Chrome extensions into spreading affiliate program ads that scare victims into paying for PC repairs.
+Proofpoint researcher Kafeine has identified six compromised Chrome extensions that have been recently modified by an attacker after phishing a developer's Google Account credentials.
+ Web Developer 0.4.9, Chrometana 1.1.3, Infinity New Tab 3.12.3, Copyfish 2.8.5, Web Paint 1.2.1, and Social Fixer 20.1.1 were compromised in late July and early August. Kafeine believes TouchVPN and Betternet VPN were also comprised in late June with the same technique.
+Developers of several of the extensions have removed the threat in recent updates to their affected apps, including Web Developer, Copyfish, Chrometana, and Social Fixer.
+The main intent of the attack on Chrome extension developers is to divert Chrome users to affiliate programs and switch out legitimate ads with malicious ones, ultimately to generate money for the attacker through referrals.
+ The attackers have also been gathering credentials of users of Cloudflare, an availability service for website operators, which probably could be used in future attacks.
+The hijacked extensions were coded mostly to substitute banner ads on adult websites, but also a range of other sites, and to steal traffic from legitimate ad networks.
+ "In many cases, victims were presented with fake JavaScript alerts prompting them to repair their PC, then redirecting them to affiliate programs from which the threat actors could profit," notes Kafeine.
+At least one of the affiliate programs receiving the hijacked traffic promoted PCKeeper, a Windows-focused tool originally from ZeobitLLC, the maker of the MacKeeper security product that was the subject of a class action suit a few years ago over false security claims.
+A snippet of JavaScript in the compromised extensions also downloaded a file that was served by Cloudflare containing code with a script designed to collect Cloudflare user credentials after login. Cloudflare stopped serving the file after it was alerted to the issue by Proofpoint.
+The phishing emails that compromised developers' Google Accounts purported to come from Google's Chrome Web Store team, which claimed the developer's extension didn't comply with its policies and would be removed unless the issue was fixed.
+As Bleeping Computer recently reported, Google's security team has sent an email warning to Chrome extension developers to be on the lookout for phishing attacks. The attackers had created a convincing copy of Google's real account login page.
+It's not the first time Chrome extensions have been targeted to spread adware and promote affiliate networks. In 2014, adware firms bought several popular Chrome extensions from legitimate developers, which up to that point had maintained trustworthy products.
+</text>
+

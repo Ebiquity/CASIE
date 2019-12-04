@@ -1,0 +1,18 @@
+<title>Police Department Loses Years Worth of Evidence in Ransomware Incident</title>
+<source> https://www.bleepingcomputer.com/news/security/police-department-loses-years-worth-of-evidence-in-ransomware-incident/ </source>
+<date> 2017_01_27 </date>
+<text>
+Lost evidence includes all body camera video, some in-car video, some in-house surveillance video, some photographs, and all Microsoft Office documents.
+Data from that period backed up on DVDs and CDs remained intact.
+While archived data has its importance, more worrying is that the department lost data from ongoing investigations.
+In an interview with WFAA, who broke the story, Stephen Barlag, Cockrell Hill's police chief, said that none of the lost data was critical.
+The department also notified the Dallas County District Attorney's office of the incident.
+The department says the infection was discovered on December 12, last year, and the crooks asked for a $4,000 ransom fee to unlock the files.
+After consulting with the FBI's cyber-crime unit, the department decided to wipe their data server and reinstall everything.
+Data could not be recovered from backups, as the backup procedure kicked in shortly after the ransomware took root, and backed up copies of the encrypted files.
+According to the department's press release, the Cockrell Hill police IT staff said they were infected with the OSIRIS ransomware.
+It's quite possible that the department's server was infected with the Locky ransomware, which a few days prior had come out with a new version that appended the ".osiris" extension at the end of encrypted files.
+The press release says the infection took place after an officer opened a spam message from a cloned (spoofed) email address imitating a department issued email address.
+The infection did not spread to other computers because the server was taken offline and disconnected from the local network as soon as staff discovered the ransom demand.
+The department also said there was no evidence of data exfiltration to a remote server.
+</text>

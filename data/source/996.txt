@@ -1,0 +1,16 @@
+<title>Dorchester hospital workers at risk of identity fraud following national cyber attack | Dorset Echo</title>
+<source> http://www.dorsetecho.co.uk/news/15140767.Dorchester_hospital_workers_at_risk_of_identity_fraud_following_national_cyber_attack/ </source>
+<date> 2017_03_09 </date>
+<text>
+  DORCHESTER hospital workers have been caught up in a high-level cyber-security attack that has put hundreds at risk across the country.
+Computer hackers have stolen private files from the company Landauer, which is employed by the NHS to monitor radiation levels among staff.
+They hold personal details such as names, dates of birth, national insurance numbers and radiation dose of workers across the county including from Dorset County Hospital (DCH).
+Fortunately fewer than 55 employees at DCH were affected.
+The company confirmed the attack, which has left hundreds of people across the country vulnerable to identity fraud, did not just affect the NHS but a ‘number of clients’.
+The government’s newly formed National Cyber Security Centre (NCSC) set up to fight the rising threat of cyber-attacks refused to reveal information about the hackers including where they were from or exactly how many people are affected.
+The NCSC tackled 188 attacks in its first three months.
+A spokesperson for Dorset County Hospital said: “On January 19 2017 Dorset County Hospital NHS Foundation Trust received a letter which informed us that there had been an information security breach on one of the servers at Landauer UK, a third party organisation who supply our Dosimetry service, an externally provided service that monitors, analyses and reports on the radiation dosages that staff who regularly use radioactive equipment and devices are exposed to.
+“The incident occurred in October 2016 and has affected Trusts and non-NHS organisations nationwide, including Dorset County Hospital.
+Fortunately the number of staff from DCHFT who were involved in this data security breach was small, with fewer than 55 current or former employees affected.
+Of these employees, fewer than 10 had more than their name breached, and all of these individuals have been offered a 12 month ‘ProtectMyID’ service via Experian, courtesy of Landauer.
+</text>

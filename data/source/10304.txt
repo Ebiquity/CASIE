@@ -1,0 +1,17 @@
+<title> Watch out for scammers stealing your money by pretending to be Netflix </title>
+<source> https://www.derbytelegraph.co.uk/news/uk-world-news/watch-out-scammers-stealing-your-2371624 </source>
+<date> 2018_12_29 </date>
+<text>
+Criminals are trying to steal money from Netflix customers with a sophisticated new scam.
+Subscribers are being sent convincing fake emails asking them to update their payment information.
+While they look to be from Netflix itself, they are in fact from criminals and scammers.
+The message currently circulating reads: "We're having some trouble with your current billing information.
+"We'll try again, but in the meantime you may want to update your payment details."
+There is a red button telling you to "Update Account now" at the end of the message.
+This link takes you to a fake-designed site to look like Netflix, but in fact is run by scammers.
+An urgent warning has been issued about the email by the Federal Trade Commission, a US government agency that told consumers not to "take the bait".
+"Scammers use your information to steal your money, your identity, or both," it reads.
+"They also use phishing emails to get access to your computer or network.
+"If you click on a link, they can install ransomware or other programs that can lock you out of your data."
+</text>
+

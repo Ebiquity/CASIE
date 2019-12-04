@@ -1,0 +1,13 @@
+<title> Ransomware shifts focus from holding passwords hostage to hijacking your PC   </title>
+<source> https://www.digitaltrends.com/computing/ransomware-hijacks-password-and-pc-power/ </source>
+<date> 2018_04_12 </date>
+<text>
+A malicious website initially set up to extort visitors to pay a cryptocurrency ransom has changed its course. Instead of demanding payment via Bitcoin, Ethereum, Bitcoin Cash or Litecoin in exchange for not leaking your password on the internet, the site now hijacks your computer’s processing power to mine cryptocurrency in the background.
+Designed as a copy of the Have I Been Pwned attack, the site began by asking users to enter their emails to see if their password has been compromised. Unfortunately, if your password was breached, the site demanded a “donation” of $10 by cryptocurrency to not publish your password in plain text on the web.
+Up to 1.4 billion passwords may have been breached, but it’s unclear how accurate that figure is. However, because it may be easier — and safer — to change your password than pay the ransom, as The Next Web noted, the site shifted its focus from demanding ransomware payments to taking over your PC’s processing power to mine for cryptocurrency in the background. The publication also confirmed that the malicious site did “have a database with legitimate passwords,” but that not all compromised passwords were stored in plain text.
+The Next Web did not reveal the site’s address in its report, citing security reasons, but noted that it doesn’t appear that any user had made payment.
+This is the latest ransomware in recent months that demand cryptocurrency as a form of payment. Prior to this incident, Thanatos encrypted files on a user’s PC by hijacking it using a brute force method. If you want to regain access to those files, you had to send payment via cryptocurrency to get a key to decrypt your files. However, at the time, there didn’t appear to be a proper decryption key even if you paid.
+According to a recent Google report, extortionists made out with $25 million in just two years, and cryptocurrency was the preferred way to get paid.
+Hackers are also changing the game when it comes to data theft. Rather than leaking the information to the dark markets, an IBM X-Force Intelligence Index report revealed that hackers prefer to hold files hostage in exchange for a ransom payment.
+</text>
+

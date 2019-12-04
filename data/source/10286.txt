@@ -1,0 +1,19 @@
+<title> Cisco DoS warning: Patch these 13 high-severity holes in IOS, IOS XE now </title>
+<source> https://www.zdnet.com/article/cisco-dos-warning-patch-these-13-high-severity-holes-in-ios-ios-xe-now/ </source>
+<date> 2018_09_27 </date>
+<text>
+Admins can now grab Cisco's updates for 13 high-severity flaws affecting gear that uses its IOS and IOS XE networking software.
+All the bugs have been rated as having a high security impact because they could be used to gain elevated privileges or jam a device with denial-of-service (DoS) attacks.
+The company also has fixes available for 11 more flaws outlined in 10 advisories with a medium-severity rating, most of which also address issues in IOS and IOS XE, the Linux-based train of Cisco's popular networking operating system.
+The updates for the 13 high-severity IOS and IOS XE flaws are part of Cisco's scheduled twice-yearly patch bundle for this software targeted for September.
+The company reported this week that some IOS XE releases were among 88 Cisco products vulnerable to the DoS attack on Linux systems known as FragmentSmack. 
+And earlier this month it plugged a critical hard-coded password bug in its video surveillance software.
+None of the flaws in the latest advisory is known to have been used in attacks and Cisco isn't aware of any public disclosures.
+Some of the higher severity flaws include a DoS flaw affecting the IOS XE Web UI, which could allow a remote attacker to trigger a reload of the device by sending special HTTP requests to the UI.
+An unauthenticated attacker could exploit this bug in IOS XE releases prior to 16.2.2, while 16.2.2 and later require authentication.
+Another DoS flaw is rooted in the IPsec driver code of multiple Cisco IOS XE platforms and the Cisco ASA 5500-X Series Adaptive Security Appliance (ASA). The buggy code improperly processes malformed IPsec Authentication Header (AH) or Encapsulating Security Payload (ESP) packets.
+"An attacker can exploit this vulnerability by using a crafted ESP or AH packet that meets several other conditions, such as matching the IPsec SA SPI and being within the correct sequence window," notes Cisco.
+This flaw affects six ASR 1000 Series Aggregation Services Routers, and two 4000 Series Integrated Routers.
+Cisco notes that its software is affected if the system has been modified from its default state and configured to terminate IPsec VPN connections, such as LAN-to-LAN VPN, and remote access VPN, but not SSL VPN.  
+</text>
+

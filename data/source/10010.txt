@@ -1,0 +1,15 @@
+<title>Cathay Pacific flags data breach affecting 9.4 million passengers</title>
+<source> https://www.straitstimes.com/asia/east-asia/cathay-pacific-flags-data-breach-affecting-94-million-passengers </source>
+<date> 2018_10_25 </date>
+<text>
+HONG KONG (REUTERS) - Cathay Pacific Airways said on Wednesday (Oct 24) that data of about 9.4 million passengers of Cathay and its unit Hong Kong Dragon Airlines had been accessed without authorisation.
+Cathay said 860,000 passport numbers, about 245,000 Hong Kong identity card numbers, 403 expired credit card numbers and 27 credit card numbers with no card verification value (CVV) were accessed in the breach.
+"We are very sorry for any concern this data security event may cause our passengers," Cathay Pacific chief executive Rupert Hogg said in a statement.
+"We acted immediately to contain the event, commence a thorough investigation with the assistance of a leading cyber-security firm, and to further strengthen our IT security measures."
+Mr Hogg said no passwords were compromised in the breach and the company was contacting affected passengers to give them information on how to protect themselves.
+Cathay Pacific was not immediately available for additional comment outside normal business hours.
+The company said it initially discovered suspicious activity on its network in March this year, and investigations in early May confirmed that certain personal data had been accessed.
+News of Cathay's passenger data breach comes weeks after British Airways revealed that credit card details of hundreds of thousands of its customers were stolen over a two-week period.
+Cathay said in a statement that accessed data includes names of passengers, their nationalities, dates of birth, telephone numbers, e-mail and physical addresses, passport numbers, identity card numbers and historical travel information.
+It added that the Hong Kong Police had been notified about the breach and that there is no evidence any personal information has been misused.
+</text>

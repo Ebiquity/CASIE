@@ -1,0 +1,12 @@
+<title> Microsoft patch for Jet Database Engine vulnerability 'flawed' </title>
+<source> http://techgenix.com/jet-database-engine-patch/ </source>
+<date> 2018_10_23 </date>
+<text>
+Microsoft issued numerous bug fixes on its most recent Patch Tuesday, but according to the security firm 0patch, there were issues with one of the flaws for a critical vulnerability. The vulnerability in question, (CVE-2018-8423), is a memory corruption vulnerability that exists in the Jet Database Engine that, when exploited, allows for remote code execution. 0patch noticed that the patch Microsoft had issued was flawed as a result of studying the official patch of the Jet Database Engine and a “micropatch” that the security researchers had created for the same flaw. They explain this revelation as follows:
+As expected, the update brought a modified msrd3x40.dll binary: this is the binary with the vulnerability, which we had micropatched with 4 CPU instructions (one of which was just for reporting purposes). The version of msrd3x40.dll changed from 4.0.9801.0 to 4.0.9801.5 and of course, its cryptographic hash also changed - which resulted in our micropatch for this issue no longer getting applied to msrd3x40.dll.
+So far so good, but the problems became glaring once further analysis began:
+    We BinDiff-ed the patched msrd3x40.dll to its vulnerable version and reviewed the differences. At this point we will only state that we found the official fix to be slightly different to our micropatch, and unfortunately in a way that only limited the vulnerability instead of eliminating it. We promptly notified Microsoft about it and will not reveal further details or proof-of-concept until they issue a correct fix.
+It may be a little frustrating to not know what the problem is from a tech journalist’s perspective, but as I am also an “ethical” hacker, I totally understand the lack of disclosure on the part of both Microsoft and 0patch. If the flaw is not public knowledge and has not been patched, it makes no sense to hand a cybercriminal the keys to Windows user’s machines.
+What this story shows is how vital the relationship between third-party security researchers and vendors. Without the due diligence of first Trend Micro’s ZDI discovering the original flaw, and then 0patch uncovering the secondary flaw in the patch, Microsoft and their customers would be exposed to hackers with bad intentions.
+</text>
+

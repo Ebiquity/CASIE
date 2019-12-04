@@ -1,0 +1,14 @@
+<title>UK residents hit with extremely personalized scam emails - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/30/uk-scam-emails/ </source>
+<date> 2017_03_31 </date>
+<text>
+A compelling and potentially very successful email spam campaign is being leveraged against UK residents, warns Sophos researcher Paul Ducklin.
+The email addresses the recipients by their first name, the name of the attached file is their last name, and the email body contains their exact address.
+Add to this the claim that the sender has received a significant amount of personal information about the recipient and that this info was likely stolen in a hack, and one can see why many could be persuaded to download the attached file.
+In this particular case, the grammar and spelling mistakes in the email body do not play a factor, as it’s possible that a well-meaning sender of such a warning is not a native English speaker.
+If the recipient downloads and opens the attached Word file, he or she will be prompted to enter the password provided in the email, and to enable macros in order to view the document’s contents.
+Unfortunately, this action allows the file to run a malicious macro program bundled in the file, and it will download what seems to be a GIF file.
+It is not: it contains an executable file – a Trojan that turns the victim’s file into a bot, and ropes it into a botnet.
+As Ducklin noted, the malware included in the file can be easily changed, or the the current bot can download additional malware if so instructed by the attackers.
+Some could (understandably) be worried about the fact that someone out there has much personal info about them, but if they are, it’s best to involve local law enforcement and ask for advice.
+</text>

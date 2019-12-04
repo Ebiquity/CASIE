@@ -1,0 +1,28 @@
+<title>Spy Agency Warns WikiLeaks Dump Designed to Damage US Intelligence</title>
+<source> http://www.voanews.com/a/spy-agency-warns-wikileaks-dump-designed-damage-us-intelligence/3756582.html </source>
+<date> 2017_03_10 </date>
+<text>
+The top U.S. spy agency is going public with concerns about the latest document dump by the online whistle-blower organization WikiLeaks, warning that all Americans should be "deeply concerned" about the potential fallout.
+A spokesman for the U.S. Central Intelligence Agency refused to comment Wednesday on the authenticity of the 8,771 documents, but argued there could be little doubt about WikiLeaks' intentions "to damage the Intelligence Community's ability to protect America against terrorists and other adversaries."
+"Such disclosures not only jeopardize U.S. personnel and operations, but also equip our adversaries with tools and information to do us harm," CIA spokesman Jonathan Liu said in a statement.
+White House press secretary Sean Spicer also expressed alarm Wednesday, telling reporters the U.S. "will go after people who leak classified information."
+"This is the kind of disclosure that undermines our security, our country and our well-being," he told reporters, adding President Donald Trump is "extremely concerned."
+Review of documents
+Like the CIA, Spicer refused to confirm the authenticity of the WikiLeaks documents.
+But several cybersecurity experts and former intelligence officials who reviewed them told VOA that they appeared to be real.
+WikiLeaks said it obtained the documents from a former U.S. government hacker.
+And a U.S. intelligence official told VOA, on condition of anonymity, that it appeared a CIA contractor might have been the source.
+"There's always someone with the permissions to do this sort of thing," said Alex McGeorge, the head of Threat Intelligence at Immunity Inc., a cyber firm that does some work with government agencies.
+McGeorge also said that while the disclosures were damaging, WikiLeaks' claim that the documents dump represented the CIA's "entire hacking capacity" was most likely overblown.
+"What we currently have in this dump doesn't provide a whole lot," he said.
+Many of the WikiLeaks documents appeared to be online transcripts of conversations between intelligence agency employees working to exploit software to turn digital devices — such as mobile phones like Apple or Android smartphones, or even Samsung's smart televisions — into listening devices.
+Limiting damage
+But at least for now, WikiLeaks appears to be limiting the damage.
+"They didn't disclose the code, at least, and populate the marketplace with what we would consider cyberweapons left on the battlefield that can be reverse-engineered and used against us," said Jeff Bardin, CIO of the cybersecurity firm Treadstone 71 and a former member of U.S. Air Force intelligence.
+In its statement Tuesday, WikiLeaks said it was only holding off on releasing the critical codes "until a consensus emerges on the technical and political nature of the CIA's program and how such weapons should be analyzed, disarmed and published."
+Even more worrisome for some current and former U.S. and Western officials, though, is the possibility of Russian involvement.
+"I'm now pretty close to the position that WikiLeaks is acting as an arm, as an agent of the Russian Federation," former CIA Director Michael Hayden, a retired Air Force general, told CNN Wednesday.
+Other former officials noted Russia was on the short list of countries capable of foiling the CIA's cyber efforts.
+"It is in Russia's interest to see the CIA discredited," former British cybersecurity official Jonathan Shaw said Tuesday, following the WikiLeaks disclosure.
+A January report by the U.S. intelligence community also concluded with "high confidence" there was an ongoing relationship between Russian intelligence and WikiLeaks.
+</text>

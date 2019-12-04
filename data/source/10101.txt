@@ -1,0 +1,19 @@
+<title> Hackers connected to NotPetya ransomware issue a new ransom demand  </title>
+<source> https://www.news.com.au/technology/online/hacking/hackers-connected-to-notpetya-ransomware-issue-a-new-ransom-demand/news-story/00b226d8e46d09351ea1c11aeb535986 </source>
+<date> 2017_07_06 </date>
+<text>
+HACKERS connected with last week’s devastating NotPetya cyber attack have offered help — but it comes at a price.
+HACKERS connected with the ransomware that devastated overseas banks, power stations, and even Cadbury factories in Australia last week have issued a new ransom demand — and it’s for much more money than before.
+The new ransom note was published in two places on the Dark Web and demanded a payment of 100 Bitcoins, or about $340,000, in return for a private security key that could decrypt any file locked by the Petya/Goldeneye malware.
+The hackers even opened a chat room and offered to decrypt one file for potential buyers as proof that the key would work, though it’s not clear whether this was a bluff.
+The demand was a significant increase on the ransomware’s initial request for just less than $400 in Bitcoin when the malware was launched in the Ukraine last Tuesday before rapidly spreading through computer networks worldwide.
+Bitcoin transactions show its creators were able to access more than $13,000 paid by victims, however, even though their email address was suspended by its German provider.
+It’s not known whether victims who paid the ransom received a security key to unlock their files.
+The dangerous ransomware affected as many as 16,000 computers in 64 countries, according to security firm Clavister, and crippled the operations of several European companies.
+Some Australian businesses were also affected through their international connections, including Cadbury factories in Tasmania and Victoria, TNT Express courier services, and the offices of law firm DLA Piper.
+The demand or money came amid growing speculation that the ransomware was not designed to make a profit, but was a form of digital terrorism or industrial espionage.
+ESET senior research fellow Nick FitzGerald said the Petya malware was designed to kill computers first, and ask for money second.
+“(Being ransomware) was a mechanism to help hide the trail of a gang of cyber terrorists or spies,” he said.
+Mr FitzGerald advised victims not to pay any ransom as there was very little chance they would be able to unlock their files.
+</text>
+

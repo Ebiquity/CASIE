@@ -1,0 +1,23 @@
+<title> Unpatched routers bad, doubly unpatched routers worse – much, much worse! </title>
+<source> https://nakedsecurity.sophos.com/2018/10/08/unpatched-routers-bad-doubly-unpatched-routers-worse-much-much-worse/ </source>
+<date> 2018_10_08 </date>
+<text>
+Back in August we wrote about a security bugfix for Mikrotik routers that was reverse engineered and turned into a working exploit.
+Indeed, patches that fix security vulnerabilities often end up giving away enough about the vulnerability that both good guys and bad guys alike can weaponise it from first principles – all without having to figure out the vulnerability in the first place.
+In the August 2018 case, dubbed CVE-2018-14847, a crook could trick an unpatched Microtik router into coughing up the contents of any file on the device, including the password file.
+Worse still, the password file included plaintext passwords, with no salting, hashing or stretching, meaning that a security bypass bug could be parlayed into a credential compromise.
+
+The perils of late patching
+What we didn’t know back then was that security researchers at Tenable had responsibly disclosed another bunch of Mikrotik router bugs at about the same time.
+These bugs were serious – indeed, one of them allows a attacker to run any program of their choosing, just by making a web request to the router.
+This sort of hole is known, for rather obvious reasons, as an RCE, short for Remote Code Execution.
+Tenable’s bugs, however, were what’s known as “authenticated vulnerabilities”, meaning that you had to be logged in first in order to be able to exploit them.
+Security holes that require pre-authentication may seem harmless at first sight – after all, if you already have a username and password, or some other access token, that gives you access to a system…
+…well, you’re already in, so it sounds as though breaking in again can be dismissed as an irrelevancy.
+The good news is that Mikrotik has already patched Tenable’s now-disclosed bugs, dubbed CVE-2018-1156, -1157, -1158 and -1159.
+Make sure you have the latest Mikrotik firmware updates, which are: 6.40.9, 6.42.7 or 6.43, depending on whether you’re using the current, previous or pre-previous version.
+If you’re a Mikrotik user, skipping the latest patch leaves you at risk, but if you still haven’t applied the previous patch, you’re in double trouble.
+With both patches missing, you’re open to an unauthenticated password disclosure bug that could then be chained with the newer authenticated remote code execution bug.
+In other words, instead of anyone being able to get some access, or some people being able to get full access, anyone could get full access by pivoting from CVE-2018-14847 to CVE-2018-1156, the RCE flaw.
+</text>
+

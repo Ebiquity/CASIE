@@ -1,0 +1,17 @@
+<title> Kubernetes' first major security hole discovered </title>
+<source> https://www.zdnet.com/article/kubernetes-first-major-security-hole-discovered/ </source>
+<date> 2018_12_07 </date>
+<text>
+Kubernetes has12 become the most popular cloud container orchestration system by far, so it was only a matter of time until its first major security hole was discovered. And the bug, CVE-2018-1002105, aka the Kubernetes privilege escalation flaw, is a doozy. It's a CVSS 9.8 critical security hole.
+With a specially crafted network request, any user can establish a connection through the Kubernetes application programming interface (API) server to a backend server. Once established, an attacker can send arbitrary requests over the network connection directly to that backend. Adding insult to injury, these requests are authenticated with the Kubernetes API server's Transport Layer Security (TLS) credentials.
+Worse still, "In default configurations, all users (authenticated and unauthenticated) are allowed to perform discovery API calls that allow this escalation." So, yes, anyone who knows about this hole can take command of your Kubernetes cluster.
+Oh, and for the final jolt of pain: "There is no simple way to detect whether this vulnerability has been used. Because the unauthorized requests are made over an established connection, they do not appear in the Kubernetes API server audit logs or server log. The requests do appear in the kubelet or aggregated API server logs, but are indistinguishable from correctly authorized and proxied requests via the Kubernetes API server."
+In other words, Red Hat said, "The privilege escalation flaw makes it possible for any user to gain full administrator privileges on any compute node being run in a Kubernetes pod. This is a big deal. Not only can this actor steal sensitive data or inject malicious code, but they can also bring down production applications and services from within an organization's firewall."
+The only real fix is to upgrade Kubernetes.
+Any program, which includes Kubernetes, is vulnerable. Kubernetes distributors are already releasing fixes.
+Red Hat reports all its "Kubernetes-based services and products -- including Red Hat OpenShift Container Platform, Red Hat OpenShift Online, and Red Hat OpenShift Dedicated -- are affected." Red Hat has begun delivering patches and service updates to affected users.
+As far as anyone knows, no one has used the security hole to attack anyone yet. Darren Shepard, chief architect and co-founder at Rancher Labs, discovered the bug and reported it using the Kubernetes vulnerability reporting process.
+But -- and it's a big but -- abusing the vulnerability would have left no obvious traces in the logs. And, now that news of the Kubernetes privilege escalation flaw is out, it's only a matter of time until it's abused.
+So, once more and with feeling, upgrade your Kubernetes systems now before your company ends up in a world of trouble.
+</text>
+

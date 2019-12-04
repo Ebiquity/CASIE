@@ -1,0 +1,28 @@
+<title>Ransomware Has Evolved, And Its Name Is Doxware</title>
+<source> http://www.darkreading.com/attacks-breaches/ransomware-has-evolved-and-its-name-is-doxware/a/d-id/1327767 </source>
+<date> 2017_01_05 </date>
+<text>
+In recent years, ransomware has become a growing concern for companies in every industry.
+Between April 2015 and March 2016, the number of individuals affected by ransomware surpassed 2 million — a 17.7% increase from the previous year.
+Ransomware attacks function by breaching systems, usually through infected email, and locking important files or networks until the user pays a specified amount of money.
+According to FBI statistics cited in a Malwarebytes report, hackers gained more than $209 million from ransomware payments in the first three months of 2016, putting ransomware on track to rake in nearly $1 billion this year.
+But as a result of increased ransom-avoidance, cybercriminals have created an even more insidious threat.
+Imagine malware that combines ransomware with a personal data leak: this is what the latest threat, doxware, looks like.
+With doxware, hackers hold computers hostage until the victim pays the ransom, similar to ransomware.
+But doxware takes the attack further by compromising the privacy of conversations, photos, and sensitive files, and threatening to release them publicly unless the ransom is paid.
+Because of the threatened release, it's harder to avoid paying the ransom, making the attack more profitable for hackers.
+In 2014, Sony Pictures suffered an email phishing malware attack that released private conversations between top producers and executives discussing employees, actors, industry competitors, and future film plans, among other sensitive topics.
+And ransomware attacks have claimed a number of recent victims, especially healthcare systems, including MedStar Health, which suffered a major attack affecting 10 hospitals and more than 250 outpatient centers in March 2016.
+Combine the data leak of Sony and the ransomware attack on MedStar and you can see the potential fallout from a doxware attack.
+Doxware requires strategic, end-to-end planning, which means hackers will target their victims more deliberately.
+Looking at the data leaked from Sony, it's easy to imagine the catastrophic effect doxware would have on an executive of any major corporation.
+Company leaders hold countless conversations over email each day on sensitive topics ranging from product development to competition to internal politics, and if there's a doxware attack, the fallout could be extensive.
+Expect Things to Get WorseThe technology behind doxware is still new, but expect the problem to become worse.
+Recent attacks have been contained to Windows desktop computers and laptops, but this will certainly change.
+Once the malware can infiltrate mobile devices, the threat will become even more pervasive, with text messages, photos, and data from apps at risk for being leaked.
+It's also highly likely that doxware will target more types of files.
+Workplace emails are currently a big target for hackers.
+However, a company's internal communications/instant messaging network is also appealing to hackers using doxware, as the messaging network often serves as a platform where both sensitive business discussion and casual conversations take place, potentially exposing both company secrets and personally embarrassing exchanges.
+One of these variants hold files ransom with the threat of release and then steals a victim's passwords.
+Another mutation, Popcorn Time, takes doxware even further giving victims the option to infect two of their friends with the malware instead of paying the ransom.
+</text>

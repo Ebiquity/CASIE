@@ -1,0 +1,12 @@
+<title> School district picks up the pieces in wake of data breach   </title>
+<source> https://www.bradenton.com/news/local/education/article131998659.html </source>
+<date> 2017_02_11 </date>
+<text>
+ When a representative from the Internal Revenue Service arrived at the Manatee County School Board offices last week to pick up information on a cyber attack in January, Chief Information Officer Patrick Fletcher gave him a double take.
+On Feb 3, district administrators learned that two payroll employees had fallen for an email phishing scam. A hacker posing as Superintendent Diana Greene sent an email to one of the employees, requesting all W-2 forms for district employees. The Manatee payroll employee complied, and with the help of another employee, sent the hacker a PDF file containing all 7,700 W-2s for any employee who worked in the district in 2016.
+Because of the freshness of the attack, Fletcher wasn’t taking any chances. Rather than hand over the sensitive information to the man claiming to be from the government, Fletcher drove the file down to the IRS office himself.
+“Now we are going to be like Fort Knox,” said Deputy Superintendent Ron Ciranna.
+That vigilance may seem like too little, too late to the 7,700 district employees whose information was leaked through what many have characterized as an obvious scam.
+But school district officials say they are doing everything they can to help employees regroup after the attack. The district notified employees as soon as administrators learned of the attack and purchased identity protection and credit monitoring for all employees, and Ciranna said the district will be increasing its cyber-security training.
+</text>
+

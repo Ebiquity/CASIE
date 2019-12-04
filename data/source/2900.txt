@@ -1,0 +1,19 @@
+<title> Ulster University Also Suffered Ransomware Outage This Week </title>
+<source> https://www.infosecurity-magazine.com/news/ulster-university-also-suffered/ </source>
+<date> 2017_06_16 </date>
+<text>
+A second UK university has been hit by a major ransomware attack this week, as new figures showed the country is the most frequently targeted by the malware in Europe.
+The attack appears to have struck Northern Ireland’s Ulster University on the same day a ransomware outage affected University College London (UCL).
+Ulster Uni’s Information Services Division (ISD) revealed yesterday that its AV partner suspects a zero-day threat was the cause, also echoing the current thinking at UCL.
+Three departmental file shares have been affected and remained at “read only” access at the time of writing.
+Like its counterparts at UCL, Ulster University’s ISD appears to be following best practice regarding back-ups, which will help mitigate the impact of the attack.
+It explained:
+“ISD take backups of all our shared drives and this should protect most data even if it has been encrypted by the malware. Once we are confident the infections have been contained, then we will restore the most recent back up of the file. ISD can confirm that a backup of the shares was successfully taken at close of business on Tuesday 12th June.”
+Fraser Kyne, EMEA CTO at Bromium, urged all UK university IT teams to be on high alert for possible attacks.
+“The initial reports are suggesting that the ransomware was able to get in at UCL through a zero-day exploit, which allowed it to bypass antivirus software,” he added. “That really underscores the limitations of antivirus; in that it is only able to stop things that it knows are bad. Given that most malware is only seen once in the wild before it evolves into something different, there’s very little that antivirus can offer in the way of protection.”
+UCL now believes the initial infection vector was a user visiting a compromised website rather than opening a phishing email attachment as first thought.
+The latest stats from Malwarebytes show the UK is the hardest hit in Europe when it comes to ransomware.
+There were three-times as many detections in the UK in Q1 2017 than the next most impacted country: France. In fact, while ransomware infections dropped 4% across Europe they increased 57% in the UK year-on-year.
+The total volume of cyber-attacks on UK firms soared 500% year-on-year, with no single threat type declining. Across Europe, Italy and the UK were almost tied as having the highest number of malware detections in Europe; 16.3% and 16.2% respectively.
+</text>
+

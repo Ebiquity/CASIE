@@ -1,0 +1,21 @@
+<title>WikiLeaks Files Show the CIA Repurposing Hacking Code to Save Time, Not to Frame Russia</title>
+<source> https://theintercept.com/2017/03/08/wikileaks-files-show-the-cia-repurposing-foreign-hacking-code-to-save-time-not-to-frame-russia/ </source>
+<date> 2017_03_09 </date>
+<text>
+Attributing hacking attacks to the correct perpetrators is notoriously difficult.
+Even the U.S. government, for all its technical resources and expertise, took warranted criticism for trying to pin a high-profile 2014 cyberattack on North Korea, and more recently faced skepticism when it blamed Russia for hacks against top Democrats during the 2016 election.
+In those cases, government officials said they based their attribution in part on software tools the hackers employed, which had been used in other cyberattacks linked to North Korea and Russia.
+But that sort of evidence is not conclusive; hackers have been known to intentionally use or leave behind software and other distinctive material linked to other groups as part of so-called false flag operations intended to falsely implicate other parties.
+Researchers at Russian digital security firm Kaspersky Lab have documented such cases.
+On Tuesday, WikiLeaks published a large cache of CIA documents that it said showed the agency had equipped itself to run its own false-flag hacking operations.
+The documents describe an internal CIA group called UMBRAGE that WikiLeaks said was stealing the techniques of other nation-state hackers to trick forensic investigators into falsely attributing CIA attacks to those actors.
+According to WikiLeaks, among those from whom the CIA has stolen techniques is the Russian Federation, suggesting the CIA is conducting attacks to intentionally mislead investigators into attributing them to Vladimir Putin.
+“With UMBRAGE and related projects, the CIA can not only increase its total number of attack types, but also misdirect attribution by leaving behind the ‘fingerprints’ of the groups that the attack techniques were stolen from,” WikiLeaks writes in a summary of its CIA document dump.
+It’s a claim that seems intended to shed doubt on the U.S. government’s attribution of Russia in the DNC hack; the Russian Federation was the only nation specifically named by WikiLeaks as a potential victim of misdirected attribution.
+It’s also a claim that some media outlets have accepted and repeated without question.
+“WikiLeaks said there’s an entire department within the CIA whose job it is to ‘misdirect attribution by leaving behind the fingerprints’ of others, such as hackers in Russia,” CNN reported without caveats.
+It would be possible to leave such fingerprints if the CIA were reusing unique source code written by other actors to intentionally implicate them in CIA hacks, but the published CIA documents don’t say this.
+Instead, they indicate the UMBRAGE group is doing something much less nefarious.
+They say UMBRAGE is borrowing hacking “techniques” developed or used by other actors to use in CIA hacking projects.
+This is intended to save the CIA time and energy by copying methods already proven successful.
+</text>

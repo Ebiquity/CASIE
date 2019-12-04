@@ -1,0 +1,14 @@
+<title>Hollywood hospital pays $17,000 in bitcoin to hackers; FBI investigating</title>
+<source> http://www.latimes.com/business/technology/la-me-ln-hollywood-hospital-bitcoin-20160217-story.html </source>
+<date> 2018_02_18 </date>
+<text>
+Hollywood Presbyterian Medical Center paid a $17,000 ransom in bitcoin to a hacker who seized control of the hospital's computer systems and would give back access only when the money was paid, the hospital's chief executive said Wednesday.
+The assault on Hollywood Presbyterian occurred Feb 5, when hackers using malware infected the institution's computers, preventing hospital staff from being able to communicate from those devices, said Chief Executive Allen Stefanek.
+The hacker demanded 40 bitcoin, the equivalent of about $17,000, he said.
+"The malware locks systems by encrypting files and demanding ransom to obtain the decryption key. The quickest and most efficient way to restore our systems and administrative functions was to pay the ransom and obtain the decryption key," Stefanek said. "In the best interest of restoring normal operations, we did this."
+The hospital said it alerted authorities and was able to regain control of all its computer systems by Monday, with the assistance of technology experts.
+Stefanek said patient care was never compromised, nor were hospital records.
+Top hospital officials called the Los Angeles Police Department last week, according to police Lt John Jenal.
+Laura Eimiller, an FBI spokeswoman, said the bureau has taken over the hacking investigation but declined to discuss specifics of the case. Law enforcement sources told The Times that the hospital paid the ransom before reaching out to law enforcement for assistance.
+The attack forced the hospital to return to pen and paper for its record-keeping.
+</text>

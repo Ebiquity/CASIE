@@ -1,0 +1,12 @@
+<title> Ransomware attack knocks out Madison county's system  </title>
+<source> https://www.localnews8.com/news/rexburg/ransomware-attack-knocks-out-madison-county-s-system/805840532 </source>
+<date> 2018_10_11 </date>
+<text>
+Officials in Madison County say a ransomware attack has left the county struggling to conduct business.
+ County Commissioner Brent Mendenhall tells the Post Register in a story on Wednesday county employees have been unable to send emails since Sunday.
+ Madison County Clerk Kim Muir says the county is using backup data from Saturday to issue paychecks Thursday.
+ The objective of ransomware is to cut off a user's access to computer systems and then demand payment to return that access.
+ Mendenhall and Muir say they have no intention of paying the ransom and haven't looked to see how much is being demanded.
+ Mendenhall credited county workers for backing up data, meaning the system can be restored without paying the ransom.
+</text>
+

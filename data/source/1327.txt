@@ -1,0 +1,19 @@
+<title> LastPass Races to Fix Yet Another Serious Flaw </title>
+<source> https://www.infosecurity-magazine.com/news/lastpass-races-to-fix-yet-another/ </source>
+<date> 2017_03_28 </date>
+<text>
+LastPass engineers have Google researcher Tavis Ormandy to thank yet again for another busy few days after the British white hat found a second critical bug in the password manager.
+Ormandy tweeted over the weekend that he began ‘working’ on the research in an unusual location:
+“Ah-ha, I had an epiphany in the shower this morning and realized how to get codeexec in LastPass 4.1.43. Full report and exploit on the way.”
+On Monday, LastPass responded by explaining that the Google Project Zero man had reported a new client-side vulnerability in its browser extension.
+“We are now actively addressing the vulnerability. This attack is unique and highly sophisticated,” it added.
+“We don’t want to disclose anything specific about the vulnerability or our fix that could reveal anything to less sophisticated but nefarious parties. So you can expect a more detailed post mortem once this work is complete.”
+The firm offered a few steps that users could take to protect themselves from client-side security issues.
+These include: launching sites directly from the LastPass vault; switching on two-factor authentication for any site that offers it; and to be constantly on the lookout for phishing attacks.
+It’s the second vulnerability in a week that Ormandy has reported to LastPass.
+Last week, the password manager firm was forced to fix a critical zero day that would have allowed remote code execution, enabling an attacker to steal users’ passwords.
+The prolific Ormandy also helped to make the firm more secure last year when he found “a bunch of obvious critical problems” in the service.
+Yet he has also publicly appeared to query the logic of using an online service which, if breached, could give up its customers’ passwords.
+One Twitter follower claimed at the time: “I'm perplexed anyone uses an online service to store passwords.” Ormandy responded: “Yeah, me too.”
+</text>
+

@@ -1,0 +1,16 @@
+<title>Can your Netgear router be hijacked? Check now! - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/31/netgear-routers-hijacking/ </source>
+<date> 2017_02_01 </date>
+<text>
+Yesterday, researcher Simon Kenin of Trustwave SpiderLabs released information about an authentication bypass flaw affecting a wide variety of Netgear routers, as well as PoC attack code for triggering it.
+The vulnerability (CVE-2017-5521) can be exploited by attackers to discover the password required to take over control of an affected device.
+“The bug is exploitable remotely if the remote management option is set and can also be exploited given access to the router over LAN or WLAN,” he explained.
+“When trying to access the web panel a user is asked to authenticate, if the authentication is cancelled and password recovery is not enabled, the user is  redirected to a page which exposes a password recovery token.
+If a user supplies the correct token to the page http://router/passwordrecovered.cgi?id=TOKEN (and password recovery is not enabled), they will receive the admin password for the router”.
+He discovered the vulnerability almost a year ago, but revealed it only now because Netgear has been slow to push out fixed firmware for affected devices.
+“In June [2016] Netgear published a notice that provided a fix for a small subset of vulnerable routers and a workaround for the rest.
+They also made the commitment to working toward 100% coverage for all affected routers,” he noted.
+“The notice has been updated several time since then and currently contains 31 vulnerable models, 18 of which are patched now, and 2 models that they previously listed as vulnerable, but are now listed as not vulnerable.
+In fact, our tests show that one of the models listed as not vulnerable (DGN2200v4) is, in fact, vulnerable and this can easily be reproduced with the POC provided in our advisory”.
+Trustwave found over 10,000 remotely accessible vulnerable devices, and estimates that there are many more non-remotely accessible affected devices in use – possibly even a million.
+</text>

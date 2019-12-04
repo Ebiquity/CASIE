@@ -1,0 +1,25 @@
+<title>Computer ransomware that locks out users flourishes in pay-to-make-it-go-away Japan | The Japan Times</title>
+<source> http://www.japantimes.co.jp/news/2017/03/12/national/computer-ransomware-locks-users-flourishes-pay-make-go-away-japan/#.WMVteBLyuSM </source>
+<date> 2017_03_13 </date>
+<text>
+Companies and individuals in Japan are finding their computers are increasingly targeted by ransomware campaign that bar victims from accessing important files unless they pay money.
+“Attacks on Japanese businesses have been particularly large in number,” said Masakatsu Morii, a professor of information and telecommunications engineering at Kobe University’s Graduate School of Engineering.
+Ransomware typically infects computers when its user opens a file attached to spam mail from a sender pretending to be a legitimate entity such as a parcel delivery company, according to the government-affiliated Information-Technology Promotion Agency.
+The malicious programs encrypt the infected computers’ files, and users can only open them after paying the perpetrators money to obtain a special key to unlock them.
+Yoshihito Kurotani, a researcher at the agency’s engineering department, said the programs employ basic encryption technologies.
+Kurotani’s agency has received numerous inquiries asking for help from victims who cannot access their photos or business files.
+The bogus emails “used to be written in English or unnatural Japanese, but we have seen increasing attacks using natural Japanese recently,” Kurotani said.
+Computer security firm Trend Micro Inc. said it received 2,810 reports of ransomware attacks nationwide in 2016 — a 3.5-fold jump from the previous year.
+“Tactics are expected to be even more sophisticated in 2017,” a Trend Micro official said.
+A survey conducted by the firm last June shows that about 60 percent of companies that were attacked paid ransoms.
+The payment in one case exceeded ¥10 million ($88,000).
+The extortion and the transactions in the ransomware programs themselves have become a profitable business for cybercriminals.
+The programs are traded on online black markets that cannot be accessed without the use of special software.
+In the “dark web” networks, various programs are sold, including multilingual ones and one that can be used for a “lifetime” for just $39.
+The people who post the programs make profits by taking a share of ransoms collected.
+Firms undertaking the delivery of unsolicited emails do business there, too.
+Katsuyuki Okamoto, a security “evangelist” at Trend Micro, said it has become easier and easier to be involved in or become a victim of cybercrime.
+Cybersecurity experts warn that users should protect their computers by always keeping operating systems and anti-malware software up-to-date and should constantly back up their data.
+They said victims should never pay ransoms as there is no guarantee their files will actually be restored.
+“If you pay money to the criminals, that will only help them create a new virus,” Okamoto said.
+</text>

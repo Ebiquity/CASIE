@@ -1,0 +1,15 @@
+<title>Massive cyber attack affecting 500 industrial companies in 50 countries, says Kaspersky</title>
+<source> https://roboticsandautomationnews.com/2017/01/05/massive-cyber-attack-affecting-500-industrial-companies-in-50-countries-says-kaspersky/10101/ </source>
+<date> 2017_01_06 </date>
+<text>
+Robotics & Automation News
+Market trends and business perspectives
+January 5, 2017 by Mark Allinson 
+    A globally co-ordinated cyber attack has hit 500 industrial companies in 50 countries in the past few months, according to security company Kaspersky.
+The worst affected were companies in the smelting, electric power generation and transmission, construction, and engineering industries.
+The attacks take the form of emails purportedly from famous companies – such as DHL and Saudi Aramco – and most were sent from “legitimate email addresses belonging to valid organizations”, says Kaspersky.
+However, Kaspersky says its analysis of the emails compared to known malware shows that “no new code was written specifically for this attack”.
+Kaspersky says the hackers could have accessed and read previous communications between the target and their partners.
+They may then have used this information to craft email communications which appear to be legitimate, so that the victim didn’t recognize the malicious aspect of the email.
+If the email is opened, it can steal the user’s authentication credentials, which are send to a remote server.
+</text>

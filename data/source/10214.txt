@@ -1,0 +1,16 @@
+<title> Thousands of Jenkins servers will let anonymous users become admins </title>
+<source> https://www.zdnet.com/article/thousands-of-jenkins-servers-will-let-anonymous-users-become-admins/ </source>
+<date> 2018_12_16 </date>
+<text>
+Thousands, if not more, Jenkins servers are vulnerable to data theft, takeover, and cryptocurrency mining attacks. This is because hackers can exploit two vulnerabilities to gain admin rights or log in using invalid credentials on these servers.
+Both vulnerabilities were discovered by security researchers from CyberArk, were privately reported to the Jenkins team, and received fixes over the summer. But despite patches for both issues, there are still thousands of Jenkins servers available online.
+Jenkins is a web application for continuous integration built in Java that allows development teams to run automated tests and commands on code repositories based on test results, and even automate the process of deploying new code to production servers.
+Jenkins is a popular component in many companies' IT infrastructure and these servers are very popular with both freelancers and enterprises alike.
+Over the summer, CyberArk researchers discovered a vulnerability (tracked as CVE-2018-1999001) that allows an attacker to provide malformed login credentials that cause Jenkins servers to move their config.xml file from the Jenkins home directory to another location.
+If an attacker can cause the Jenkins server to crash and restart, or if he waits for the server to restart on its own, the Jenkins server then boots in a default configuration that features no security.
+In this weakened setup, anyone can register on the Jenkins server and gain administrator access. With an administrator role in hand, an attacker can access private corporate source code, or even make code modifications to plant backdoors in a company's apps.
+This lone issue would have been quite bad on its own, but CyberArk researchers also discovered a second Jenkins vulnerability --CVE-2018-1999043.
+This second bug, they said, allowed an attacker to create ephemeral user records in the server's memory, allowing an attacker a short period when they could authenticate using ghost usernames and credentials.
+Both vulnerabilities were fixed, the first in July and the second in August, but as we've gotten accustomed to in the past few years of covering security flaws, not all server owners have bothered to install these security updates.
+</text>
+

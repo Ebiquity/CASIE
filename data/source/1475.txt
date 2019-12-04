@@ -1,0 +1,18 @@
+<title>Survey Highlights Downtime as a Key Cost of Ransomware Attacks</title>
+<source> http://finance.yahoo.com/news/survey-highlights-downtime-key-cost-110400229.html </source>
+<date> 2017_04_05 </date>
+<text>
+Imperva, Inc (IMPV), committed to protecting business-critical data and applications in the cloud and on-premises, today announced the results of a survey of 170 security professionals taken at RSA 2017, the world’s largest security conference, exploring their experiences with ransomware.
+Thirty-two percent of respondents said their company had been infected with ransomware with 11 percent taking longer than a week to regain access to their systems after an attack.
+According to CNN, in 2016, the FBI estimated that ransomware would be a $1 billion a year crime.
+More than half (59 percent) of those surveyed said that the cost of downtime due to lack of access to systems for customers and employees was the biggest business impact of a ransomware attack.
+Twenty-nine percent said that if their company suffered a ransomware attack which resulted in downtime, they would be losing between $5,000 and $20,000 a day.
+Twenty-seven percent thought that the amount could be over $20,000 a day.
+“Whether companies choose to pay the extortion or not, the real cost of ransomware is downtime and lost productivity,” said Terry Ray, chief product strategist at Imperva.
+“Even if victims have backup files or are willing to pay the ransom, the cost associated with productivity downtime adds up quickly.
+What’s more, the availability of ransomware-as-a-service, combined with high profits for the attackers, means ransomware attacks are likely to escalate in 2017,” he added.
+“The interesting thing about ransomware is how simple it is to execute and how easy it is to inflict damage.
+Organizations tend to think of hacking as though it was rocket science which always puts them on the losing end.
+The reality is that hacking is most often simple, and mitigating it requires proper attention and tools which do exist and are within reach of most enterprises.
+Hacking is a serious business and enterprises should, therefore, treat information security seriously,” Ray concluded.
+</text>

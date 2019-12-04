@@ -1,0 +1,18 @@
+<title>AlphaBay Dark Web marketplace hacked, private messages leaked | ZDNet</title>
+<source> http://www.zdnet.com/article/alphabay-dark-web-marketplace-hacked-private-messages-leaked/ </source>
+<date> 2017_01_26 </date>
+<text>
+One of the largest trading posts on the Dark Web, AlphaBay, has rewarded a researcher for disclosing the existence of a vulnerability which allowed him to steal over 200,000 private messages exchanged between users and sellers.
+Earlier this week, the hacker, known only as Cipher0007, disclosed the existence of two "high-risk" bugs through Reddit.
+In a forum post, the hacker said the two security flaws could be exploited to snatch private messages.
+Cipher0007 was able to compromise AlphaBay and steal the first and last names of buyers and sellers, nicknames, addresses, and the tracking IDs of packages sent by traders when included in the messages and not protected by PGP keys.
+The hacker also issued a number of screenshots of private messages as proof, which revealed the messages were not encrypted by default.
+After disclosing the vulnerabilities on Reddit, Cipher0007 opened a number of support tickets on AlphaBay, warning the Dark Web trading post of the potentially devastating bugs which could compromise the privacy and identities of users.
+In a statement on PasteBin, AlphaBay confirmed the validity of the vulnerabilities and said the bugs allowed the hacker to slurp a total of 218,000 messages which were not older than 30 days.
+Older messages are automatically purged from the system.
+The attacker was paid for disclosing the flaws rather than selling them on or releasing the stolen information to the public.
+In return, Cipher0007 revealed his methods and several hours later AlphaBay developers were able to close the loopholes.
+As Dark Web marketplaces must provide strong assurances that users will remain anonymous due to the nature of goods sold there, often illegally, these kinds of vulnerabilities have the potential to destroy such businesses.
+Alternatively, these security flaws would be of interest to law enforcement agencies attempting to close down such operations -- and may have been known to them before the hacker discovered the bugs.
+Unless users indulging in risky, illegal trading take responsibility for their own privacy by using PGP keys and personal encryption, they cannot cry foul if their personal information is leaked.
+</text>

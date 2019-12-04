@@ -1,0 +1,21 @@
+<title>'Targeted attack gone wrong': Was the WannaCry ransomware epidemic an accident?</title>
+<source> http://www.ibtimes.co.uk/targeted-attack-gone-wrong-was-wannacry-ransomware-epidemic-accident-1621715 </source>
+<date> 2017_05_16 </date>
+<text>
+The ransomware attack targeting global hospitals, governments and telecoms using a leaked National Security Agency (NSA) exploit may be the result of a "targeted attack gone horribly wrong", according to a team of well-regarded security researchers.
+Experts from Recorded Future, a threat intelligence company headquartered in the US, say analysis of the hackers' bitcoin addresses – set up to receive money from infected computers – indicates the attackers were unprepared for such a widespread incident.
+"A part of carefully planned large-scale ransomware attack requires a separate bitcoin address for each victim, guaranteeing the miscreant controlling the operation would later be able to identify the payment and decrypt the correct system," wrote security expert John Wetzel in a blog post.
+He said in the WannaCry ransomware campaign, however, only a "handful" of wallets were used.
+"Such unusual behaviour suggests the current epidemic was never planned by criminals, and resulted from targeted attacks going horribly wrong," he added.
+At the time of writing, the criminals' bitcoin wallets have received over $40,000 worth of bitcoin, a type of cryptocurrency. All funds remain untouched.
+The security firm said the inaction is likely due to "intense scrutiny" of police and investigators.
+"Unintended or not, the scale and scope of damage in this attack is unprecedented. Criminals will utilise any method available in their pursuit of monetary gain. While the gain in this attack was limited, the damage was massive, and possibly avoidable," Wetzel noted.
+Recorded Future is just one of many firms probing the malware – which was exploiting the same Microsoft Windows vulnerability as a leaked NSA exploit called EternalBlue.
+The bug, patched in March 2017, targeted the SMB (Server Message Block), experts found.
+Microsoft has been outspoken on the topic of the NSA storing vulnerabilities for its software.
+"Repeatedly, exploits in the hands of governments have leaked into the public domain and caused widespread damage," said the firm's president, Brad Smith, on 14 May.
+"We expect to see further attacks from variants of this malware," warned Recorded Future, adding: "The best advice is to update your antivirus on endpoints, to ensure that all Windows systems are fully patched, to configure firewalls to block access to SMB and RDP ports."
+On 15 May, as the UK working week was set to begin, fears mounted that a second round of infections could take place. According to Kaspersky Lab's Costin Raiu, the malware was still in circulation, but appeared to be less widespread than previously predicted.
+"Kaspersky Lab has noted about 500 new attempted WannaCry attacks across its customer base – by comparison, on 12 May (Friday) there were six times as many attempts during the first hour alone. This suggests the infection may be coming under control," Raiu said.
+Security experts, including MalwareTech and Matt Suiche, worked through the weekend (13-14 May) to locate so-called "kill-switches" that could curb the spread of the ransomware. At the same, law enforcement around the world launched investigations into the incident.
+</text>

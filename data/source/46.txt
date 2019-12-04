@@ -1,0 +1,21 @@
+<title>Latest iMessage Hack Crashes iPhone within Minutes</title>
+<source> https://www.hackread.com/latest-imessage-hack-crashes-iphone-within-minutes/ </source>
+<date> 2017_01_04 </date>
+<text>
+It lets users send out text messages as well as audio messages, videos and pictures.
+It is also possible to personalize the messages sent via iMessage with a variety of animations using other Apple apps.
+This particular app is compatible with iOS, watchOS and macOS.
+Basically, it is a very widely used app by iPhone users.
+So when there is a bug in the app that is so severe that it can crash the phone easily, then users are bound to get concerned.
+According to reports, there is a nefarious text message that is being sent to iPhone users even on those phones that run on the latest iOS 10.
+This message is quite troublesome for users because it has the power to crash their phones within minutes.
+The new iMessage hack lets the attackers disable the Message app through sending an extensive contact record.
+This record file is pretty huge so as soon as the user taps on the recorded message, it immediately over-burdens the OS and terminates the app.
+The problem is that iPad and iPhone users who use iOS8 to iOS10.2.1 versions cannot do anything to prevent this assault.
+The most disturbing part of the hack is that it is very difficult to prevent or avoid unless the recipient of the message is aware of what is to be done.
+Generally, users reboot their device or restart the iMessage app, which certainly doesn’t resolve the issue.
+Another aspect to be noted is that this hack can be distributed by the victim himself to other contacts.
+Here is how it can be done:
+Download the contact file, upload the contacts in dropbox or iCloud Drive, share this file using iMessage to the person you want to get hacked, wait until the victim taps on it and the app will instantly freeze.
+This time, the attackers have tried a different strategy to hack iMessage app; previously they used to send infected links or weird text messages but this time they just send a huge contact file to disable the app.
+</text>

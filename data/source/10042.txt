@@ -1,0 +1,22 @@
+<title> Scammer gets Scotty's Brewhouse employee W-2s in phishing scheme   </title>
+<source> https://wsbt.com/news/business/scammer-gets-scottys-brewhouse-employee-w-2s-in-phishing-scheme </source>
+<date> 2017_01_31 </date>
+<text>
+INDIANAPOLIS — Officials at Scotty’s Brewhouse are scrambling to deal with a data breach that leaked thousands of employee W-2 forms to an unknown scammer.
+That's according to our news reporting partners at CBS4 Indy.
+Company officials called police about the leak Monday afternoon.
+Somebody posing as CEO Scott Wise emailed a payroll employee, asking her to send all 4,000 W-2 forms to him.
+The e-mail wasn’t really from Wise, but the employee did send all the forms, giving the scammer personal finance information for all those employees.
+Scotty’s Brewhouse executives contacted the IRS and Indianapolis Metropolitan Police Department about the breach.
+They’re now working to notify all their employees and give them steps to protect their financial information.
+IMPD and other agencies are involved in the investigation into who sent the bogus email.
+This email scam matches a phishing scheme that prompted a warning from the IRS last year during tax season.
+At that time, the agency recorded a 400 percent increase in this kind of scam.
+The IRS has a website to use if your W-2 or other information has been leaked.
+Tuesday evening, Scotty's Brewhouse issued a statement on the situation:
+Yesterday Scotty’s Holdings, LLC and its subsidiary, affiliate and managed entities were the victims of an email phishing scam that resulted in the disclosure of 2016 W-2 information.
+Scotty’s has confirmed that no customer information was obtained by the scammers in yesterday’s phishing scam.
+Scotty’s is working closely with federal and local law enforcement and the credit bureaus to limit any potential misuse of the information that was obtained and to identify and apprehend the scammers.
+“Unfortunately, Scotty’s was the target of and fell victim to scammers, as so many other companies have,” said Scott Wise, CEO of Scotty’s Holdings, LLC. “Scotty’s employees and customers are of tremendous importance to the company and Scotty’s regrets any inconvenience to its employees that may result from this scamming incident. Scotty’s will continue to work with federal and local law enforcement, the Internal Revenue Service and credit bureaus to bring the responsible party or parties to justice.”
+Scotty’s alerted authorities immediately after it learned of the scam. A toll-free number was set up by the company to answer employee questions. The company will also make available to affected employees one year of credit monitoring at no cost to employees, in addition to providing information regarding available resources for its employees to monitor their credit.
+</text>

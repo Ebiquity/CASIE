@@ -1,0 +1,16 @@
+<title> Jigsaw Ransomware Decrypted: Will delete your files until you pay the Ransom  </title>
+<source> https://www.bleepingcomputer.com/news/security/jigsaw-ransomware-decrypted-will-delete-your-files-until-you-pay-the-ransom/ </source>
+<date> 2017_04_11 </date>
+<text>
+A new ransomware has been released that not only encrypts your files, but also deletes them if you take too long to make the ransom payment of $150 USD.  The Jigsaw Ransomware, named after the iconic character that appears in the ransom note, will delete files every hour and each time the infection starts until you pay the ransom.  At this time is currently unknown how this ransomware is distributed.
+This is the first time that we have seen these types of threats actually being carried out by a ransomware infection. The good news is that a method has been discovered that allows victims to decrypt their files for free.
+Jigsaw Ransomware is serious about its threats...
+It is not the first time that we have seen ransomware threaten to delete files, but this is the first time that one has actually carried out its threats.  The Jigsaw Ransomware deletes files every 60 minutes and when the program is restarted.
+Every hour,  the Jigsaw Ransomware will delete a file on your computer and increment a counter. Over time this counter will cause more than one file to be deleted every hour.
+More destructive, though, is the amount of files that are deleted every time the ransomware starts. After the initial infection, when the ransomware it restarted, whether that be from a reboot or terminating the process, Jigsaw will delete a thousand, yes a thousand, files from the victim's computer.
+This process is very destructive and obviously being used to pressure the victim into paying the ransom.
+After MalwareHunterTeam analyzed further variants of the Jigsaw Ransomware, he brought up an interesting point. Do "They even care about the money or just want to play with people?"  When analyzing the variants, it has been shown that they are coded to only execute after a certain date. For example, the Portuguese variant is hard coded to only run after April 6th 2016, while another was set to go off on March 23, 2016.
+There is also a wide range of ransom prices being offered, with prices ranging from $20 to 200 USD.  Are these people motivated by money or is this just one big game to them?
+In the ransom note there is a 60 minute timer that counts down to 0. When it reaches 0 it will delete a certain amount of files depending on how many times the counter has reset. Each time it resets, a counter will increase, which will cause more files to be deleted on the next reset.
+When a victim sends a ransom payment, they can click on the check payment button. When this button is clicked, the ransomware queries the http://btc.blockr.io/ site to see if a payment has been made to the assigned bitcoin address. If the amount of bitcoins in the assigned address is greater than the payment amount, then it will automatically decrypt the files. 
+</text>

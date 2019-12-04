@@ -1,0 +1,24 @@
+<title>Top university under 'ransomware' cyber-attack - BBC News</title>
+<source> http://www.bbc.com/news/education-40288548 </source>
+<date> 2017_06_16 </date>
+<text>
+University College London, one of the world's leading universities, has been hit by a major cyber-attack.
+The university describes it as a "ransomware" attack, such as last month's cyber-attack which threatened NHS computer systems.
+The attack was continuing on Thursday, with access to online networks being restricted.
+The university has warned staff and students of the risk of data loss and "very substantial disruption".
+University College London (UCL) is a "centre of excellence in cyber-security research", a status awarded by the GCHQ intelligence and monitoring service.
+The central London university, ranked last week in the world's top 10, says that a "widespread ransomware attack" began on Wednesday.
+It was first blamed on so-called "phishing" emails, with links to destructive software. 
+But later the university suggested it was more likely to be from contact with a "compromised" website, where clicking on a pop-up page might have spread a malware infection.
+Ransomware attacks are where computer systems are locked and threatened with damaging software unless payments are made.
+Students and staff were warned that "ransomware damages files on your computer and on shared drives where you save files" and were told not to open any suspicious attachments.
+The university says that it believes the risk of further infection has been contained, but it is urging staff and students to help with efforts to reduce any "further spread of this malware".
+Universities, which often carry out commercially sensitive research, have become frequent targets for cyber-attacks.
+"However, what makes this attack interesting is the timing," said Graham Rymer, an ethical hacker and research associate at the University of Cambridge.
+"Hackers tend to target people who will be desperate to get access to their data and are, therefore, more likely to pay the ransom.
+"Currently there are a lot of students who will be putting the final touches to their dissertations, so it could be that they were the targets."
+Mr Rymer said UCL seemed to have responded well to the attack and had "locked it down pretty well".
+"One thing UCL did is to quickly switch all drives in the system to "read-only" following the attack, which essentially prevented the malware from doing real damage." 
+Mr Rymer said UCL may not have been the only intended target as he had seen other businesses facing the same malware.
+Last month, the National Health Service in England and Scotland was subject to a significant ransomware cyber-attack, as part of a global wave of attacks.
+</text>

@@ -1,0 +1,12 @@
+<title>Ciphr blames rival company for partial data dump of its users</title>
+<source> https://www.grahamcluley.com/ciphr-blames-rival-company-partial-data-dump-users/ </source>
+<date> 2017_05_02 </date>
+<text>
+Ciphr, a company which offers encrypted communications for BlackBerry 10 and Samsung Knox smartphones, claims that a rival firm are behind a data dump of its customers' email addresses and their device's IMEI numbers.
+A website displaying the alleged leaked data claims that "all Ciphr emails/servers have been compromised."
+Two sources that use Ciphr on their phones told Motherboard the leak includes their information as well as the data of other users. Specifically, the website lists users' email addresses and IMEI numbers, data which law enforcement can leverage to expose a user.
+
+In a message provided to Motherboard from one of its sources, the privacy platform says the data dump was not the result of a data breach. Instead Ciphr blames a rival company for the incident:
+"Our rapid growth has caught the attention of competitors seeking to slow us down by way of slander, blocking and DDOS [distributed denial of service attacks].... We were shocked that any company in this industry would release information to the public under any circumstance."
+Ciphr's management explains in a blog post that a rogue reseller who was granted access to its sales systems gave the information to SkySecure, which makes custom Blackberry devices. The company goes on to note that most of the information included in the data dump was already expired. But it does say a few active users' email addresses and IMEI numbers were included in the leak.
+</text>

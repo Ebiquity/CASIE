@@ -1,0 +1,18 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/chinese-voip-kit-contains-backdoor/ </source>
+<date> 2017_03_03 </date>
+<text>
+Researchers at Trustwave are warning of a hidden backdoor in VoIP devices produced by Chinese manufacturer DBL Technology which could allow access by the manufacturer or malicious third parties.
+The issue is with the authentication process, allowing a remote attacker to gain a shell with root privileges on an affected device, Trustwave researcher Neil Kettle explained in a blog post.
+“The Telnet interface of the GoIP is documented as providing information for users of the device through the use of logins ‘ctlcmd’ and ‘limitsh’.
+However, an additional undocumented user, namely ‘dbladm’ is present which provides root level shell access on the device.
+Instead of a traditional password, this account is protected by a proprietary challenge-response authentication scheme,” he explained.
+“Investigation has shown this scheme to be fundamentally flawed in that it is not necessary for a remote user to possess knowledge of any secret besides the challenge itself and knowledge of the protocol/computation”.
+This is apparently in contrast to more secure challenge-response schemes such as password-based log-ins where the user is asked for a password, which is then obscured to guard against “network interception and replay attacks”.
+The issue was first spotted by Trustwave in an 8 port VoIP GSM Gateway from the company.
+However, it’s since been discovered present in GoIP 1, 4, 8, 16 and 32 and could affect many more DBL Technology devices and OEM kit.
+More worryingly, when contacted last October, the firm did not fix the issue.
+“Verification of the patched version reveals that the challenge response mechanism is still present in the latest version albeit a little more complex.
+It seems DBL Technology engineers did not understand that the issue is the presence of a flawed challenge response mechanism and not the difficulty of reverse engineering it,” explained Kettle.
+“The main differences between the latest challenge response mechanism and the older variant is the level of complexity it employs: a simplistic MD5 with a linear equation changed to several 'round' functions mixed with a modified version of the MD5 hash algorithm”.
+</text>

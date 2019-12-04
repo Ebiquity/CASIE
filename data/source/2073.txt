@@ -1,0 +1,20 @@
+<title>WordPress admins, take note: RCE and password reset vulnerabilities revealed - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/05/04/wordpress-password-reset-vulnerabilities/ </source>
+<date> 2017_05_04 </date>
+<text>
+Independent security researcher Dawid Golunski has released a proof-of-concept exploit code for an unauthenticated remote code execution vulnerability in WordPress 4.6 (CVE-2016-10033), and information about an unauthorized password reset zero-day vulnerability (CVE-2017-8295) in the latest version of the popular CMS.
+The vulnerability exists in the PHPMailer library, and can be exploited by unauthenticated remote attackers to gain access to and compromise an target application server on which a vulnerable WordPress Core version is installed (in its default configuration).  
+“No plugins or non-standard settings are required to exploit the vulnerability,” Golunski noted.
+
+The hole has been responsibly disclosed to the WordPress Foundation, and has been plugged in January, with the release of WordPress 4.7.1. 
+Still, according to the Foundation’s own numbers, nearly 11 percent of all WordPress installation out there are still stuck on the vulnerable version 4.6. 
+And, as Golunski noted, it’s possible that older WordPress versions are also affected by the same flaw, so the percentage of vulnerable installations could be considerably higher:
+
+Admins who still run these older versions of the popular CMS should upgrade to newer versions, ideally to the latest one (v4.7.4).
+Still, even that might not be a guarantee against compromise, as Golunski has also publicly released information and POC code for an unauthorized password reset vulnerability (CVE-2017-8295) that the WordPress Foundation is yet to patch.
+According to him and BeyondSecurity, whose SecuriTeam coordinated the disclosure of the flaw to the WordPress developers, the discovery of the vulnerability dates back to mid-2016. Golunski found it in version 4.3.1 of the CMS.
+“WordPress has a password reset feature that contains a vulnerability which might in some cases allow attackers to get hold of the password reset link without previous authentication. Such attack could lead to an attacker gaining unauthorized access to a victim’s WordPress account,” BeyondSecurity explained.
+“The vulnerability stems from WordPress using untrusted data by default when creating a password reset e-mail that is supposed to be delivered only to the e-mail associated with the owner’s account.”
+Golunski says that the issue was reported to the WordPress security team multiple times, but they did not confirm whether it has been patched. 
+He ultimately decided to publish his findings, and offer a temporary solution (“users can enable UseCanonicalName to enforce static SERVER_NAME value”).
+</text>

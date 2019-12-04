@@ -1,0 +1,15 @@
+<title>IAAF Says Hit By Cyberattack From Russian Group</title>
+<source> https://www.rferl.org/a/iaaf-hacking-russian-fancy-bear/28407583.html </source>
+<date> 2017_04_04 </date>
+<text>
+The world governing body of track and field says it has become the victim of a cyberattack by a Russian hacking group linked to other incidents, including the hacking of the World Anti-Doping Agency and the U.S. Democratic Party.
+In an April 3 statement, the International Association of Athletics Federations (IAAF) attributed the attack to the Fancy Bear group.
+It said it believed the attack "has compromised athletes' Therapeutic Use Exemption (TUE) applications stored on IAAF servers" during an unauthorized remote access to its network on February 21.
+Fancy Bear began posting medical records of Olympians online last year, with U.S. and British athletes making up a large proportion of those targeted.
+Only selected records were released
+The IAAF said it contacted Context Information Security, a British security company, in January to undertake a technical investigation of its systems.
+The company says that investigation "led to the discovery of a sophisticated intrusion."
+IAAF President Sebastian Coe said his organization will continue to do all it can to "to remedy the situation and work with the world's best organizations to create as safe an environment as we can."
+Fancy Bear gained widespread notoriety last year when cyber-researchers identified it and another group -- and they appeared to be linked to Russian intelligence services.
+They were also said to be behind the hack of the U.S. Democratic Party's computer systems.
+</text>

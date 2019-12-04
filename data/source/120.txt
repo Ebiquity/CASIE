@@ -1,0 +1,25 @@
+<title>Adobe Flash provides six of the top 10 bugs used by exploit kits in 2016</title>
+<source> https://www.grahamcluley.com/adobe-flash-responsible-six-top-10-bugs-used-exploit-kits-2016/ </source>
+<date> 2017_01_09 </date>
+<text>
+Published December 7, 2016 5:50 pm in Adobe, Adobe Flash, Malware, Ransomware, Vulnerability  0 
+Of the top 10 vulnerabilities incorporated by exploit kits in 2016, six of them (rather unsurprisingly) affected Adobe Flash Player.
+Real-time threat intelligence provider Recorded Future arrived at those findings by analyzing thousands of sources including information security blogs and deep web forum postings.
+Recorded Future then ranked each vulnerability based upon how many web references linked the bug to at least one of 141 exploit kits, malicious software packages like Neutrino and RIG which abuse security flaws to infect users with TrickBot and other malware.
+Recorded Future found the most references to CVE-2016-0189, a vulnerability affecting Internet Explorer.
+More than 700 web sources linked the bug to the Magnitude, RIG, Neutrino, and Sundown exploit kits.
+But when it came to actual links with exploit kits, Adobe Flash Player cleaned house.
+In total, six Adobe Flash Player vulnerabilities appeared in the top 10 list.
+Two of those (CVE-2016-1o1o and CVE-2015-8446) bonded with the late Angler exploit kit.
+Another three (CVE-2016-1019, CVE-2016-4117, and CVE-2015-8651) connected to at least three exploit kits.
+Overall, the regrettable honor of integration with the most exploit kits goes to CVE-2015-7645, a flaw which a mere 70 web sources linked to seven different packages: Neutrino, Angler, Magnitude, RIG, Nuclear Pack, Spartan, and Hunter.
+Recorded Future provides some background on why this vulnerability likely received so many linkages:
+"CVE-2015-7645 impacts Windows, Mac, and Linux operating systems, which makes it extremely versatile.
+Per Adobe, it can be used to take control of the affected system.
+Additionally, it was the first zero-day exploit discovered after Adobe introduced new security mitigations, and as such, it was quickly adopted as many other older exploits ceased working on machines with newer Flash versions.
+The vulnerability was also noted as being used by Pawn Storm (APT28, Fancy Bear), a Russian government-backed espionage group."
+To protect against RIG and the others from exploiting some of these vulnerabilities on your machine, you should patch your system regularly, install a reputable anti-virus solution, and install an ad-blocker.
+There's no hope when it comes to Adobe Flash Player.
+It seems like new bugs are emerging every day, which makes patch management a serious headache.
+If you can, you should uninstall Adobe Flash Player from your computer as soon as possible.
+</text>

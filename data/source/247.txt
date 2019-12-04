@@ -1,0 +1,23 @@
+<title>Credential-Stuffing Attacks Take Enterprise Systems ...</title>
+<source> http://www.darkreading.com/attacks-breaches/credential-stuffing-attacks-take-enterprise-systems-by-storm/d/d-id/1327908 </source>
+<date> 2017_01_18 </date>
+<text>
+Billions of online credentials freshly stolen in 2016 are fueling a practice of automated login hacks that are overwhelming legitimate human-login traffic on enterprise Web properties.
+A study out today from Shape Security shows that it's common for credential-stuffing login attempts to account for more than 90% of all login activity on Internet-facing systems at Fortune 100 firms.
+"In working with customers in retail, finance, travel, government, and other industries, Shape has seen millions of instances of credentials from reported breaches being used in credential stuffing attacks," the report says.
+Online-credential breaches that don't expose any other personally identifiable information may seem like no big deal on the spectrum of massive security incidents.
+But the study out today shows that with automation, attackers are using stolen passwords quite effectively.
+If attackers have a large enough pool of stolen credentials to try across various other Web systems online, even a very slim success rate can yield them hundreds of thousands - or even millions - of accounts ripe for takeover.
+Global organizations in 2016 reported more than 3 billion username and password combinations stolen, led first and foremost by Yahoo's massive 1.5 billion user breach.
+"Credential spills became a worldwide pandemic in 2016.
+While we have been observing credential spills and credential-stuffing attacks for many years, the scale of both in 2016 was remarkable," says Shuman Ghosemajumder, CTO for Shape.
+"The size and frequency of credential spills appears to be increasing, with the record for all-time largest credential spill being reset three times last year."
+Shape reports that in its work with retail, finance, travel, government, and other industries in 2016, it observed millions of credentials exposed from reported breaches being used in credential- stuffing attacks.
+During one 4-month observation period at a major retailer, for example, Shape Security witnessed 15.5 million account login attempts.
+Scarily enough, 500,000 accounts at that retailer were on breached credential lists.
+The difficulty with credential stuffing is that many companies don't have visibility into the volume of automated login traffic they're being hit with because these attacks aren't taking advantage of vulnerabilities per se.
+They're using the login functionality the way it is supposed to be used, simply scaling up the rate at which the credentials are plugged into the inputs.
+These attacks not only put users at risk, but they also put a traffic burden on infrastructure and could add to the login latency for real human users.
+"A lot of public attention is focused on any organization that experiences a data breach and loses control of their users' passwords and personal information," Ghosemajumder says.
+"However, the real issue other companies should focus on is protecting themselves against those passwords being used to attack them and their own users”.
+</text>

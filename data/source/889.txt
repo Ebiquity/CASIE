@@ -1,0 +1,18 @@
+<title>Singapore Reveals Cyber Attack on Defense Ministry | The Diplomat</title>
+<source> http://thediplomat.com/2017/03/singapore-reveals-cyber-attack-on-defense-ministry/ </source>
+<date> 2017_03_06 </date>
+<text>
+The breach indicates even more capable Asian states are struggling to confront cyber threats.
+On February 28, Singapore’s defense ministry (MINDEF) disclosed that a breach in an Internet-connected system earlier this month had resulted in the personal data of 850 national servicemen and employees being stolen.
+Though the impact of the breach was quite limited, it nonetheless highlights the difficulties that Singapore faces as it confronts its growing cyber challenge.
+According to MINDEF, the I-net system used by personnel to access the Internet through terminals at the ministry and other facilities was breached by an attack in early February.
+While personal data, including identification numbers, phone numbers, and date of birth, were believed to have been stolen during the incident, the ministry said no classified information was compromised because it is stored on a separate system not connected to the Internet.
+As I have noted before, it has been paying keen attention to the cyber domain as a developed, highly-networked country.
+Singapore is particularly vulnerable as it relies on its reputation for security and stability to serve as a hub for businesses and attract talent.
+Indeed, last year, Deloitte found that Singapore was among the five Asian countries most vulnerable to cyber attacks (See: “Singapore Among Most Vulnerable to Cyberattacks in Asia”).
+In response, Singapore has unveiled a series of initiatives aimed at boosting cybersecurity, including creating new institutions, safeguarding critical infrastructure, training cyber security personnel, and collaborating more with the private sector (See: “Singapore’s Cyber War Gets a Boost”).
+And as I noted before, Prime Minister Lee Hsien Loong also outlined Singapore’s overall cybersecurity strategy at the inaugural Singapore International Cyber Week in October last year (See: “Singapore Unveils New ASEAN Cyber Initiative”).
+Nonetheless, the cyber attack this week is a reminder that even the more capable states in the Asia-Pacific continue to struggle with confronting threats in the cyber realm.
+This was the first publicly disclosed cyber attack that MINDEF has experienced, and the ministry has described it as “targeted and carefully planned,” with the purpose of gaining access to official secrets.
+And based on what Singaporean officials have discovered so far, the attack appears to be less like the work of regular hackers and more along the lines of sophisticated state or state-backed actors.
+</text>

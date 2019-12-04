@@ -1,0 +1,15 @@
+<title>Neiman Marcus: 2015 Breach Exposed Full Card Details</title>
+<source> http://www.databreachtoday.com/neiman-marcus-2015-breach-exposed-full-card-details-a-9846 </source>
+<date> 2017_04_20 </date>
+<text>
+On April 14, the company disclosed to the California attorney general that a December 2015 breach compromised more sensitive information than first thought. It also disclosed new attacks from earlier this year that exposed names, contact information, email addresses and purchase histories, although  the retailer says it repelled most of the attacks.
+The dual notifications mark the latest problems for the company, which disclosed in early 2014 that its payment systems were infected with malware that stole 350,000 payment card details. Over the past few years, retailers such as Target, Home Depot and others have battled to keep their card payments systems malware-free (see Neiman Marcus Downsizes Breach Estimate). 
+The 2015 incident started around Dec 26. In a notification to California about a month later, the retailer said it was believed attackers cycled through login credentials that were likely obtained through other data breaches. A total of 5,200 accounts were accessed, and 70 of those accounts were used to make fraudulent purchases. 
+Although email addresses and passwords were not exposed, the original notification noted, access to the accounts would have revealed names, saved contact information, purchase histories and the last four digits of payment card numbers. The affected websites included other brands run by Neiman Marcus, including Bergdorf Goodman, Last Call, CUSP and Horchow. 
+According to its latest notification, however, Neiman Marcus Group now says full payment card numbers and expiration dates were exposed in the 2015 incident.
+The latest attack disclosed by Neiman Marcus Group, which occurred around Jan 17, mirrors the one from December 2015. It affects the websites of Neiman Marcus, Bergdorf Goodman, Last Call, CUSP, Horchow and a loyalty program called InCircle. 
+Again, the company believes that attackers recycled other stolen credentials in an attempt to see which ones still worked on its sites. It appears that some of the credentials did unlock accounts. The breach exposed names, contact information, email addresses, purchase histories and the last four digits of payment card numbers. It didn't specify the number of accounts affected. 
+The attackers were also able to access some InCircle gift card numbers, the company says.
+Web services can slow down hackers when suspicious activity is noticed, such as rapid login attempts from a small range of IP addresses. Those defensive systems can be fooled, however, by slowing down login attempts and trying to plausibly geographically vary where those attempts originate. 
+For those affected by the January incident, Neimen Marcus Group is enforcing a mandatory password reset. It's an action that's not undertaken lightly for fear of alienating users, but it's a sign of how serious a service feels the risk is to users or customers. The company also is offering those affected a one-year subscription to an identity theft service. 
+</text>

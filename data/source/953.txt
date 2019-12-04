@@ -1,0 +1,16 @@
+<title>Multiple Unpatched Vulnerabilities Discovered in Western Digital NAS Hard Drives</title>
+<source> https://www.bleepingcomputer.com/news/security/multiple-unpatched-vulnerabilities-discovered-in-western-digital-nas-hard-drives/ </source>
+<date> 2017_03_08 </date>
+<text>
+Discovered by a security researcher who goes by the name of Zenofex, these security flaws have not been reported to Western Digital, are still unpatched, and with public exploit code is available for more than half of the vulnerabilities.
+According to Zenofex multiple WD MyCloud NAS device models are affected, such as:
+Zenofex's decision not to inform Western Digital came after the researcher attended a security conference last year, where other infosec professionals complained about Western Digital ignoring vulnerability reports.
+It was at the same conference, Black Hat USA 2016, where Western Digital also won a Pwnie Award in a category called "Lamest Vendor Response."
+"Ignoring these bugs would leave the vulnerable devices online for longer periods while responsible disclosure is worked out," Zenofex argued his decision not to wait until Western Digital patches the security bugs.
+"Instead we’re attempting to alert the community of the flaws and hoping that users remove their devices from any public facing portions of their networks, limiting access wherever possible," he added.
+Zenofex, who's a member of the Exploitee.rs community, says he found a whopping total of 85 security issues.
+Based on the exploit code, many of these security flaws can be exploited by altering cookie values or embedding shell commands in cookie parameters.
+When the image loads inside their browser, the exploit code executes against the local NAS drive and takes over the device.
+The most severe of these issues, according to Zenofex, is authentication bypass issue, which ironically was also the easiest to exploit, requiring only the modification of cookie session parameters.
+And since Murphy's Law applies to hardware devices as well, things went wrong all the way, and the commands aren't executed under a limited user, but run under root, giving attackers full control over affected devices, allowing them to upload or download data at will.
+</text>

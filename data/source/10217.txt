@@ -1,0 +1,17 @@
+<title> Decade-old remote code execution vulnerability patched in Valve Steam client </title>
+<source> https://www.zdnet.com/article/remote-code-execution-vulnerability-patched-in-valve-steam-client/ </source>
+<date> 2018_06_01 </date>
+<text>
+Valve has patched a critical vulnerability in the Steam client which has lurked undetected for at least 10 years.
+The vulnerability impacts all versions of the gaming platform.
+Tom Court, a security researcher hailing from Context Information Security, discovered the bug and disclosed his findings on Thursday. In a blog post, the researcher said that left unpatched, the bug permits threat actors to perform remote code execution (RCE) attacks.
+It was not until July last year that Valve added modern ASLR exploit protections to its Steam source code. However, this addition made sure that the vulnerability would only cause a client crash if exploited -- unless a separate information leak vulnerability was also active in the exploit chain.
+ Valve's Steam software uses a custom protocol, known as the "Steam Protocol," which is delivered on the top of UDP.
+The protocol registers packet length and the total reassembled datagram length; however, the vulnerability was caused by a simple lack of checks to ensure that for the first packet of a fragmented datagram, the specified length was less than or equal to the total datagram length.
+All an attacker needed to do was to send a malformed UDP packet to trigger the exploit.
+"This means that it is possible to supply a data_len smaller than packet_len and have up to 64kb of data (due to the 2-byte width of the packet_len field) copied to a very small buffer, resulting in an exploitable heap corruption," Court says. "This seems like a simple oversight, given that the check was present for all subsequent packets carrying fragments of the datagram."
+The vulnerability was reported to Valve on 20 February and was fixed in a beta release less than 12 hours later. This patch was then pushed to a stable release on 22 March.
+"This was a very simple bug, made relatively straightforward to exploit due to a lack of modern exploit protections," Court says. "The vulnerable code was probably very old, but as it was otherwise in good working order, the developers likely saw no reason to go near it or update their build scripts."
+"The lesson here is that as a developer it is important to periodically include aging code and build systems in your reviews to ensure they conform to modern security standards, even if the actual functionality of the code has remained unchanged," the researcher added.
+</text>
+

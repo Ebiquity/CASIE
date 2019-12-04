@@ -1,0 +1,14 @@
+<title> Intel decides not to patch Spectre vulnerability for older processors   </title>
+<source> https://www.digitaltrends.com/computing/intel-not-patching-spectre-older-cpu/ </source>
+<date> 2018_04_03 </date>
+<text>
+Intel revealed that it will not be issuing Spectre patches to a number of older Intel processor families, potentially leaving many customers vulnerable to the security exploit. Intel claims the processors affected are mostly implemented as closed systems, so they aren’t at risk from the Spectre exploit, and that the age of these processors means they have limited commercial availability.
+The processors which Intel won’t be patching include four lines from 2007, Penryn, Yorkfield, and Wolfdale, along with Bloomfield (2009), Clarksfield (2009), Jasper Forest (2010) and the Intel Atom SoFIA processors from 2015. According to Tom’s Hardware, Intel’s decision not to patch these products could stem from the relative difficulty of patching the Spectre exploit on older systems.
+“After a comprehensive investigation of the microarchitectures and microcode capabilities for these products, Intel has determined to not release microcode updates for these products,” Intel said.
+Because of the nature of the Spectre exploit, patches for it need to be delivered as an operating system or BIOS update, and if Microsoft and motherboard OEMs aren’t going to distribute the patches, developing them isn’t much of a priority.
+“However, the real reason Intel gave up on patching these systems seems to be that neither motherboard makers nor Microsoft may be willing to update systems sold a decade ago,” Tom’s Hardware reports.
+It sounds bad, but as Intel pointed out, these are all relatively old processors — with the exception of the Intel Atom SoFIA processor, which came out in 2015 — and it’s unlikely they’re used in any high-security environments. The Spectre exploit is a serious security vulnerability to be sure, but as some commentators have pointed out in recent months, it’s not the kind of exploit the average user needs to worry about.
+“We’ve now completed release of microcode updates for Intel microprocessor products launched in the last 9+ years that required protection against the side-channel vulnerabilities discovered by Google Project Zero,” said an Intel spokseperson. “However, as indicated in our latest microcode revision guidance, we will not be providing updated microcode for a select number of older platforms for several reasons, including limited ecosystem support and customer feedback.”
+If you have an old Penryn processor toiling away in an office PC somewhere, you’re probably more at risk for a malware infection arising from a bad download than you are susceptible to something as technically sophisticated as the Spectre or Meltdown vulnerabilities.
+</text>
+

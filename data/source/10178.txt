@@ -1,0 +1,27 @@
+<title> Cisco releases fixes for remote code execution flaws in Webex Network Recording Player </title>
+<source> https://www.zdnet.com/article/cisco-releases-fixes-for-remote-code-execution-flaws-in-webex-network-recording-player/ </source>
+<date> 2018_09_21 </date>
+<text>
+Cisco has patched a set of severe vulnerabilities which could lead to remote code execution in the Cisco Webex Network Recording Player for Advanced Recording Format (ARF).
+The security flaws, CVE-2018-15414, CVE-2018-15421, and CVE-2018-15422, have been issued a base score of 7.8.
+According to the Cisco Product Security Incident Response Team (PSIRT), the flaws could lead to "an unauthenticated, remote attacker to execute arbitrary code on a targeted system."
+The Cisco Webex Network Recording Player for Advanced Recording Format (ARF), available for Windows, Mac, and Linux machines is a component for recording meetings taking place in the Cisco Webex Meetings Suite sites, Cisco Webex Meetings Online sites, and Cisco Webex Meetings Server.
+In a security advisory posted this week, Cisco says that the following software is affected:
+    Cisco Webex Meetings Suite (WBS32): Webex Network Recording Player versions prior to WBS32.15.10;
+    Cisco Webex Meetings Suite (WBS33): Webex Network Recording Player versions prior to WBS33.3;
+    Cisco Webex Meetings Online: Webex Network Recording Player versions prior to 1.3.37;
+    Cisco Webex Meetings Server: Webex Network Recording Player versions prior to 3.0MR2.
+
+According to Cisco, each operating system is vulnerable to at least one of the security flaws.
+The vulnerabilities are due to the improper invalidation of Webex recording files. If a victim opens a crafted, malicious file in the Cisco Webex Player -- potentially sent over email as part of a spear phishing campaign -- the bugs are triggered, leading to exploit.
+TechRepublic: Cisco switch flaw led to attacks on critical infrastructure in several countries
+There are no workarounds to address these vulnerabilities. However, Cisco has developed patches to automatically update vulnerable software.
+It is recommended that users accept these updates as quickly as possible. The tech giant notes that some Cisco Webex Meetings builds might be at the end of their support cycles and won't receive these updates. In these cases, users should contact the company directly.
+
+CNET: Kansas City gets smarter thanks to Cisco and Sprint
+Alternatively, the ARF component is an add-on and can simply be uninstalled manually. A removal tool is has been made available.
+Cisco is not aware of any reports of any active exploits in the wild.
+Steven Seeley from Source Incite and Ziad Badawi, working together with the Trend Micro Zero Day Initiative, have been credited with finding and reporting the bugs.
+In related news this week, Trend Micro's Zero Day Initiative disclosed a Microsoft Jet zero-day vulnerability which was unpatched at the point of public disclosure. If exploited, the vulnerability permits attackers to remotely execute code on infected machines.
+</text>
+

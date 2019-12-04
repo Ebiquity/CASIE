@@ -1,0 +1,14 @@
+<title>WannaCry Remedies Are The Second Wave of Attacks</title>
+<source> http://blog.easysol.net/wannacry-remedies/ </source>
+<date> 2017_05_17 </date>
+<text>
+Since last Friday, over 200,000 victims in 150 countries have been hit by a massive, international ransomware cyberattack called WannaCry.
+Ransomware is a type of malware that works by seizing control of and blocking access to a computer’s files, programs, and operations.  Users are then informed that they must pay a certain amount in order to regain access to their files, with the threat of permanently losing all of their data if they choose not to pay.  In the WannaCry attack, users were given three days to make the payment before the fee increased, and seven days before the files would be lost forever.
+The massive scope and potential financial impact of the WannaCry attack has understandably caused a lot of panic, and companies and individuals alike have been rushing to protect their devices.  However, this frenzy has opened up new damaging routes for fraud.
+One of these attack routes is through mobile applications that have been found on third-party application stores.  There are various mobile applications advertising that they can be used to protect users from the WannaCry ransomware.  However, our analysts found that some of these apps contained adware meant to infect the devices they are downloaded onto.  Rather than protecting users’ devices, they are causing them harm.
+
+ The adware found is classified as Adware.mobidash, which is a module that attackers used to include into Android games and apps and monetize them. This adware has the capability to load webpages with ads, show other messages in the status bar, and modify the DNS server. This is quite dangerous as the real risk lies in the fact that the end user’s device is performing unwanted activity without their authorization.
+To hide this dangerous behavior, the adware doesn’t start to perform its malicious activity immediately; instead, it lies latent in the device before activating after a short period of time.
+We have blogged a lot about digital trust, fake news, and all sorts of tricks that criminals use to get the attention of consumers to get them to click on a link. Yet we continue to be amazed by how sophisticated the manipulation of the human factor has become.
+It will only be a matter of time until we see the WannaCry malware expand further to trick end users into installing a patch that allegedly prevents the new massive ransomware attack. However, this time it will not be a patch, but a new version or variant of a financially motivated malware.
+</text>

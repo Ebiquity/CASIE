@@ -1,0 +1,12 @@
+<title> Microsoft's Patch Tuesday fixes zero-day exploit and privilege escalation vulnerability </title>
+<source> https://www.techspot.com/news/74541-microsoft-patch-tuesday-fixes-zero-day-exploit-privilege.html </source>
+<date> 2018_05_09 </date>
+<text>
+As part of Microsoft's monthly Patch Tuesday updates, a critical flaw in Windows has been patched that is actively being exploited. A vulnerability in the VBScript engine allowed for a zero-day exploit to infect machines by opening specially crafted scripts that can corrupt memory leading to the opportunity for arbitrary code execution.
+In a web-based attack, specially designed web pages could exploit the same vulnerability when using Internet Explorer. Embedding AcitveX controls that were marked "safe for initialization" inside of a Microsoft Office document also allowed for unsafe code to be executed since the IE rendering engine is used.
+One of the more interesting parts of the attack is that it does not matter what a user's default browser is. When using VBScript, it is possible to force a web page to be loaded using Internet Explorer even if Chrome, FireFox, Safari, Opera or another browser is set to default. This particular vulnerability has been found in use and affects Windows 7 and Windows Server 2008 and newer.
+Kasperksy Lab has provided a fairly detailed analysis of how the exploit functions. In short, a statement from their security researchers says it all. "We expect this vulnerability to become one of the most exploited in the near future, as it won’t be long until exploit kit authors start abusing it in both drive-by (via browser) and spear-phishing (via document) campaigns."
+In addition to the VBScript flaw discovered and patched, Microsoft has also patched a privilege escalation vulnerability. A failure of the Win32k component allows for arbitrary code to be executed in kernel mode. This allows for a standard user account to obtain full system access, although it should be noted that a user must be logged in already to perform the exploit.
+In this case, both exploits have been patched but that does not mean end users and administrators are going to patch their systems in a timely manner. It is advised to manually check for updates to verify that all of the latest patches are installed. In total, 67 updates were issued solving 21 critically rated vulnerabilities.
+</text>
+

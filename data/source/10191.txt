@@ -1,0 +1,17 @@
+<title> AMD has fixes coming for its 13 chip vulnerabilities </title>
+<source> https://www.cnet.com/news/amd-has-fixes-coming-for-its-13-chip-vulnerabilities/ </source>
+<date> 2018_03_21 </date>
+<text>
+The chipmaker says the patches will arrive within a few weeks and AMD device owners shouldn’t worry about the reported flaws.
+AMD is addressing several vulnerabilities discovered in its Ryzen and EPYC chips, and rolling out updates for millions of devices "in the coming weeks."
+The 13 vulnerabilities came to public attention clouded in controversy. The security company CTS Labs gave AMD less than 24 hours notice before releasing the information to the public. Standard vulnerability disclosure practices call for giving companies at least 90 days' notice so they can fix the flaws before researchers go public and hackers can start causing trouble.
+Had CTS Labs given AMD that same courtesy, the issues would have been addressed within a week of the notification.
+"Each of the issues cited can be mitigated through firmware patches and a standard BIOS update, which we plan to release in the coming weeks," said Sarah Youngbauer, AMD's senior spokeswoman. "We believe this provides a good example of why the more standard 90-day notification window for such notifications exist." 
+In the original vulnerability report, CTS Labs said that it would take "several months" to fix the issues and that some hardware flaws "cannot be fixed." AMD disagreed with that timeline, and said it would provide more information in several weeks.
+The chipmaker said the issues were not with its hardware, but with firmware, or software that's embedded in hardware. It'll be sending fixes for all 13 vulnerabilities through patches and BIOS updates.
+According to AMD's technical assessment, each of the flaws required administrative access.
+"Any attacker gaining unauthorized administrative access would have a wide range of attacks at their disposal well beyond the exploits identified in this research," Papermaster said in a statement.
+Critics also took issue with another aspect of the CTS Labs report, pointing out the legal disclaimer on the company's website: "You are advised that we may have, either directly or indirectly, an economic interest in the performance of the securities of the companies whose products are the subject of our reports."  
+Last Wednesday, CTS Labs' chief financial officer and co-founder, Yaron Luk-Zilberman, a former hedge fund manager, said it didn't have "any investment (long or short) in Intel or AMD."
+</text>
+

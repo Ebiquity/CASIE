@@ -1,0 +1,11 @@
+<title> UK arrests 2 suspected in DC police camera hacking  </title>
+<source> https://thehill.com/policy/cybersecurity/317762-uk-arrests-two-in-conjunction-with-dc-camera-ransomware </source>
+<date> 2017_02_3 </date>
+<text>
+United Kingdom authorities arrested two suspects in relation to January's hacking of Washington police surveillance cameras, International Business Times reported Friday.
+The cyberattack affected 123 of the city's 187 network video recorders, city officials said, leaving the infected cameras unable to record between Jan 12 and Jan 15.
+The National Crime Agency arrested a British man and Swedish woman, both 50, in a South London neighborhood, according to the report. 
+The incident attracted particular attention because it came just days before President Trump's inauguration. 
+The hack involved ransomware, a type of software that disables systems until demands are met. Washington's chief technology officer said that no ransom was paid in this instance. Instead, the city repaired damage from the attack on its own. 
+City officials say the attack posed no risk to the public or the security of the inauguration.
+</text>

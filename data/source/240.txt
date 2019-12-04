@@ -1,0 +1,31 @@
+<title>Dangerous New Gmail Phishing Attack Gaining Steam</title>
+<source> http://www.darkreading.com/attacks-breaches/dangerous-new-gmail-phishing-attack-gaining-steam/d/d-id/1327914? </source>
+<date> 2017_01_18 </date>
+<text>
+But sometimes that simple precaution isn't enough.
+A case in point is a dangerous phishing technique targeting Gmail users that first surfaced about one year ago but has begun gaining steam in recent weeks.
+Wordfence, the maker of a security plugin for Wordpress, described the phishing attack as beginning with an adversary sending an email to a target’s Gmail account.
+The email typically will originate from someone on the recipient’s contact list whose own account had previously been compromised.
+The email comes with a subject header and a screenshot or image of an attachment that the sender has used in a recent communication with the recipient.
+When the recipient clicks on the image, a new tab opens with a prompt asking the user to sign into Gmail again.
+The fully functional phishing page is designed to look exactly like Google’s page for signing into Gmail.
+The address bar for the page includes mention of accounts.google.com, leading unwary users to believe the page is harmless, Wordfence CEO Mark Maunder wrote.
+"Once you complete sign-in, your account has been compromised," he said.
+In reality, the fake login page that opens up when a user clicks on the image is actually an inline file created using a scheme called Data URI.
+When users enter their Gmail username and password on the page, the data is sent to the attacker.
+The speed at which the attackers sign into a compromised account suggest that the process may be automated, or that they may have a team standing by to access accounts as they get compromised.
+"Once they have access to your account, the attacker also has full access to all your emails including sent and received at this point and may download the whole lot," Maunder said.
+What makes the phishing technique dangerous is the way the address bar displays information when users click on the screenshot of the attachment, he told Dark Reading.
+In this case, by including the correct host name and “https//” in the address bar, the attackers appear to be having more success fooling victims into entering their credential data on the fake Gmail login page, he says.
+Instead, all of the content in the address bar is of the same color and is designed to convince users that the site is harmless.
+"If you aren’t paying close attention, you will ignore the ‘data:text/html’ preamble and assume the URL is safe."
+Google said in a statement that it's working on mitigations to such an attack.
+"We're aware of this issue and continue to strengthen our defenses against it," Google said.
+"We help protect users from phishing attacks in a variety of ways, including: machine learning based detection of phishing messages, Safe Browsing warnings that notify users of dangerous links in emails and browsers, preventing suspicious account sign-ins, and more.
+Users can also activate two-step verification for additional account protection."
+Users can also mitigate the risk of their accounts being compromised via phishing by enabling two-factor authentication.
+"What makes this unique is the fact that none of the traditional browser indicators that would identify a possible fraudulent site are present," says Robert Capps, vice president of business development at NuData Security.
+The attack underscores the need for Web browser makers to rethink the trust signals they use to inform users about a danger webpage or exploit.
+"How users interpret these signals should be thoroughly understood," he says.
+"Entraining users to rely on signals may have unintended consequences that attackers can use to exploit customers."
+</text>

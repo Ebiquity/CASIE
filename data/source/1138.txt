@@ -1,0 +1,11 @@
+<title> Wishbone Quiz App Exposes Millions of Kids to Criminals </title>
+<source> https://www.infosecurity-magazine.com/news/wishbone-quiz-app-exposes-millions/ </source>
+<date> 2018_03_16 </date>
+<text>
+Wishbone, the social media-based quiz app for teens and young adults, has been compromised, leading to more than 9.4 million records going up for sale on the Dark Web.
+The breach gave the attackers access to Wishbone users’ user names, any real or nicknames provided by users during account registration, email addresses and telephone numbers, according to an email sent by the company to users, posted to Pastebin.
+According to independent researcher Troy Hunt, the database was a MongoDB file that may have been inadvertently left open to the internet. The leak may have stemmed from a vulnerability in a Wishbone API, the company confirmed to Motherboard—one that the company has now closed, it said.
+Parents should look through the settings of Wishbone, and any other app their children are using, to see if any personal information is stored in them. And, having a talk with kids about the dangers of exposing information should be at the top of the to-do list. Hunt has also published the leak to his searchable HaveIBeenPwned database, so parents can find out if their child is a victim.
+“Teenagers today are constantly connected and sharing all aspects of their daily life is normal as there is a lot of peer pressure to participate in social apps,” said Sanjay Kalra, co-founder and chief product officer at Lacework, a provider of cloud security solutions. “Being a parent of [a] teenager in this hyper-social environment is a scary aspect. You cannot control information once exposed. Parents should be in constant communication with their teenagers, explaining the risks associated with information sharing and training them on basics of internet security. They should be educating them on how to use multiple strong passwords, anonymization of the data and identities and long-term effects of having personal aspects of life in public domain.”
+</text>
+

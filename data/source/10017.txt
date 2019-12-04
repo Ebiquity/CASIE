@@ -1,0 +1,9 @@
+<title>After computer hack, Nashotah pays $2K ransom for residents' personal information</title>
+<source> https://www.jsonline.com/story/communities/lake-country/news/nashotah/2017/12/08/after-computer-hack-nashotah-pays-2-k-ransom-residents-personal-information/931996001/ </source>
+<date> 2017_12_08 </date>
+<text>
+VILLAGE OF NASHOTAH - The village recently paid an unidentified hacker a $2,000 ransom to decrypt its computer system after a hack in late November that left some residents' personal information exposed.
+Village President Richard Lartz said Thursday, Dec 7, that the hack "totally encrypted" Nashotah's computer files, making them inaccessible to staff. He said the only information that was exposed during the breach were citizens' names and driver's license numbers, and possibly their addresses. 
+Social Security numbers and other sensitive information was not compromised. 
+"The only information that got out was voter rolls," Lartz said, emphasizing that neither he nor village staff know whether that information was used or dispersed by the hacker.
+</text>

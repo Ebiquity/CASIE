@@ -1,0 +1,23 @@
+<title>Experts Doubt Russia Used Malware to Track Ukrainian Troops | SecurityWeek.Com</title>
+<source> http://www.securityweek.com/experts-doubt-russia-used-malware-track-ukrainian-troops </source>
+<date> 2017_01_04 </date>
+<text>
+Experts have cast doubt on a recent report claiming that hackers linked to a Russian military intelligence agency used a piece of Android malware to track Ukrainian artillery units.
+A report published by threat intelligence firm CrowdStrike before Christmas revealed that the Russia-linked cyberespionage group known as Fancy Bear (aka APT28, Pawn Storm, Sofacy, Tsar Team, Strontium and Sednit) modified a legitimate Android app used by the Ukrainian military.
+Specifically, researchers found an Android version of X-Agent, a piece of malware known to be used by Fancy Bear, embedded in an app developed by artillery officer Yaroslav Sherstuk to help military personnel reduce the time to fire D-30 howitzers.
+According to CrowdStrike, the malicious app, which had been distributed on Ukrainian military forums from late 2014 through 2016, was capable of accessing contact information, SMS messages, call logs and Internet data.
+The security firm believes these capabilities could have allowed Russia to track Ukrainian troops via the app.
+CrowdStrike also pointed to a report claiming that Ukraine had lost many D-30 guns in the past years, and speculated that this cyber operation may have contributed to those losses.
+Based on its investigation, the company is confident that Fancy Bear is connected to the Russian military, particularly the GRU foreign military intelligence agency.
+Sherstuk has called CrowdStrike’s report “delusional” and pointed out that the app is not open source.
+He says the application has been under his control and he personally oversees the activation of each installation.
+Jeffrey Carr, CEO of Taia Global and founder of the Suits and Spooks conference, has analyzed CrowdStrike’s report and, after contacting several other experts, he determined that the security firm’s arguments are flawed.
+According to Carr, while X-Agent may be used by Fancy Bear, the malware is not exclusive to the group.
+The X-Agent source code appears to have been obtained by several entities, including Ukrainian hacktivist Sean Townsend and the security firm ESET.
+The X-Agent variant found in the Ukraine military app has also been analyzed by Crysys, the Hungary-based security firm that has investigated several sophisticated pieces of malware, including Duqu.
+Researchers have found similarities between X-Agent implants described in previous Fancy Bear reports and the version found in the Ukrainian military app, but they pointed out that such similarities can be faked by threat actors.
+Another interesting discovery is that the rogue app does not use GPS to obtain the infected device’s exact location, which Carr names “a surprising design flaw for custom-made malware whose alleged objective was to collect and transmit location data on Ukrainian artillery to the GRU”.
+While the malware can collect some location data via the base stations used by the infected Android device, Carr believes it’s not enough to track someone, especially given Ukraine’s poor cellular service.
+Pavlo Narozhnyy, a technical adviser to Ukraine’s military, told VOA that he doubts the D-30 app can be hacked, and he claimed that none of the app’s users reported any D-30 howitzer losses.
+Carr also highlighted that the malware-infected app may have not actually made it onto a single Ukrainian soldier’s Android device, considering that each user needed to contact Sherstuk personally to obtain an activation code.
+</text>

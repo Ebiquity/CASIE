@@ -1,0 +1,12 @@
+<title>Barts Health Trust launches cyber attack probe - BBC News</title>
+<source> http://www.bbc.com/news/uk-england-london-38622349 </source>
+<date> 2017_01_17 </date>
+<text>
+Barts Health Trust, which runs The Royal London, St Bartholomew's, Whipps Cross, Mile End and Newham hospitals, is investigating the breach.
+The trust said it could now rule out ransomware, in which email recipients are tricked into opening attachments which contain viruses, as the cause.
+It has not confirmed how much of its system was affected but said there was no sign that patient data was accessed.
+In a statement said: "We are urgently investigating this matter and have taken a number of drives offline as a precautionary measure.
+"We have tried and tested contingency plans in place and are making every effort to ensure that patient care will not be affected."
+The incident follows a similar attack on the Northern Lincolnshire and Goole Foundation Trust in October, when malware was used to encrypt files on the trust's system and demand a ransom in order to access them again.
+The trust did not pay out, but was forced to cancel patient appointments while its systems were shut down to remove the virus.
+</text>

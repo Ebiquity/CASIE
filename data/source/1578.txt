@@ -1,0 +1,23 @@
+<title>US spy agency hacked Pakistani cellular networks, shows leaked data | Sci-Tech - Geo.tv</title>
+<source> https://www.geo.tv/latest/137536-Leaked-hacking-tools-show-NSA-infiltrated-Pakistani-cellular-networks </source>
+<date> 2017_04_11 </date>
+<text>
+A leaked arsenal of hacking tools allegedly belonging to the National Security Agency (NSA) shows the US spy agency infiltrated the servers of a major Pakistani cellular service provider.
+The data dump, publicly released by the ShadowBrokers hacking group earlier this week, includes alleged digital weapons and notes shared by NSA operators about their access inside the servers of a Pakistani mobile network.
+Notes contained in the massive dump of encrypted data, which is still being analysed by network security researchers, include details of how NSA used the exploits to infiltrate cellular operators in Pakistan.  
+One snippet from the leak, several terabytes in size, includes at least 14 lines mentioning different servers operated by a major Pakistani cellular network.  
+The snippet, analysed by a security researcher who goes by the name X0rz, appears to show NSA operators sharing a step-by-step technical guide on how to hack into the servers.
+"Try one of the following…old way, may not work on new machines," says one section of the snippet.
+Another section appears to show methods to retrieve call logs of users of the Pakistani cellular service.
+"If searching for LACs and cell id's, use the format in the documentation…if searching for phone numbers, use the normal format," it says.
+Hundreds of NSA cyber weapons variants publicly released including code showing hacking of Pakistan mobile system https://t.co/bL833ktQpm
+In a tweet, Wikileaks claimed the leaked "NSA cyber weapons variants" include "code showing hacking of Pakistan mobile system".
+The data dump was publicly released earlier this week by the ShadowBrokers hacking group after it failed to auction the arsenal of hacking tools.
+In a lengthy anonymous blog post, the group claimed it was releasing the files as a "form of protest" after losing faith in the leadership of US President Donald Trump.
+ShadowBrokers had announced the auction for the alleged NSA cyber weapons in August last year.
+The authenticity of the code being NSA software was later confirmed by documents provided by whistleblower and former National Security Agency contractor Edward Snowden to the Intercept.
+In the leak of top-secret documents, Snowden released a classified draft NSA manual on how to implant the SECONDDATE malware – malicious code used to monitor or control someone else's computer.
+The draft NSA manual contained instructions telling NSA operators to use a specific string of characters associated with the SECONDDATE malware program.
+The documents revealed at least "two documented cases of SECONDDATE being used to successfully infect computers overseas" including "successful attacks against computer systems in…Pakistan."
+A report by The Intercept claimed NSA hackers used the malicious program to breach targets in Pakistan’s NTC VIP Division, which contained documents pertaining to "the backbone of Pakistan’s Green Line communications network" used by the "civilian and military leadership".
+</text>

@@ -1,0 +1,18 @@
+<title>Many Android VPN Apps Breaking Privacy Promises  | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/many-android-vpn-apps-breaking-privacy-promises/123442/ </source>
+<date> 2017_01_31 </date>
+<text>
+An alarming number of Android VPNs are providing a decidedly false sense of security to users, especially those living in areas where communication is censored or technology is crucial to the privacy and physical security.
+A study published recently identified a number of shortcomings common to high percentages of 238 mobile VPN apps analyzed by a handful of researchers.
+Users downloading and installing these apps expecting secure communication and connections to private networks are instead using apps that lack encryption, are infected with malware, intercept TLS traffic, track user activity, and manipulate HTTP traffic.
+“Our experiments reveal several instances of VPN apps that expose users to serious privacy and security vulnerabilities, such as use of insecure VPN tunneling protocols, as well as IPv6 and DNS traffic leakage,” said researchers Muhammad Ikram , Narseo Vallina-Rodriguez , Suranga Seneviratne , Mohamed Ali Kaafar and Vern Paxson, representing Australia’s Commonwealth Scientific and Industrial Research Organization (AU-CSIRO), the University of South Wales, and the International Computer Science Institute at the University of California at Berkeley.
+Their findings and methodology can be found in a paper: “An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps”.
+“We also report on a number of apps actively performing TLS interception.
+Of particular concern are instances of apps that inject JavaScript programs for tracking, advertising, and for redirecting e-commerce traffic to external partners,” they said.
+The researchers identified a core weakness commonly abused in many of the apps called the BIND_VPN_SERVICE, native platform support for VPN clients introduced by Google in 2011 in Android 4.0.
+BIND_VPN_SERVICE is used by developers in the creation of clients to intercept, manipulate and forward traffic to a remote proxy or VPN server, or to implement proxies in localhost, the researchers said.
+It’s a powerful Android service that can be easily abused, depending on intent.
+The paper describes how the Android VPN API exposes a network interface to a requesting app and routes traffic from a phone or tablet to the requesting app.
+Developers must declare access to the BIND_VPN_SERVICE in the AndroidManifest file, but to only one app at a time.
+The potential for abuse is high any time traffic is re-routed; Android counters this with two warnings informing the user that a virtual network interface has been created and remains active.
+</text>

@@ -1,0 +1,14 @@
+<title>Apache Struts bug is under attack, patch now | InfoWorld</title>
+<source> http://www.infoworld.com/article/3178656/security/apache-struts-bug-is-under-attack-patch-now.html </source>
+<date> 2017_03_10 </date>
+<text>
+Apache Software Foundation has patched a remote code execution vulnerability affecting the Jakarta Multipart parser in Apache Struts.
+Administrators need to update the popular Java application framework or put workarounds in place because the vulnerability is actively being targeted in attacks.
+The issue affects Apache Struts versions 2.3.5 through 2.3.31 and versions 2.5 through 2.5.10.
+The presence of vulnerable code is enough to expose the system to attack—the web application doesn’t need to implement file upload for attackers to exploit the flaw, said researchers from Cisco Talos.
+Talos “found a high number of exploitation events,” said Cisco threat researcher Nick Biasini.
+“With exploitation actively underway, Talos recommends immediate upgrading if possible or following the workaround referenced in the above security advisory”.
+The remote code execution vulnerability (CVE-2017-5638) in the Jakarta Multipart parser is the result of improper handling of the Content-Type header, Apache said in its emergency security advisory.
+The header indicates the media type of the resource, such as when the client tells the server what type of data was sent as part of a POST or PUT request, or the server telling the client what type of content is being returned as part of the response.
+The flaw is triggered when Struts parses a malformed Content-Type HTTP header and lets attackers remotely take complete control of the system without needing any kind of authentication.
+</text>

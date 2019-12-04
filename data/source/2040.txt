@@ -1,0 +1,18 @@
+<title>Report: Average ransomware demand now over $1,000 | CSO Online</title>
+<source> http://www.csoonline.com/article/3193981/security/report-average-ransomware-demand-now-over-1000.html </source>
+<date> 2017_05_03 </date>
+<text>
+The average amount of a ransomware demand has increased from $294 in 2015 to $1,077 last year, according to a report released last week by Symantec.
+"That's a pretty dramatic increase," said Kevin Haley, director of security response at Symantec.
+"The bad guys can get almost anything they ask for," Haley said.
+Some cybercriminals also adjust the size of the ransom demand to the type of victim, asking enterprises for significantly larger amounts of money than they do of consumers.
+The company also surveyed ransomware victims, and found that 34 percent of people paid the ransom globally. But in the U.S., the number was 64 percent.
+All this money coming in is bad news for cybersecurity professionals.
+"We're seeing a lot more people investing in this business, because it's highly profitable and it's really easy to get into," he said. "The end result is more malware, and more ransomware. The problem will continue getting worse."
+The Internet of Things was also a major topic in the report. Symantec operates an IoT honeypot, and the number of attacks nearly doubled over the course of 2016.
+The intensity of attacks really surprised him, Haley said.
+During peak activity, attacks would come in every two minutes. That means that vulnerable devices would get infected almost as soon as they are connected to the internet, he said. "If you plug it in, and decide to take care of security later, you're already too late."
+There's no grace period.
+"But if the device is not using a default password, is patched, and is up to date, it can fight off most of those attacks," he said. "Unfortunately, we know that there are a lot of devices out there with default passwords, or simple passwords, or haven't been patched."
+The 77-page report also covered a wide variety of other security-related topics. One in 131 emails contained a malicious link or attachment, the highest rate in five years.
+</text>

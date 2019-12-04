@@ -1,0 +1,17 @@
+<title> Adobe January Patch Tuesday Updates Released – No Security Updates For Flash!   </title>
+<source> https://latesthackingnews.com/2019/01/10/adobe-january-patch-tuesday-updates-released-no-security-updates-for-flash/ </source>
+<date> 2019_01_10 </date>
+<text>
+This week, Adobe has  released its very first Patch Tuesday update bundle for the year 2019. The Adobe January Patch Tuesday updates brought fixes for security vulnerabilities in Adobe Digital Editions and Adobe Connect. It has also released patches for Flash Player, but they are not security fixes.
+This Tuesday, Adobe has rolled-out scheduled monthly updates for its products. However, this time, it has particularly focused on Adobe Digital Editions and Adobe Connect for security fixes. Besides, the update bundle is relatively smaller, unlike the previous updates that addressed tens of vulnerabilities.
+According to the security advisory, Adobe has fixed an important security vulnerability in Adobe Digital Editions. Describing the problem, they stated,
+    “Successful exploitation could lead to information disclosure in the context of the current user.”
+Reportedly, it’s an out of bounds read flaw (CVE-2018-12817) that affected the software version 4.5.9 and earlier for all platforms, i.e., Windows, MacOS, Android and iOS. Users should ensure updating their devices with the patched Adobe Digital Editions version 4.5.10.
+In addition to the above, another important vulnerability existed in Adobe Connect that could result in session token exposure. As stated in the advisory, the vulnerability (CVE-2018-19718) could “lead to exposure of privileges granted to a session.”
+The vulnerability affected the Adobe Connect versions 9.8.1 and earlier for all platforms. Users should, hence, ensure updating their systems with the patched version 10.1.
+Besides the two security fixes, Adobe have released patches for Flash Player as well addressing performance issues. As described in the Adobe advisory,
+    “Adobe has released updates for Adobe Flash Player for Windows, macOS, Linux and Chrome OS.  These updates address feature and performance bugs, and do not include security fixes.”
+The patched Flash Player version 32.0.0.114 has been rolled-out to be downloaded across all platforms.
+This time, the update bundle did not address security problems in Adobe Reader or Acrobat. However, the vendors already released security fixes for them in the previous week. The patch addressed two critical vulnerabilities (CVE-2018-16011 and CVE-2018-16018) that could result in arbitrary code execution and privilege escalation respectively. 
+</text>
+

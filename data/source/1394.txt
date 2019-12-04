@@ -1,0 +1,20 @@
+<title>Cyberspace’s most dangerous places put your personal data at risk</title>
+<source> http://www.daytondailynews.com/news/crime--law/cyberspace-most-dangerous-places-put-your-personal-data-risk/9SzhK7l74H3nk9a6zdBzqO/ </source>
+<date> 2017_03_31 </date>
+<text>
+Like any community, the Internet has dark alleys and sketchy places it is best to avoid.
+Granted, anyone with a connected mobile device is at risk of having his or her private personal and financial information stolen and misused.
+But dangerous software and applications often lurk in specific corners of cyberspace, where a touch of a button can have disastrous consequences.
+These sites may have a web address that’s similar to legitimate sites but contain misspellings, bad grammar or low-resolution images, according to McAfee Labs, which is the threat research division of Intel Security.
+Double check URLs to make sure that sites are authentic and not replicas created by scammers to try to steal personal information.
+A scam currently making the rounds is a message that shows up in people’s in-boxes purporting to be from Netflix.
+But in reality, it’s a “phishing” scheme intended to steal people’s log-in and credit card information.
+Apple.com, obviously, is a well-known and trustworthy source of content.
+The fake address, however, is not visible when the message is viewed on a cell phone.
+That “s” makes all the difference, because it signals that a site has security encryption.
+Legitimate e-commerce sites use encryption to keep customers’ payment information safe.
+To confirm it is a trusted site, look for on a lock symbol in the browser window.
+Consumers also should try to restrict their downloads to official and reputable app stores, such as the Apple Store, the Google Play Store and Amazon, said Scot Ganow, an attorney with Dayton-based law firm Faruki Ireland Cox Rhinehart & Dusing whose practice focuses on information privacy and security law.
+More than 1 million Android phones were infected by a yucky type of malware dubbed “Googlian” that consumers downloaded from third-party apps and by clicking on malicious links, experts said.
+The malware campaign has exposed people’s messages, documents, photographs and other sensitive data and also led to the installation of unwanted apps their devices, according to Check Point, a threat prevention software company.
+</text>

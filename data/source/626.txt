@@ -1,0 +1,17 @@
+<title>Researchers demonstrate ransomware for industrial control systems - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/02/14/ransomware-ics/ </source>
+<date> 2017_02_14 </date>
+<text>
+We’ve witnessed ransomware targeting Windows and Linux systems and Macs, Android devices, smart TVs, and even a ransomware scheme targeting iPhone users (though not effected through malware).
+Initial targets of ransomware-wielding criminals were mostly individual users.
+Not long after, the crooks discovered that they could get greater sums from businesses and organizations whose critical data and systems they managed to encrypt and/or make unusable.
+So they began hitting hospitals and other healthcare institutions, universities and schools, police departments and transportation systems, and businesses of every kind.
+Such a lucrative business model is not going to be abandoned soon, and we are sure to witness its evolution.
+A group of researchers from Georgia Tech School of Electrical and Computer Engineering showed that it’s possible to craft ransomware aimed at compromising and fiddling with industrial control systems.
+The team demonstrated their own proof-of-concept ransomware targeting programmable logic controllers (PLCs) at RSA Conference 2017 on Monday, showing how a hacker might disrupt the regular functioning of a water treatment plant.
+They started their research into this attack possibility by identifying severs common PLCs in use at industrial facilities, then obtained three different devices for testing.
+They probed them for security issues such as weak authentication mechanisms and susceptibility to settings changes, and finally combined them with pumps, tubes and tanks to create a simulated water treatment facility.
+But “recent attacks on hospitals have demonstrated how profitable ransomware can be when used to hold operationally critical assets hostage with the threat of human harm, and reports suggest attackers are beginning to shift their focus on ICS networks”.
+I would imagine that the ransom demanded in these cases could be higher than anything seen so far, as the damages to the physical systems could be extensive and the potential for human harm is great.
+On the other hand, the risk for the attackers is also higher, as government agencies would surely get involved in tracking them down.
+</text>

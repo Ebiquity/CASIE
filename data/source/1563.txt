@@ -1,0 +1,12 @@
+<title>ClearEnergy - The "In The Wild" SCADA Ransomware Attacks That Never Existed</title>
+<source> https://www.bleepingcomputer.com/news/security/clearenergy-the-in-the-wild-scada-ransomware-attacks-that-never-existed/ </source>
+<date> 2017_04_10 </date>
+<text>
+After the publication of an article in Security Affairs called "ClearEnergy ransomware aim to destroy process automation logics in critical infrastructure, SCADA and industrial control systems," security researchers used Twitter to bash the company for what they felt were lies about real world attacks, the company orchestrating a media stunt, and not releasing any research they could vet.
+Following this criticism, the company ended up apologizing, saying they forgot to mention it was only a proof-of-concept ransomware, and promised to release more details in the upcoming days.
+According to a blog post published a day later, CRITIFENCE experts only revealed they discovered two issues in the Modicon Modbus protocol used in PLC (Programmable Logic Controllers), equipment that is often found in industrial facilities all over the world, and used to control and automate sensors and motors.
+In their blog post, CRITIFENCE experts claimed to have developed a proof-of-concept ransomware that can use the two issues (CVE-2017-6032 and CVE-2017-6034) to delete a PLC's ladder logic diagram, if a ransom isn't paid in due time, effectively wiping the PLC's software.
+At the time of writing, CRITIFENCE has not published the technical report they promised.
+Nevertheless, the two security flaws CRITIFENCE discovered are real and have resulted in a patch from Schneider Electric, the PLC vendor whose products are affected.
+Earlier this year, researchers from the Georgia Institute of Technology (GIT) have created a proof-of-concept ransomware strain named LogicLocker that can alter programmable logic controller (PLC) parameters.
+</text>

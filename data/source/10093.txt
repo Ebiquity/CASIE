@@ -1,0 +1,19 @@
+<title> Massive cyberattack hits Europe with widespread ransom demands  </title>
+<source> https://www.washingtonpost.com/world/europe/ukraines-government-key-infrastructure-hit-in-massive-cyberattack/2017/06/27/7d22c7dc-5b40-11e7-9fc6-c7ef4bc58d13_story.html?noredirect=on&utm_term=.968b1ed6043b </source>
+<date> 2017_06_27 </date>
+<text>
+ MOSCOW — A new wave of powerful cyberattacks hit Europe and beyond on Tuesday in a possible reprise of a widespread ransomware assault in May. Affected were a Russian oil giant, a Danish shipping and energy conglomerate, and Ukrainian government ministries, which were brought to a standstill in a wave of ransom demands. The virus even downed systems at the site of the former Chernobyl nuclear power plant, forcing scientists to monitor radiation levels manually.
+Cyberattacks also spread as far as India and the United States, where the pharmaceutical giant Merck reported on Twitter that “our company’s computer network was compromised today as part of global hack.” The New Jersey-based company said it was investigating the attack.
+Cyber researchers say that the virus, which was linked to malware called Petrwrap or Petya, used an “exploit” developed by the National Security Agency that was later leaked onto the Internet by hackers. It is the second massive attack in the past two months to turn powerful U.S. exploits against the IT infrastructure that supports national governments and corporations.
+The onslaught of ransomware attacks may be the “new normal,” said Mark Graff, the chief executive of Tellagraff, a cybersecurity company.
+“The emergence of Petya and WannaCry really points out the need for a response plan and a policy on what companies are going to do about ransomware,” he said.
+The attack mainly targeted Eastern Europe but also hit companies in Spain, Denmark, Norway and Britain. Victims included the British advertising and marketing multinational WPP and a shipping company, APM Terminals, based at the port of Rotterdam.
+But the damage was worst in Ukraine.
+Researchers at Kaspersky Lab’s Global Research and Analysis Team, in Russia, estimated that 60 percent of infected computers were in Ukraine and 30 percent in Russia. 
+The hacks targeted government ministries, banks, utilities and other important infrastructure and companies nationwide, demanding ransoms from government employees in the cryptocurrency bitcoin. 
+The hacks’ scale and the use of ransomware recalled the massive cyberattack in May in which hackers possibly linked to North Korea disabled computers in more than 150 nations using a flaw that was once incorporated into the National Security Agency’s surveillance tool kit.
+Cyber researchers have tied the vulnerability exploited by Petya to the one used by WannaCry — a weakness discovered by the NSA years ago that the agency turned into a hacking tool dubbed EternalBlue. Petya, like WannaCry, is a worm that spreads quickly to vulnerable systems, said Bill Wright, senior policy counsel for Symantec, the world’s largest cyber­security firm. But that makes it difficult to control — or to aim at anyone in particular, he said.
+“Once you unleash something that propagates in this manner, it’s impossible to control,” he said.
+Although Microsoft in March made available a patch for the Windows flaw that EternalBlue exploited, Petya uses other techniques to infect systems, said Jeff Greene, Symantec government affairs director. 
+</text>
+

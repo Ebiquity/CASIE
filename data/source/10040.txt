@@ -1,0 +1,12 @@
+<title> JavaScript-Based Safari Ransomware Exploit Patched in iOS 10.3   </title>
+<source> https://www.macrumors.com/2017/03/28/ios-10-3-ransomware-safari-exploit-patched/ </source>
+<date> 2017_03_27 </date>
+<text>
+iOS 10.3, released to the public this morning, fixes a bug that allowed scammers to attempt to extort money from iOS users through a JavaScript pop-up in Safari.
+As explained by mobile security firm Lookout (via Ars Technica), the scammers targeted iOS users viewing pornographic material and abused JavaScript pop-ups to create an endless pop-up loop that essentially locked the browser if the user didn't know how to bypass it. 
+Using "scareware" messages and posing as law enforcement, the scammers used the pop-ups to extort money in the form of iTunes gift cards from the victim, promising to unlock the browser for a sum of money.
+    The scammers abused the handling of pop-ups in Mobile Safari in such a way that a person would be "locked" out from using Safari unless they paid a fee or knew they could simply clear Safari's cache (see next section). The attack was contained within the app sandbox of the Safari browser; no exploit code was used in this campaign, unlike an advanced attack like Pegasus that breaks out of the app sandbox to install malware on the device.
+    The scammers registered domains and launched the attack from the domains they owned, such as police-pay[.]com, which the attackers apparently named with the intent of scaring users looking for certain types of material on the Internet into paying money.
+The endless pop-up issue could be fixed by clearing the Safari cache, but many users likely did not know they didn't need to shell out money to regain access to their browsers.
+Pop-up scams are no longer possible with iOS 10.3, as Apple has changed the way pop-up dialogs work. Pop-ups are now per-tab and no longer take over the entire Safari app.
+</text>

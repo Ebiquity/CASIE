@@ -1,0 +1,11 @@
+<title> ABTA hack sees personal details of 43,000 people exposed </title>
+<source> https://www.cybersecurity-review.com/news-march-2017/abta-hack-sees-personal-details-of-43000-people-exposed/ </source>
+<date> 2017_03_16 </date>
+<text>
+Yahoo, Adult Friend Finder, LinkedIn, Tumblr and Daily Motion all have something in common: in 2016, details of massive hacks perpetrated against the companies were disclosed. The firms represent a handful of the companies and public bodies around the world that suffered at the hands of hackers last year. Data compromised usually included names, emails, and physical addresses, and even personal bank details, ethnicity data, and phone numbers.
+And the hacks aren’t stopping anytime soon. 2017 has already been dominated by numerous data breaches and the most recent affects the Association of British Travel Agents, commonly known as ABTA.
+To keep you in the loop on data breaches this year, WIRED will keep a running tally of successful hacks.
+The abta.com web server for the Association of British Travel Agents (ABTA) was recently hacked by “an external infiltrator” who exposed the details of 43,000 individuals. Around 1,000 of these included files that could include personal identity information of customers of ABTA members uploaded since 11 January 2017, while around 650 may also include personal identity information of ABTA members. As the UK’s largest travel association, ABTA’s members include travel agents and tour operators.
+The unauthorised access was said to be possible due to a system vulnerability “that the infiltrator exploited” to access some data provided by some customers of ABTA Members and by ABTA Members themselves. On immediate investigation, ABTA said it identified that although ABTA’s own IT systems remained secure, there was a vulnerability to the web server managed for ABTA through a third-party web developer and hosting company.
+“This, unfortunately, means some documentation uploaded to the website, as well as some information provided by customers, may have been accessed,” ABTA’s CEO, Mark Tanzer said. As a precautionary measure, it has taken steps to warn its members and customers of ABTA members who have the potential to be affected. The group has also alerted the relevant authorities, including the Information Commissioner (ICO) and the police.
+</text>

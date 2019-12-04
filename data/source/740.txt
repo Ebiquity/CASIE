@@ -1,0 +1,26 @@
+<title>Ebay messages, account info, and user activity not secured with HTTPS</title>
+<source> https://www.comparitech.com/blog/vpn-privacy/ebays-messages-account-info-and-user-activity-logs-not-secured-with-https/ </source>
+<date> 2017_02_24 </date>
+<text>
+Ebay customers need to be extra cautious when accessing their account activity, personal information, and messages stored on Ebay.
+Sources recently pointed out to us that many pages on the site, which require user input or contain their personal info, are not HTTPS encrypted.
+Ebay uses mixed web page content, meaning some pages use encrypted connections while others do not.
+As a standard best practice, all pages that either require user input or contain personal data should be HTTPS-encrypted.
+While Ebay does use HTTPS on its most critical pages, such as those where payment or address information is entered, it lacks encryption on several less critical, but still sensitive pages.
+When customers send and receive messages from sellers, for example, their communications are not sent over a private channel.
+Not only could a hacker intercept and read messages, they could modify them in what’s known as a “man-in-the-middle” attack.
+This could lead to fraud or spam being sent from user accounts.
+Ebay does block certain types of information from being exchanged over its internal messages system.
+It’s member-to-member contact policy states:
+We also don’t allow members to exchange email addresses, phone numbers or other contact information, web addresses, or links within eBay messaging systems.
+This is primarily to prevent buyers and sellers from arranging transactions outside of the Ebay system.
+It does help protect user privacy to a degree, but it’s only a half measure compared to the full channel encryption provided by HTTPS.
+The entire My Ebay dashboard lacks HTTPS encryption.
+This includes account activity, details, settings, preferences, and more.
+Much of the personal information on these pages is obfuscated; for example, my email is shown as “p…f@gmail.com” instead of the full email address.
+All secret questions are shown in full, for example, though not their answers.
+Still, if a hacker knew secret questions in advance, he or she could probably dig around for the answers.
+Info about friends, pets, and family are probably not so hard to come by.
+Once that’s done, the hacker can change the user’s password and take over their account.
+Everything you buy, sell, and watch can be viewed by hackers.
+</text>

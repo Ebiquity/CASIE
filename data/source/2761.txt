@@ -1,0 +1,18 @@
+<title>Motorola Moto G4, G5 Vulnerable to Local Root Shell Attacks | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/motorola-moto-g4-g5-vulnerable-to-local-root-shell-attacks/126155/ </source>
+<date> 2017_06_09 </date>
+<text>
+Researchers say several Motorola handset models are vulnerable to a critical kernel command line injection flaw that could allow a local malicious application to execute arbitrary code on the devices.
+The two affected Motorola models are the Moto G4 and Moto G5. The warnings come from Aleph Research which said it found the vulnerability on up-to-date handsets running the latest Motorola Android bootloader. Motorola said patches to fix the vulnerability in both devices are expected this month.
+“Exploiting the vulnerability allows the adversary to gain an unrestricted root shell. (And more!),” wrote Roee Hay, manager of Aleph Research. He said vulnerable versions of the Motorola Android bootloader allow for a kernel command-line injection attack.
+The vulnerability (CVE-2016-10277) is the same one found by Aleph Research earlier this year and fixed by Google in May, impacting the Nexus 6 Motorola bootloader.
+“By exploiting the vulnerability, a physical adversary or one with authorized USB fastboot access to the device could break the secure/verified boot mechanism, allowing him to gain unrestricted root privileges, and completely own the user space by loading a tampered or malicious  image,” wrote Hay.
+Despite the fact the vulnerability had been patched for the Nexus 6, Hay said the Moto G4 and G5 were still vulnerable to the same kernel command line injection flaw.
+“In the previous blog post, we suggested that CVE-2016-10277 could affect other Motorola devices. After receiving a few reports on Twitter that this was indeed the case we acquired a couple of Motorola devices, updated to the latest available build we received over-the-air,” the researcher wrote on Wednesday.
+Motorola told Threatpost via a statement that, “A patch will begin rolling out for Moto G5 within the next week and will continue until all variants are updated. The patch for Moto G4 is planned to start deployment at the end of the month and will continue until all variants are updated.”
+Researchers were able to trigger the vulnerability on the Moto devices by abusing the Motorola bootloader download functionality in order to swap in their own malicious initramfs (initial RAM file system) at a known physical address, named SCRATCH_ADDR.
+“We can inject a parameter, named initrd, which allows us to force the Linux kernel to populate initramfs into rootfs from a specified physical address,” the researcher wrote. Next, using malicious initramfs to load into a customized boot process they were able to gain root shell access to the device.
+Hay’s research into the Motorola bootloaders began in January when he identified a high-severity vulnerability (CVE-2016-8467) impacting Nexus 6/6P handsets. That separate vulnerability allowed attackers to change the bootmode of the device, giving access to hidden USB interfaces. Google fixed the issue by hardening the bootloader and restricting it from loading custom bootmodes.
+“Just before Google released the patch, we had discovered a way to bypass it on Nexus 6,” Hay said in May of the second CVE-2016-10277 vulnerability.
+In an interview with Hay by Threatpost he said, “Yes, they are both bootloader vulnerabilities. The CVE-2016-10277 can be considered a generalization of CVE-2016-8467, but with a much stronger impact,” he said.
+</text>

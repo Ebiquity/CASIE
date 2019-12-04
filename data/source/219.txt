@@ -1,0 +1,20 @@
+<title>MongoDB hackers go after ElasticSearch servers with targeted ransomware attacks</title>
+<source> http://www.ibtimes.co.uk/mongodb-hackers-set-sights-elasticsearch-servers-widespread-ransomware-attacks-1601253?utm_source=yahoo&utm_medium=referral&utm_campaign=rss&utm_content=/rss/yahoous </source>
+<date> 2017_01_17 </date>
+<text>
+Mere days after thousands of MongoDB databases were hit by ransomware attacks, cybercriminals have set their sights on ElasticSearch servers, according to reports.
+Hackers have reportedly hijacked insecure servers exposed to the internet with weak and easy-to-guess passwords.
+ElasticSearch is a Java-based search engine, commonly used by enterprises for information cataloguing and data analysis.
+According to security researcher Niall Merrigan, who has been monitoring the attacks, the cybercriminals are currently closing in on around 3,000 ElasticSearch servers.
+Merrigan told IBTimes UK: "We found the first one on the 12th of Jan and then started tracking the different IOCs (Indicators Of Compromise).
+The first actor has levelled off and looks like it has stopped.
+However, a second and third actor have joined in and are continuing to compromise servers.
+"Attackers are finding open servers where there is no authentication at all.
+This can be done via a number of services and tools.
+Unfortunately, system admins and developers have been leaving these unauthenticated systems online for a while and attackers are just picking off the low hanging fruit right now."
+The recent MongoDB attacks saw hackers demand ransom and erasing data to ensure victims' compliance.
+In the ongoing ElasticSearch attacks, the cybercriminals demand a ransom of 0.2 Bitcoins, according to a report by BleepingComputer.
+However, according to Merrigan, $20,000 in Bitcoins have already been paid by victims of the MongoDB attack.
+Despite paying the ransom, the victims have not received their data back.
+"So in this case it is a scam," the researcher said.
+</text>

@@ -1,0 +1,9 @@
+<title> Airmail issues fix for security flaw that could let hackers read your email  </title>
+<source> https://www.theverge.com/2018/8/22/17770062/airmail-email-app-update-fix-security-vulnerability-flaw </source>
+<date> 2018_08_22 </date>
+<text>
+Airmail has issued an update today to patch a vulnerability that security researchers said could let malicious third parties access email databases and read a user’s messages.
+Security consulting firm Versprite outlined the issue in a blog post this morning, noting how Airmail 3 uses both a custom URL scheme and a so-called “deterministic” file system location for email messages for any given account. Using those two pieces of information, a hacker could theoretically retrieve every one of a user’s messages through a phishing scheme that relies on that custom URL scheme.
+Airmail told The Verge that it’s already updated the app in the Mac App store and through its direct download beta program to address the issue, calling it a “very hypothetical” one. The version number is Airmail 3.6, and it should be rolling out over the course of the day if you don’t already have it now. The update is also listed on Airmail’s website, with the update note, “Potential URL Scheme Vulnerability Fix.”
+</text>
+

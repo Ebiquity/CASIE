@@ -1,0 +1,13 @@
+<title>Banks around the world hit with fileless malware - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/02/08/banks-fileless-malware/ </source>
+<date> 2017_02_09 </date>
+<text>
+Kaspersky Lab researchers have brought to light a series of attacks leveraged against 140+ banks and other businesses around the world.
+But what makes these attacks unusual is the criminals’ use of widely used legitimate tools and fileless malware, which explains why the attacks went largely unnoticed.
+“This threat was originally discovered by a bank’s security team, after detecting Meterpreter code inside the physical memory of a domain controller (DC),” the researchers explained.
+“Kaspersky Lab participated in the forensic analysis after this attack was detected, discovering the use of PowerShell scripts within the Windows registry.
+Additionally it was discovered that the NETSH utility as used for tunnelling traffic from the victim’s host to the attacker´s C2”.
+Meterpreter is a well known Metasploit payload that allows attackers to control the screen of a device using VNC and to browse, upload and download files.
+NETSH (network shell), is a Windows command-line utility that allows local or remote configuration of network devices.
+The attackers also took advantage of the Windows SC utility to install a malicious service to execute PowerShell scripts, and Mimikatz to extract credentials from compromised machines.
+</text>

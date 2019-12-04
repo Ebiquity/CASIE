@@ -1,0 +1,17 @@
+<title>
+<source> http://www.infosecurity-magazine.com/news/fraudsters-pose-as-doe-spread/ </source>
+<date> 2017_01_06 </date>
+<text>
+UK police are warning that fraudsters are posing as Department of Education officials in order trick schools into installing ransomware.
+An Action Fraud notice claimed that the fraudsters have been cold calling education institutions pretending to be government officials and socially engineering the victim into giving them the email address of the head teacher, in order to send across “sensitive information”.
+The resulting email contains a .zip attachment loaded with ransomware that will apparently demand up to £8000 to recover the files.
+Action Fraud claimed similar cases have been noted where the fraudsters pretend to be calling from the Department for Work and Pensions, or even telecom providers.
+The newly reported incidents represent an escalation in tactics designed to get ransomware on the networks of targets presumably selected because they may be relatively poorly secured, and be willing to pay a high penalty to gain access back to their data.
+“Once again, hackers have preyed on the weakest link in security – the end-user – but this is not where the fault lies.
+It’s unfair to expect busy teachers to be able to tell the difference between an email from the Department of Education and these sophisticated mimics,” argued Fraser Kyne, EMEA CTO at Bromium.
+“Hackers are clever and convincing con artists, yet the industry continues to try and convince us that they can be defeated through detection tools and user education.
+As we can see from the rise in such attacks, this approach is neither realistic nor effective”.
+In related news, new tactics designed to deliver the Petya variant GoldenEye have been discovered using fake job application emails.
+The new campaign is designed to target HR staff, with the ransomware hidden in a malicious attachment masquerading as a CV, according to Check Point.
+The emails also contain a harmless PDF as covering letter in order to lull the recipient into a false sense of security, the vendor claimed.
+</text>

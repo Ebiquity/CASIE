@@ -1,0 +1,11 @@
+<title>Pakistan automotive giant PakWheels Hacked, 700k accounts stolen</title>
+<source> https://www.hackread.com/pakistan-largest-automotive-portal-pakwheels-hacked/ </source>
+<date> 2017_01_03 </date>
+<text>
+In an email sent to users on 26th December, the site explained that hackers were able to conduct this breach by exploiting a known vulnerability in outdated vBulletin forum software.
+Although PakWheels didn’t reveal the number of affected users, we at HackRead have inside details on this breach according to which the number of targeted users impacted by this breach goes over 674,775 users including names, emails, encrypted passwords, mobile number and Facebook sessions.
+PakWheels was started back in 2003 to fill the missing space between automotive enthusiasts and absence of a platform that discusses automotive industry related topics in the country.
+In May 2016, Pakistan’s real estate giant Zameen was hacked by a Bangladeshi hacker who leaked its entire database after being ignored by Zameen’s administration.
+As far as vBulletin forum software, the year 2016, has been a bad year for anyone using vBulletin and not updating it to its latest version.
+Until now, the forums hacked due to vulnerability in outdated vBulletin forum software include Clash of Kings forum with 1.6 million data stolen, Epic games forum with 800,000 accounts stolen, Grand Theft Auto (GTA) forum, Russia’s Mail.ru with 27 million accounts stolen, LifeBoat forum with 7 million accounts stolen and Exile Mod gaming forum with 12,000 accounts stolen.
+</text>

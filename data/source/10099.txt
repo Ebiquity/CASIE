@@ -1,0 +1,20 @@
+<title> This new ransomware nightmare demands a big payday to decrypt your files  </title>
+<source> https://www.zdnet.com/article/this-new-ransomware-nightmare-demands-a-big-payday-to-decrypt-your-files/ </source>
+<date> 2017_05_12 </date>
+<text>
+Infamous Necurs botnet seen sending spam emails containing new ransomware to millions of potential victims in just a few hours.
+A new form of ransomware is indiscriminately targeting millions of PCs, spread by the prolific botnet behind one of the most successful forms of ransomware in the world.
+The new ransomware is called Jaff and given that it appears to be heavily mimicking tactics of the infamous Locky - the most successful ransomware family of 2016 - it has the potential to become a major nuisance.
+It's also brazen in its ransom demands, demanding victims pay 1.79 Bitcoins - currently $3,300 - in order to regain access to the infected network and encrypted files.
+It's an ambitious ransom - most forms of ransomware want a payment of between $500 and $1000 - but the authors are likely to be aware that many organisations are willing to give in and pay to avoid losing business-critical files.
+As noted by cybersecurity researchers at Forcepoint, the Jaff campaign sprung to life on May 11, using the Necurs botnet to send millions of spam emails emails to targets across the globe in the space of just a few hours.
+The malicious email itself is sent with a subject line referring to a receipt or to a fake document, with the pattern involving the words PDF, Scan, File, Copy or Document followed by an underscore and a string of at least four numbers - four example, one subject line seen by researchers was 'Copy _293636'
+Attached to this email is a PDF document containing an embedded DOCM file and a malicious Macro script. If this is run, the ransomware payload is executed and Jaff targets and encrypts a wide variety of file extensions, renaming them all to end in .jaff.
+While the attack might seem basic - especially compared with targeted spear-phising attacks - the sheer number of messages sent out means that even just a tiny percentage of targets open the email, download the attachment and enable the macros, this new ransomware could have a sizeable impact.
+As with other ransomware attacks, the infected victim sees their desktop changed to a ransom note and they're directed to instructions, telling them their files are encrypted and that they must visit a dark web address in order to pay to get their files back.
+It's this combined with how the ransomware is spread by Necurs - which leads researchers to suggest that there's a connection between Jaff and Locky: the Jaff decryptor website and the Locky decryptor website look almost identical. 
+Researchers also note that while the code behind Jaff is less sophisticated than Locky, it carries one major similarity - the ransomware will delete itself from the infected machine if the local language is Russian. If the ransomware does not want to target Russian users this might suggest it originate from Russia and the developers don't want to cause trouble in their own neighbourhood.
+While researchers can't say for certain if Jaff is definitively linked to the gang behind Locky but those behind it have the funding and skills required to carry out a sophisticated campaign.
+"What is clear, given the volume of messages sent, is that the actors behind the campaign have expended significant resources on making such a grand entrance," said Forcepoint researchers.
+</text>
+

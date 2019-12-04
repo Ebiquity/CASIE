@@ -1,0 +1,11 @@
+<title>Fileless: Evasive Intrusion Tactics Pose Challenge for Network Defense — NJCCIC</title>
+<source> https://www.cyber.nj.gov/threat-analysis/fileless-evasive-intrusion-tactics-pose-challenge-for-network-defense </source>
+<date> 2017_04_03 </date>
+<text>
+The NJCCIC assesses with high confidence that fileless and “non-malware” intrusion tactics pose high risk to organizations, both public and private, and will be increasingly employed by capable threat actors intent on stealing data or establishing persistence on networks to support ongoing espionage objectives or to enable future acts of sabotage.
+Furthermore, we assess most organizations are not currently equipped to defend against these tactics.
+The NJCCIC recommends all organizations reevaluate the capabilities and efficacy of their current cybersecurity technologies and processes, as well as their staffs, to ensure they are effectively managing and reducing the risk of data breaches and disruptive or destructive attacks conducted using fileless methods.
+To address the risk posed by fileless and non-malware tactics, organizations must first adopt a comprehensive cyber risk management framework and implement robust cybersecurity best practices and defensive measures, including, but not limited to, the bulleted items below.
+Additionally, organizations will need to employ enhanced logging, monitoring, and analysis of all network, host, and user activity to identify fileless tactics.
+To do so, enterprises may need to procure third-party products and managed services that include capabilities such as full system endpoint protection with memory and registry monitoring, behavioral analytics, next-generation firewalls, and email content inspection.
+</text>

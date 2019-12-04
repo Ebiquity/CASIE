@@ -1,0 +1,19 @@
+<title> Cisco warns of critical remotely exploitable vulnerabilities </title>
+<source> https://www.itnews.com.au/news/cisco-warns-of-critical-remotely-exploitable-vulnerabilities-512124 </source>
+<date> 2018_09_06 </date>
+<text>
+Struts bugs, Umbrella misconfig and router Guest accounts fixed.
+Cisco has issued security alerts for 30 vulnerabilities across a range of its products and services, with three being ranked as critical and remotely exploitable.
+Some 20 different Cisco products contain a vulnerable version of the Apache Struts 2 framework that is currently under active exploitation by miscreants dropping cryptocurrency miner malware on exposed systems.
+Of these, 18 are not vulnerable to any exploitation vectors for the Struts flaw, Cisco said.
+Five Cisco products, SocialMiner, Identity Services Engine, Finesse, Unified Contact Centre Enterprise and the Video Distribution Suite for Internet Streaming have received patches for the Struts vulnerability.
+Cisco's cloud-hosted Network Performance Analysis service is yet to get a Struts update though.
+A critical flaw in the application programming interface (API) for Cisco's cloud-based Umbrella allowed attackers to view and potentially modify data across multiple organisations using the secure internet gateway service.
+The vulnerability stems from insufficient authentication configurations for the Umbrella API, and has been patched by Cisco with no user action required.
+Two high-impact vulnerabilities in the Umbrella Enterprise Roaming Client and Enterprise Roaming Module that could be exploited by attackers to elevate user privileges to Administrator level have also been patched by Cisco.
+A third critical vulnerability can be exploited to run code remotely on the Cisco RV110W VPN firewall and RV130W and RV215W wireless VPN routers, or freeze the devices in denial of service attacks.
+Patches for the vulnerability address an improper boundary restriction on input via the Guest user account in the devices' web-based remote management interface, Cisco said.
+Cisco also patched three high impact vulnerabilities in the above network devices, which could be exploited to remotely execute arbitrary commands and read sensitive information on them.
+Of the thirty vulnerabilities disclosed, 13 are ranked as high impact.
+</text>
+

@@ -1,0 +1,24 @@
+<title> BT Mail login warning - DO NOT be fooled by this shocking new email scam </title>
+<source> https://www.express.co.uk/life-style/science-technology/934344/BT-email-login-scam-warning-BT-bill-is-now-overdue </source>
+<date> 2018_03_21 </date>
+<text>
+BT MAIL users should be on alert as a new email scam is discovered which could be used to gain access to personal details.
+Users of BT’s popular email service should be aware of a new scam which is targeting customers across the UK.
+The latest threat, which was unleashed over the weekend, suggests that customers’ bills are overdue and need to be paid as soon as possible.
+The full message reads, “Your latest bill is now overdue. You can view it online at My BT or on the app. To log in, you'll need your BT ID. This is usually your email address.
+“You need to pay it as soon as possible to avoid service intreruption!”
+This scam then attempts to trick users by suggesting they should click a link to pay their outstanding bill.
+There’s plenty of warning signs about this message including obvious spelling errors and the fact there’s no official BT branding on the email.
+Another reason why this is clearly a fake is that it's been sent to people who don't even use BT as their email provider.
+One person hit by the scam told Express.co.uk that they received the email on Sunday and have never had a BT broadband or BT email account.
+UK Police have also sent out an alert warning BT customers about this latest scam and advising them not to be cautious when clicking in links embedded within emails.
+In a tweet Warwickshire Police said they had “received an email from BT re an outstanding bill today - there are links on it to pay the bill.
+"This is an obvious scam," the message on Twitter continued.
+"Please if you receive a similar one DO NOT CLICK ON THE LINKS - BT have been made aware."
+Express.co.uk has contacted BT for comment on this latest scam.
+BT has plenty of advice on its website about staying safe online.
+The broadband supplier states that internet scams can take many forms, from 'phishing', where a fake email or web site will try to get you to part with your bank account information, to scams pretending to be from online auction, job or other websites that try to collect your personal data.
+Not sure if an email you've received is genuine? Don't click on it, and never give out your account or bank details.
+Stay safe by being aware of "phishing" and other scams that might find their way into your inbox.
+</text>
+

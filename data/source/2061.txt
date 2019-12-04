@@ -1,0 +1,17 @@
+<title>OAUTH phishing against Google Docs ? beware! - SANS Internet Storm Center </title>
+<source> https://isc.sans.edu/forums/diary/OAUTH+phishing+against+Google+Docs+beware/22372/ </source>
+<date> 2017_05_04 </date>
+<text>
+We got several reports (thanks to Seren Thompson, Tahir Khan and Harry Vann) about OAUTH phishing attacks against Google users. The phishing attack arrives, of course, as an e-mail where it appears that a user (potentially even one on your contact list, so it looks very legitimate) has shared a document.
+
+If you click on the link (Open in Docs), you will be redirected to the OAUTH2 service on accounts.google.com, it appears as Google Docs wants full access to my Gmail as well as my contacts. Of course, this is not real Google Docs – the attacker has simply named his “application” Google Docs – this can be verified by clicking on the Google Docs text where the real web site behind this and developer info is shown:
+
+Obviously, once you allow access it is game over - the attacker probably uses the phishied Gmail account to further distribute phishing e-mails - we'll see if we can get more details.
+So far at least the following domains are included:
+googledocs.g-docs.win
+googledocs.g-docs.pro
+The domains are definitely malicious – the URL leads to jsserver.info where a fake alert that the computer is infected is shown.
+UPDATE:
+There are more domains - they all just change the TLD's for googledocs.g-docs.X or googledocs.docscloud.X. Most of them (if not all) appear to have been taken down (thanks @Jofo).
+It also appears that Google has reacted quickly and are now recognizing e-mails containing malicious (phishing) URL's so the message "Be careful with this message. Similar messages were used to steal people's personal information. Unless you trust the sender, don't click links or reply with personal information." will be shown when such an e-mail is opened.
+</text>

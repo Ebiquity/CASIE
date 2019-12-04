@@ -1,0 +1,25 @@
+<title>Netflix Phishing Campaign Targeted User Information, Credit Card Data | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/netflix-phishing-campaign-targeted-user-information-credit-card-data/122988/ </source>
+<date> 2017_01_11 </date>
+<text>
+Researchers recently identified a phishing campaign set up to lure unsuspecting Netflix users into giving up their credentials and credit card data.
+The campaign – now defunct – started with an email informing users they needed to update their account details.
+From there, victims were brought to a legitimate looking Netflix login page where they were asked their email address and Netflix password.
+Not content with just getting users’ login credentials, the attacker then directs victims to another form where they’re told they need to update their billing information.
+Users are encouraged to enter their name, birthdate, address, and credit card information.
+The attacker perhaps overdid it by asking users to provide their social security number – something Netflix would never ask for – and users’ VBV (Verified by Visa) 3D Secure Code, a fairly new service that Visa uses in Europe and India but that hasn’t been deployed in the U.S. yet.
+While the pages mimic actual Netflix pages and even feature a yellow “secure server” lock, they’re completely fake.
+Mohammed Mohsin Dalla, a researcher with FireEye’s Threat Research team who uncovered the campaign, notes that until it was taken down, the campaign was adept at bypassing phishing filters.
+He claims the campaign used AES encryption to encode the content it served up, something that would have made it easy for it to evade detection.
+“By obfuscating the webpage, attackers try to deceive text-based classifiers and prevent them from inspecting webpage content,” Dalla wrote of the scam Monday, “this technique employs two files, a PHP and a JavaScript file that have functions to encrypt and decrypt input strings.
+The PHP file is used to encrypt the webpages at the server side… at the client side, the encrypted content is decoded using a defined function in the JavaScript file”.
+Phishing campaigns that target Netflix customers aren’t revolutionary but this one was different because of the way it evaded detection and served up its phishing pages.
+The pages, hosted on legitimate but compromised servers, didn’t appear to users if their DNS linked back to Google or PhishTank, an anti-phishing service that aggregates data on scams like this.
+In fact, according to FireEye, if a visitor from Google, Phishtank, or other sites like the Calyx Institute or Netflix itself visited the fake site, the campaign would ensure a “404 Not Found error” message would be displayed – making it less likely the scam would be discovered.
+Netflix phishing campaigns have become some of the more ubiquitous scams.
+A handful of phony invoice emails made the rounds in the UK earlier this summer trying to trick users into thinking they’d purchased a Netflix subscription and insist they hand over their credit card information.
+Another scam, one that was set on convincing Netflix users they needed to update their credit card data, made the rounds earlier last summer, in July.
+After entering their information, victims were told their account has been suspended and that they need to download “Netflix support software”.
+That software, at least according to the Knoxville, Tenn.
+Better Business Bureau, was “remote login software” that handed attackers the keys to victims’ computers.
+</text>

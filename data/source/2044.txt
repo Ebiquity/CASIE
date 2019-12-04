@@ -1,0 +1,23 @@
+<title>California Auto Loan Firm Spills Customer Data</title>
+<source> http://www.bankinfosecurity.com/california-auto-loan-firm-spills-customer-data-a-9874 </source>
+<date> 2017_05_03 </date>
+<text>
+A California financing company exposed up to 1 million records online that contained names, addresses, fragments of Social Security numbers and data related to vehicle loans, according to a researcher's report. 
+The data comes from Alliance Direct Lending, which is based in Orange, California, writes Bob Diachenko, who works with the security research team at Kromtech Alliance Corp. of Germany. Alliance Direct Lending specializes in refinancing auto loans at a lower interest rate, and it also has partnerships with dealers across the country. 
+"It is unclear if anyone other than security researchers accessed it or how long the data was exposed," Diachenko writes in a blog post. 
+Security researchers, as well as hackers, have had a field day lately exposing configuration mistakes organizations have made when setting up databases. Despite a string of well-publicized findings, the errors are still being made, or at least, not being caught. Aside from breaches, other organizations have seen their data erased and held for ransom, with notes left inside the databases asking for bitcoins (see Database Hijackings: Who's Next?). 
+Kromtech notified Alliance, which has since taken the data offline, Diachenko writes. Information Security Media Group's efforts to reach Alliance officials were not immediately successful. Under California's mandatory data breach notification law, Alliance would be required to report the breach. 
+"The IT administrator claimed that it had only recently been leaked and was not was not up for long," Diachenko writes. "He thanked us for the notification and the data was secured very shortly after the notification call." 
+Researchers came across the data while looking into Amazon Web Services Simple Storage Service (S3) "buckets," which is the term for storage instances on the popular cloud hosting service. They were specifically hunting for buckets that had been left online but required no authentication. 
+The bucket contained 1,000 items, of which 210 were public. The leaked data included .csv files listed by dealerships located around the country. The number of consumer details leaked ranges between 550,000 up to 1 million, Diachenko writes. A screenshot posted on Kromtech's blog shows a sampling of the dealerships affected. 
+Kromtech shared with ISMG a data sample pertaining to a dealership in Michigan. It shows full names, addresses, ZIP codes, what appear to be FICO credit scores, an annual percentage rate and the last four digits of Social Security numbers. 
+"The danger of this information being leaked is that cybercriminals would have enough to engage in identity theft, obtain credit cards or even file a false tax return," Diachenko writes. 
+While full Social Security numbers weren't exposed, there's still a risk in leaking the last four digits. When trying to verify customers' identities, companies will sometimes ask for a fragment of data. So for fraudsters compiling dossiers, every bit, however incomplete, helps. 
+Also exposed were 20 phone call recordings with customers who were negotiating auto loan deals. 
+"These consent calls were the customers agreeing that they understood they were getting an auto loan, confirming that the information was correct and true," Diachenko writes. "They included the customer's name, date of birth, social security numbers, and phone numbers." 
+The bucket was last modified on Dec. 29, 2016, Kromtech writes. 
+Amazon has strong security built around S3 storage, so it would appear that whomever created the bucket might have disabled its controls. According to Amazon's guidance, "only the bucket and object owners originally have access to Amazon S3 resources they created." 
+Amazon also has identity and access management controls that can be used to carefully restrict who can access and change data. Buckets can also be made off-limits based on HTTP referrers and IP addresses. 
+Managing Editor, Security and Technology, ISMG
+Kirk is a veteran journalist who has reported from more than a dozen countries. Based in Sydney, he is Managing Editor for Security and Technology for Information Security Media Group. Prior to ISMG, he worked from London and Sydney covering computer security and privacy for International Data Group. Further back, he covered military affairs from Seoul, South Korea, and general assignment news for his hometown paper in Illinois.
+</text>

@@ -1,0 +1,12 @@
+<title> iOS 10.3 Update Patches JavaScript-Based Safari Ransom Exploit   </title>
+<source> https://www.mactrast.com/2017/03/ios-10-3-update-patches-javascript-based-safari-ransom-exploit/ </source>
+<date> 2017_03_28 </date>
+<text>
+iOS 10.3, released to the public on Monday, patches a bug that allowed bad actors to use a JavaScript pop-up in Safari in an attempt to extort money from iOS users.
+Security firm Lookout (via Ars Technica) said the scammers would target Safari users who viewed pornography by placing malicious scripts on various pornographic website that would create an endless pop-up loop that basically locked the browser, if an uninformed user didn’t know how to get around the flaw.
+    The scammers abused the handling of pop-ups in Mobile Safari in such a way that a person would be “locked” out from using Safari unless they paid a fee — or knew they could simply clear Safari’s cache (see next section). The attack was contained within the app sandbox of the Safari browser; no exploit code was used in this campaign, unlike an advanced attack like Pegasus that breaks out of the app sandbox to install malware on the device.
+    The scammers registered domains and launched the attack from the domains they owned, such as police-pay[.]com, which the attackers apparently named with the intent of scaring users looking for certain types of material on the Internet into paying money.
+The pop-ups claimed to be from law-enforcement personnel, and claimed the only way to get control of the browser back was to pay a fine in the form of an iTunes gift card code delivered via text message. Users actually could have gotten out of the pop-up loop by manually clearing the Safari browser cache. However, a new or otherwise uninformed user might believe they actually needed to pay the ransom before regaining control of their browser.
+“The attackers effectively used fear as a factor to get what they wanted before the victim realized that there was little actual risk,” Lookout researchers Andrew Blaich and Jeremy Richards said.
+iOS 10.3 changes the way pop-up dialogs work in Safari. Previously, a pop-up dialog took over the entire Safari app. Now, pop-ups are only per tab. iOS users who are hit by the scam before updating to iOS 10.3 can clear their browsing cache by going to “Settings” -> “Safari” and tapping: “Clear History and Website Data.”
+</text>

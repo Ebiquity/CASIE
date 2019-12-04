@@ -1,0 +1,13 @@
+<title>Hackers Infect PGA Computers with Ransomware, Demand Bitcoin Payment</title>
+<source> https://www.newsweek.com/ransomware-infects-pga-computers-and-locks-files-demands-bitcoin-1065038 </source>
+<date> 2018_08_09 </date>
+<text>
+PGA of America computers were infected this week with a strain of malicious software that locked down critical files and demanded cryptocurrency for their return.
+Officials discovered on Tuesday that servers had been targeted in a ransomware attack that  blocked them from obtaining access to material relating to major golf tournaments, including this week’s PGA Championship at Bellerive Country Club. Some signage had been in development for over a year and could not be reproduced quickly, Golfweek reported.
+The extortion threat was clear: Transfer bitcoin to the hackers or lose the files forever. “Your network has been penetrated. All files on each host in the network have been encrypted with a strong algorythm (sic),” a ransom read. “Backups were either encrypted or deleted or backup disks were formatted.” The note claimed shutting down the system may damage files.
+The notice included a bitcoin wallet number—where funds could be sent—and a warning that there was no way to get access to the files without a decryption key. The hackers that said they would prove their “honest intentions” to the PGA of America by unlocking two files free-of-charge.
+A source who asked not to be named told Golfweek that officials had no intention of paying the ransom demand—following the advice of most law enforcement officials and cybersecurity experts. The network remained locked on Wednesday and external researchers are still investigating.
+PGA of America has declined to comment.
+The golfing association did not reveal what ransomware infected its computers. But tech website Bleeping Computer found the demand matched the BitPaymer variant. Researcher Lawrence Abrams said one previous extortion scheme asked for 53 bitcoins, equivalent to $335,000.
+Abrams described BitPaymer as a “secure ransomware” and said the PGA would either have to rely on backups to regain access to its files or pay the significant bitcoin demand.
+</text>

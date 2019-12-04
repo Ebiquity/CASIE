@@ -1,0 +1,15 @@
+<title>Ultrasound Tracking Could Be Used to Deanonymize Tor Users</title>
+<source> https://www.bleepingcomputer.com/news/security/ultrasound-tracking-could-be-used-to-deanonymize-tor-users/ </source>
+<date> 2017_01_04 </date>
+<text>
+This attack model was brought to light towards the end of 2016 by a team of six researchers, who presented their findings at the Black Hat Europe 2016 security conference in November and the 33rd Chaos Communication Congress held last week.
+When the ad plays on a TV or radio, or some ad code runs on a mobile or computer, it emits ultrasounds that get picked up by the microphone of nearby laptops, desktops, tablets or smartphones.
+Speaking at last week's 33rd Chaos Communication Congress, Vasilios Mavroudis, one of the six researchers, detailed a deanonymization attack on Tor users that leaks their real IP and a few other details.
+The attack that the research team put together relies on tricking a Tor user into accessing a web page that contains ads that emit ultrasounds or accessing a page that contains hidden JavaScript code that forces the browser to emit the ultrasounds via the HTML5 Audio API.
+According to Mavroudis, the mobile phone must have an app installed that has embedded one of the many advertising SDKs that include support for uXDT.
+In tests carried out by Mavroudis, the researcher has intercepted some of the traffic these ultrasound beacons trigger on behalf of the phone, traffic which contains details such as the user's real IP address, geo-location coordinates, telephone number, Android ID, IMEI code, and device MAC address.
+According to Mavroudis, there are multiple ways to deliver these attacks other than social-engineering Tor users to access certain URLs, where these ultrasound beacons can be served.
+Similarly, the attackers could also run a malicious Tor exit node and perform a Man-in-the-Middle attack, forcibly injecting the malicious code that triggers uXDT beacons in all Tor traffic going through that Tor node.
+A simpler attack method would also be to hide the ultrasounds, which are inaudible to human ears, inside videos or audio files that certain Tor users might be opening.
+The FBI might be very interested in this method and could deploy it to track viewers of child pornography videos on the Tor network, just like it previously did in Operation Playpen, where it used a Flash exploit.
+</text>

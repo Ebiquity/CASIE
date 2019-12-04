@@ -1,0 +1,22 @@
+<title> Siemens Patches Firewall Flaw That Put Operations at Risk  </title>
+<source> https://threatpost.com/siemens-patches-firewall-flaw-that-put-operations-at-risk/139082/ </source>
+<date> 2018_11_14 </date>
+<text>
+The industrial company on Tuesday released mitigations for eight vulnerabilities overall.
+Siemens AG on Tuesday issued a slew of fixes addressing eight vulnerabilities spanning its industrial product lines. The most serious of the patched flaws include a cross-site scripting vulnerability in Siemens’ SCALANCE firewall product. The flaw could allow an attacker to gain unauthorized access to industrial networks and ultimately put operations and production at risk.
+The SCALANCE S firewall is used to protect secure industrial networks from untrusted network traffic, and allows filtering incoming and outgoing network connections in different ways. Siemens S602, S612, S623, S627-2M SCALANCE devices with software versions prior to V4.0.1.1 are impacted.
+Researchers with Applied Risk, who discovered the flaw, said that vulnerability exists in the web server of the firewall software. An attacker can carry out the attack by crafting a malicious link and tricking an administrator – who is logged into the web server – to click that link. Once an admin does so, the attacker can execute commands on the web server, on the administrator’s behalf.
+“The integrated web server allows a cross-site scripting attack if an administrator is misled into accessing a malicious link,” Applied Risk researcher Nelson Berg said in an analysis of the flaw. “Successful exploitation may lead to the ability to bypass critical security measures provided by the firewall.”
+Exploitation of this vulnerability could ultimately enable threat actors to bypass critical security functions provided by the firewall, potentially providing access to industrial networks and putting operations and production at risk.
+The vulnerability, CVE-2018-16555, has a CVSS score which Applied Risk researcher calculates to be 8.2 (or high severity).
+That said, researchers said a successful exploit is not completely seamless and takes some time and effort to carry out – for an attacker to exploit the flaw, user interaction is required and the administrator must be logged into the web interface.
+Researchers said that no exploit of the vulnerability has been discovered thus far.
+Siemens addressed the reported vulnerability by releasing a software update (V4.0.1.1) and also advised customers to “only access links from trusted sources in the browser you use to access the SCALANCE S administration website.”
+The industrial company also released an array of fixes for other vulnerabilities on Tuesday. Overall, eight advisories were released by the US CERT.
+Another serious vulnerability (CVE-2018-16556) addressed was an improper input validation flaw in certain Siemens S7-400 CPUs. Successful exploitation of these vulnerabilities could crash the device being accessed which may require a manual reboot or firmware re-image to bring the system back to normal operation, according to the advisory.
+“Specially crafted packets sent to Port 102/TCP via Ethernet interface, via PROFIBUS, or via multi-point interfaces (MPI) could cause the affected devices to go into defect mode. Manual reboot is required to resume normal operation,” according to US Cert.
+An improper access control vulnerability that is exploitable remotely in Siemens IEC 61850 system configurator, DIGSI 5, DIGSI 4, SICAM PAS/PQS, SICAM PQ Analyzer, and SICAM SCC, was also mitigated.
+The vulnerability, CVE-2018-4858, has a CVSS of 4.2 and exists in a service of the affected products listening on all of the host’s network interfaces on either Port 4884/TCP, Port 5885/TCP, or Port 5886/TCP. The service could allow an attacker to either exfiltrate limited data from the system or execute code with Microsoft Windows user permissions.
+Also mitigated were an improper authentication vulnerability (CVE-2018-13804) in SIMATIC IT Production Suite and a code injection vulnerability(CVE-2018-13814) in SIMATIC Panels and SIMATIC WinCC that  could allow an attacker with network access to the web server to perform a HTTP header injection attack.
+</text>
+

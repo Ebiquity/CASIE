@@ -1,0 +1,23 @@
+<title> Ransomware for robots is the next big security nightmare  </title>
+<source> https://www.zdnet.com/article/ransomware-for-robots-is-the-next-big-security-nightmare/ </source>
+<date> 2018_03_09 </date>
+<text>
+Researchers found they were able to infect robots with ransomware; in the real world, such attacks could be highly damaging to businesses if robotic security isn't addressed.
+Ransomware has long been a headache for PC and smartphone users, but in the future, it could be robots that stop working unless a ransom is paid.
+Researchers at security company IOActive have shown how they managed to hack the humanoid NAO robot made by Softbank and infect one with custom-built ransomware. The researchers said the same attack would work on the Pepper robot too.
+After the infection, the robot is shown insulting its audience and demanding to be 'fed' bitcoin cryptocurrency in order to restore systems back to normal.
+While a tiny robot making threats might initially seem amusing -- if a little creepy -- the proof-of-concept attack demonstrates the risks associated with a lack of security in robots and how organisations that employ robots could suddenly see parts of their business grind to a halt should they become a victim of ransomware.
+"In order to get a business owner to pay a ransom to a hacker, you could make robots stop working. And, because the robots are directly tied to production and services, when they stop working they'll cause a financial problem for the owner, losing money every second they're not working," Cesar Cerrudo, CTO at IOActive Labs, told ZDNet.
+Taking what was learned in previous studies into the security vulnerabilities of robots, researchers were able to inject and run code in Pepper and NAO robots and take complete control of the systems, giving them the option to shut the robot down or modify its actions.
+The researchers said it was possible for an attacker with access to the Wi-Fi network the robot is running on to inject malicious code into the machine.
+"The attack can come from a computer or other device that is connected to internet, so a computer gets hacked, and from there, the robot can be hacked since it's in the same network as the hacked computer," said Cerrudo, who conducted the research alongside Lucas Apa, Senior Security Consultant at IOActive.
+Unlike computers, robots don't yet store vast amounts of valuable information that the user might be willing to pay a ransom to retrieve. But, as companies often don't have backups to restore systems from, if a robot becomes infected with ransomware, it's almost impossible for the user to restore it to normal by themselves.
+If the alternative for a victim of robot ransomware is waiting for a technician to come to fix the robot -- or even losing access it to weeks if it needs to be returned to the manufacturer -- a business owner might view giving into the ransom demand as a lesser evil.
+"If it's one robot then it could take less time, but if there are dozens or more, every second they aren't working, the business is losing money. Keeping this in mind, shipping lots of robots takes a lot of time, so the financial impact is bigger when you have a computer compromised with ransomware," said Cerrudo.
+While the robot ransomware infections have been done for the purposes of research -- and presented at the 2018 Kaspersky Security Analyst Summit in Cancun, Mexico -- IOActive warn that if security in robotics isn't properly addressed now, there could be big risks in the near future.
+"While we don't see robots every day, they're going mainstream soon, businesses worldwide are deploying robots for different services. If we don't start making robots secure now, if more get out there which are easily hacked, there are very serious consequences," said Cerrudo.
+As with security vulnerabilities the Internet of Things and other products, the solution to this issue is for robotics manufacturers to think about cybersecurity at every step of the manufacturing process from day one.
+IOActive informed Softbank about the research in January but Cerrudo said: "We don't know if they [Softbank] are going to fix the issues and when, or even if they can fix the issues with the current design."
+Responding to the IOActive research, a Softbank spokesperson told ZDNet: "We will continue to improve our security measures on Pepper, so we can counter any risks we may face." 
+</text>
+

@@ -1,0 +1,13 @@
+<title> New Facebook Messenger virus attack delivers fake video links   </title>
+<source> https://www.2-spyware.com/new-facebook-messenger-virus-attack-delivers-fake-video-links </source>
+<date> 2017_10_27 </date>
+<text>
+Facebook users have noticed and reported a new scam making rounds on the popular network.[1] This time, it is the same old Facebook Messenger virus that compromises user accounts and acts on behalf of the victim to distribute the malicious link further.
+The scam uses a basic social engineering technique that lures the potential target into clicking on the provided URL. In addition, the victim feels safe since the link comes from one of his Facebook friends. The message usually includes a short line that looks similar to “its you? [name] :|.”
+The emoji at the end of the message differs, and the provided link is shortened; therefore the user cannot figure out where it leads. However, the shortcut indicates that the link leads to a mysterious video and triggers victim’s curiosity to check it out.
+Typical strategy: Install something to watch the video
+Cybersecurity experts are already familiar with the technique used to trick questioning users into installing the Facebook Message Video virus. As soon as the victim clicks the compromised link and enters the phishing website (which apparently is designed to look like YouTube or another popular video sharing platform), a misleading pop-up appears, asking the victim to install an update or an application (it could be a fake Adobe Flash Player or a plug-in).
+The file suggested to the user contains no software related to video streaming and simply carries the malicious payload that later compromises victim’s account and sends out the deceptive messages to all victim’s contacts.
+Speaking of fake Adobe Flash Players, we want to inform you that these are one of the most dangerous threats to your security. One of the latest cyber attacks was based on fake pop-ups appearing on compromised sites, urging people to install an updated Flash Player. Unfortunately, launching the install_flash_player.exe file only infected the computer with Bad Rabbit ransomware.
+</text>
+

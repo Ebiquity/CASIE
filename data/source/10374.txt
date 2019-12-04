@@ -1,0 +1,18 @@
+<title> Microsoft Patches Remote Code Execution Vulnerability in Exchange Server  </title>
+<source> https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-remote-code-execution-vulnerability-in-exchange-server// </source>
+<date> 2019_01_10 </date>
+<text>
+Microsoft released a security update designed to patch remote code execution (RCE) and information disclosure vulnerabilities in its Microsoft Exchange Server 2019, 2016, and 2013 products.
+The RCE security issue is being tracked as CVE-2019-0586 and according to Microsoft's advisory it exists because "the software fails to properly handle objects in memory."
+Attackers can run code as System user
+Following a successful attack of a vulnerable Microsoft Exchange Server installations, potential attackers would be able to take advantage of System user permissions.
+    An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the System user. An attacker could then install programs; view, change, or delete data; or create new accounts.
+In order to exploit the CVE-2019-0586 vulnerability, attackers have to send maliciously crafter emails to a vulnerable Exchange server. The issue has been addressed by changing the way Microsoft Exchange handles objects in memory.
+The information disclosure Microsoft Exchange Server vulnerability was assigned the CVE-2019-0588 tracking id and it is caused by the way Microsoft Exchange's "PowerShell API grants calendar contributors more view permissions than intended."
+    To exploit this vulnerability, an attacker would need to be granted contributor access to an Exchange Calendar by an administrator via PowerShell. The attacker would then be able to view additional details about the calendar that would normally be hidden.
+The CVE-2019-0588, security vulnerability was fixed by correcting the way Exchange's PowerShell API grants permissions to contributors.
+Microsoft rated the two vulnerabilities as 'Important'
+Microsoft assigned an Important severity level to both security issues and, until their public disclosure, no mitigation factors or workarounds have been found.
+On servers that are using user account control (UAC) the update may fail to install if the update packages are run without Administrator privileges. 
+</text>
+

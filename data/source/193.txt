@@ -1,0 +1,19 @@
+<title>WhatsApp design feature means some encrypted messages could be read by third party | Technology | The Guardian</title>
+<source> https://www.theguardian.com/technology/2017/jan/13/whatsapp-backdoor-allows-snooping-on-encrypted-messages </source>
+<date> 2017_01_13 </date>
+<text>
+Trade-off between security and usability unlikely to permit systematic surveillance, experts say
+• This article was originally published on 13 January 2017.
+It has been extensively amended (see endnotes) following a review by the Guardian’s readers’ editor.
+A design feature that could potentially allow some encrypted messages to reach unintended recipients is present within the WhatsApp messaging service.
+Facebook-owned WhatsApp, which has about one billion users, has not made it widely known that there is an aspect of WhatsApp that results in some messages being re-encrypted and resent automatically, without first giving the sender an opportunity to verify the recipient.
+Campaigners have expressed concern about how this aspect of WhatsApp could potentially be exploited to conduct surveillance.
+WhatsApp has made privacy and security a primary selling point, and has become a go-to communications tool of activists, dissidents and diplomats.
+Its end-to-end encryption relies on the generation of unique security keys using the acclaimed Signal protocol, developed by Open Whisper Systems.
+Keys are exchanged between users to guarantee communications are secure from interception by middlemen.
+The way WhatsApp implemented the protocol, new keys are generated when – for example – a user gets a new phone or reinstalls the app.
+Messages for the user which may have been waiting to be delivered while the user was offline are then re-encrypted and resent by the sender automatically, without the sender having had an opportunity to verify that the recipient is the person intended to receive the message.
+A sender is notified after the event if the sender has opted to turn on a notification in settings, but not otherwise.
+This aspect of WhatsApp, which increases convenience and reliability of message delivery at the cost of some security, is not inherent to the Signal protocol.
+If a recipient’s security key changes while offline, an in-transit message will fail to be delivered and the sender will be notified of the change in security keys without the message having been resent automatically.
+</text>

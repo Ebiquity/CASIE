@@ -1,0 +1,13 @@
+<title> Liberty customers compromised in ransomware attack </title>
+<source> https://it-online.co.za/2018/06/17/liberty-customers-compromised-in-ransomware-attack/ </source>
+<date> 2018_06_17 </date>
+<text>
+Liberty Life has fallen victim to a ransomware attack, with the personal data of millions of the insurance company’s customers potentially at stake.
+Last night (16 June), the company informed customers that hackers have gained unauthorised access to its IT infrastructure.
+“An external party claims to have seized data from us, has alerted us to potential vulnerabilities in our systems and has requested compensation for this,” a statement to customers reads.
+“Since becoming aware, we have taken immediate steps to secure our computer systems.”
+It is believed that the hackers have demanded millions to prevent them from releasing sensitive data about clients.
+“Liberty is investigating the breach and we will endeavour to keep all stakeholders fully informed as appropriate,” the statement adds.
+“We are working hard to rectify the situation.”  
+</text>
+

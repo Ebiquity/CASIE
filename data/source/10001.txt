@@ -1,0 +1,12 @@
+<title>Police probe into data breach at Crosshouse after staff accessed patient records</title>
+<source> https://www.irvinetimes.com/news/17212754.police-probe-into-data-breach-at-crosshouse-after-staff-accessed-patient-records/ </source>
+<date> 2018_11_09 </date>
+<text>
+POLICE have launched an investigation after a number of patients have had their personal details accessed by a member of staff at Crosshouse Hospital.
+Those affected, believed to be mainly women, were notified that information, including their phone numbers and addresses, had been accessed and that the member of staff who breached their privacy had ‘no legitimate clinical or administrative requirement’.
+The breach came from within information held in the Radiology Information System and patients affected had all recently been referred for an X-ray.  
+A member of staff has been 'excluded from work' following the breach which took place between April and September of this year. 
+Dr Alison Graham, Medical Director for the NHS Ayrshire & Arran said: "NHS Ayrshire & Arran has been made aware of a member of staff inappropriately accessing patient records. This individual is currently excluded from work."
+We are currently investigating and are contacting a number of patients to ascertain the extent of this breach. We wish to apologise to anyone affected by this. We take patient confidentially extremely serious and will ensure a full investigation is conducted.
+"We are working closely with Police Scotland and the Information Commissioner’s Office. As this is an ongoing police investigation, we are not able to confirm any further details." 
+</text>

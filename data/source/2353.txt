@@ -1,0 +1,15 @@
+<title>NSA warned Microsoft about vulnerability connected to ‘Wanna Cry’: report | TheHill</title>
+<source> http://thehill.com/policy/cybersecurity/333928-nsa-warned-microsoft-about-vulnerability-connected-to-wanna-cry-report </source>
+<date> 2017_05_18 </date>
+<text>
+The National Security Agency warned Microsoft about a vulnerability in Windows after a hacker group began to leak hacking tools used by the agency online, the Washington Post reported late Tuesday. 
+The vulnerability has been the center of attention in recent days, following the outbreak of the global “Wanna Cry” ransomware attack that crippled Britain’s hospital system and has spread to at least 150 countries.
+The ransomware is widely believed to be based on an alleged NSA hacking tool leaked by the group Shadow Brokers earlier this year. The government has not publicly acknowledged that the NSA developed the tool.
+“NSA identified a risk and communicated it to Microsoft, who put out an immediate patch,” Mike McNerney, a former Defense Department cybersecurity official, told the Post. McNerney said, however, that no top government official emphasized the seriousness of the vulnerability.
+Microsoft issued a patch for its supported systems in March, weeks before Shadow Brokers released the exploit, but many computer systems around the world remained unpatched, leaving them vulnerable to the latest ransomware attack.
+The ransomware campaign has been less devastating to the United States than other countries, but has affected some American companies including FedEx.
+The events have renewed debate over the secretive process by which the federal government decides whether to disclose a zero-day vulnerability to the product’s manufacturer, as well as spurring scrutiny of the NSA.
+Microsoft president and chief legal officer Brad Smith said Sunday that the ransomware attack should serve as a “wake-up call” to governments not to hoard vulnerabilities.
+On Wednesday, a bipartisan group of lawmakers introduced legislation that would codify what is known as the vulnerabilities equities process into law, bringing more transparency and oversight to it. 
+View the discussion thread.
+</text>

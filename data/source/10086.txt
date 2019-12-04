@@ -1,0 +1,18 @@
+<title> Cyberattackers claim just $92,000 from ransom demands  </title>
+<source> https://www.irishtimes.com/business/technology/cyberattackers-claim-just-92-000-from-ransom-demands-1.3089339 </source>
+<date> 2017_05_19 </date>
+<text>
+One week ago a global cyberattack dubbed “unprecedented” by Europol began infecting an estimated 200,000 of the world’s computers, starting a seven-day countdown to the destruction of data if victims did not pay a ransom.
+On Friday, those countdowns begin reaching zero. But as of lunchtime the attackers had claimed only about $92,000 (€82,183) in payments from their widespread ransom demands, according to Elliptic Enterprises Ltd, a UK-based company that tracks illicit use of bitcoin. The company calculates the total based on payments tracked to bitcoin addresses specified in the ransom demands.
+The ransomware, called WannaCry, began infecting users on May 12th and gave them 72 hours to pay $300 in bitcoin or pay twice as much. Refusal to pay after seven days was promised to result in the permanent loss of data via irrevocable encryption.
+With affected institutions including the Health Service Executive (which said it prevented the ransomware from activating), the National Health Service in the UK, FedEx and PetroChina, few initially paid up, leading to speculation that organisations were taking their chances on fixing their corrupt machines before the ransom forced a mass deletion of critical data. A week later, experts agree the financial gains of the hackers remain astonishingly low.
+“With over 200,000 machines affected, the figure is lower than expected,” said Jamie Akhtar, co-founder of the London-based security software firm CyberSmart. “If even 1 per cent paid the ransom that would be $600k.”
+Mr Akhtar said experts may never know how much larger this figure would have been if a so-called kill switch had not been accidentally triggered by a cyber security researcher, who registered an internet domain that acted as a disabling tool for the worm’s propagation.
+While the world’s law enforcement is pointing its resources at trying to identify the culprits, Tom Robinson, chief operating officer and co-founder of Elliptic Enterprises, says it’s unlikely the money taken from victims will be taken from the digital bitcoin wallets they’re being anonymously held in.
+“Given the amount of scrutiny this has come under, I would be surprised if they moved it anytime soon,” he said. “I just don’t think the risk is worth the $90,000 they’ve raised so far.”
+Mr Akhtar agrees but doesn’t think the criminals have given up hope while machines infected later still have time ticking on their ransom countdown.
+“It seems like they are still actively trying to bring funds in,” he said, noting a Twitter post from Symantec on Thursday, which seemed to show fresh messaging from the attackers promising to hold their end of the decryption bargain if victims paid up.
+Mr Akhtar believes the best thing the perpetrators can do to hide from authorities is “destroy any evidence and abandon the bitcoin wallets”.
+Of course, the hack may have nothing to do with money at all. Any movement of funds from a bitcoin wallet would act as a valuable clue for law enforcement as to who is behind the attack. Preliminary finger-pointing has already targeted groups with suspected links to the North Korean regime, but clues are still few are far between. – (Bloomberg)
+</text>
+

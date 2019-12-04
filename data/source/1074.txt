@@ -1,0 +1,19 @@
+<title>Several high risk 0-day vulnerabilities affecting SAP HANA found - Help Net Security</title>
+<source> https://t.co/WlVbCTQJxv </source>
+<date> 2017_03_14 </date>
+<text>
+Onapsis discovered several high risk vulnerabilities affecting SAP HANA platforms.
+If exploited, these vulnerabilities would allow an attacker, whether inside or outside the organization, to take full control of the SAP HANA platform remotely, without the need of a username and password.
+“This level of access would allow an attacker to perform any action over the business information and processes supported by HANA, including creating, stealing, altering, and/or deleting sensitive information.
+If these vulnerabilities are exploited, organizations may face severe business consequences,” said Sebastian Bortnik, Head of Research, Onapsis.
+The vulnerabilities affect a specific SAP HANA component named SAP HANA User Self Service, which is not enabled by default.
+The following list details the affected HANA 2 and HANA versions:
+“We hope organizations will use this threat intelligence to assess their systems and confirm that they are not currently using this component, and therefore are not affected by these risks.
+Even if the service is not enabled, we still recommend that these organizations apply the patches in case a change is made to the system in the future,” continued Bortnik.
+Onapsis Research Labs originally discovered the vulnerabilities on the newly released SAP HANA 2 platform, but after additional analysis realized that several older versions were vulnerable as well.
+Based on this assessment, it was identified that the vulnerabilities had been present in HANA for almost two and a half years, when the User Self Service component was first released.
+This greatly increases the likelihood that these vulnerabilities have been discovered by attackers to break into organization’s SAP systems.
+Onapsis worked closely with SAP’s Product Security & Engineering teams to help them develop the security patches.
+SAP is releasing the first ever patch for SAP HANA 2.
+In this case, default installations are affected and an attacker can elevate privileges if exploited.
+</text>

@@ -1,0 +1,16 @@
+<title>Samsung Smart TV Can Be Hacked via Wi-Fi Direct Feature</title>
+<source> https://www.bleepingcomputer.com/news/security/samsung-smart-tv-can-be-hacked-via-wi-fi-direct-feature/ </source>
+<date> 2017_04_27 </date>
+<text>
+Security researchers from Neseso are sounding the alarm on a vulnerability they've discovered in Samsung smart TVs that Samsung declined to fix.
+The security flaw affects Wi-Fi Direct, a Wi-Fi standard that enables devices to connect with each other without requiring a wireless access point.
+Smasung uses Wi-Fi Direct with its smart TVs to allow TV owners to connect to the TV via their phones, laptops, or tablets, directly, and not through the local access point.
+Neseso researchers claim that Samsung has failed in the implementation of this standard, as Samsung TVs only use MAC addresses to authenticate users. Other vendors use more solid authentication systems based on a Push-Button or PIN.
+Because anyone can sniff and spoof MAC addresses, this vulnerability opens the user's TV to getting hacked by anyone in the range of the TV's Wi-Fi Direct coverage.
+"Once connected, the attacker has access to all the services provided by the TV, such as remote control service or DNLA screen mirroring," Neseso researchers wrote in their report.
+The dangers are palpable for companies, as most have smart TVs in their offices, employee lounges, customer waiting rooms, or board rooms.
+Worse is that the Samsung smart TV Wi-Fi Direct feature is enabled by default every time the device boots up. Users are notified on screen when a whitelisted device connects to the TV via Wi-Fi Direct, but those warnings could be misinterpreted by TV owners, or missed altogether if nobody's watching the TV.
+Contacted by Neseso in mid-March, Samsung answered it doesn't view this feature as a security risk and declined to provide a firmware update, telling Neseso they don't view this issue as a "security threat."
+Researchers tested their attack on Samsung UN32J5500 Firmware version 1480, but say that other versions are most likely vulnerable as well. There is currently no workaround for protecting against attacks via Wi-Fi Direct except turning off the feature every time you boot/reboot your device.
+Earlier this month, at the Security Analyst Summit 2017, security expert Amihai Neiderman disclosed about the presence of 40 zero-day vulnerabilities in Tizen, the operating system that runs on Samsung smart TVs. The flaws were all unpatched at the time they were reported.
+</text>

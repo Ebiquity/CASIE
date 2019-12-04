@@ -1,0 +1,22 @@
+<title> Hack of Baltimore’s 911 dispatch system was ransomware attack, city officials say  </title>
+<source> https://www.washingtonpost.com/local/public-safety/hack-of-baltimores-911-dispatch-system-was-ransomware-attack-city-officials-say/2018/03/28/e273ef36-32a3-11e8-8abc-22a366b72f2d_story.html?utm_term=.2a64d0a83c7a </source>
+<date> 2018_03_28 </date>
+<text>
+ BALTIMORE — The hack that forced Baltimore’s 911 dispatch system to be temporarily shut down over the weekend was a ransomware attack, city officials said Wednesday.
+Such attacks — another of which occurred in Atlanta last week — take over parts of private or municipal computer networks and then demand payment, or ransom, for their release.
+Frank Johnson, chief information officer in the Mayor’s Office of Information Technology, said he was not aware of any specific ransom request made by the hackers of Baltimore’s network, but federal authorities are investigating.
+“The systems and the software and the files are all being investigated by the FBI right now,” Johnson said.
+No personal data of city residents was compromised, he added.
+Dave Fitz, an FBI spokesman, could not be reached Wednesday. On Tuesday, Fitz said the agency was aware of the breach and providing assistance to the city, but otherwise declined to comment.
+The attack infiltrated a server that runs the city’s computer-aided dispatch, or CAD, system for 911 and 311 calls. The system automatically populates 911 callers’ locations on maps and dispatches the closest emergency responders there more seamlessly than is possible with manual dispatching. It also relays information to first responders in some cases and logs information for data retention and records.
+The breach shut down the CAD system from Sunday morning until Monday morning, forcing the city to revert to manual dispatching during that time. While the city’s 911 calls are normally recorded online on Open Baltimore, the city dispatch logs stopped recording them at 9:54 a.m. Sunday and didn’t resume recording them again until 7:42 a.m. Monday.
+Johnson said the attack was made possible after a city information technology team troubleshooting a separate communications issue with the server inadvertently changed a firewall and left a port, or a channel to the Internet, open for about 24 hours, and hackers who were likely running automated scans of networks looking for such vulnerabilities found it and gained access.
+The Baltimore hack comes amid increasing hacking of municipal systems across the country, and follows one in Atlanta last week that paralyzed that city’s online bill-payment system, with hackers demanding a $51,000 payment in bitcoin to unlock it. That attack occurred Thursday, and Atlanta employees only turned their computers back on Tuesday.
+Johnson said his office works diligently to prevent cyberattacks and is looking to invest more in safeguarding its networks.
+Baltimore also faced cyberattacks during the unrest in 2015, when its website was taken offline. Johnson said he was unaware of any other successful attacks on the city’s networks. He said the city would be obligated to disclose any attacks that compromised residents’ personal information, health information or crime data.
+Johnson said he feels the city recovered well from the breach once it was identified, but that he did not want to go into detail about what was done lest he expose the city to more attacks.
+The city has a $2.5 million contract with TriTech Software Systems to maintain its CAD software and provide “technical support services to ensure the functional integrity” of the city’s CAD system.
+Scott MacDonald, TriTech’s vice president of public safety strategy, said the company worked with city IT personnel to shut down the CAD software after the attack. The breach was not related to the company’s software, MacDonald said.
+“Our techs connected and worked with the IT staff there, and the CAD system was taken down manually, in combination between our staff and theirs, while the servers could be troubleshooted by the city.”
+</text>
+

@@ -1,0 +1,15 @@
+<title> Beware these bogus WhatsApp subscription messages that want to steal your banking info  </title>
+<source> https://www.zdnet.com/article/beware-these-bogus-whatsapp-subscription-messages-that-want-to-steal-your-banking-info/ </source>
+<date> 2017_07_17 </date>
+<text>
+Cybercriminals prey on naivety, and a new scam campaign that attempts to trick people into providing bank details to pay for a fake WhatsApp subscription does just that.
+WhatsApp did once charge a subscription fee of $0.99/£0.99, but stopped the practice in January 2016.
+However, the fraudsters behind this latest scam are looking to take advantage of the fact WhatsApp -- which has over a billion users -- did once rely on a subscription service to dupe victims into handing over their banking information.
+The UK's fraud and cybercrime centre Action Fraud and the City of London police have issued a warning about the campaign. Emails purporting to be from 'The WhatsApp Team' claim that "your subscription will be ending soon" and that in order to continue to use the service, you need to update your payment information.
+Victims are encouraged to sign into a 'customer portal' with their number and to enter payment information. 
+Naturally, this is a scam -- with spelling errors in the text a huge giveaway -- and all the victims are doing is providing criminals with their financial details. Criminals could use these to simply make purchases or as a basis for further fraud. Scammers have also been known to use text messages in an effort to dupe victims into paying for a fake subscription.
+Those who receive the email are urged not to click on any of the links, but to instead report it to the police. Action Fraud also offers advice to those who have already fallen for the scam, telling victims to "run antivirus software to ensure your device has not been infected with malware".
+Scammers often attempt to lure victims into handing over their credit card information -- or installing malware onto their machines -- often with authentic-looking phishing emails claiming to be from real companies.
+Previously, Action Fraud has warned about scammers attempting to steal credentials from university staff with fake emails about a pay rise, while police have also issued a warning about cybercriminals attempting to infect people with banking malware using emails that pretend to be from a charity. 
+</text>
+

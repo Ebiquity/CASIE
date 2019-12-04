@@ -1,0 +1,26 @@
+<title>
+<source> http://www.fool.com/investing/2017/01/30/are-americas-airlines-under-cyberattack.aspx#ixzz4XL9d74jj </source>
+<date> 2017_01_31 </date>
+<text>
+For the second time in a week, a major U.S. airline grounded its fleet after its computer systems stopped working.
+The latest incident involved Delta Air Lines (NYSE:DAL), which canceled 170 flights on Sunday and another 110 on Monday because its "essential IT systems went down" over the weekend.
+The issue at Delta Air Lines alone doesn't seem suspicious -- computers fail all the time.
+But there are two things that could lead one to wonder if there's more to this than meets the eye.
+The first is that Delta isn't just some guy like me sitting at home who doesn't know a thing about computers.
+It generates over $40 billion worth of revenue each year.
+The point is, Delta has plenty of resources to ensure that its systems don't just "stop working."
+The second piece of the puzzle is that Delta's issues come one week after a similarly ambiguous glitch brought down the computer system at United Airlines, a subsidiary of United Continental Holdings (NYSE:UAL).
+Like Delta, United Airlines has tens of thousands of employees and earns tens of billions of dollars in annual revenue.
+While it's impossible to say for sure if there's a connection between these two incidents, as neither company has explained why their computers crashed, there's reason to be suspicious that they weren't simply innocent failures of technology.
+In the course of researching cyber-threats to banks, I spoke last week with John Carlin, the former assistant attorney general for national security at the Department of Justice and one-time chief of staff at the FBI.
+There are few people who know as much about cyber-threats today as Carlin, as is clear if you watch his appearance on The Charlie Rose Show here.
+Carlin pointed out both to me and to Rose that cyber attacks are waged against the American government and companies all the time.
+At the FBI, they even have a room with an enormous monitor mounted on the wall that tracks attacks in real time.
+One of the stories Carlin shared was about the time that the People's Liberation Army of China was caught routinely hacking into American corporations' computers to steal trade secrets.
+"One time they stole the pricing information from a solar company so they could price-dump," the former law-enforcement officer explained.
+"To add insult to injury, when they were sued for doing so, they then stole the litigation strategy from [the solar company] as well."
+The purpose of the attack wasn't to bring down the solar companies' systems, but those types of intrusions are just as common.
+Hackers regularly break into systems and then bring them to a halt until the victims make ransom payments.
+Or, in the case of a sustained cyber attack on four dozen U.S. banks from 2011 through 2013, which was traced back to the Iranian Revolutionary Guard, systems can be disrupted in retaliation for cyber attacks conducted by our own intelligence agencies, as news reports speculated at the time.
+To get back to Delta Air Lines and United Airlines, then, it doesn't seem like an unreasonable stretch of the imagination to assume that the unexplained computer outages at the two companies weren't a coincidence at all, but instead the result of cyber attacks.
+</text>

@@ -1,0 +1,19 @@
+<title> PureVPN Windows client leaked passwords ***now patched*** </title>
+<source> https://www.techradar.com/news/purevpn-windows-client-leaked-passwords </source>
+<date> 2018_05_11 </date>
+<text>
+PureVPN has had two vulnerabilities which would allow hackers to retrieve stored passwords through the VPN client. This was confirmed by Trustwave’s security researcher Manuel Nader, and the VPN provider itself.
+One of the two vulnerabilities were fixed in the meantime, while the other one remains active, and PureVPN has, according to Nader, “accepted the risk”.
+The vulnerability that was patched saw saved passwords stored in plaintext, on this location: 'C:\ProgramData\purevpn\config\login.conf
+All users have had the chance to access and read the file by simply opening it through the CMD. This vulnerability has been patched in the version 6.1.0. and whoever uses PureVPN is strongly advised to update to the latest version, as soon as possible.
+
+The second vulnerability is the one that remains open, and the company has decided to ‘accept the risk’.
+So basically, you’d need to open the Windows client, open Configuration, User Profile, and click on ‘Show Password’.
+A spokesperson for PureVPN sent us the following statement.
+"This is not a vulnerability rather a feature that we deployed for ease of our users. Back in April 2018, when Trustwave reported it to us, we assessed the risk, and found it minimally due to how our systems are designed.
+Our systems work a bit different than most of the other VPN providers. For enhanced security, we use separate passwords for Member Area and VPN access. Member Area password which is more privileged is not shown in apps, it's the VPN access password that is the subject of this feature. Furthermore, by default, our VPN passwords are system generated and not set by users. This curtails the risk of users using the same password for VPN accounts that they use for their sensitive accounts elsewhere on the Internet. On the other hand, this enhanced security design proved a little difficult for quite a few of our users and hence we offered a way for them to easily retrieve their VPN password.
+For now the community has raised concerns and is confusing it as a vulnerability, we have temporarily removed the feature and released a newer version 6.2.2. To those users of our who pretty much use this feature to retrieve the separate password for VPN we would like to inform that we plan to redesign the future, keeping these concerns in mind, and release it back in our November 2018 release.
+We use Bugcrowd, a public Bug Bounty Program that employees some 90,000 ethical hackers to test our product. We remain in heavy collaboration with the InfoSec community and hence have such aggressive and streamlined processes in place to have released the new version 6.2.2 within a few hours only."
+Those interested in learning more about VPNs and how they help improve your online privacy, make sure to read our Best VPN article.
+</text>
+

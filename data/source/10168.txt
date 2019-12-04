@@ -1,0 +1,17 @@
+<title> Google Project Zero to Linux distros: Your sluggish kernel patching puts users at risk </title>
+<source> https://www.zdnet.com/article/google-project-zero-to-linux-distros-your-sluggish-kernel-patching-puts-users-at-risk/ </source>
+<date> 2018_09_27 </date>
+<text>
+Jann Horn, the Google Project Zero researcher who discovered the Meltdown and Spectre CPU flaws, has a few words for maintainers of Ubuntu and Debian: raise your game on merging kernel security fixes, you're leaving users exposed for weeks.
+Horn earlier this week released an "ugly exploit" for Ubuntu 18.04, which "takes about an hour to run before popping a root shell".
+The kernel bug is a cache invalidation flaw in Linux memory management that has been tagged as CVE-2018-17182, reported to Linux kernel maintainers on September 12.
+Linux founder Linus Torvalds fixed it in his upstream kernel tree two weeks ago, an impressively fast single day after Horn reported the issue. And within days it was also fixed in the upstream stable kernel releases 4.18.9, 4.14.71, 4.9.128, and 4.4.157. There's also a fix in release 3.16.58.
+However, end users of Linux distributions aren't protected until each distribution merges the changes from upstream stable kernels, and then users install that updated release.
+Between those two points, the issue also gets exposure on public mailing lists, giving both Linux distributions and would-be attackers a chance to take action.
+"The security issue was announced on the oss-security mailing list on 2018-09-18, with a CVE allocation on 2018-09-19, making the need to ship new distribution kernels to users clearer," Horn wrote in a Project Zero post published Wednesday.
+But as he noted, as of Wednesday, Debian stable and Ubuntu releases 16.04 and 18.04 had not fixed the issue, with the latest kernel update occurring around a month earlier. This means there's a gap of several weeks between the flaw being publicly disclosed and fixes reaching end users.
+However, the Fedora project was a little faster, pushing a fix to users on 22 September.
+Canonical, the UK company that maintains Ubuntu, has since responded to Horn's blog, and says fixes "should be released" around Monday, October 1.
+This is unlikely to be the last kernel bug Project Zero researchers find, and unless Ubuntu and other Linux distributions get their act together on upstream kernel fixes, they can expect to be named and shamed again.
+</text>
+

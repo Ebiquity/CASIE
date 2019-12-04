@@ -1,0 +1,18 @@
+<title> Wide Swath of Corporate America Exposed in D&B Leak </title>
+<source> https://www.infosecurity-magazine.com/news/wide-swath-of-corporate-america/ </source>
+<date> 2017_03_15 </date>
+<text>
+About 33 million records belonging to Dun & Bradstreet have been leaked, placing a large portion of the US corporate population at risk.
+According to independent researcher Troy Hunt, the database is about 52 gigabytes in size and contains just under 33.7 million unique email addresses and other contact information from employees of thousands of large enterprises and government entities.
+While details are unfolding, the leak is thought to be from a database D&B acquired from NetProspex in 2015. The file is a “list rental” file that D&B offers marketers for use for their own email campaigns. It’s believed that one of these marketing firms is the source of the leak itself having been compromised in some way.
+"We've carefully evaluated the information that was shared with us and it is of a type and in a format that we deliver to customers every day,” D&B said in a media statement.
+“Dun & Bradstreet maintains that neither they or NetProspex suffered a breach or caused the leak,” said Stephen Boyer, co-founder and CTO of third-party risk management and security ratings firm BitSight. “If true and the leak stemmed from one of their customers, which represents a new dimension of third-party risk. While customers don't have ongoing relationships in the way that vendors and suppliers do, they still can pose risk when licensing and buying data in bulk.”
+As originally reported by ZDNet, Hunt said in a blog post that he was able to determine that the most records in the database come from the US Department of Defense, with other government and large enterprises following.
+The worrisome part is the deep bench of information that the records contain. For Wells Fargo, for example, the information is for the C-suite and 45 vice presidents, senior vice presidents, assistant vice presidents and executive vice presidents, all with names and email addresses alongside job titles.
+"The market for stolen personal identifiable information continues to be lucrative for attackers to steal and sell data,” said Lee Weiner, chief product officer at Rapid7, via email. “Individuals affected by this breach should continue to be vigilant for piggy-back attacks that can ensue from attackers using this information to engage in phishing tactics with this information to steal passwords and gain access to accounts."
+Those follow-on threats can include business email compromise (BEC).
+“This leak allows cyber-criminals to carry out whaling attacks for large enterprises,” said Boyer. “Some organizations have over 100,000 employee records compromised in this breach and may witness an uptake in targeted phishing attacks and fraud schemes.”
+Hunt noted that the leak is an example of an endemic problem in data management and society.
+“We've lost control of our personal data and…we often do not have any way of feeding back to companies what data we’d rather not share,” he noted. “Particularly when D&B believe they're operating legally by selling this information, what chance do we have—either as individuals or corporations—of regaining control of data like this? Next to zero and about the only thing you can do right now is assess whether you've been exposed.”
+</text>
+

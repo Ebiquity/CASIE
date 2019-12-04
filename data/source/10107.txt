@@ -1,0 +1,15 @@
+<title> Ransomware: Now crooks are stealing bitcoin ransom payments intended for rivals  </title>
+<source> https://www.zdnet.com/article/ransomware-now-crooks-are-stealing-bitcoin-ransom-payments-intended-for-rivals/ </source>
+<date> 2018_01_30 </date>
+<text>
+A Tor proxy service is being used by crooks to divert ransom payments to their own accounts at the expense of ransomware distributors -- and their victims, according to security researchers.
+ Ransomware distributors expecting an easy payday are having their illicit earnings stolen by other cybercriminals, who are hijacking the ransom payments before they're received and redirecting them into their own bitcoin wallets.
+But not only are the attacks giving criminals a taste of their own medicine in becoming victims of cyber-theft, they are also preventing ransomware victims from unlocking their encrypted files -- because, as far as those distributing the malware are concerned, they never received their ransom payment.
+ Uncovered by researchers at Proofpoint, it's believed to be the first scheme of its kind, with cybercriminals using a Tor proxy browser to carry out man-in-the-middle attacks to steal the cryptocurrency payments, which victims of ransomware are attempting to send to their attackers.
+The attacks take advantage of the way ransomware distributors request victims to use Tor to buy the cryptocurrency they need to make the ransom payment. While many ransomware notes provide instructions on how to download and run the Tor browser, others provide links to a Tor proxy -- regular websites that translate Tor traffic into normal web traffic -- so the process of paying is as simple as possible for the victim.
+However, one of the Tor gateways being used is altering bitcoin wallet addresses in the proxy, and redirecting the payment into other accounts, rather than those of the ransomware attacker.
+ Meanwhile, those behind Magniber ransomware appear to have moved to combat bitcoin address replacement by splitting the HTML source code of wallets into four parts, thus making it harder for proxies to find the address to change.
+While the sums of bitcoin stolen don't represent a spectacular haul, the interception attacks do create problems for ransomware distributors -- and their victims.
+The victims are the ultimate losers in this scenario. Not only are they paying hundreds or even thousands of dollars to in ransom demands, they're not even getting their files back in return because the man-in-the-middle attacks mean the ransomware distributors don't think they've been paid.
+</text>
+

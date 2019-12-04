@@ -1,0 +1,14 @@
+<title> Mongo Lock Attack Ransoming Deleted MongoDB Databases </title>
+<source> https://www.bleepingcomputer.com/news/security/mongo-lock-attack-ransoming-deleted-mongodb-databases/ </source>
+<date> 2018_09_11 </date>
+<text>
+An attack called Mongo Lock is targeting remotely accessible and unprotected MongoDB databases, wiping them, and then demanding a ransom in order to get the contents back. 
+While this new campaign is using a name to identify itself, these types of attacks are not new and MongoDB databases have been targeted for a while now. These hijacks work by attackers scanning the Internet or using services such as Shodan.io to search for unprotected MongoDB servers. Once connected, the attackers may export the databases, delete them, and then create a ransom note explaining how to get the databases back.
+According to security researcher Bob Diachenko who discovered the new Mongo Lock campaign, the attackers will connect to an unprotected database and delete it. In its place, the attackers will leave a new database called "Warning" with a collection inside it named "Readme".
+The Readme collection will contain a ransom note that explains that the database has been encrypted and that the victims need to pay them a ransom to get it back. In the Mongo Lock campaign, as shown below, the attackers do not leave a bitcoin address, but rather direct the victim's to contact them via email.
+While the ransom note claims that the attackers are exporting the database first before deleting it, it is not known if they are doing that in ever case.
+Victims are paying ransoms
+When looking up some of the bitcoin addresses used in recent MongoDB attacks, victims have been paying the ransoms. 
+For example, the bitcoin address 3FAVraz3ovC1pz4frGRH6XXCuqPSWeh3UH, which has been used often, has had 3 ransom payments for a total of 1.8 bitcoins. This is equivalent to a little over $11,000 USD at the current value of bitcoins.  
+</text>
+

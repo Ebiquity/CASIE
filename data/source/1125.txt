@@ -1,0 +1,15 @@
+<title>Ransomware Disrupting Business Operations and Demanding Higher Payouts – SurfWatch Labs, Inc.</title>
+<source> https://blog.surfwatchlabs.com/2017/03/15/ransomware-disrupting-business-operations-and-demanding-higher-payouts/ </source>
+<date> 2017_03_16 </date>
+<text>
+Ransomware has largely been an opportunistic, rather than a targeted, form of cybercrime with the goal of infecting as many users as possible.
+That model has worked so effectively that extortion is now ubiquitous when it comes to cybercrime — so much so that even fake attacks are proving to be successful.
+As I wrote earlier this month, the surge of extortion attacks impacting organizations has led to a number of fake extortion threats, including empty ransomware demands where actors contact organizations, lie about the organization’s data being encrypted, and ask for money to remove the non-existent threat.
+Cybercriminals like to follow the path of least resistance, and an attack doesn’t get much easier than simply pretending to have done something malicious.
+However, attacks over the past year have proven that infecting organizations with ransomware can result in much higher payouts.
+The more disruptive the attack, the more money some organizations are willing to pay to make the problem go away.
+As a result, ransomware actors are shifting their targets towards more disruptive attacks, which we examine in our latest report, Ransomware Actors Shift Gears: New Wave of Ransomware Attacks Aims to Lock Business Services, Not Just Data.
+It was just 13 months ago that Hollywood Presbyterian Medical Center made national attention by paying $17,000 to decrypt its files after a ransomware attack.
+The incident was novel at the time, but those types of stories have since become commonplace.
+Organizations need to take action to protect themselves against ransomware actors that are trying to find more effective ways to disrupt business operations and demand even higher ransom payouts.
+</text>

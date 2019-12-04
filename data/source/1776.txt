@@ -1,0 +1,15 @@
+<title>Researchers identify new variant of IoT/Linux botnet</title>
+<source> https://www.mis-asia.com/resource/internet/researchers-identify-new-variant-of-iotlinux-botnet/ </source>
+<date> 2017_04_20 </date>
+<text>
+A new variant of the IoT/Linux botnet “Tsunami” has been identified by Unit 42 researchers, according to a blog post by Palo Alto Networks.
+Co-authored by Claud Xiao, Cong Zheng and Yanhui Jia, the post names the new variant as Amnesia, a botnet that targets an unpatched remote code execution vulnerability.
+This vulnerability was publicly disclosed over a year ago in March 2016 in DVR (digital video recorder) devices made by TVT Digital and branded by over 70 vendors across the globe.
+This unpatched remote code execution vulnerability affects about 227,000 devices around the world especially Taiwan, the United States, Israel, Turkey, and India.
+The researchers note that the Amnesia malware is the first Linux malware to adopt virtual machine evasion techniques to defeat malware analysis sandboxes. 
+ Typically, these virtual machine evasion techniques are more commonly associated with Microsoft Windows and Google Android malware. 
+Amnesia aims to detect whether it’s running in a VirtualBox, VMware or QEMU-based virtual machine.
+Once these environments are detected, Amnesia will wipe the virtualized Linux system by deleting all the files in file system. 
+Eventually the deletion will impact Linux malware analysis sandboxes and also some QEMU-based Linux servers on VPS or on public cloud. 
+Although the Amnesia botnet hasn’t yet been used to mount large scale attacks, it has the potential to cause large-scale harm using IoT-based botnets.
+</text>

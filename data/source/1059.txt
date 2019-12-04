@@ -1,0 +1,22 @@
+<title>How Tax Fraud Is Evolving In 2017 | PYMNTS.com</title>
+<source> http://www.pymnts.com/news/security-and-risk/2017/hacker-tracker-the-evolving-threat-of-tax-fraud/ </source>
+<date> 2017_03_13 </date>
+<text>
+If there’s one thing that can be counted on to happen every year around tax season — besides the ongoing tax preparation service commercials — it’s fraud.
+Whether it’s selling W2 forms online or sending malicious emails that look like they are from the IRS, cybercriminals tend to keep themselves busy this time of year.
+Rick Holland, VP of strategy at Digital Shadows, joined this week’s Hacker Tracker to highlight how cybercriminals are utilizing the dark web to support their tax fraud campaigns.
+Earlier this year, the Treasury Inspector General for Tax Administration reported that there was a reduction in the number of fraudulent tax returns identified between 2013 and 2015.
+On the other hand, around that same time the IRS released data showing that phishing and malware incidents in the 2016 tax season increased by 400 percent.
+Noting that the number of identified fraudulent returns was not indicative of the overall levels of tax fraud occurring, Digital Shadows set out to reconcile two very different perspectives on the same problem.
+In response, the external digital risk management team recently released its research assessing dark web and criminal chatter related to tax fraud so far this year.
+As of February, the number of mentions in 2017 so far was already over 40 percent of the 2016 total.
+Rick Holland, VP of strategy at Digital Shadows, explained that cybercriminals are often using the dark web marketplaces to sell W2s for as little as $4, which include a victim’s full information that can then be used for whatever campaign the cybercriminal is going to run.
+In fact, he noted that often cybercriminals capitalize on phishing and malware schemes during this time by using the term “tax refund” in an email subject of a message that looks like it’s from the IRS.
+However, those malicious emails are actually just delivering malware to a computer for other purposes, maybe to participate in a botnet or something similar.
+“Sometimes it’s easy to think of the personal fraud that’s being committed, and certainly that is happening, but I think it’s important to remember that it goes much broader as far as what the adversaries are doing,” Holland said.
+At the end of the day, fraudsters are doing everything they can increase the likelihood of their social engineering being successful.
+What’s Next In Tax Fraud
+Holland stressed how important it is for both consumers and businesses to under that there are differences in the types of cyber campaigns criminals perpetrate during tax season and that the threat of fraud can be much more encompassing during this time of year.
+Cybercriminals aren’t always going to go after credit card information, because they don’t have to.
+With increased sophistication and social engineering tactics, these criminals are not limited to relying on payment data alone to make money.
+</text>

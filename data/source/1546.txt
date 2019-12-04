@@ -1,0 +1,15 @@
+<title>Hackers are attacking Word users with new Microsoft Office zero-day vulnerability | ZDNet</title>
+<source> http://www.zdnet.com/article/hackers-are-attacking-word-users-with-new-microsoft-office-zero-day-vulnerability/ </source>
+<date> 2017_04_10 </date>
+<text>
+The bug affects all supported versions of Microsoft Word, but will be fixed this week.
+Unlike most document-related vulnerabilities, this zero-day bug that has yet to be patched doesn't rely on macros -- in which Office typically warns users of risks when opening macro-enabled files.
+Instead, the vulnerability is triggered when a victim opens a trick Word document, which downloads a malicious HTML application from a server, disguised to look like a Rich Text document file as a decoy.
+The HTML application meanwhile downloads and runs a malicious script that can be used to stealthily install malware.
+Researchers at McAfee, who first reported the discovery on Friday, said  because the HTML application is executable, the attacker can run code on the affected computer while evading memory-based mitigations designed to prevent these kinds of attacks.
+The issue relates to the Windows Object Linking and Embedding (OLE) function, which allows an application to link and embed content to other documents, according to researchers.
+The Windows OLE feature is used primarily in Office and Windows' in-built document viewer WordPad, but has been the cause of numerous vulnerabilities over the past few years.
+The researchers recently focused a Black Hat talk on the Windows OLE attack surface.
+The bug can be exploited on all versions of Office, including the latest Office 2016 running on Windows 10, and have spotted attacks in the wild since January.
+A Microsoft spokesperson confirmed that the company will issue a fix for the bug on Tuesday as part of its monthly release of security fixes and patches.
+</text>

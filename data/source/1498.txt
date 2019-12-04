@@ -1,0 +1,30 @@
+<title>Android devices can be fatally hacked by malicious Wi-Fi networks | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/04/wide-range-of-android-phones-vulnerable-to-device-hijacks-over-wi-fi/ </source>
+<date> 2017_04_06 </date>
+<text>
+A broad array of Android phones are vulnerable to attacks that use booby-trapped Wi-Fi signals to achieve full device takeover, a researcher has demonstrated.
+The vulnerability resides in a widely used Wi-Fi chipset manufactured by Broadcom and used in both iOS and Android devices.
+Apple patched the vulnerability with Monday's release of iOS 10.3.1.
+"An attacker within range may be able to execute arbitrary code on the Wi-Fi chip," Apple's accompanying advisory warned.
+In a highly detailed blog post published Tuesday, the Google Project Zero researcher who discovered the flaw said it allowed the execution of malicious code on a fully updated 6P "by Wi-Fi proximity alone, requiring no user interaction."
+Google is in the process of releasing an update in its April security bulletin.
+The fix is available only to a select number of device models, and even then it can take two weeks or more to be available as an over-the-air update to those who are eligible.
+Company representatives didn't respond to an e-mail seeking comment for this post.
+The proof-of-concept exploit developed by Project Zero researcher Gal Beniamini uses Wi-Fi frames that contain irregular values.
+The values, in turn, cause the firmware running on Broadcom's wireless system-on-chip to overflow its stack.
+By using the frames to target timers responsible for carrying out regularly occurring events such as performing scans for adjacent networks, Beniamini managed to overwrite specific regions of device memory with arbitrary shellcode.
+Beniamini's code does nothing more than write a benign value to a specific memory address.
+Attackers could obviously exploit the same series of flaws to surreptitiously execute malicious code on vulnerable devices within range of a rogue access point.
+Besides the specific stack overflow bugs exploited by the proof-of-concept attack, Beniamini said a lack of security protections built into many software and hardware platforms made the Broadcom chipset a prime target.
+"We’ve seen that while the firmware implementation on the Wi-Fi SoC is incredibly complex, it still lags behind in terms of security," he wrote.
+"Specifically, it lacks all basic exploit mitigations—including stack cookies, safe unlinking and access permission protection (by means of [a memory protection unit.])"
+The Broadcom chipset contains an MPU, but the researcher found that it's implemented in a way that effectively makes all memory readable, writeable, and executable.
+"We can conveniently execute our code directly from the heap."
+He said that Broadcom has informed him that newer versions of the chipset implement the MPU more effectively and also add unspecified additional security mechanisms.
+Given the severity of the vulnerability, people with affected devices should install a patch as soon as it's available.
+For those with vulnerable iPhones, that's easy enough.
+As is all too often the case for Android users, there's no easy way to get a fix immediately, if at all.
+That's because Google continues to stagger the release of its monthly patch bundle for the minority of devices that are eligible to receive it.
+At the moment, it's not clear if there are effective workarounds available for vulnerable devices.
+Turning off Wi-Fi is one possibility, but as revealed in recent research into an unrelated Wi-Fi-related weakness involving Android phones, devices often relay Wi-Fi frames even when Wi-Fi is turned off.
+</text>

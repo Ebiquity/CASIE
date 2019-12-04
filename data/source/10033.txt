@@ -1,0 +1,16 @@
+<title> ABTA website hacked, 43,000 people affected by breach </title>
+<source> https://www.zdnet.com/article/abta-website-hacked-43000-people-affected-by-breach/ </source>
+<date> 2017_03_16 </date>
+<text>
+Hacker used flaw in web server to access data uploaded to website of holiday and travel association.
+Hackers used a flaw in the web server running the website of ABTA, the UK's largest holiday and travel association, to access the data of as many as 43,000 people.
+ABTA CEO Mark Tanzer says an "external infiltrator" used a vulnerability in the firm's web server to access data provided by its members and some of those members' customers.
+ABTA is the UK's largest travel association, representing travel agents and tour operators that sell £32bn of holidays and other travel each year.
+It said the unauthorised access -- on 27 February 2017 -- may have affected 43,000 individuals. Around 1,000 of the accessed files may include personal identity information relating to customers of ABTA members, submitted in support of their complaint about an ABTA member. These files relate to complaints uploaded to ABTA after 11 January 2017. Additionally, around 650 files may include personal identity information of ABTA members. But Tanzer said: "We are not aware of any information being shared beyond the infiltrator."
+The travel trade association said the vast majority of the 43,000 were people who had registered on abta.com, with email addresses and encrypted passwords, or have filled in an online form with basic contact details "which are types of data at a very low exposure risk to identity theft or online fraud".
+Once it became aware of the intrusion, ABTA notified the third-party suppliers of the abta.com website, who immediately fixed the vulnerability, and the association hired risk consultants to assess the potential extent of the incident.
+It has also alerted the Information Commissioner and the police.
+"It is extremely disappointing that our web server, managed for ABTA through a third party web developer and hosting company, was compromised, and we are taking every step we can to help those affected," said Tanzer.
+ABTA said its own systems remained secure and the vulnerability was in the web server for abta.com, which is managed for ABTA through a third-party web developer and hosting company.
+The association said that ABTA members or members of the public who have registered on abta.com should immediately change their password and, if they used this password or any variation of it for other accounts, they should change that too. It said ABTA members who have used ABTA's online self-service facility to upload supporting documentation relating to their membership may have had their data accessed, and "should remain vigilant regarding online and identity fraud".
+</text>

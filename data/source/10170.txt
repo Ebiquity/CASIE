@@ -1,0 +1,11 @@
+<title> Security Update for Foxit PDF Reader Fixes 118 Vulnerabilities </title>
+<source> https://www.bleepingcomputer.com/news/security/security-update-for-foxit-pdf-reader-fixes-118-vulnerabilities/ </source>
+<date> 2018_10_02 </date>
+<text>
+It has not been a good week for PDF programs. We had an Adobe Acrobat & Reader update released yesterday that fixed 86 vulnerabilities, including numerous critical ones. Not to be beaten, an update for Foxit PDF Reader and Foxit PhantomPDF was released last Friday that fixes a whopping 116 vulnerabilities, with 18 of them being discovered by the Cisco Talos group.
+All of the 18 vulnerabilities found by Cisco Talos, as well as many others fixed by this update, are labeled as critical because they could lead to code execution. This would allow attackers to create specially crafted web pages or PDFs that could exploit these vulnerabilities to execute commands or install malware on vulnerable computers.
+Of the 18 vulnerabilities disclosed by Cisco, 12 of them could be exploited simply by visiting a web site when the Foxit PDF browser plugin is enabled.
+Foxit suggests that all users of Foxit PDF Reader and Foxit PhantomPDF upgrade to version 9.3 to resolve these vulnerabilities. Foxit PDF Reader 9.3 can be downloaded here and Foxit PhantomPDF can be downloaded here. It is strongly suggested that all users install this update.
+The full list of patched vulnerabilities is below and more information about who discovered the vulnerabilities can be found in Foxit's security bulletin.
+</text>
+

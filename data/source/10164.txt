@@ -1,0 +1,21 @@
+<title> Microsoft Half-Patches Old Outlook Vulnerability </title>
+<source> https://www.bleepingcomputer.com/news/security/microsoft-half-patches-old-outlook-vulnerability/ </source>
+<date> 2018_04_11 </date>
+<text>
+Microsoft has published a patch for an Outlook vulnerability first reported in late 2016, but the patch has been deemed incomplete and additional workarounds are needed, according to the security researcher who discovered it.
+Yesterday's April 2018 Patch Tuesday updates train included a fix for CVE-2018-0950, a vulnerability in Microsoft Outlook discovered by Will Dormann, a vulnerability analyst at the CERT Coordination Center (CERT/CC).
+
+Outlook retrieves remote OLE content without prompting
+According to Dormann, the main problem with CVE-2018-0950 is that Microsoft Outlook will automatically render the content of remote OLE objects embedded inside rich formatted emails without prompting the user, something that Microsoft does in other Office apps such as Word, Excel, and PowerPoint.
+This leads to a slew of problems that come from automatically rendering OLE objects, a common attack vector for malware authors.
+
+Microsoft patches SMB attack vector only
+In a CERT/CC vulnerability note, Dormann says he notified Microsoft of Outlook's propensity for loading OLE objects without alerting users in November 2016.
+After almost 18 months, the company finally issued a patch for the reported issue, but Dormann says the patch does not address the problem at the core of the issue.
+According to Microsoft, the CVE-2018-0950 patch delivered yesterday only blocks Outlook from initiating SMB connections when previewing rich formatted emails.
+Dormann points out that Outlook still does not prompt user for permission to render OLE objects for email previews.
+Furthermore, the researcher also highlights that there are other ways of obtaining the NTLM hashes, such as embedding UNC links to SMB servers inside the email, links that Outlook will automatically make clickable. "If a user clicks such a link, the impact will be the same as with this vulnerability," Dormann says.
+But even this incomplete patch is good news. This means that while Outlook will continue to render OLE objects inside email previews, at least these objects can't be used to steal NTLM hashes via SMB anymore.
+To avoid attackers from getting their hands on NTLM hashes via SMB altogether, the expert recommends that system administrators apply additional OS-level workarounds,
+</text>
+

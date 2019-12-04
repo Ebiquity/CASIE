@@ -1,0 +1,16 @@
+<title> SamSam virus demands bitcoin from CDOT, state shuts down 2,000 computers  </title>
+<source> https://www.denverpost.com/2018/02/21/samsam-virus-ransomware-cdot/ </source>
+<date> 2018_02_22 </date>
+<text>
+Colorado investigators call in FBI, work through the night.
+Colorado Department of Transportation employees spent a second day offline Thursday as security officials investigated the damage done by a ransomware virus that hijacked computer files and demanded payment in bitcoin for their safe return.
+The state’s Office of Information Technology, which reached out to the FBI for assistance, are still investigating the attack and have not paid a cent to attackers — nor do they plan to, said Brandi Simmons, an OIT spokeswoman.
+“No payments have been made or will be made. We are still investigating to see whether or not files were damaged or recovered,” she said in an email Thursday.
+On Wednesday morning, CDOT shut down more than 2,000 employee computers while security officials investigated the attack. The malicious code was a variant of ransomware known as SamSam, Simmons said. McAfee, the security software used by CDOT computers, provided a software patch on Wednesday to stop the execution of the ransomware.
+“This ransomware virus was a variant and the state worked with its antivirus software provider to implement a fix today. The state has robust backup and security tools and has no intention of paying ransomware. Teams will continue to monitor the situation closely and will be working into the night,” said  David McCurdy, chief technology officer, Governor’s Office of Information Technology, in a statement on Wednesday.
+He added: “OIT, FBI and other security agencies are working together to determine a root cause analysis.”
+SamSam last showed up in January after targeting the healthcare industry. It encrypted files and renamed them “I’m sorry,” according to a report with security firm TrendMicro. One hospital, Hancock Health in Indiana, paid $55,000 to get its files back. TrendMicro said the attack wasn’t due to an employee opening an infected email, but hackers gained access remotely using a vendor’s user name and password.
+“No one is back online. What we’re doing is working offline. All our critical services are still online — cameras, variable message boards, CoTrip, alerts on traffic. They are running on separate systems,” Ford said. “The message I’m sharing (with employees) is CDOT operated for a long time without computers so we’ll use pen and paper.”
+There’s only one Mac computer in the office and it wasn’t turned on, Ford said, because “We’re not messing around today.”
+</text>
+

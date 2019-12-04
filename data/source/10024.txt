@@ -1,0 +1,11 @@
+<title>Phishing Email Response Compromises PHI of 2,800 Patients</title>
+<source> https://www.hipaajournal.com/phishing-email-response-compromises-phi-2800-patients-8911/ </source>
+<date> 2018_08_03 </date>
+<text>
+A response to a phishing email has resulted in the PHI of 2,789 Kaleida Health patients being made accessible to cybercriminals.
+Kaleida Health discovered the attack on May 24, 2017, prompting a full investigation which involved hiring a third-party computer forensic firm. An analysis of its systems showed that by responding to the phishing email, the employee had provided access to his/her email account.
+While access to Kaleida Health’s EHR was not gained, the email account contained a range of protected health information of a small subset of its patients. The types of data in the account varied for each patient, but may have included names, dates of birth, medical record numbers, diagnoses, treatment and other clinical data. However, no financial information or Social Security numbers were exposed at any time.
+While access to the email account was possible, no evidence was uncovered to suggest that the emails were accessed or any protected health information was viewed or copied. However, since the possibility of data access could not be ruled out with a high degree of certainty, all affected patients have been notified of the incident by mail.
+Phishing has grown to be one of the most serious threats to healthcare organizations. As we have already seen this year, record numbers of successful W-2 phishing attacks have been reported and many healthcare employees have fallen for these phishing scams.
+Providing security awareness training to employees can help to reduce risk, although a single training session every year is no longer sufficient. Training must be an ongoing process.
+</text>

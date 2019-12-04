@@ -1,0 +1,22 @@
+<title>Anatomy of a cyber attack explained at HIMSS17  | Health Data Management</title>
+<source> https://www.healthdatamanagement.com/news/anatomy-of-a-cyber-attack-explained-at-himss17 </source>
+<date> 2017_02_22 </date>
+<text>
+In March 2014, Boston Children’s Hospital learned the worst possible security news—from a third-party vendor with no formal relationship to the facility.
+That vendor told the pediatric facility that it had seen online documents threatening the hospital, as well as posted documents with information on physicians such as cell phone numbers, addresses and work locations.
+And the information also included details of Boston Children’s infrastructure, such as the main IP address of its organizational web site.
+Any kid could find this stuff easily online, but it was clear someone was trying to damage the reputation of Boston Children’s, said Daniel Nigrin, MD, senior vice president and CIO in the division of endocrinology, during the Cybersecurity Forum at HIMSS17.
+Then came a video from the activist hacking organization Anonymous, accusing the hospital of having tortured a child.
+“I’ve been a CISO for 16 years; this was a new one me,” Nigrin recalled.
+In particular, the charge from Anonymous centered on a teenage girl that the hospital determined was suffering from malnutrition.
+The case went to court, where a judge’s ruling removed the child from parental custody.
+The family fought the decision, and the controversy found its way to Anonymous, which decided that Boston Children’s needed to be taught a lesson.
+“We wondered if it was the real Anonymous; thankfully, the decision was to take the threat seriously,” Nigrin said.
+The hospital convened an incident response team and starting forming contingency plans for an expected attack, which included “going dark” and cutting itself off from the Internet while assessing the systems and processes still necessary to keep the facility running.
+In the meantime, Boston Children’s contacted local police and the FBI, who were reluctant to step in proactively, and told hospital executives to get back to them if anything happened.
+Three weeks went by without incident, and the facility was hit with low-value distributed denial of service attacks that were handled.
+But then, tactics started to change as attacks increased in volume.
+One week later on a Saturday night, the cat-and-mouse game ended with a dramatic uptick in attacks and a third party was engaged to help the hospital defend itself.
+The concerted Anonymous cyber attack started April 14 and ended on April 27.
+At its peak, the hackers were sending 30-day levels of malicious traffic in very short periods of time.
+</text>

@@ -1,0 +1,20 @@
+<title> Logitech flaw fixed after Project Zero disclosure  </title>
+<source> https://nakedsecurity.sophos.com/2018/12/18/logitech-flaw-fixed-after-project-zero-disclosure/ </source>
+<date> 2018_12_18 </date>
+<text>
+When it comes to fixing security vulnerabilities, it should be clear by now that words only count when they’re swiftly followed by actions.
+Ask peripherals maker Logitech, which last week became the latest company to find itself on the receiving end of an embarrassing public flaw disclosure by Google’s Project Zero team.
+In September, Project Zero researcher Tavis Ormandy installed Logitech’s Options application for Windows (available separately for Mac), used to customise buttons on the company’s keyboards, mice, and touchpads.
+Pretty quickly, he noticed some problems with the application’s design, starting with the fact that it…
+   opens a websocket server on port 10134 that any website can connect to, and has no origin checking at all.
+Websockets simplify the communication between a client and a server and, unlike HTTP, make it possible for servers to send data to clients without first being asked to, which creates additional security risks.
+    The only “authentication” is that you have to provide a pid [process ID] of a process owned by your user, but you get unlimited guesses so you can bruteforce it in microseconds.
+Ormandy claimed this might offer attackers a way of executing keystroke injection to take control of a Windows PC running the software.
+Within days of contacting Logitech, Ormandy says he had a meeting to discuss the vulnerability with its engineers on 18 September, who assured him they understood the problem.
+A new version of Options appeared on 1 October without a fix, although in fairness to Logitech that was probably too soon for any patch for Ormandy’s vulnerability to be included. As anyone who’s followed Google’s Project Zero will know, it operates a strict 90-day deadline for a company to fix vulnerabilities disclosed to it, after which they are made public.
+    I would recommend disabling Logitech Options until an update is available.
+Clearly, the disclosure got things moving – on 13 December, Logitech suddenly updated Options to version 7.00.564 (7.00.554 for Mac). The company also tweeted that the flaws had been fixed, confirmed by Ormandy on the same day.
+Logitech aren’t the first to feel Project Zero’s guillotine on their neck. Earlier in 2018, Microsoft ran into a similar issue over a vulnerability found by Project Zero in the Edge browser.
+Times have changed – vendors have to move from learning about a bug to releasing a fix much more rapidly than they used to.
+</text>
+

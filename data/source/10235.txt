@@ -1,0 +1,18 @@
+<title> New Online Scam Targets Tax Preparers — Is Yours Smart Enough to Avoid It? </title>
+<source> https://www.nbcnews.com/business/consumer/new-online-scam-targets-tax-preparers-yours-smart-enough-avoid-n792806 </source>
+<date> 2017_08_15 </date>
+<text>
+Do you trust your tax preparer not to fall for this simple phishing scam?
+The Internal Revenue Service is warning tax preparers about a new scam designed to steal their usernames and passwords. The hacker’s goal is to break in to the preparer’s computer system and steal client information.
+The IRS advises the bogus email appears to come from the recipient’s software provider and typically has a subject line that reads something like: “Software Support Update” or “Important Software System Upgrade.”
+The message tells the preparer they need to revalidate their login credentials and it provides a link to a “fictitious website that mirrors the software provider’s actual login page,” according to an IRS bulletin issued last month. “Instead of upgrading software, the tax professionals are providing their information to cybercriminals who use the stolen credentials to access the preparers' accounts and to steal client information."
+This phishing attack was cleverly designed to launch at the time of year when many software providers release upgrades to professional preparers. It’s also a busy time for preparers who are working to meet the Oct. 15 deadline for clients who filed for extensions.
+“This sophisticated scam yet again displays cybercriminals’ tax savvy and underscores the need for tax professionals to take strong security measures to protect their clients and protect their business,” the IRS alert said.
+Mike Wyatt, a threat researcher with RiskIQ, a digital threat management firm, told NBC News he’s not surprised to see this current attack. Getting people to click on malicious links requires social engineering — and launching a phishing campaign related to calendar events can be a successful tactic.
+“Cybercriminals very often leverage holidays, events and other important dates in their threat campaigns, so it makes perfect sense that a group is capitalizing on the extended tax deadlines coming up,” he said.
+
+The IRS said it had received reports of “multiple takeover incidents” in the past year in which the criminals accessed client tax returns, completed those returns, e-filed them and secretly directed refunds to their own accounts.
+The phishing emails that made these takeovers possible “can look convincing, appearing to originate from IRS e-Services” the IRS warned. They have subject lines designed to get a quick response, such as: “Account Closure Now,” “Avoid Account Shutdown,” or “Unlock Your Account Now.” IRS screen captures show that the fake login pages created by the crooks look just like those on the real IRS site.
+“We urge tax professionals to be on the lookout for the warning signs of these schemes and many others that can contribute to data loss and identity theft,” IRS Commissioner John Koskinen said in a statement. “A few simple steps can protect tax professionals as well as their clients.”
+</text>
+

@@ -1,0 +1,12 @@
+<title> DocuSign suffers data breach as target of malware phishing attack   </title>
+<source> https://www.mizehouser.com/fraud-2/docusign-suffers-data-breach-target-malware-phishing-attack/ </source>
+<date> 2017_05_18 </date>
+<text>
+DocuSign, with over 100 million users, is one of the world’s largest providers of electronic signature technology and digital transaction management. Recently, DocuSign acknowledged that they have been the victim of a malware phishing attack. The data breach happened at one DocuSign computer system location and has since been contained. While short-lived, the malware was able to obtain many customer and user emails from the DocuSign database. Fortunately, the breach was limited to email addresses; no documents or further customer information was accessed in the attack.
+The attackers have begun sending out malicious emails with the company’s branding to DocuSign customers and users. In an alert on the DocuSign website, the company shared that it is tracking these emails which carry a downloadable Microsoft Word document harboring malware to attack the user’s system.  The email subject line has been known to read: “Completed: docusign.com – Wire Transfer Instructions for recipient-name Document Ready for Signature.”
+How to protect yourself
+    If you are not expecting an email via DocuSign, do not click on the link.
+    If you are expecting a document, but are unsure of the source, you can access your document directly by visiting docusign.com. Every legitimate DocuSign email has a code which the user can enter on the website to access their document.
+    DocuSign has asked that people forward suspicious emails to spam@docusign.com then delete the email from their inboxes.
+It is important to remember that DocuSign will never request a customer or user to open a PDF, Microsoft Office document or ZIP file in an email.
+</text>

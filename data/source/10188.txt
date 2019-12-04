@@ -1,0 +1,19 @@
+<title> Major Bitcoin Core DoS Vulnerability Has Now Received a Patch </title>
+<source> https://www.cryptoglobe.com/latest/2018/09/major-bitcoin-core-dos-vulnerability-has-now-received-a-patch/ </source>
+<date> 2018_09_20 </date>
+<text>
+The Bitcoin Core developers recently fixed a major vulnerability in the Bitcoin (BTC) network’s (client) codebase. Explaining the potentially serious nature of the software bug, which is tracked as CVE-2018-17144 and classified as a denial-of-service (DoS) attack, Casaba Security co-founder Jason Glassberg said: “[It] can take down the network.”
+Glassberg also told ZDNet the vulnerability in the Bitcoin Core codebase “would [have] affected transactions in the sense that they cannot be completed, but does not appear to open up a way to steal or manipulate wallets.”
+Denial-of-Service (DoS), 51% Attacks
+The Bitcoin Core client software is used by BTC miners to validate transactions on the cryptocurrency’s blockchain and the recent vulnerability found in its source code could have been used to intentionally crash bitcoin’s full-node operators.
+Although not logistically feasible, this particular software bug could have been remotely exploited by an attacker to launch a 51% attack in which one entity controls the majority of the hashing (or computing) power of a cryptocurrency network.
+Advisory Notice, Critical Patch Released
+In most cases, a bad actor has orchestrated a 51% attack in order to manipulate transactions on a cryptocurrency’s blockchain for financial gains. At present, it would cost approximately $490,000 to launch such an attack (for 1 hour) on the Bitcoin network, according to Crypto51.
+However, if the recent Bitcoin Core software bug had not been patched, a bad actor could have initiated a 51% attack on the cryptocurrency’s network at a considerably lower cost. The Bitcoin Core developers posted an advisory notice (on September 19th) regarding this DoS vulnerability.
+Users of Bitcoin Core have been instructed to upgrade to version 0.16.3 of the software. Previous versions (0.14.0 to 0.16.3) of the client contain the DoS vulnerability. Bitcoin Knots, one of at least 96 bitcoin forks to date, was considered vulnerable as well and its client software was patched.
+"Copycat" Cryptos Are At Risk
+Notably, the CVE-2018-17144 vulnerability could have also affected the litecoin (LTC) network but its client has received a patch. Commenting on the serious nature of these software bugs, Cornell computer science professor Emin Gün Sirer said: “Copycat currencies are at risk” - meaning that all bitcoin forks are vulnerable to the attack.
+The Turkish-American cryptographer, who identified critical vulnerabilities in Ethereum’s codebase before its network was hit with the DAO attack, was referring to all the currently 69 active bitcoin forks that could still be exploited with a 51% attack as their clients might still not have received a patch and are not as secure as bitcoin network due to their smaller size.
+In fact, Crypto51 has estimated it would only cost $122 to launch a 51% attack on the Bitcoin Private (BTCP) network. However, this estimate has not been confirmed by another source.
+</text>
+

@@ -1,0 +1,22 @@
+<title> Adobe December Patch Tuesday Fixed 38 Critical Vulnerabilities In Adobe Reader And Acrobat DC </title>
+<source> https://latesthackingnews.com/2018/12/15/adobe-december-patch-tuesday-fixed-38-critical-vulnerabilities-in-adobe-reader-and-acrobat-dc/ </source>
+<date> 2018_12_15 </date>
+<text>
+Adobe has patched a number of security vulnerabilities on the last scheduled monthly update of this year. All these patches specifically addressed bugs in Adobe Reader and Acrobat. Allegedly, Adobe December Patch Tuesday Update fixed as much as 86 different vulnerabilities, including 38 critical security flaws.
+This week, Adobe rolled out the last scheduled monthly updates for its products. While the previous month’s update included bug fixes in Flash Player, the Adobe December Patch Tuesday update bundle remained focused on Adobe Reader and Acrobat. As much as 38 different critical security bugs received patches with this update.
+The vulnerabilities include 2 buffer errors, 2 Untrusted pointer dereference vulnerabilities, 5 out-of-bounds write vulnerabilities, 3 heap overflow bugs, and 23 use after free vulnerabilities. All these vulnerabilities could allegedly lead to arbitrary code execution by a potential attacker. In addition, 3 security bypass vulnerabilities also received fixes with this update. These flaws could allow privilege escalation on the targeted systems.
+
+In addition to the above, Adobe also released fixes for 48 important security vulnerabilities. These include, 43 out-of-bounds read vulnerabilities, 4 integer overflow bugs, and a single security bypass bug. All these could allegedly result in information disclosure.
+As stated in Adobe’s advisory, the affected software include the following for Windows,
+   Acrobat DC and Acrobat Reader DC (continuous track) versions 2019.008.20081 and earlier,
+   Adobe Acrobat 2017 and Acrobat Reader 2017 (Classic 2017 track) versions 2017.011.30106 and earlier,
+   Acrobat DC and Acrobat Reader DC (Classic 2015 track) versions 2015.006.30457 and earlier.
+Whereas, in the case of MacOS, the affected programs include,
+   Acrobat DC and Acrobat Reader DC (continuous track) versions including and prior to 2019.008.20080,
+   Adobe Acrobat 2017 and Acrobat Reader 2017 (track Classic 2017) versions 2017.011.30105 and above,
+   Acrobat DC and Acrobat Reader DC (track Classic 2015) versions 2015.006.30456 and above.
+
+Adobe has patched all 86 vulnerabilities in the recently released versions of the respective software. The patched versions include Acrobat DC and Acrobat Reader DC versions 2019.010.20064 (continuous track), Acrobat 2017 and Acrobat Reader DC 2017 (Classic 2017) version 2017.011.30110, and Acrobat DC and Acrobat Reader DC (track Classic 2015) version 2015.006.30461. Users of both Windows and MacOS should, therefore, ensure updating their systems and download the latest versions of the affected software to stay protected from these vulnerabilities.
+This month’s scheduled update bundle did not address any security flaws in Flash Player. Nonetheless, lately, Adobe already patched a critical Flash vulnerability already disclosed to the public.
+</text>
+

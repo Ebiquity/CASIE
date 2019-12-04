@@ -1,0 +1,18 @@
+<title>Malware 'disguised as Siemens software drills into 10 industrial plants' • The Register    </title>
+<source> https://www.theregister.co.uk/2017/03/22/malware_siemens_plc_firmware/ </source>
+<date> 2017_03_23 </date>
+<text>
+Malware posing as legitimate software for Siemens control gear has apparently infected industrial equipment worldwide over the past four years.
+The cyber-nasty is packaged as software to be installed on Siemens programmable logic controllers (PLC), we're told.
+At least 10 industrial plants – seven in the US – were found running the infected software, a study by industrial cybersecurity firm Dragos claims.
+According to the Maryland-based biz, this particular malware was specifically thrown at industrial control equipment.
+Exactly what it does, or did, is not explained, although it is described as "crimeware".
+Dragos CEO Robert Lee writes:
+Starting in 2013, there were submissions from an ICS environment in the US for Siemens programmable logic controller control software.
+The various anti-virus vendors were flagging it as a false positive initially, and then eventually a basic piece of malware.
+In short, there has been an active infection for the last four years of an adversary attempting to compromise industrial environments by theming their malware to look like Siemens control software.
+However, each new IP address punches another hole in the metaphorical wall that separates Information Technology (IT) and Operational Technology (OT).
+Having established IT connectivity, it's difficult to put the genie back in the bottle and each of these avenues is a potential point of weakness that can be compromised – by hackers burrowing in or malware (such as ransomware) detonating internally and then radiating out."
+Andrew Cooke, head of cyber consulting at Airbus Defence and Space CyberSecurity, added: "Malware is prevalent in a wide range of industrial systems, often spread by an infected USB stick or by unauthorized remote access.
+But while the majority of malware found in these systems is low level, it can still pose a serious risk for the organizations concerned.
+</text>

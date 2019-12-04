@@ -1,0 +1,12 @@
+<title>Someone Hit the Internet with a Massive Google Doc Phishing Attack - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/massive-gmail-google-doc-phishing-email </source>
+<date> 2017_05_04 </date>
+<text>
+A massive phishing campaign targeting Google accounts ripped through the internet on Wednesday afternoon.
+Several people online across a range of industries said they received emails containing what looked like a link to a Google Doc that appeared to come from someone they know. These, however, were malicious emails designed to hijack their accounts. 
+ It's unclear exactly how the attack works at the moment, but it does appear to be highly sophisticated. A Reddit user has a good breakdown of what happens exactly when you click on the Google Doc button. In a few words, when you click on the link, the login screen takes you to a genuine Google domain, but that domain asks you to grant access to an app called Google Docs that is not the real Google Docs.
+And the "Google Docs" app reads all your email and contacts, and then self-propagates by sending more emails.
+ We've also heard reports that Google Drive was down, and experienced the outage ourselves, but cannot yet confirm if that is related to the attack. (It'd be a hell of a coincidence, although Drive appears to be working again.) 
+"We have taken action to protect users against an email impersonating Google Docs, and have disabled offending accounts," Google said in a statement sent to Motherboard. "We've removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again. We encourage users to report phishing emails in Gmail."
+In a subsequent statement, Google said that the phishing campaign was halted "within approximately an hour" and that it "affected fewer than 0.1% of Gmail users." While that sounds low, considering that Gmail has around 1 billion users, that's still around one million victims. 
+</text>

@@ -1,0 +1,26 @@
+<title> Ryuk Ransomware Crew Makes $640,000 in Recent Activity Surge </title>
+<source> https://www.bleepingcomputer.com/news/security/ryuk-ransomware-crew-makes-640-000-in-recent-activity-surge/ </source>
+<date> 2018_08_21 </date>
+<text>
+A new ransomware strain named Ryuk is making the rounds, and, according to current reports, the group behind it has already made over $640,000 worth of Bitcoin.
+Attacks with this ransomware strain were first spotted last Monday, August 13, according to independent security researcher MalwareHunter, who first tweeted about this new threat. 
+There have been several reports from victims regarding infections with Ryuk in the past week, including one on the Bleeping Computer forums.
+But despite these reports, security researchers from various companies have not been successful at identifying how this ransomware spreads and infects victims.
+The common train of thought is that this ransomware spreads via targeted attacks, with the Ryuk crew targeting selected companies one at a time, either via spear-phishing emails or Internet-exposed and poorly secured RDP connections, albeit researchers have not been able to pinpoint the exact entry vector for infections as of yet.
+"According to what we can see right now, it seems the attacks are targeted, i.e. a result of some manual compromise," Mark Lechtik, a Check Point security researcher, told Bleeping Computer in a private conversation today. 
+"Reason for this is that the malware needs Admin privileges to run, which it doesn't achieve on its own. Something else that executes it had to achieve this privilege," he added. "But no artifact was found to show what spawned the execution of the malware (i.e. no mail, document, script etc.)."
+Ryuk shuts down over 180 services on infected hosts
+But there are also some differences. The main one, spotted by both Check Point and MalwareHunter is that Ryuk comes with a huge list  of apps and services it shuts down before infecting a victim's systems.
+"The ransomware will kill more than 40 processes and stop more than 180 services by executing taskkill and net stop on a list of predefined service and process names," Check Point researchers explained in a report.
+The ransom note conundrum
+Furthermore, Ryuk's targeted nature is never more obvious than when it comes to its ransom notes. Check Point says it found several Ryuk samples where the ransomware dropped different ransom notes on users' systems.
+Researchers found a long, more verbose ransom note, and another, blunter and to-the-point ransom demand.
+Both ransom notes asked victims to contact the Ryuk authors via email. Coincidentally or not, the ransom fees demanded via the longer and more detailed ransom note were higher (50 Bitcoin ~ $320,000), compared to the shorter ransom note, where crooks asked for a smaller amount of money (15-35 Bitcoin, ~$224,000).
+"There seems to be some adaptation made in the ransom notes," Lechtik told Bleeping Computer, suggesting this particular detail adds up to the assumption that Ryuk is deployed after hackers infect networks and not via mass email spam.
+"This could imply there may be two levels of offensive," Check Point said, suggesting that the Ryuk gang may also deploy different Ryuk samples based on the organization they manage to infect, and their ability to pay higher ransom fees.
+Ryuk not decryptable at the time of writing
+As for the ransomware's encryption, this is a classic AES-RSA combo that's usually undecryptable unless the Ryuk team made mistakes in its implementation. Currently, researchers have not spotted such weakness in Ryuk, as of yet.
+Similar to most elite ransomware strains, unique Bitcoin payment addresses are created for each victim. Check Point says that money doesn't stay too much in these addresses, and they are quickly split and laundered through different accounts.
+While previous versions of the Hermes ransomware have been an on-and-off threat that surfaces at random intervals with a mass spam campaign, the new Ryuk ransomware strain appears to be a new attempt from the Lazarus Group at developing a SamSam-like strain to use in precise surgical strikes against selected organizations.
+</text>
+

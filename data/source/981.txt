@@ -1,0 +1,20 @@
+<title>Hackers exploit Apache Struts vulnerability to compromise corporate web servers | CSO Online</title>
+<source> http://www.csoonline.com/article/3178614/security/hackers-exploit-apache-struts-vulnerability-to-compromise-corporate-web-servers.html </source>
+<date> 2017_03_09 </date>
+<text>
+Apache Struts is an open-source web development framework for Java web applications.
+On Monday, the Apache Struts developers fixed a high-impact vulnerability in the framework's Jakarta Multipart parser.
+The vulnerability is very easy to exploit and allows attackers to execute system commands with the privileges of the user running the web server process.
+What's even worse is that the Java web application doesn't even need to implement file upload functionality via the Jakarta Multipart parser in order to be vulnerable.
+According to researchers from Qualys, the simple presence on the web server of this component, which is part of the Apache Struts framework by default, is enough to allow exploitation.
+"Needless to say we think this is a high priority issue and the consequence of a successful attack is dire," said Amol Sarwate, director of Vulnerability Labs at Qualys, in a blog post.
+Companies who use Apache Struts on their servers should upgrade the framework to versions 2.3.32 or 2.5.10.1 as soon as possible.
+Researchers from Cisco Talos have observed "a high number of exploitation events."
+Some of them only execute the Linux command whoami to determine the privileges of the web server user and are probably used for initial probing.
+Others go further and stop the Linux firewall and then download an ELF executable that's executed on the server.
+"The payloads have varied but include an IRC bouncer, a DoS bot, and a sample related to the bill gates botnet," the Talos researchers said in a blog post.
+According to researchers from Spanish outfit Hack Players, Google searches indicate 35 million web applications that accept "filetype:action" uploads and a high percentage of them are likely vulnerable.
+It's somewhat unusual that attacks have started so quickly after the flaw was announced and it's not yet clear whether an exploit for the vulnerability already existed in closed circles before Monday.
+Users who can't immediately upgrade to the patched Struts versions can apply a workaround that consists of creating a Servlet filter for Content-Type that would discard any requests not matching multipart/form-data.
+Web application firewall rules to block such requests are also available from various vendors.
+</text>

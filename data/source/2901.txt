@@ -1,0 +1,16 @@
+<title>US restaurants targeted with fileless malware - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/06/15/us-restaurants-targeted-fileless-malware/ </source>
+<date> 2017_06_16 </date>
+<text>
+Morphisec researchers have spotted another attack campaign using fileless malware that is believed to be mounted by the infamous FIN7 hacking group. The goal of the campaign is to gain control of the target businesses’ systems, install a backdoor, and through it perform continual exfiltration of financial information.
+“Like past attacks, the initial infection vector is a malicious Word document attached to a phishing email that is well-tailored to the targeted business and its day-to-day operations,” the researchers noted. 
+“The Word document executes a fileless attack that uses DNS queries to deliver the next shellcode stage (Meterpreter). However, in this new variant, all the DNS activity is initiated and executed solely from memory – unlike previous attacks which used PowerShell commands.”
+The researchers attribute this one important change to the group’s efforts to stay one step ahead of the defenders, and they are succeeding: 
+“After decryption of the second stage shellcode, the shellcode deletes the ‘MZ’ prefix from within a very important part of the shellcode. This prefix indicates it may be a DLL, and its deletion helps the attack to evade memory scanning solutions,” the researchers found.
+“If this DLL was saved on disk, many security solutions would immediately identify it as a CobaltStrike Meterpreter, which is used by many attackers and pen testers.”
+But it’s not, and it passes undetected.
+In-memory resident attacks and the use of fileless malware are on the rise, and FIN7 is one group that has been employing this approach regularly. 
+There can be no doubt other attackers will try to implement the same tactic.
+FIN7 has previously been tied to a sophisticated spear-phishing campaign hitting US-based businesses with emails purportedly coming from the US Securities and Exchange Commission (SEC), and Morphisec researchers believe that the series of attacks leveraged against 140+ banks and other businesses earlier this year is also their work.
+FIN7 is also associated with the infamous Carbanak gang, but whether they are one and the same it’s still impossible to say for sure.
+</text>

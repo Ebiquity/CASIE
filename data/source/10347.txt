@@ -1,0 +1,25 @@
+<title> Hackers hit Vermont furniture store with ransomware </title>
+<source> https://www.wcax.com/content/news/Hackers-hit-Vermont-furniture-store-with-ransomware-491401481.html </source>
+<date> 2018_08_21 </date>
+<text>
+A Vermont business's computer system was attacked by hackers and held for ransom.
+It may sound like a movie plot but ransomware attacks like these are on the rise. According to their 2017 Internet Crime report, last year the FBI received 1,783 complaints identified as ransomware. The adjusted losses from the attacks was over $2.3 million.
+An example of a ransomware attack is software that downloads to your computer, encrypts your data and then demands money to get it back. It's technological extortion, essentially. And that's what happened to Wendell's Furniture in Colchester at the end of last month.
+"Our servers crashed and when our IT guy came to take care of the problem, I asked him how the patient was doing and he just got kind of an ashen look on his face and he just shook his head and I knew we were in trouble," said Ryan Farrell, the vice president of Wendell's Furniture.
+Farrell says in their nearly 20 years of business, they've never had this type of cybersecurity attack.
+"I honestly don't think I believed it to begin with. It's something you see in the movies, something you see on TV but it's never something that I thought would happen to us, especially here in Vermont," Farrell said.
+The company's sales information from the last 5-10 years was stolen, including customers' names, addresses, phone numbers and email addresses. However, no credit card numbers were part of the breach.
+"My message to customers is not to panic, don't be worried about your information," Farrell said. "Just know that it's going to take us just a little bit more time to get your sofa to you but we're open for business."
+Wendell's was able to recover most of the data but not all of it. They are still missing several months' worth of data.
+"Everything that used to be easy is now really hard," Farrell said.
+A McAfee report shows that ransomware attacks are up more than 100 percent in the second quarter of 2018 over that same time frame in 2016.
+Duane Dunston teaches cybersecurity at Champlain College and says these attacks can be hard to count.
+"It's not really clear because many organizations may not report it," he said. "It may be easier for them to give them the money and just move on."
+Wendell's ended up paying thousands of dollars but Dunston says that can have repercussions.
+"One of the dangers is that they can come back and ask for more money at a later time," he explained. "There really is no way to know whether they are going to delete the data or whatever they are demanding."
+Dunston says there is lots of public information on how to protect your data but to make sure you are backing it up and updating your security systems.
+Wendell's has now reinforced its computer firewalls and replaced parts of its infrastructure that are susceptible to attack.
+"We're getting back on our feet," Farrell said.
+Customers who financed their purchase with Synchrony Financial may have had their account numbers compromised, but according to Wendell's that threat is low. The business has sent out about 500 letters notifying customers and says they are doing their best to get the word out.
+</text>
+

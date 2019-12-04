@@ -1,0 +1,24 @@
+<title>'Serious' hack attacks from China targeting UK firms - BBC News</title>
+<source> http://www.bbc.com/news/technology-39478975 </source>
+<date> 2017_04_05 </date>
+<text>
+The gang behind the attacks has compromised technology service firms and plans to use them as a proxy for attacks, security firms have said.
+The group, dubbed APT10, is using custom-made malware and spear phishing to gain access to target companies.
+The National Cyber Security Centre and cyber units at PwC and BAE Systems collaborated to identify the group.
+"Operating alone, none of us would have joined the dots to uncover this new campaign of indirect attacks," said Richard Horne, cyber security partner at PwC.
+A detailed report drawn up by the three organisations reveals that the group has been active since 2014 but ramped up its attacks in late 2016.
+In particular, said the report, it targeted firms who ran key IT functions on behalf of large UK companies.
+PwC and BAE said the group had mounted many different attacks as part of a campaign they called Operation Cloud Hopper.
+By targeting the suppliers of IT outsourcing, the attackers were able to stealthily gain access to the networks and systems of their true targets.
+Dr Adrian Nish, head of threat intelligence at BAE, said the attackers used these third parties as a "stepping stone" to get at the companies and organisations they were really interested in.
+Infiltrating supply chains gave the attackers an easy route into many different targets.
+"Organisations large and small rely on these providers for management of core systems and as such they can have deep access to sensitive data," he said.
+"It is impossible to say how many organisations might be impacted altogether at this point."
+The security organisations involved in exposing the APT10 campaign say they have seen firms in the UK, Europe and Japan being targeted by the group.
+The National Cyber Security Centre and the two security firms have warned known victims that they have been compromised.
+Spear phishing emails booby-trapped with custom-made malware were sent to key staff in IT services firms in the first stage of an attack.
+Once the hackers had won access they sought out intellectual property and other sensitive data.
+The hacking group maintained a massive network of sites and domains online to serve their various attacks and as a conduit for data they stole, said Dr Nish.
+Forensic analysis of the times when the attackers were most active as well as the tools and techniques they used led PwC and BAE to conclude that the group was based in China.
+They have not established who is behind the APT10 group or how it chooses its targets.
+</text>

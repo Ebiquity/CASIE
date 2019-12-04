@@ -1,0 +1,19 @@
+<title>Charger mobile ransomware steals contacts and SMS messages - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/24/charger-mobile-ransomware/ </source>
+<date> 2017_01_25 </date>
+<text>
+Check Point’s mobile security researchers have discovered a new ransomware in Google Play, dubbed Charger.
+Charger was found embedded in an app called EnergyRescue.
+The infected app steals contacts and SMS messages from the user’s device and asks for admin permissions.
+If granted, the ransomware locks the device and displays a message demanding payment.
+Researchers detected and quarantined the Android device of an unsuspecting customer employee who had unknowingly downloaded and installed Charger.
+The early detection enabled them to quickly disclose the findings to Android’s Security team that added the malware to Android’s built-in protection mechanisms before it began to spread, ensuring only a handful of devices were infected.
+Unlike most malware found on Google Play, that contains a dropper that later downloads the real malicious components to the device, Charger uses a heavy packing approach.
+This makes it harder for the malware to stay hidden.
+Charger’s developers compensated for this using a variety of techniques to boost its evasion capabilities so it could stay hidden on Google Play for as long as possible.
+These included:
+The ransom demand is for 0.2 Bitcoins or roughly $180 and is much higher than what has been seen in previous mobile ransomware attacks.
+By comparison, the DataLust ransomware demanded merely $15 and could be an indicator of a wider effort by mobile malware developers to catch up with their PC ransomware cousins.
+Similar to other malware seen in the past, Charger checks the local settings of the device and does not run its malicious logic if the device is located in Ukraine, Russia, or Belarus.
+This is likely done to keep the developers from being prosecuted in their own countries or being extradited between countries.
+</text>

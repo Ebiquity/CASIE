@@ -1,0 +1,15 @@
+<title> Ticketfly takes websites offline after hack and ransom demand  </title>
+<source> https://www.cnet.com/news/ticketfly-takes-websites-offline-after-series-of-cyberattacks/ </source>
+<date> 2018_05_31 </date>
+<text>
+Ticketfly has been grounded.
+After a "series of recent issues," the online ticketing service took down all its websites Thursday, saying it was "the target of a cyber incident." 
+"Out of an abundance of caution, we have taken all Ticketfly systems temporarily offline as we continue to look into the issue," the company said across its many properties. Ticketfly didn't comment on whether any user information, such as credit card data, had been stolen in the cyberattack. 
+"We realize the gravity of this decision, but the security of client and customer data is our top priority," a Ticketfly spokeswoman said in an email.
+The company's pages have been down since 6 a.m. ET.
+A hacker who goes by "IShAkDz" has taken credit for the attack. Before Ticketfly took down its websites, the hacker left a taunting message across the service's website: "Your security down, I'm not sorry. Next time I will publish database." The hacker, who also left an e-mail address, appeared to have a database with more than 4,000 spreadsheets holding people's information, including email addresses, phone numbers, names and addresses.
+In an email, the attacker told CNET that he or she contacted TicketFly about the potential exploit multiple times, but didn't hear back. The attacker demanded TicketFly pay 1 bitcoin to fix the cyberattack, which is currently worth $7,544.
+The Ticketfly spokeswoman didn't comment on the alleged hacker.
+Eventbrite, which owns Ticketfly, doesn't have any issues on its website.
+</text>
+

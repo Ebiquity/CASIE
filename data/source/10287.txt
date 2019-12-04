@@ -1,0 +1,13 @@
+<title> Rap for WhatsApp chat app chaps in phone-to-pwn security nap flap </title>
+<source> https://www.theregister.co.uk/2018/10/09/whatsapp_patches_security_bug/ </source>
+<date> 2018_10_09 </date>
+<text>
+WhatsApp has patched a vulnerability in its smartphone code that could have been exploited by miscreants to crash victims' chat app simply by placing a call.
+Google Project Zero whizkid and Tamagotchi whisperer Natalie Silvanovich discovered and reported the flaw, a memory heap overflow issue, directly to WhatsApp in August. Now that a fix is out, Silvanovich can go public with details on the potentially serious flaw.
+According to Silvanovich's report, the bug is triggered when a user receives a malformed RTP packet, triggering the corruption error and crashing the application. In practice, the malformed packet that triggers the crash could be sent via a simple call request.
+"This issue can occur when a WhatsApp user accepts a call from a malicious peer," Silvanovich explained. "It affects both the Android and iPhone clients."
+While Silvanovich has not said whether further actions (like remote code execution) would be possible to pull off in the wild, the flaw was serious enough to draw the attention of fellow Google researcher Tavis Ormandy.
+Fortunately, as the bug has been patched users will be able to get a fix for the flaw by updating to the latest version of WhatsApp on Android and iOS. We're still waiting to hear from Google or Facebook on more details, such as if the desktop app is affected of if RCE is possible, but its PR team has a lot on today.
+The disclosure will add another to the growing list of apps that will need to be updated thanks to October security patches. Earlier today, Microsoft delivered its Patch Tuesday security bundle, with Adobe dropping its second major patch bundle in as many weeks and Google having posted the Android monthly update last week.
+</text>
+

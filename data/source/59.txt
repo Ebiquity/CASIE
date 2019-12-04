@@ -1,0 +1,23 @@
+<title>MM Core In-Memory Backdoor Returns as "BigBoss" and "SillyGoose" | Forcepoint</title>
+<source> https://blogs.forcepoint.com/security-labs/mm-core-memory-backdoor-returns-bigboss-and-sillygoose </source>
+<date> 2017_01_05 </date>
+<text>
+Also known as “BaneChant”, MM Core is a file-less APT which is executed in memory by a downloader component.
+It was first reported in 2013 under the version number “2.0-LNK” where it used the tag “BaneChant” in its command-and-control (C2) network request.
+A second version “2.1-LNK” with the network tag “StrangeLove” was discovered shortly after.
+In this blog we will detail our discovery of the next two versions of MM Core, namely “BigBoss” (2.2-LNK) and “SillyGoose” (2.3-LNK).
+Attacks using "BigBoss" appear likely to have occurred since mid-2015, whereas "SillyGoose" appears to have been distributed since September 2016.
+In 2013 MM Core was reported to target Middle Eastern and Central Asian countries.
+Our own telemetry suggests that both Africa and the United States have also been recent targets.
+The following list shows the targeted industries we have observed:
+However, the new DOC exploit we found exploits a more recent CVE-2015-1641 Microsoft Word vulnerability which it uses to extract embedded malware.
+The extracted malware is then executed by leveraging a DLL side-loading vulnerability.
+The DOC file we analysed (SHA1 d336b8424a65f5c0b83328aa89089c2e4ddbcf72) was named “US pak track ii naval dialogues.doc”.
+This document exploits CVE-2015-1641 and executes shellcode which drops a legitimate Microsoft executable along with a trojanised DLL named “ChoiceGuard.dll”.
+The shellcode then executes the Microsoft executable, causing the malicious DLL to automatically be loaded into the file when it is run - hence the term "side-loading".
+The DLL downloads and executes the file-less MM Core backdoor in memory, which uses steganography to hide itself inside a JPEG file.
+The JPEG contains code to decrypt itself using the Shikata ga nai algorithm.
+Once decrypted and executed in memory, the MM Core backdoor will extract and install an embedded downloader when it is first run and add it to Windows start-up for persistence.
+This downloader, which is similar to the first trojanised DLL, is then executed and will download the MM Core JPEG once again, executing it in memory like before.
+This time MM Core will conduct its backdoor routine which will send off system information and await further commands.
+</text>

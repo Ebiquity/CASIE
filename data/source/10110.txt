@@ -1,0 +1,15 @@
+<title> Ransomware Out, Cryptojacking In  </title>
+<source> https://www.infosecurity-magazine.com/news/ransomware-out-cryptojacking-in/ </source>
+<date> 2018_03_22 </date>
+<text>
+Cryptojacking attacks exploded by 8,500% in 2017 resulting from the sudden increase in cryptocurrency values. According to research released by Symantec, UK ranked as the fifth highest country worldwide, with a staggering 44,000% increase in coin-miner detections.
+With a low barrier to entry – only requiring a couple lines of code to operate – cyber-criminals are harnessing stolen processing power and cloud CPU usage from consumers and enterprises to mine cryptocurrency. Coin-miners can slow devices, overheat batteries, and in some cases, render devices unusable. For enterprise organizations, coin-miners can put corporate networks at risk of shutdown and inflate cloud CPU usage, adding cost.
+Symantec also found a 600% increase in overall IoT attacks in 2017, which means that cyber-criminals could exploit the connected nature of these devices to mine en masse.
+“Attackers could be co-opting your phone, computer or IoT device to use them for profit,” said Darren Thomson, CTO and VP EMEA, Symantec. “People need to expand their defences or they will pay the price for someone else using their device.”
+The Annual Threat Report also showed that while ransomware was still being used in 2017, there were fewer ransomware families and lower ransom demands. Symantec outlined in its report that “many cyber-criminals may have shifted their focus to coin mining as an alternative to cash in while cryptocurrency values are high” and that “some online banking threats have also experienced a renaissance as established ransomware groups have attempted to diversify.”
+Last year, the average ransom demand dropped to $522, less than half the average of the year prior. While the number of ransomware variants increased by 46%, indicating the established criminal groups are still quite productive, the number of ransomware families dropped, suggesting they are innovating less and may have shifted their focus to new, higher value targets.
+The report analyzed data from the Symantec Global Intelligence Network, which tracks over 700,000 global adversaries, records events from 98 million attack sensors worldwide and monitors threat activities in over 157 countries and territories.
+Threats in the mobile space continued to grow year-over-year, including the number of new mobile malware variants which increased by 54%. According to the report, Symantec blocked an average of 24,000 malicious mobile applications each day last year, citing older operating systems as one of the main causes - only 20% of devices are running the newest version of Android. 
+Mobile users also face privacy risks from 'grayware' apps that aren’t completely malicious but can be troublesome - Symantec found that 63% of grayware apps leak the device’s phone number. Unfortunately, with grayware increasing by 20% in 2017, Symantec do not believe this problem will be going away. 
+</text>
+

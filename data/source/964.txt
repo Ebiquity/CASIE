@@ -1,0 +1,20 @@
+<title>Vault 7: CIA Borrowed Code from Public Malware</title>
+<source> https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware/ </source>
+<date> 2017_03_09 </date>
+<text>
+A special operational group existed in the CIA named Umbrage, which was tasked with reviewing public malware and embedding selected features into custom CIA hacking tools.
+According to one document, the Umbrage team and its purpose were described as follows:
+The Vault 7 dump, which WikiLeaks claims it received from government contractors and hackers, did not include any actual malware samples, but only the internal CIA documentation.
+The Umbrage documentation hints the CIA may have reused malware code from multiple malware families.
+Most entries are attributed using a generic "Known Malware" tag, but for some, the malware's name is included.
+According to leaked documents, the CIA "borrowed" code from:
+According to another Umbrage file, the CIA had also explored the idea of using code from the Hacking Team, an Italian spyware maker that sold malware to government agencies, which was hacked in 2015 and its malware dumped online.
+The dumped document reveals the CIA collected the Hacking Team data and in August 2015, two months after the hack, explored the idea of running tests and mapping its capabilities.
+The CIA must have found something interesting, because the redacted document reveals that by September 2015, the Agency decided to expand its search to all the Hacking Team files, including emails and internal docs, not just the malware and exploit samples.
+While the leaked files hint the CIA reused some of this code to cut costs, WikiLeaks proposes another theory.
+According to the organization, the CIA reused code from public malware samples to "misdirect attribution by leaving behind the 'fingerprints' of the groups that the attack techniques were stolen from."
+WikiLeaks also said the Umbrage group reused code from malware stolen from other states, including the Russian Federation, information which many publications are now using to question the US' attribution of last year's DNC hacks to Russia.
+It was common knowledge that xagent was "in the wild" so anyone could have used it to hack the DNC.
+We were told to take it on faith by the US .gov that it was Russia.
+It's possible NSA/FBI/CIA/DIA were able to seed the TOR network and unmask the IP's, but it's also common for actual Russian agents to bounce their traffic off numerous satellites making traces near impossible.
+</text>

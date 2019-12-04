@@ -1,0 +1,16 @@
+<title> Midland servers hacked, attackers demanding ransom </title>
+<source> https://www.simcoe.com/news-story/8879570-midland-servers-hacked-attackers-demanding-ransom/ </source>
+<date> 2018_09_04 </date>
+<text>
+The Town of Midland’s computer systems were hacked over the long weekend.
+In the early morning hours of Sept 1, the town became the victim of a cyberattack in which the town’s network was illegally accessed and infected with ransomware.
+The malware was able to encrypt a number of town systems rendering them unusable. The town has received a ransom demand to decrypt them.
+Town staff worked quickly to isolate the attacked and activate a cyber incident investigation. According to town staff, the necessary steps are being taken to restore access to the system and files and to try and return operations to normal as quickly as possible.
+“Residents can rest assured that we are taking this matter extremely seriously,” said Mayor Gord McKay. “We are working closely with cybersecurity experts that specialize in these types of illegal attacks, and we have reported the incident to law enforcement and the Information and Privacy Commissioner of Ontario.”
+Vital services, such as fire and water and wastewater management, were not impacted as these systems are purposely isolated for security reasons.
+Ongoing investigations have not found any evidence that information was removed from the system or inappropriately accessed and cybersecurity experts are working quickly to rule out that possibility.
+In late April, Wasaga Beach had their computer systems hacked and locked down for several weeks. The town eventually paid the hackers three Bitcoins, worth approximately $34,000. However, other costs including loss of productivity, new hardware and consultant fees were estimated at a combined $250,000.
+Based on the recommendations outlined a recent service delivery review and lessons learned from the cyberattack in Wasaga Beach, Midland had secured an insurance policy for protection in the event of such illegal activities. A strategy to address cybersecurity threats had been developed, which the town was in the process of implementing.
+“At the time of the attack the town was in the process of making several improvements to our IT security,” said Midland chief administrative officer John Skorobohacz. “Once systems are fully restored, we will continue with those plans and look for additional opportunities to enhance our security based on the guidance of cybersecurity experts.” 
+</text>
+

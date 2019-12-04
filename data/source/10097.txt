@@ -1,0 +1,14 @@
+<title> Spring Hill, Tenn., Hit with Ransomware Attack  </title>
+<source> http://www.govtech.com/security/Spring-Hill-Tenn-Hit-with-Ransomware-Attack.html </source>
+<date> 2017_11_08 </date>
+<text>
+The email-borne attack locked the city’s servers and many of the daily business functions, officials said.
+(TNS) -- SPRING HILL, Tenn. — The city was the victim of a recent cyber-attack, which caused its computer system to lock with a ransom of $250,000.
+Spring Hill was one of several other local government agencies who were victim to the attack, and city officials say they do not believe any citizen or customer account information was stolen or compromised.
+It did, however, temporarily halt any online credit or debit card payments.
+"We received a ransomware attack Friday evening that ended up going in and locking our servers. It affected all of our departments, and we have been in recovery mode ever since [Sunday]," City Administrator Victor Lay said. "We've now been able to, at least minimally, conduct business, although the manual system of paper and pencil seems to work pretty well against those kinds of things."
+Lay added that the "appropriate government authorities" have been contacted about the incident, which will meet later this week to discuss an investigation into the incident.
+He said it was not a "hack" per se, but a virus created from a downloadable email attachment, locking the system using an encryption key.
+"We're working through it. Obviously, we chose not to pay the ransom. We're working through the system and it's going to take us a few days to get things all back to normal, but we're getting there."
+</text>
+

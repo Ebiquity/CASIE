@@ -1,0 +1,17 @@
+<title>How to tell if your Snapchat has been hacked, and how to get it back</title>
+<source> https://www.grahamcluley.com/snapchat-account-hack/ </source>
+<date> 2017_01_03 </date>
+<text>
+As of June 2016,  more than 150 million active users interact with one another daily via Snapchat.
+Others are drawn by the service's more recent features.
+Those include Snapcash, a method introduced for users to send mobile payments to their friends.
+Given the app's popularity, it's no wonder online criminals have set their sights on hacking users' Snapchat accounts.
+For instance, back in late 2013, a group of hackers published a database containing the usernames and phone numbers of approximately 4.6 million Snapchat users.
+Nefarious individuals could have used that information to profile targets across multiple web accounts.
+We also can't forget about the security incident that occurred back in February 2016.
+In that attack, someone posed as the company's CEO and convinced a Snapchat employee to send over payroll information.
+The successful phish ultimately compromised dozens of employees' identities.
+To be fair, a mega breach on the scale of what affected LinkedIn, Tumblr, and Yahoo has yet to strike the messaging app.
+But that's not to say criminals aren't trying to find a way into people's accounts.
+Hackers clearly have Snapchat in their sights, which is why users need to learn how to spot the warning signs of a hack and how they can recover their accounts if someone compromises them.
+</text>

@@ -1,0 +1,14 @@
+<title> AMD Ships Vulnerability Patches To Ecosystem Partners </title>
+<source> https://www.tomshardware.com/news/amd-vulnerability-patches-ecosystem-partners,36993.html </source>
+<date> 2018_05_02 </date>
+<text>
+Remember when the sky--or at least Ryzen--was falling? You should, because it was only a few months ago, when the CTS Labs security company revealed numerous vulnerabilities in AMD's new Ryzen and EPYC processor lines. AMD has been largely quiet about these vulnerabilities in the time since, but the company assured Tom's Hardware that it hasn't forgotten about CTS Labs' report or neglected to address the flaws in its processors.
+A quick recap: In March, CTS Labs released information on a collection of vulnerabilities in AMD's latest chips that it dubbed "Ryzenfall." These security flaws were said to be present in the most basic aspects of the Ryzen and EPYC processors, and after consulting with other researchers, CTS Labs decided to publish its findings without giving AMD the customary 90-day notice between a vulnerability's discovery and its public disclosure.
+Earlier this week, CTS Labs emailed us to express concern about the lack of updates from AMD regarding these vulnerabilities. The company said it believed many of the vulnerabilities would take months to fix, with the Chimera issues requiring a hardware change that couldn't be implemented in products that have already shipped. AMD's relative silence and lack of updates apparently led CTS Labs to believe the company had stalled out.
+
+We reached out to AMD for comment and received the following in response:
+Within approximately 30 days of being notified by CTS Labs, AMD released patches to our ecosystem partners mitigating all of the CTS identified vulnerabilities on our EPYC™ platform as well as patches mitigating Chimera across all AMD platforms. These patches are in final testing with our ecosystem partners in advance of being released publicly.  We remain on track to begin releasing patches to our ecosystem partners for the other products identified in the report this month.  We expect these patches to be released publicly as our ecosystem partners complete their validation work.
+
+That's still vague--we don't know to what "ecosystem partners" these patches have been delivered nor when they should be expected to roll out--but it does show that AMD hasn't simply forgotten about CTS Labs' report. We expect to hear more about these patches and how AMD plans to address them as the company and its partners get them ready to ship. In the meantime, it seems that much like the sky, Ryzen has yet to fall.
+</text>
+

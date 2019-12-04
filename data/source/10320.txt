@@ -1,0 +1,20 @@
+<title> Samsam infected thousands of LabCorp systems via brute force RDP </title>
+<source> https://www.csoonline.com/article/3291617/security/samsam-infected-thousands-of-labcorp-systems-via-brute-force-rdp.html </source>
+<date> 2018_07_19 </date>
+<text>
+LabCorp, one of the largest clinical labs in the U.S., said the Samsam ransomware attack that forced their systems offline was contained quickly and didn't result in a data breach.
+However, in the brief time between detection and mitigation, the ransomware was able to encrypt thousands of systems and several hundred production servers.
+The wider public first learned about the LabCorp incident on Monday, when the company disclosed it via an 8-K filing with the SEC. Since then, as recovery efforts continue, the company said they're at about 90-percent operational capacity.
+According to sources familiar with the investigation, the Samsam attack at LabCorp started at midnight on July 13.
+This is when the Samsam group used brute force against RDP and deployed ransomware by the same name to the LabCorp network. At 6:00 p.m. on Saturday, July 14, the first computer was encrypted.
+The LabCorp SOC (Security Operation Center) immediately took action after that first system was encrypted, alerting IR teams and severing various links and connections.
+These quick actions ultimately helped the company contain the spread of the infection and neutralize the attack within 50 minutes. However, before the attack was fully contained, 7,000 systems and 1,900 servers were impacted. Of those 1,900 servers, 350 were production servers. 
+The analysis and recovery continued at that point. This led the company to confirm the source of the attack as a brute forced RDP instance, and confirm that only Windows systems were impacted.
+According to NetFlow management and traffic monitoring, nothing left the network during the attack, so the company is confident that there was no data breach.
+Given the RDP connection to this attack, and the fact that most attacks of this nature are bi-directional, LabCorp will likely implement two-factor authentication in the future.
+It isn't clear if the company has a timeline for these changes, or if two-factor authentication was already in place at the time of the attack. Salted Hash has reached out to LabCorp for additional comment and will update should they respond. 
+However, because LabCorp was able to detect and respond to the attack quickly, they likely saved themselves from costly and lengthy outages. It's also likely that backups (tested and current) played a large role in the recovery phase of the incident.
+The last time the Samsam group was in the news, they had attacked the Colorado Department of Transportation twice in two weeks and the City of Atlanta.
+In March, based on the current value of Bitcoin at the time, it was estimated that the group had earned nearly $850,000 USD from their victims, who paid the ransom demands.  
+</text>
+

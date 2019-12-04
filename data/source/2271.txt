@@ -1,0 +1,10 @@
+<title>Global cyber attack: Here's how experts are analysing it - Moneycontrol.com</title>
+<source> http://www.moneycontrol.com/news/technology/global-cyber-attack-heres-how-experts-are-analysing-it-2278837.html </source>
+<date> 2017_05_16 </date>
+<text>
+The development weighing on investors' sentiment is the fallout from a massive global cyber attack. The global cyber attack that crippled more than hundreds of thousands of computers over 150 countries is poised to swell today. The ransomware employed by hackers, who have demanded Bitcoin payments from the victims, renders files stored on afflicted computers inaccessible completely.
+A number of large corporations and many hospitals in Britain have been infected with this malware. There have been reports of infections in 150 countries, including the UK, US, China, Russia, Spain, Italy and Taiwan. The US President Donald Trump directed his homeland security adviser to hold meetings on the matter over the weekend.
+Back home the Indian IT ministry has contacted the Reserve Bank of India and Unique Identification Authority of India (UIDAI) and sought advice on online protection from both these bodies
+In an interview to CNBC-TV18, S Ramadorai, Former Chairman of Tata Consultancy Services (TCS) shared his readings and outlook on global cyber attack.
+He said that India is one of the most vulnerable countries to cyber attack. India needs a mass movement for cyber awareness, implementation and protection, he added.
+</text>

@@ -1,0 +1,18 @@
+<title> Lazarus Hackers Phish For Bitcoins, Researchers Warn </title>
+<source> https://www.bankinfosecurity.com/lazarus-hackers-phish-for-bitcoins-researchers-warn-a-10535 </source>
+<date> 2017_12_17 </date>
+<text>
+Bitcoin-seeking hackers are using old-school tricks to socially engineer would-be cryptocurrency exchange executives, researchers warn.
+An attack group tied to North Korea has "launched a malicious spear-phishing campaign using the lure of a job opening for the CFO role at a European-based cryptocurrency company," researchers at Secureworks Counter Threat Unit warn in a report.
+The CTU researchers refer to the group behind the attack as "Nickel Academy," although it is perhaps better known as the Lazarus Group (see Kaspersky Links North Korean IP Address to Lazarus ).
+The group has been tied to numerous attacks, including the attempted theft of nearly $1 billion from the central bank of Bangladesh's New York Federal Reserve account, leading to $81 million being stolen; the WannaCry ransomware outbreak in May; as well as the use of cryptocurrency mining malware named Adylkuzz to attack the same flaw in Windows server block messaging that WannaCry also targeted (see Cybercriminals Go Cryptocurrency Crazy: 9 Factors).
+
+Security researchers say Lazarus has also been running a series of job lure phishing attacks since at least 2016, with the latest round being delivered around Oct. 25 of this year. The malicious code has "solid technical linkages" to attacks previously attributed to Lazarus, CTU says (see Report: North Korea Seeks Bitcoins to Bypass Sanctions).
+Researchers at Israeli cybersecurity startup Intezer also believe the code has been reused by Lazarus, based on a review of attack code that's been seen in the wild since 2014.
+The fake job advertisement pretends to be for Luno, a bitcoin wallet software and cryptocurrency exchange based in London, according to an analysis of the phishing messages published Tuesday by Jay Rosenberg, a senior security researcher at Intezer.
+Luno says it's been alerted to the fake emails bearing its name. "We're aware of this issue and are investigating thoroughly," Luno tells ISMG.
+If recipients of the latest CFO job lure phishing emails open an attached Microsoft Word document, it triggers a pop-up message inviting them to enable editing functions. The CTU researchers say this is an attempt to enable macros in Word, so that a malicious macro hidden inside the document can execute. If it does, the macro creates a decoy document - the fake CFO job lure - as well as installs a first-stage remote access Trojan RAT in the background. Once the RAT is running on the victim's PC, attackers can use it to install additional malware onto the system, such as keystroke loggers and password stealers (see Hello! Can You Please Enable Macros?).
+The CTU researchers say the job listing appears to have been stolen from a legitimate CFO job listing posted to LinkedIn by a cryptocurrency firm in Asia. While the researchers say that Lazarus has done this previously, unusually in this case, some typographical errors in the original listing were expunged. The researchers add that this phishing campaign does not appear to target any specific firm or individual, but rather to be more broadly aimed.
+"There are common elements in the macro and in the first-stage RAT used in this campaign with former campaigns," the researchers write. The custom command-and-control network code that controls infected endpoints also includes components that were seen in previous attacks tied to Lazarus, they add.
+</text>
+

@@ -1,0 +1,8 @@
+<title>Foreign Office hit by ‘Russian hackers’ | News | The Times</title>
+<source> https://www.thetimes.co.uk/edition/news/foreign-office-hit-by-russian-hackers-xl58zrb8q?CMP=TNLEmail_118918_1695510 </source>
+<date> 2017_04_14 </date>
+<text>
+The Foreign Office has faced a sustained onslaught by cyberattackers believed to be linked to Russia.
+It was among a string of military and government targets in Europe which were hit last year by a campaign of “spear-phishing”. The hackers’ method, in which messages appear to come from a trusted source but are infected with malware, were relatively sophisticated.
+Sources said that the people behind the attack, Callisto Group, were probably linked to Russia although that could not be proved. The BBC reported that the Foreign Office was among the targets and the attack began in April last year. It is understood that it was not considered a high-level attack and that sensitive information was not kept on the systems that were targeted.
+</text>

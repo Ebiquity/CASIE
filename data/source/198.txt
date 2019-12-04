@@ -1,0 +1,23 @@
+<title>Operation EyePyramid: Two Siblings Spied on Italy's Elite</title>
+<source> https://www.bleepingcomputer.com/news/security/operation-eyepyramid-two-siblings-spied-on-italys-elite/ </source>
+<date> 2017_01_13 </date>
+<text>
+The two hired the services of a local programmer to develop their own brand of malware, a backdoor trojan, which authorities have named EyePyramid.
+The men used simple spear-phishing emails sent to the high-ranking officials they wanted to infect.
+The emails came with a file attachment, which when opened would covertly install their malware.
+EyePyramid would collect information from the target's system, such as passwords, sensitive documents, and more.
+The malware would upload this data to various online servers or send to an email address (via SMTP).
+Italian officials said the two suspects, Giulio Occhionero (age 45) and Francesca Maria Occhionero (age 49), had most likely used this information for financial profits.
+It is unclear if this means stock market transactions or blackmail attempts.
+The two were discovered when one of their emails reached a security researcher, who discovered the payload and notified local police.
+An investigation followed, and Italian police, together with the FBI, arrested the two and seized servers used to spread the malware and store the stolen data.
+The two deployed their malware in separate campaigns that took place in 2008, 2010, 2011, 2012, and 2014.
+Court documents reveal the men used the malware to collect around 87GB of data, consisting of keystroke information, 18,327 usernames, and 1,793 passwords.
+Username and password information was arranged in 122 categories, based on the target's affiliation, such as business, politics, and more.
+The EyePyramid malware targeted the following file types for exfiltration:
+A full list of IOCs has been compiled by Trend Micro security researcher Federico Maggi and is available on GitHub.
+The researcher has also published an analysis of the malware's inner workings, not available in court documents, on the Trend Micro blog.
+The list of victims includes names such as former prime minister Matteo Renzi, former prime minister Mario Monti, cardinal Gianfranco Ravasi, head of the European Central Bank Mario Draghi, Vatican officials, members of Italy's tax police, Bank of Italy officials, and representatives of the Italian Senate, and members of several Italian ministries (Finance, Economy, Internal Affairs, Foreign Affairs, and others).
+In a TV interview, Italian investigators said Giulio Occhionero was a high-ranking member of a Masonic lodge.
+The words "eye" and "pyramid," used regularly in the malware's source code, are some of the most known symbols of Freemasonry.
+</text>

@@ -1,0 +1,20 @@
+<title> 'Shark Tank's' Robert Herjavec: Here's how hackers use bitcoin against you  </title>
+<source> https://www.cnbc.com/2018/03/07/shark-tanks-robert-herjavec-hackers-use-bitcoin-with-ransomware.html </source>
+<date> 2018_03_07 </date>
+<text>
+Although Robert Herjavec, an investor on ABC's "Shark Tank," expects the price of bitcoin to "skyrocket," he has no plans to personally buy any.
+That's because as the CEO of cybersecurity firm Herjavec Group, he doesn't want to support the growing trend of hackers using cryptocurrency.
+"I can't invest in something that my enemy uses as funds," he explained on CNBC's "Squawk Alley."
+Indeed, "If there was no cryptocurrency, much of the large hacks that we're seeing today wouldn't exist," Herjavec told Money.
+As one example, Herjavec is concerned with the role cryptocurrency plays in ransomware attacks.
+"Cryptocurrency permits anonymity," he explains to CNBC Make It. "It's a very popular form of payment for ransomware in particular."
+Ransomware is a type of software that locks or encrypts a computer user's data and files, in affect holding it hostage. To release the information, a hacker will demand a ransom payment.
+Ransomware attacks increased 6,000 percent in 2016 from 2015, according to a study from IBM Security. And in 2017, 200,000 computers in 150 countries belonging to businesses, governments and even the U.K. National Health Service were impacted by the ransomware virus known as WannaCry. In that case, victims were told to make a payment in bitcoin to get their computers back.
+Hackers often demand the ransom be paid in cryptocurrency because it allows them to remain anonymous, Herjavec says. "I can take over your computer or personal information, hold it for ransom, give you instructions on how to create a virtual wallet, force you to pay me, and you have no way of finding out who I am," Herjavec explains.
+That's because a bitcoin wallet is only identified by a number, and "payments are direct without a bank or credit card company acting as the middle man," Herjavec says. "There is no money trail, so it's very difficult to track back to an individual."
+With WannaCry, the hackers asked for $300 worth of bitcoin from victims, and if they waited over 72 hours to pay, the fine increased to $600. If they waited a week, their information would be locked for good. The Trump administration pointed to North Korea as the originator of the attack.
+In 2016, ransomware was used to coerce Hollywood Presbyterian Medical Center, a hospital in Los Angeles, to pay 40 bitcoin to hackers, The New York Times reports. That sum was then worth $17,000. Bitcoin closed at $10,779.90 on Tuesday, March 6, according to CoinMarketCap, which makes those 40 coins worth about $431,196.
+To protect yourself from ransomware attacks, take steps to secure your online information.
+"Keep your computer and data safe by backing up often, using cloud services with dual factor authentication and complex passwords," Herjavec suggests. "Have anti-virus [software] installed and kept up to date."
+</text>
+

@@ -1,0 +1,10 @@
+<title>Hacker Exploits Remote Code Execution Bug to Breach Facebook Security</title>
+<source> https://www.hackread.com/hacker-breaches-facebook-security/ </source>
+<date> 2017_01_19 </date>
+<text>
+In a blog post, Leonov explained that he reported the issue to Facebook in October 2016 according to which the ImageMagick flaw was still active and impacted Facebook.
+He also provided Facebook security team with an in-depth proof of concept (PoC) who patched the issue and awarded him a sum of $40,000 through the Bugcrowd payment system.
+“Once upon a time on Saturday in October I was testing some big service (not Facebook) when some redirect followed me on Facebook.
+“I am glad to be the one of those who broke the Facebook,” said Leonov.
+To confirm the payment, The Register has contacted Facebook.
+</text>

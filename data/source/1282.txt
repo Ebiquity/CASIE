@@ -1,0 +1,15 @@
+<title>Adviser support service hit by cyber attack - FTAdviser.com</title>
+<source> https://www.ftadviser.com/your-industry/2017/03/23/adviser-support-service-hit-by-cyber-attack/ </source>
+<date> 2017_03_24 </date>
+<text>
+Derek Bradley, head of Panacea, an online community of 17,000 financial services professionals, has warned that phishing emails have been sent out that are purporting to be from him.
+Mr Bradley originally became a victim of a cyber attack back in September when his emails were compromised.
+He warned that all emails received from him to undisclosed recipients over the past seven months were not sent from his system.
+In a message sent out yesterday (22 March), he said: “We are in the process of trying to work out the best course of action to ensure this stops happening, but it is difficult as I have no control over what is being sent and by whom.
+“I do apologise again for any inconvenience caused to you.
+We will hopefully find a resolution to this issue as soon as possible”.
+Mr Bradley also warned that the hackers are continuing to try and get access to other contact lists, and told advisers to ignore emails to undisclosed recipients.
+The government is facing calls to create a single point of responsibility to deal with cyber risk in the financial services sector amid concerns over accountability.
+Today (23 March) Andrew Tyrie, chairman of the Treasury select committee, wrote to chancellor Philip Hammond claiming a lack of coordination in the current cyber security system could leave the banking industry’s IT systems vulnerable to attack.
+My Tyrie said the present arrangement, in which both a director-level group and a governance framework can serve as a single point to address cyber issues, resembles the "catastrophically inadequate" tripartite authorities that were set up to monitor system risk in banking in 1997.
+</text>

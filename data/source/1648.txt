@@ -1,0 +1,26 @@
+<title>Callisto Group hackers targeted Foreign Office data - BBC News</title>
+<source> http://www.bbc.com/news/technology-39588703 </source>
+<date> 2017_04_14 </date>
+<text>
+The UK's Foreign Office was targeted by highly motivated and well-resourced hackers over several months in 2016. 
+The BBC understands the government has investigated the previously unreported attack that began in April last year.
+The UK's National Cyber Security Centre would not say whether data was stolen.
+But a source told the BBC that the most sensitive Foreign Office information is not kept on the systems targeted by the hackers.
+Research published on Thursday by cybersecurity firm F-Secure suggested the attack was a "spear-phishing" campaign, in which people were sent targeted emails in attempts to fool them into clicking a rogue link or handing over their username and password.
+To do this, the attackers created a number of web addresses designed to resemble legitimate Foreign Office websites, including those used for accessing webmail.  
+F-Secure does not know whether the attack was successful.
+The company says the domains were created by hackers that it calls the Callisto Group, which it says is still active.
+However the UK's National Cyber Security Centre (NCSC) declined to say who was behind the attack on the Foreign Office.
+The targeted emails that were sent out tried to fool targets into downloading malware which was first developed for law enforcement by the Italian software company Hacking Team. 
+Hacking Team's surveillance tools were previously exposed in a cyberattack, first reported in 2015. 
+There is no suggestion that Hacking Team had any involvement in the attacks.
+F-Secure said that the use of the software should remind governments that they "don't have monopolies on these [surveillance] technologies", and that once created the software can fall into the hands of hackers.
+The BBC has not seen evidence conclusively identifying the origin of the attack.
+A cybersecurity expert at another company, who wished to remain anonymous, found a link to information uncovered in the investigation of Russian efforts to influence the US election.
+Two of the phishing domains used by the hackers were once linked to an IP address mentioned in a US government report into Grizzly Steppe.
+Grizzly Steppe is the name given by the US government to efforts by "Russian civilian and military intelligence services to compromise and exploit networks and endpoints associated with the US election".
+However, the cybersecurity expert noted that this connection between the phishing domain and Grizzly Steppe may be a coincidence, as over 300 other domains - many of them not hacking-related - were linked to the same IP address.
+F-Secure told the BBC that it did notice some similarity between the Callisto Group's hacking and previous attacks that have been linked to Russia.
+However, it said despite some similarities in the tactics, techniques, procedures and targets of the Callisto Group, and the Russia-linked group known as APT28, it believed the two were "operationally" separate.
+It noted that the Callisto Group was also less "technically capable" than APT28.
+</text>

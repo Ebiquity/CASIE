@@ -1,0 +1,19 @@
+<title>MongoDB ransom attacks continue to plague administrators | CSO Online</title>
+<source> http://www.csoonline.com/article/3162711/security/mongodb-ransom-attacks-continue-to-plague-administrators.html </source>
+<date> 2017_01_30 </date>
+<text>
+Earlier this month, Salted Hash reported on a surge in attacks against publicly accessible MongoDB installations.
+Since January 3, the day of that first report, the number of victims has climbed from about 200 databases to more than 40,000.
+In addition to MongoDB, those responsible for the attacks have started targeting Elasticsearch and CouchDB.
+No matter the platform being targeted, the message to the victim is the same; send a small Bitcoin payment to the listed address, or forever lose access to your files.
+[ Learn about top security certifications: Who they're for, what they cost, and which you need.
+The problem is, some of the more recent attacks show evidence the database was erased.
+So even if the ransom is paid, the data is lost for good.
+The researchers tracking these attacks are aware of at least four individuals who delete the databases entirely after running a list command.
+Once deleted, they’ll leave the ransom note and logoff the system.
+So far, these individuals have used more than a dozen Bitcoin wallet addresses, and nine different email accounts.
+The tracking document is available on Google Docs.
+Only one of those victims had backups to use when the ransom payment failed.
+Soon, criminals started going after other development platforms, such as Elasticsearch - a Java-based search engine that's popular in enterprise environments.
+Then they moved on to public facing Hadoop and CouchDB deployments.
+</text>

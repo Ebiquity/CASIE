@@ -1,0 +1,18 @@
+<title>Hackers Hack Hacking Forum As Soon As It's Launched - Motherboard</title>
+<source> http://motherboard.vice.com/read/hackers-hack-hacking-forum-as-soon-as-its-launched </source>
+<date> 2017_01_20 </date>
+<text>
+In 2015, the FBI shuttered malware marketplace Darkode, and then at the end of last year a small group of hackers launched their own eponymous copycat version.
+Almost immediately, however, other hackers attacked that new site, and stole user account information.
+"It's a shit show on what happened," a Darkode staff member who used the handle Bullets told Motherboard.
+Hackers managed to steal a database of Darkode's users, including usernames and hashed passwords.
+Paid breach notification site LeakBase provided Motherboard with a copy of the data.
+The database included this reporter's Darkode account, used to briefly visit the site when it launched.
+The data also includes users' email addresses and IP addresses; something that might be particularly worrying if those who signed up were involved in any illegal activity—it probably doesn't help to have an IP address linked to your identity floating around the internet.
+It's fucked up," one of the hackers behind the breach, who used the moniker FuckInterpol, told Motherboard.
+"Dear fake darkode wannabes, you're [sic] forum has been owned, and your admins have terrible opsec," one message posted to the forum read.
+The hackers also deleted other threads on the site.
+Bullets, the staff member, claimed the hackers got in, at least in part, because he reused a password from another previously hacked site.
+"The only reason I joined in the first place was just to see what the hell was actually going on.
+I used a common password I use when I signed up thinking nothing of it seeing I never thought I'd stay on the site & if anyone got access to it, it wouldn't be a big deal," Bullets said.
+</text>

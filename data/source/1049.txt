@@ -1,0 +1,14 @@
+<title>Pre-installed malware stealing data from mobiles: Check Point | InfotechLead</title>
+<source> http://www.infotechlead.com/security/pre-installed-malware-stealing-data-from-mobiles-check-point-47798 </source>
+<date> 2017_03_13 </date>
+<text>
+Israel-based cyber security firm Check Point has detected a malware that is not downloaded due to users’ use but is already present in Android device.
+According to a company blog post last week, the pre-installed malware was detected in 38 Android devices, belonging to a large telecommunications company and a multinational technology company.
+“The malicious apps were not part of the official ROM supplied by the vendor, and were added somewhere along the supply chain,” the company said.
+The malware added to the devices’ ROM could not be removed by the users, therefore, the devices had to be re-flashed.
+The research team at Check Point found that one of the pre-installed malwares was Slocker, a mobile ransomware, that uses the Advanced Encryption Standard (AES) encryption algorithm to encrypt all files on the device and demand ransom in return for their decryption key.
+“The most notable rough adnet which targeted the devices is the Loki Malware.
+This complex malware operates by using several different components; each has its own functionality and role in achieving the malware’s malicious goal,” the cyber security firm said.
+Pre-installed malwares steal data from the devices and are installed to system, taking full control of the device.
+The cyber security firm suggested users to protect themselves from regular and pre-installed malware by implementing advanced security measures capable of identifying and blocking any abnormality in the device’s behaviour.
+</text>

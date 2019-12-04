@@ -1,0 +1,19 @@
+<title>Concern mounts at Indian ID scheme as portals ‘leak’ 100m people’s details – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/05/03/concern-mounts-at-indian-id-scheme-as-portals-leak-100m-peoples-details/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=5e5bcf5805-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-5e5bcf5805-455160889 </source>
+<date> 2017_05_04 </date>
+<text>
+The details of more than 100m Indians’ Aadhaar ID cards have leaked from four government portals, according to a report from the Centre for Internet and Society (CIS).
+Based on the numbers available on the websites looked at, [the] estimated number of Aadhaar numbers leaked through these four portals could be around 130-135 million
+If you’re not familiar with the Aadhaar numbers, we’ve previously reported on the history of and concerns surrounding this biometric ID card. Now a fundamental part of Indian society, anyone that has not signed up faces being denied access to many government and private-sector services and schemes.
+As the government presses on with intertwining the card into everyday life, concerns about the security of the vast amounts of personal data being stored and the potential for its misuse by cyber-criminals continue to mount.
+The disclosures came as part of a report entitled Information Security Practices of Aadhaar (or lack thereof): A Documentation of Public Availability of Aadhaar Numbers with Sensitive Personal Financial Information, which focuses on just four of India’s numerous government portals:
+But it’s not just the ID numbers that the report is worried about; it also claims that the leaks contain “personally identifiable information of beneficiaries or subjects of the leaked databases”, putting the estimated number of bank accounts leaked at around 100m.
+
+The Unique Identification Authority of India (UIDAI), which issues the Aadhaar numbers, claims that there have been no leaks, according to The Times of India. The paper also quotes one official as saying something rather different
+While Aadhaar numbers are available, the biometric information is not … The leaked databases do not pose a real threat … because the Aadhaar number cannot be misused without biometrics.
+And another that another official as saying that the “Aadhaar number is not confidential just as bank account number which is mentioned in cheque books and shared with lot of people”.
+
+It seems that, despite the official line, Aadhaar numbers are getting out into the public domain.
+The question has to be whether the personally identifiable information that is being published alongside them is enough for fraudsters to steal someone’s identity. I haven’t yet seen any reports of fraud being committed on the back of a stolen Aadhaar number. Only time will tell.
+While this new, controversial ID system beds itself in, the world will be watching closely to see where the cracks in security are, how fraudsters take advantage and how the government reacts to plug any holes. We’ll certainly be keeping a close eye on developments.
+</text>

@@ -1,0 +1,18 @@
+<title> Track and Field Governing Body Says It Was Hacked by Fancy Bear  </title>
+<source> https://www.nbcnews.com/news/world/track-field-governing-body-says-it-was-hacked-fancy-bears-n741931 </source>
+<date> 2017_04_03 </date>
+<text>
+The world governing body of track and field said Monday that it was the victim of a cyberattack carried out by the infamous Fancy Bear hacking group.
+The International Association of Athletics Federations (IAAF) said the hack had "compromised athletes' Therapeutic Use Exemption (TUE) applications stored on IAAF servers."
+However, "it is not known if this information was subsequently stolen from the network."
+The Fancy Bear website and Twitter account bore no mention of the hacks Monday morning.
+TUEs are special exemptions given to athletes that allow them to take otherwise banned substances if they have a specific medical need.
+A statement on the IAAF website said: "The presence of unauthorized remote access to the IAAF network by the attackers was noted on 21 February where meta data on athlete TUEs was collected from a file server and stored in a newly created file."
+While the IAAF did not know if that data was eventually taken, it said there was “a strong indication of the attackers’ interest and intent.”
+Fancy Bear was responsible for a hack that targeted the World Anti-Doping Agency (WADA) last year, subsequently revealing what it said were TUEs granted to a host of U.S. Olympics stars.
+NBC News reported details of the suspected hack of WADA files in August saying it was part of the same covert influence campaign by Russian President Vladimir Putin's government to target the U.S. government, political organizations and others and potentially disrupt the November election.
+U.S. officials have also previously linked Fancy Bear to GRU, the Russian military intelligence agency. However, Russian officials denied playing any role in the various hacks attributed to Fancy Bear.
+The IAAF said athletes who have applied for TUEs since 2012 have been contacted. It added that it had since carried out a "complex remediation across all systems and servers in order to remove the attackers’ access to the network."
+IAAF President Sebastian Coe also weighed in.
+"Our first priority is to the athletes who have provided the IAAF with information that they believed would be secure and confidential," he said. "They have our sincerest apologies and our total commitment to continue to do everything in our power to remedy the situation and work with the world’s best organizations to create as safe an environment as we can."
+</text>

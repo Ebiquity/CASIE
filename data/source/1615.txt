@@ -1,0 +1,27 @@
+<title>Tired: Stealing Data. Wired: Holding a Dam for Ransom - Defense One</title>
+<source> http://www.defenseone.com/threats/2017/04/tired-stealing-data-wired-holding-dam-ransom/136919/?oref=d-river&utm_source=Sailthru&utm_medium=email&utm_campaign=EBB%204.12.2017&utm_term=Editorial%20-%20Early%20Bird%20Brief </source>
+<date> 2017_04_12 </date>
+<text>
+ The spread of ransomware means government and critical infrastructure providers need to start gaming out responses, cyber watchers say.
+A cadre of shadowy criminal hackers seizes control of an energy plant. They give themselves administrator privileges and lock the genuine administrators out along with everyone else. Then, they threaten to trigger a major leak or explosion if the plant owners don’t pay up: $50 million in bitcoin.
+The story sounds like a fantastical Hollywood plot. It’s basically a digital-age riff on the 1965 James Bond Film “Thunderball” and the 1997 spoof “Austin Powers: International Man of Mystery.”
+Yet, following a surge in ransomware attacks—in which hackers seize and lock an organization’s data and networks and only unlock them for a hefty fee—cyber watchers are beginning to fear this plot could become reality.
+“What ransomware does is it creates a business model [in which] anybody who has money can potentially be extorted to pay,” McAfee Chief Technology Officer Steve Grobman told reporters during a roundtable discussion Thursday at McAfee’s Security Through Innovation Summit.
+“There’s no reason not to think that criminals will see government assets like critical infrastructure as a target they can hold for ransom,” Grobman added.
+If hackers were able to seize the controls of a critical infrastructure asset such as a dam or airport where they could cause major property destruction and loss of life, the ransom demand could be huge, Grobman said, and there’s a good chance the asset owner or the government would have to pay up.
+Critical infrastructure is an official designation the Homeland Security Department uses to refer to 16 sectors such as chemical plants and financial firms whose physical and digital security is vital for national security and public safety.  
+McAfee has been tracking ransomware attacks for years as they progressed from extorting $100 or $200 from individuals who clicked the wrong link to “soft targets” such as hospitals, universities and police stations to some of the major global corporations the antivirus firm counts among its customers.
+There’s no reason to think government agencies or critical infrastructure providers won’t be next on the list, he said.
+John Felker, director of the DHS’ main cybersecurity nerve center, the National Cybersecurity and Communications Integration Center, shares Grobman’s concerns.
+“What Steve is seeing is on the front edge of what is going on, [so] we do need to have some concern. I’m probably going to have a chat with the folks at the fort about that,” he said during the same roundtable, referring to the National Security Agency’s home in Fort Meade, Maryland.
+While ransomware attacks against local governments are a common problem across the globe, NCCIC has not been called in on a ransomware attack against the federal government that threatened major destruction, Felker said.
+When it comes to critical infrastructure, the major cyber fear has typically been an attack by an adversary nation or terrorist group looking to cause destruction and mayhem. For traditional criminal hackers interested in stealing marketable information such as credit card numbers, these targets held little interest.
+Industrial systems such as dams are further protected because they operate using comparatively obscure industrial control systems not typically in the wheelhouse of hackers used to manipulating consumer software.
+For ransomware attackers, however, industrial targets could prove lucrative because a hacker that controlled them would have the power to unleash terrible consequences if the ransom wasn’t paid, Grobman said, such as opening that New York dam’s floodgates.
+Criminals also operate with a different calculus than nation-states, which makes them more difficult to deter, Grobman said.
+The Justice Department has indicted hackers linked to the Chinese and Iranian governments, which caused public embarrassment. The Obama administration also sanctioned North Korean officials for the Sony Pictures Entertainment hack and Russian officials for meddling in the 2016 election.
+Then-President Barack Obama and Vice President Joe Biden also insinuated the government took covert actions against Russia for that meddling.
+A criminal or criminal group that didn’t expect to be caught, however, would be less susceptible to public embarrassment, immune to diplomatic pressure and much more difficult to target with covert action.
+The remedy, Grobman said, is for the government and critical infrastructure providers to plan ahead, both by securing their systems and gaming out how they would respond to a ransomware attack.
+“How do we get the defenses in place before the breach occurs,” he said, “so we don’t have the consequences that we saw in things like [the Office of Personnel Management breach] where, because we didn’t invest in the security up front, the cost of the breach was significantly higher.”
+</text>

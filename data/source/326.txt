@@ -1,0 +1,16 @@
+<title>Hacker Group Claims Responsibility for Lloyds Bank Outages, Ransom Demand</title>
+<source> https://www.bleepingcomputer.com/news/security/hacker-group-claims-responsibility-for-lloyds-bank-outages-ransom-demand/ </source>
+<date> 2017_01_24 </date>
+<text>
+The extortion attempt took place on January 11, the first day some Lloyds Bank customers experienced short-lived problems with accessing their online banking portals.
+Customers continued to report brief outages in the following two days.
+On the third day, on Friday, January 13, Bleeping Computer received two separate tips, via email and Twitter, from two hackers that appeared to know each other.
+Hacker #1 sent Bleeping Computer a link to a PasteBin page that contained a copy of an email the group allegedly sent to a high-ranking Lloyds Bank manager.
+The email, pictured below, contained a ransom demand disguised as a "consultancy fee" the group was asking to reveal "security issues" that affected Lloyd Bank's online banking portals.
+The hackers were asking for 100 Bitcoin (£75,000 / $94,000).
+"Once paid, the services will be back online, you will get a list of flaws related to both services, along with our disappearance," the email reads.
+A second hacker reached out via Twitter a few hours later and was surprised to find out that his colleague already shared the PasteBin link, confirming they knew each other.
+Hacker #2 proceeded to provide a demo that allegedly showed they were behind the Lloyds Bank outages.
+The demo was specific with how hackers demonstrate they are behind DDoS attacks.
+Hacker #2 asked your reporter and other journalists to access Lloyds Bank online portals before his attack, to prove the service was running, and during his attack, to show that he was the one causing the issues.
+</text>

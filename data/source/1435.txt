@@ -1,0 +1,24 @@
+<title>
+<source> http://www.reuters.com/article/us-sport-doping-iaaf-idUSKBN1750ZM </source>
+<date> 2017_04_04 </date>
+<text>
+The IAAF said in a statement the hacking group known as Fancy Bear, which has been linked by western governments and security experts to a Russian spy agency blamed for some of the cyber operations that marred the 2016 U.S. election, was believed to be behind the attack of medical records in February.
+The hack targeted information concerning applications by athletics for Therapeutic Use Exemptions, the IAAF said.
+Athletes who had applied for TUEs since 2012 have been contacted and IAAF president, Sebastian Coe, apologized.
+”Our first priority is to the athletes who have provided the IAAF with information that they believed would be secure and confidential,” Coe said in the statement.
+“They have our sincerest apologies and our total commitment to continue to do everything in our power to remedy the situation”.
+TUEs are issued by sports federations and national anti-doping organizations to allow athletes to take certain banned substances for verified medical needs.
+The IAAF said that data on athlete TUEs was “collected from a file server and stored on a newly created file”.
+“The attack by Fancy Bear, also known as APT28, was detected during a proactive investigation carried out by cyber incident response (CIR) firm Context Information Security,” the IAAF said.
+Private security firms and U.S. officials have said Fancy Bear works primarily on behalf of the GRU, Russia’s military intelligence agency.
+Fancy Bear could not be immediately reached for comment.
+The group and other Russian hackers were behind the cyber attacks during the U.S. presidential election last year that were intended to discredit Democratic candidate Hillary Clinton and help Donald Trump, a Republican, win, according to U.S. intelligence agencies.
+It was not known if the information was stolen from the network, the IAAF said, but the incident was “a strong indication of the attackers’ interest and intent, and shows they had access and means to obtain content from this file at will”.
+The attack was uncovered after British company Context Information Security conducted a investigation of the IAAF’s systems at the request of the athletics body.
+Context Information Security said in a separate statement that it was a “sophisticated intrusion” and that “the IAAF have understood the importance and impact of the attack and have provided us comprehensive assistance”.
+Last year, Fancy Bear hacked into the World Anti-Doping Agency (WADA) database and published the confidential medical records of several dozen athletes.
+Those included cyclist Bradley Wiggins, the 2012 Tour de France winner and Britain’s most decorated Olympian with eight medals, who was revealed to have used TUEs before some races.
+Wiggins retired last year under something of a cloud after it was revealed he took corticosteroid triamcinolone for asthma, although he broke no anti-doping rules.
+The IAAF banned Russia’s athletics federation after a WADA commission report found evidence of state-sponsored doping.
+Almost all Russia’s athletes missed the track and field events at the Rio Olympics last year and are likely to also miss the world athletics championships in London in August.
+</text>

@@ -1,0 +1,15 @@
+<title> Multiple Critical Security Vulnerabilities Discovered In Linux Systemd   </title>
+<source> https://latesthackingnews.com/2019/01/13/multiple-critical-security-vulnerabilities-discovered-in-linux-systemd/ </source>
+<date> 2019_01_13 </date>
+<text>
+Researchers have discovered some serious security flaws threatening Linux. These vulnerabilities exist in Linux systemd component. According to the researchers, the vulnerabilities pose a risk to all systemd-based Linux distros.
+Allegedly, researchers at Qualys have disclosed some bugs targeting the Linux systemd component. Systemd provides the core building blocks for Linux and handles major processes after booting.
+As revealed, three vulnerabilities have targeted the systemd-journald, which is responsible for data collection and log storage. The vulnerabilities let an attacker gain root privileges on the target device. The researchers state that these vulnerabilities threaten all Linux distros based on systemd except a few. As stated in their report,
+    “To the best of our knowledge, all systemd-based Linux distributions are vulnerable, but SUSE Linux Enterprise 15, openSUSE Leap 15.0, and Fedora 28 and 29 are not exploitable because their user space is compiled with GCC’s -fstack-clash-protection.”
+The three bugs include two different memory corruption flaws (CVE-2018-16864 and CVE-2018-16865), and an out-of-bounds flaw (CVE-2018-16866). At first, the researchers accidentally discovered CVE-2018-16864 while working on an exploit for a previously disclosed vulnerability, Mutagen Astronomy. Then, when they were busy on its PoC, they spotted the other two bugs.
+    “We developed a proof of concept for CVE-2018-16864 that gains eip control on i386… We developed an exploit for CVE-2018-16865 and CVE-2018-16866 that obtains a local root shell in 10 minutes on i386 and 70 minutes on amd64, on average.”
+Interestingly, the bugs had been around for quite a few years.
+For now, Red Hat has patched the bugs CVE-2018-16864 and CVE-2018-16865. Whereas, Debian has fixed CVE-2018-16866 in the unstable systemd 240-1 release. Other distros will also supposedly release the fixes soon.
+In November 2018, a Google researcher also highlighted a critical flaw in Systemd that induced system crashes and hacks.
+</text>
+

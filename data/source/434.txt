@@ -1,0 +1,34 @@
+<title>Dozens of Netgear products vulnerable to authentication bypass flaws | CSO Online</title>
+<source> http://www.csoonline.com/article/3162850/security/dozens-of-netgear-products-vulnerable-to-authentication-bypass-flaws.html </source>
+<date> 2017_01_31 </date>
+<text>
+Simon Kenin, a security researcher at Trustwave, was – by his own admission – being lazy the day he discovered an authentication vulnerability in his Netgear router.
+Instead of getting up out of bed to address a connection problem, he started fuzzing the web interface and discovered a serious issue.
+Kenin had hit upon unauth.cgi, code that was previously tied to two different exploits in 2014 for unauthenticated password disclosure flaws.
+The short version of the 2014 vulnerability is that an attacker can get unauth.cgi to issue a number that can be passed over to passwordrecovered.cgi in order to receive credentials.
+Kenin tested their exploits and was able to get his password.
+[ Learn about top security certifications: Who they're for, what they cost, and which you need.
+The following day he started gathering other Netgear devices to test.
+While repeating the process, he made an error, but that didn't prevent him from obtaining credentials.
+That accidental discovery resulted in CVE-2017-5521.
+"After few trials and errors trying to reproduce the issue, I found that the very first call to passwordrecovered.cgi will give out the credentials no matter what the parameter you send.
+This is totally new bug that I haven’t seen anywhere else.
+When I tested both bugs on different NETGEAR models, I found that my second bug works on a much wider range of models," Kenin explained in a recent blog post.
+There are at least ten thousand devices online that are vulnerable to the flaw that Kenin discovered, but he says the real number could reach the hundreds of thousands, or even millions.
+"The vulnerability can be used by a remote attacker if remote administration is set to be Internet facing.
+However, anyone with physical access to a network with a vulnerable router can exploit it locally.
+This would include public Wi-Fi spaces like cafés and libraries using vulnerable equipment," Kenin wrote.
+Kenin reached out to Netgear and reported the problems, but it was no easy task.
+The first advisory listed 18 devices that were vulnerable, followed by a second advisory detailing an additional 25 models.
+A few months later, in June 2016, Netgear finally published an advisory that offered a fix for a small subset of the vulnerable devices, and a workaround for others.
+Eventually, Netgear reported that they were going to fix all the unpatched models.
+They also teamed up with Bugcrowd to improve their vulnerability handling process.
+Netgear has a status page on the vulnerability, they also provide a workaround for those who can't update their firmware yet.
+It wasn't until after the story ran that the PR firm representing Trustwave and pitching the research named Simon Kenin as one who made the discovery.
+Netgear issued a statement, downplaying the discovery some, and reminding users that fixes are available for most of the impacted devices.
+The emailed comments are reprinted below: NETGEAR is aware of the vulnerability (CVE-2017-5521), that has been recently publicized by Trustwave.
+We have been working with the security analysts to evaluate the vulnerability.
+NETGEAR has published a knowledge base article from our support page, which lists the affected routers and the available firmware fix.
+Firmware fixes are currently available for the majority of the affected devices.
+To download the firmware release that fixes the password recovery vulnerability, click the link for the model and visit the firmware release page for further instructions.
+</text>

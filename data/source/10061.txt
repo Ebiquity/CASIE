@@ -1,0 +1,12 @@
+<title> Alert: New Surge in W-2 Phishing Scams Affects More than 120,000 Employees   </title>
+<source> https://blog.barkly.com/w-2-phishing-scam-2017-statistics </source>
+<date> 2017_03_13 </date>
+<text>
+On January 20, an email from Lynn Jurich, CEO of San Francisco-based solar firm Sunrun, popped up in a payroll department employee's inbox. The CEO was requesting copies of all employee W-2 forms, which were about to be sent out in preparation for tax season.
+The employee responded quickly as requested, not realizing the W-2 forms — containing the addresses, social security numbers, and salary information for Sunrun's nearly 4,000 employees — were actually being delivered to a scam artist.
+Tax season is always a busy time for scammers seeking to gain access to sensitive information,  but this year attacks are coming earlier and in greater numbers than usual. The uptick has caused the IRS to release an urgent alert warning employers to be on the lookout for what they're refering to as "one of the most dangerous email phishing scams we’ve seen in a long time."
+By using email spoofing techniques, criminals are able to draft emails that look as though they are coming directly from a high-level executive at your organization. They send the message to an employee in the payroll department or HR and include a request for a list of the organization's employees along with their W-2 forms.
+Their initial goal is to use the W-2 information to file fraudulent tax returns and claim refunds. But not all criminals are stopping there. Once they've found a responsive victim, a portion are also following up with additional email requesting a wire transfer be made to an account they provide. 
+Also referred to as business email compromise (BEC), these attacks have claimed more than 15,000 victims and cost organizations more than $1 billion over the past three years.
+More than 100 organizations have already fallen victim to W-2 phishing scams in 2017
+</text>

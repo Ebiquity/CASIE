@@ -1,0 +1,25 @@
+<title>Number of Hijacked MongoDB Databases Is Going Up as More Hackers Are Flocking In</title>
+<source> https://www.bleepingcomputer.com/news/security/number-of-hijacked-mongodb-databases-is-going-up-as-more-hackers-are-flocking-in/ </source>
+<date> 2017_01_06 </date>
+<text>
+This Monday, Bleeping Computer broke the news that a hacker/group identified as Harak1r1 was taking over MongoDB databases left connected to the Internet without a password on the admin account.
+The group was exporting the database's content and replacing all tables with one named WARNING, that contained a ransom note, asking the owners of the hacked database to pay 0.2 Bitcoin (~$200) into Bitcoin wallet.
+At the time of our article, Harak1r1 had hijacked just over 1,800 MongoDB databases, and 11 victims have paid the ransom in order to recover their files.
+As time went by, Harak1r1 hijacked more databases, reaching at one point over 3,500 MongoDB instances, and currently peaking at over 8,500.
+Among them, the hacker(s) had even managed to make a high-profile victim, in Emory Healthcare, a US-based healthcare organization.
+According to the MacKeeper Security Research Team, Harak1r1 had ransacked and blocked Emory's access to more than 200,000 medical records.
+Attacks from harak1r1 went on for two more days, but as worldwide infosec media started covering the topic, two copycats appeared and started doing the same.
+The second group goes by the name of 0wn3d, and they work by replacing the hijacked database tables with a table named WARNING_ALERT.
+According to Victor Gevers, the researcher who initially discovered the first hacked MongoDBs around Christmas, this second group has hijacked just over 930 databases.
+Unlike Harak1r1, this second group is a little bit more greedy and asks for 0.5 Bitcoin, which is around $500, but this hasn't stopped companies from paying, with 0wn3d's Bitcoin wallet showing that at least three victims had paid his ransom demands.
+A day later, the same Gevers came across a third actor, using the name 0704341626asdf, which appears to have hit over 740 MongoDB servers.
+This hacker/group is asking for 0.15 Bitcoin (~$150), and he's using a lengthier ransom note, in which he admonishes victims for leaving their DB open over the Internet.
+Furthermore, this threat actor appears to be more strict with victims and gives database owners 72 hours to pay the ransom.
+According to Gerves, the lines that allowed him to track the activity of these three groups is slowly blurring, as these groups started using more varied messages and different Bitcoin addresses.
+Additionally, in newer variations of these attacks, the hackers don't appear to bother copying the hacked database.
+In recent attacks, Gevers says that crooks just delete the DB's content, ask for a ransom regardless, and hope nobody checks the logs and discovers what they've done.
+There is no evidence that they actual copied your database.
+According to Gevers, these groups are now fighting over the same turf, with many of them rewriting each other's ransom notes.
+This leads to cases where database owners pay the ransom to the wrong group, who can't give their content back.
+"It's catching on and it looks more players are coming to the game.
+</text>

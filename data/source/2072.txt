@@ -1,0 +1,12 @@
+<title>Security snafu left Fuze recordings accessible to all | TheINQUIRER</title>
+<source> http://www.theinquirer.net/inquirer/news/3009382/security-snafu-left-fuze-recordings-accessible-to-all </source>
+<date> 2017_05_04 </date>
+<text>
+ENTERPRISE-FOCUSED communication platform Fuze has fixed a security vulnerability that allowed anyone to access and download recorded meetings on the platform without password authentication. 
+The flaw was discovered towards the end of February by Samuel Huckins of security company Rapid7, and Fuze had disabled access to recorded meetings by the beginning of March. An update to version 4.3.1 of the Fuze platform on March 10 rectified the issue.
+"Security is a top priority for Fuze and we appreciate Rapid7 identifying this issue and bringing it to our attention. When we were informed by the Rapid7 team of the issue, we took immediate action and have resolved the problem," Fuze said in a statement. 
+The vulnerability was caused by the way in which the platform incrementally added digits to the URL of recorded meetings, which resulted in relatively easy brute-force attacks proving successful. 
+Combining the simple ability to guess URLs by inputting seven digit numbers with no requirement for authentication was always going to bring the potential for disaster, though there's no suggestion that anyone with nefarious intent accessed any of the meetings. 
+"Recorded Fuze meetings are saved to Fuze's cloud hosting service. They could be accessed by URLs such as 'https://browser.fuzemeeting.com/?replayId=7DIGITNUM', where '7DIGITNUM' is a seven digit number that increments over time," Rapid7 explains.
+"Since this identifier did not provide sufficient keyspace to resist bruteforcing, specific meetings could be accessed and downloaded by simply guessing a replay ID reasonably close to the target, and iterating through all likely seven digit numbers. This format and lack of authentication also allowed one to find recordings via search engines such as Google."
+</text>

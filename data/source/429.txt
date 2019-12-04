@@ -1,0 +1,18 @@
+<title>Picky ransomware targets specific subset of would-be Netflix users - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/30/netflix-ransomware/ </source>
+<date> 2017_01_31 </date>
+<text>
+Aspiring Netflix users who don’t want to actually pay for the popular video on demand service are being targeted with a new type of ransomware.
+Detected as Netix by Trend Micro, the ransomware is hidden in an executable (Netflix Login Generator v1.1.exe) that poses as a software for creating valid Netflix login credentials.
+The file is usually offered for download on sites sharing crackers and free access to paid online services.
+Users who download and run the file will be faced with the above screen.
+Clicking the “Generate Login!” button will open another one, offering a username and password.
+Whether the login credentials actually work or not is unknown.
+But the other executable dropped by the initial one does work, and it starts encrypting a variety of file types in the machine’s C:\Users directory, including images, videos, archive files, and Office documents.
+“The ransomware employs AES-256 encryption algorithm and appends the encrypted files with the .se extension.
+The ransom notes demand $100 worth of Bitcoin (0.18 BTC) from its victims,” Trend Micro warns.
+The ransomware needs to connect to a C&C server to work and to receive the ransom note and warning to display:
+Interestingly enough, only users of Windows 7 or 10 are in danger from this particular piece of ransomware, as it won’t run on other versions of the OS.
+Victims are urged by the crooks to pay the ransom in order to receive the decryption key, but should know that even if they do, there is no guarantee they will get the key.
+Regularly backing up important files is the best way to assure yourself that even if you fall for social engineering approaches such as this one, you’ll be able to avoid paying the ransom and losing your files forever.
+</text>

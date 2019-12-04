@@ -1,0 +1,9 @@
+<title>Chinese Video Service Giant Youku Hacked; 100M Accounts Sold on Dark Web</title>
+<source> https://www.hackread.com/chinese-video-service-youku-hacked-accounts-sold-on-darkweb/ </source>
+<date> 2017_04_18 </date>
+<text>
+A few months ago we exclusively reported on a Dark Web vendor selling 1 Billion user accounts stolen from the Chinese Internet giants. Now, another vendor going by the handle of CosmicDark is selling a database containing 100,759,591 user accounts stolen from of Youku Inc., a popular video service in China.
+The database according to vendor’s listing was leaked in 2016 and leaked on the Internet this year. Although it is unclear how the database was stolen CosmicDark is selling the whole package for USD 300 (BTC 0.2559). The data contains emails and passwords decrypted with MD5 & SHA1 hashes.
+According to the sample data (552 accounts) provided by CosmicDark, most of the emails are based on @163.com, @qq.com, and @xiaonei.com. It must be noted that based on HackRead’s research the encrypted passwords provided in the sample data have already been decrypted and publically available on the Internet. Also, HaveIbeenpwned, a platform where you can check if your account has been compromised has also confirmed the breach.
+It is unclear whether Youku Inc. is aware of the breach or has notified its users, however it is evident that it poses a massive privacy threat to their users. Furthermore, vendors in the same marketplace are selling 21 million Gmail and Yahoo accounts, 640,000 decrypted PlayStation accounts, millions of accounts from 11 hacked Bitcoin forums and millions of accounts stolen from 25 hacked vBulletin forums.
+</text>

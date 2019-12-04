@@ -1,0 +1,15 @@
+<title>The Statistics Canada Site Was Hacked By an Unknown Attacker - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/statistics-canada-revenue-agency-hacked </source>
+<date> 2017_03_14 </date>
+<text>
+The vulnerability was in Struts2, a release of an Apache web server project.
+Officials could not say how long the affected software was used by the government, but the vulnerability was fixed on Sunday.
+"These types of vulnerability reports are issued daily," said Scott Jones, Deputy Chief of IT Security in Canada's Communications Security Establishment, the country's NSA analogue, during a call with media outlets including Motherboard.
+"Some hackers on the internet were actively attempting to exploit this vulnerability."
+No other government sites use the affected software, Jones added, but others may be affected.
+"Anyone using this technology in the private or public sector should immediately install the patches," he said.
+"The unpatched version of the software […] had the potential to be exploited," Jennifer Dawson, Deputy Chief Information Officer for the Treasury Board of Canada Secretariat, also said during the call with journalists.
+According to Gabrielle Beaudoin, director of communications at Statistics Canada, no personal information was taken by the hacker.
+"We have data tables, publications [on that server]," Beaudoin said, adding that no personal or sensitive information was available.
+"It's all information that's already in the public domain, but there was an intrusion on that server."
+</text>

@@ -1,0 +1,8 @@
+<title>Coalition of Cryptographers, Researchers Urge Guardian to Retract WhatsApp Story | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/coalition-of-cryptographers-researchers-urge-guardian-to-retract-whatsapp-story/123228/ </source>
+<date> 2017_01_23 </date>
+<text>
+A coalition of some of the globe’s top researchers and cryptographers are pleading with The Guardian to retract a story it published last week in which it suggested the encrypted messaging app WhatsApp contained a backdoor.
+The article, citing research by Tobias Boelter, a cryptography and security researcher, accused WhatsApp of having a backdoor    that it or Facebook could use to eavesdrop on user messages.
+The article, published by the media group last Friday, was almost immediately met with criticism, first from WhatsApp – which called the allegations false – then from a collection of researchers who also refuted the claims.
+</text>

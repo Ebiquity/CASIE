@@ -1,0 +1,19 @@
+<title> Apple Yet to Patch Safari Browser Address Bar Spoofing Flaw </title>
+<source> https://threatpost.com/apple-yet-to-patch-safari-browser-address-bar-spoofing-flaw/137395/ </source>
+<date> 2018_09_12 </date>
+<text>
+A flaw in Safari – that allows an attacker to spoof websites and trick victims into handing over their credentials – has yet to be patched.
+A browser address bar spoofing flaw was found by researchers this week in Safari – and Apple has yet issue a patch for the flaw.
+Researcher Rafay Baloch on Monday disclosed two proof-of-concepts revealing how vulnerabilities in Edge browser 42.17134.1.0 and Safari iOS 11.3.1 could be abused to manipulate the browsers’ address bars, tricking victims into thinking they are visiting a legitimate website.
+Baloch told Threatpost Wednesday that Apple has promised to fix the flaw in its next security update for Safari. “Apple has told [me] that the latest beta of iOS 12 also addresses the issue, however they haven’t provided any dates,” he said. Apple did not respond to multiple requests for comment from Threatpost.
+Microsoft for its part has fixed the vulnerability Baloch found in the Edge browser, (CVE-2018-8383) in its August Patch Tuesday release. According to Microsoft’s vulnerability advisory released August 14, the spoofing flaw exists because Edge does not properly parse HTTP content.
+Both flaws stem from the Edge and Safari browsers allowing JavaScript to update the address bar while the page is still loading. This means that an attacker could request data from a non-existent port and, due to the delay induced by the setInterval function, trigger the address bar spoofing.
+The browser would then preserve the address bar and load the content from the spoofed page, Baloch said in his blog breaking down both vulnerabilities.
+From there, the attacker could spoof the website, using it to lure in victims and potentially gather credentials or spread malware. For instance, the attacker could send an email message containing the specially crafted URL to the user, convince the user to click it, and take them to the link which could gather their credentials or sensitive information.
+“As per Google, Address bar is the only reliable indicator for ensuring the identity of the website, if the Address bar points to Facebook.com and the content is hosted on attacker’s website, there is no reason why someone would not fall for this,” Baloch told Threatpost.
+In a video demonstration, Baloch showed how he could visit a link for the vulnerable browser on Edge (http://sh3ifu[.]com/bt/Edge-Spoof.html), which would take him to a site purporting to be Gmail login. However, while the URL points to a Gmail address, the content is hosted on sh3ifu.com, said Baloch.
+The Safari proof-of-concept is similar, except for one constraint where it does not allow users to type their information into the input boxes while the page is in a loading state. However, Bolach said he was able to circumvent this restriction by injecting a fake keyboard using Javascript – a common practice in banking sites.
+No other browsers – including Chrome or Firefox – were discovered to have the flaw, said Baloch. Baloch is known for discovering similar vulnerabilities in Chrome, Firefox and other major browsers in 2016, which also allowed attackers to spoof URLs in the address bar.
+The vulnerabilities were disclosed to both Microsoft and Apple and Baloch gave both a 90-day deadline before he went public with the flaws. Due to the Safari browser bug being unpatched, Baloch said he has not yet released a Proof of Concept: “However considering there is a slight difference between the Edge browser POC and Safari, anyone with decent knowledge of Javascript can make it work on Safari,” he told us.
+</text>
+

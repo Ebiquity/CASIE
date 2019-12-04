@@ -1,0 +1,12 @@
+<title>Netflix Hackers May Have Three Dozen More Movies, Shows to Release – Variety</title>
+<source> http://variety.com/2017/digital/news/netflix-hackers-additional-shows-movies-1202404171/ </source>
+<date> 2017_05_01 </date>
+<text>
+The group of hackers that leaked the upcoming fifth season of “Orange Is the New Black” this weekend may have also secured access to some three dozen other shows and movies.
+TheDarkOverlord, as the group calls itself, provided cybersecurity blog DataBreaches.net with a long list of movies and TV shows it claimed to have stolen from Larson Studios, a Hollywood-based audio post-production company. In addition to “Orange Is the New Black,” it also lists a number of high-profile shows from the big broadcast networks, including ABC’s “The Catch,” NBC’s “Celebrity Apprentice,” CBS’ “NCIS Los Angeles,” and Fox’s “New Girl.”
+Other shows included are IFC’s “Portlandia,” FX’s “It’s Always Sunny in Philadelphia,” “Breakthrough” from NatGeo, E!’s “The Arrangement,” “Bunk’d” from the Disney Channel, and Netflix’s “Bill Nye Saves the World.” The list also makes mention of a few movies, including the Netflix original “Win It All,” the Lifetime TV movie “A Midsummers Nightmare,” and a YouTube Red Liza Koshy special.
+It’s worth noting that this list is by no means confirmed. ABC, NBC, Fox, FX, IFC, and NatGeo all declined to comment when contacted by Variety. CBS and E! did not respond.
+Netflix acknowledged the breach in a statement earlier this weekend, saying: “We are aware of the situation. A production vendor used by several major TV studios had its security compromised and the appropriate law enforcement authorities are involved.” The company hasn’t commented on details of the leak.
+TheDarkOverlord suggested on Twitter earlier this weekend that it might be trying to extort Fox, IFC, Nat Geo, and ABC next, but it is unknown whether they may be in the process of trying to extort other studios and networks.
+The hackers had previously unsuccessfully tried to solicit extortion money from Larson Studios as well as Netflix to not release “Orange Is the New Black,” and may have used the release of the entire season this weekend as a way to pressure others to pay up.
+</text>

@@ -1,0 +1,21 @@
+<title>Ransomware steals 8 years of data from Texas police department | CSO Online</title>
+<source> http://www.csoonline.com/article/3163045/security/ransomware-steals-8-years-of-data-from-texas-police-department.html </source>
+<date> 2017_01_31 </date>
+<text>
+It is suspected that Ukrainian-based hackers took the Cockrell Hill Police Department's server for ransom last month, resulting in the loss of video evidence.
+The police chief decided not to pay the ransom and instead had the server wiped, according to WFAA in Texas.
+The television station reported that the police chief does not believe this was a targeted attack by terrorists.
+Cybercriminals are thought to have casted a wide net with spam and an unsuspecting police department employee invited the malware in upon clicking on a link.
+According to Acronis, the latest update of the Locky crypto-ransomware variant, Osiris, is behind this attack.
+Acronis’ New Generation technology that proactively prevents zero-day infections, discovered this new mutation.
+It currently bypasses all (to our best knowledge) antivirus/anti-malware software, including Windows Defender.
+[ Learn about top security certifications: Who they're for, what they cost, and which you need.
+Accoridng to a press release, once the Cockrell Hill Police Department became aware that files on the server had been corrupted by a computer virus, they immediately disconnected the server and all computers from the internet and all state database systems and were able to contain the virus.
+The virus had been introduced onto the network from a spam email that had come from a cloned email address imitating a department issued email address.
+An internet webpage showed that if the police department paid $4,000 in Bitcoin, then the police department's online contents would be released.
+The FBI Cybercrimes unit recommended that the police department isolate and wipe the virus from the servers.
+This virus affected all Microsoft Office Suite documents, such as Word documents and Excel files.
+In addition, all body camera video, some in-car video, some in-house surveillance video, and some photographs that were stored on the server were corrupted and were lost, the police department stated in its release.
+Files that were affected did go back to 2009, however hard copies of all documents and the vast majority of the videos and photographs are still in the possession of the Police Department on CD or DVD.
+It is unknown at this time how many total digital copies of documents were lost, as it is also unknown how many videos or photographs that could have assisted newer cases will not be available, although the number of affected prosecutions should remain relatively small, the press release said.
+</text>

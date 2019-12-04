@@ -1,0 +1,17 @@
+<title> Teenager Arrested in Austria for Spreading Philadelphia Ransomware  </title>
+<source> https://www.bleepingcomputer.com/news/security/teenager-arrested-in-austria-for-spreading-philadelphia-ransomware/ </source>
+<date> 2017_04_06 </date>
+<text>
+Austrian police arrested a 19-year-old teenager from Linz for infecting the network of a local company with the Philadelphia ransomware.
+The incident in question took place last year and targeted an unnamed company based in Linz. The attacker locked the company's servers, including its production database.
+The attacker asked for $400 to unlock the company's systems, but the victim refused and instead recovered its data via older backups.
+Attack traced back to Linz teenager
+The company filed a criminal complaint with the Austrian Federal Criminal Police Office (Bundeskriminalamt, or BK), claiming damages of €3,000 due to production losses.
+An investigation by Austrian police's SOKO Clavis unit tracked down the attack to a Linz teenager. Authorities searched the suspect's homes, one in Linz, and one near Vienna, where he moved.
+Police arrested the young man, who was later released and is now under an official investigation. According to a BK spokesperson, the teenager denied all accusations.
+Teenager bought ransomware off the Dark Web
+Investigators believe the suspect bought the Philadelphia ransomware off the Dark Web. The ransomware is currently on sale on the AlphaBay Dark Web marketplace starting with $389.
+The ransomware appeared in September 2016 and was based on the Stampado ransomware. Emsisoft released a free decrypter for Philadelphia a day after the ransomware first appeared.
+According to a Forcepoint report published today, Philadelphia is also the tool of choice for ransomware attacks against the healthcare sector.
+Austrian police are also investigating (cached mirror) another ransomware attack that targeted an Austrian hotel. In late January, a ransomware attack at an Austrian hotel affected the electronic door locking system at an Austrian hotel. At the time of publishing Bleeping Computer could not confirm with Austrian police that this was the same attack they started investigating in mid-March.
+</text>

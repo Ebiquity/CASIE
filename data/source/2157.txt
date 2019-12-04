@@ -1,0 +1,20 @@
+<title>Cyber attack hits 26,000 Debenhams Flowers customers</title>
+<source> http://news.sky.com/story/cyberattack-hits-26000-debenhams-flowers-customers-10863724 </source>
+<date> 2017_05_08 </date>
+<text>
+A cyber attack has compromised the personal data of up to 26,000 Debenhams customers.
+The breach, which is understood to have been malware-based, targeted the online portal for the retailer's florist arm, Debenhams Flowers.
+Debenhams has stressed that the site is operated by Ecomnova, a third-party supplier, and that customers of other services have not been affected.
+Ecomnova also operates Debenhams' websites for hampers, personalised gifts and wines. While all four sites have been suspended, the retailer has not announced whether the others were also breached.
+Debenhams confirmed to Sky News that customer payment details, names and addresses were accessed or stolen during the attack.
+In a statement the company stressed that it was only the Ecomnova-run site that had been compromised, and that customers of its main website Debenhams.com "can be confident they are unaffected by this attack".
+"All affected customers have been contacted by Debenhams to inform them of the incident," the firm told Sky News.
+"We are working with Ecomnova to ask the banks of those affected to block payment cards of those customers affected and issue customers with new cards."
+Debenhams said the incident had been reported to the Information Commissioner's Office (ICO), the UK's independent body for upholding the Data Protection Act.
+Following a cyber attack in October 2015, the ICO fined TalkTalk a record £400,000 after 15,656 individuals' bank account details and sort codes were stolen.
+An ICO spokesperson said it was aware of the "potential incident" involving Debenhams Flowers and that enquiries were being made.
+"Businesses and organisations are required under the Data Protection Act to keep people's personal data safe and secure," the spokesperson said.
+Debenhams chief executive Sergio Bucher said: "As soon as we were informed that there had been a cyber attack, we suspended the Debenhams Flowers website and commenced a full investigation.
+"We are very sorry that customers have been affected by this incident and we are doing everything we can to provide advice to affected customers and reduce their risk."
+Ecomnova did not immediately respond to Sky News for comment.
+</text>

@@ -1,0 +1,14 @@
+<title>No, you can’t get  Verizon Unlimited free for 12 months – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/02/14/no-you-cant-get-verizon-unlimited-free-for-12-months/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=564efc4ee7-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-564efc4ee7-455160889 </source>
+<date> 2017_02_15 </date>
+<text>
+The new unlimited data plan from Verizon isn’t bad.
+Following a couple of Superbowl ads from competitors Sprint and T-Mobile that made fun of it for the taxes, fees, rates, and lack of unlimited data it inflicts on its customers, Verizon gave up and joined the unlimited data party with an $80 plan (on down to $45 for each of four lines: here are the details).
+Since last week, when the new unlimited plan was announced, various fake Verizon Unlimited Twitter accounts have appeared, and phishers have likewise been sending out bogus offers to upgrade.
+All you have to do is retweet the offer, or click and go fill in your details.
+Product Reviews captured one fake Twitter account that was offering Verizon Unlimited “FREE for 12 months” in exchange for retweets.
+The @VZUnlimited account, which wasn’t verified but bore Verizon’s logo and was named Verizon Unlimited, has since been suspended, as have other scam accounts.
+Verizon has been warning customers about a variety of phishing email scams, providing a list of scam samples that goes back to 2014.
+The most recent addition to that list was a phishing message dated this past Sunday.
+Coming from an email account name of “Verizon Online”, the message told recipients that Verizon would be replacing its “Classic” version of email service with a new, updated version as of Monday.
+</text>

@@ -1,0 +1,24 @@
+<title>Rise in hospital cyber attack reports - BBC News</title>
+<source> http://www.bbc.com/news/uk-england-oxfordshire-39556062 </source>
+<date> 2017_04_11 </date>
+<text>
+NHS hospital trusts in England reported 55 cyber attacks in 2016, according to data obtained by the BBC.
+The figures come from NHS Digital, which oversees cyber security, and show an increase on 16 attacks in 2015.
+NHS Digital said the figures showed a "rise in reporting, not necessarily a rise in cyber attacks".
+But Oliver Farnan, from the Oxford Cyber Security Centre, said ransomware attacks had become more common.
+'The risk is going to increase'
+Ransomware is software that locks computer systems and then demands a ransom to unlock the data.
+Oxford University Hospitals NHS Foundation Trust (OUH) repelled five ransomware attacks in 2016.
+"That is something a number of hospitals have seen and is potentially quite worrying," said Dr Chris Bunch from OUH.
+He added: "Across the health service we are still to a very large extent paper-based... and as we move increasingly towards digital records the risk is going to increase."
+Leeds Teaching Hospitals NHS Trust reported four ransomware attacks in 2016, and University Hospitals Bristol NHS Foundation Trust and Kings College Hospital NHS Foundation Trust sustained three ransomware attacks each last year.
+No patient data was lost in any of the attacks on the trusts and a spokesperson for Kings College Hospitals Trust said it had a cyber security response plan that it continually reviewed and monitored.
+Oliver Farnan from the Oxford Cyber Security Centre, said it was hard to know if enough money was being spent on security in the NHS.
+"Money is only really spent on security once everything else is up and running and in place... it always comes second," he said.
+But David Emm, principal security researcher at internet security firm Kaspersky Lab, said basic steps such as backing up data could make a difference.
+"Ransomware is a very blunt instrument, if you have a back-up of data then you are not in a position where people can extort money in that way," he said.
+However, Mr Emm said public bodies faced specific challenges, and added that money was an issue.
+"They have lots of people accessing the systems, there is lots of data moving in and out of the organisation, that does actually make it harder to secure that information," he said.
+NHS Digital said it had established CareCERT which issues notices about the national threat level and publishes advice on good practice.
+It said its launch in October 2015 has contributed to the increase in the reporting of cyber attacks, and that more than 100 organisations had received on-site assessments to improve security. 
+</text>

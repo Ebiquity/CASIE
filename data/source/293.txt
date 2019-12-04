@@ -1,0 +1,29 @@
+<title>Rsync errors lead to data breach at Canadian ISP, KWIC Internet | CSO Online</title>
+<source> http://www.csoonline.com/article/3159667/security/rsync-errors-lead-to-data-breach-at-canadian-isp-kwic-internet.html </source>
+<date> 2017_01_20 </date>
+<text>
+For those unfamiliar with the tool, Rsync (remote sync) is commonly used by hosting providers, ISPs, and IT departments to backup data between servers.
+The ISP in question, KWIC Internet in Simcoe, Ontario, fixed the Rsync problems after being notified by Salted Hash, but it isn’t clear how long the company’s customers were exposed.
+Via email, Vickery shared his latest findings with Salted Hash last week.
+[ Learn about top security certifications: Who they're for, what they cost, and which you need.
+Initially, Vickery discovered databases belonging to Annex Business Media, a publishing firm with offices in Simcoe and Aurora, Ontario.
+One of the exposed Annex databases stood out to him, as it contained the data from the 2015 Ashley Madison data breach.
+The other databases contained customer information (names, email addresses, etc.)
+Salted Hash reached out to Annex Business Media and asked about the Ashley Madison records, as well as to inform them about the more recent security problems, but the company didn’t respond to questions.
+Additional digging led Vickery to discover that Annex was just one part of a larger data breach, one that affected all of KWIC Internet's customers.
+“I quickly realized that this one is going to be a real mess for someone to clean up and quite a headache to determine all the affected parties,” Vickery told Salted Hash.
+In all, there were terabytes of KWIC data exposed by the breach.
+The information inside the leaked databases included credit card details, email addresses, passwords, names, home and business addresses, phone numbers, email backups, VPN details and credentials, internal KWIC backups, and more.
+The KWIC archives also included a common PHP shell named r57, and a PHP-based DDoS tool, suggesting that the company had been hacked at some point prior to leaking their backups to the public.
+“There are dozens of SQL database backup files and thousands of email backup directories containing everything from internal KWIC staff login credentials to police warrants for ISP subscriber information,” Vickery said.
+Other customers exposed by the KWIC data breach include at least one law firm, Norfolk County (norfolkcounty.ca), United Way (unitedwayhn.on.ca), and Greenfield Dental Health Group (greenfielddentistry.ca).
+In March of 2016, Malwarebytes researcher Jérôme Segura discovered a KWIC customer, Norfolk General Hospital, had a compromised Joomla install that was being used to distribute Ransomware.
+When Segura reached out to contact the hospital about the incident, they didn’t respond right away because the notification was viewed as a sales pitch.
+KWIC thought a second Malwarebytes notification was a Phishing attack.
+There are a number of unknowns connected to this incident, including the root cause, the number of people and businesses affected, and again - the length of time the data remained exposed to the public.
+Other questions focus on the PHP shell scripts and DDoS tools, why were they there?
+KWIC was contacted immediately after Salted Hash was informed about the data breach.
+It took multiple attempts, as the company doesn't have phone support after 8:00 p.m. on weekdays, 3:00 p.m. on Saturdays (they're closed Sunday), but KWIC eventually responded via email.
+Twenty-four hours after being notified, the company stated the Rsync issues were fixed,  However, they haven't answered any of the other follow-up questions asked by Salted Hash.
+On Tuesday, via email, the company said an audit was underway and affected customers would be notified once it is complete.
+</text>

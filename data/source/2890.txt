@@ -1,0 +1,21 @@
+<title>Cyber extortionists target North American companies - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/06/16/business-cyber-extortion/ </source>
+<date> 2017_06_16 </date>
+<text>
+A group of financially motivated hackers is targeting networks and systems of North American companies, threatening to leak the stolen information and cripple the company by disrupting their networks if they don’t pay a hefty ransom.
+The group, dubbed FIN10 by FireEye researchers, first gets access to the target companies’ systems through spear-phishing (and possibly other means), then uses publicly available software, scripts and techniques to gain a foothold into victims’ networks.
+They use Meterpreter or the SplinterRAT to establish the initial foothold within victim environments (and later a permanent backdoor), then custom PowerShell-based utilities, the pen-testing tool PowerShell Empire, and scheduled tasks to achieve persistence. 
+“We have also observed FIN10 using PowerShell to load Metasploit Meterpreter stagers into memory,” the researchers noted.
+The group leverages Windows Remote Desktop Protocol (RDP) and single-factor protected VPN to access various systems within the environment. Finally, they  deploy destructive batch scripts intended to delete critical system files and shutdown network systems, in order to disrupt the normal operations of those systems.
+“In all but one targeted intrusion we have attributed to FIN10, the attacker(s) demanded a variable sum payable in Bitcoin for the non-release of sensitive data obtained during network reconnaissance stages,” the researchers say. They requested sum varies between 100 to 500 Bitcoin.
+If the ransom isn’t paid, they publish the stolen data on Pastebin-type sites. The researchers do not mention if any of the companies refused to pay and ended up having their systems and networks disrupted.
+For the time being, the group seems to have concentrated on hitting companies in North America, predominately in Canada. They’ve also concentrated on two types of businesses: mining companies and casinos. Still, it’s possible that they’ve targeted companies in other industries, or will do so in the future.
+FIN10 sends the extortion emails to staff and board members of the victim organizations, and are also known to contact bloggers and local journalists to inform them about the breach, likely in an attempt to pressure affected organizations into paying the ransom.
+Finally, even though they sign their emails with monikers used by Russian and Serbian hackers (“Angels_Of_Truth,” “Tesla Team,” Anonymous Threat Agent”), the quality of the group’s English, the low quality of their Russian, and inconsistencies in tradecraft all point away from these particular individuals or groups.
+“Emphasis in regional targeting of North American-based organizations could possibly suggest the attacker(s) familiarity with the region,” the researchers noted.
+They also point out that the “relative degree of operational success enjoyed by FIN10 makes it highly probable the group will continue to conduct similar extortion- based campaigns at least in the near term.” 
+Companies that have been received a similar ransom demand are advised to move fast to confirm that the breach has actually happened, to determine the scope of the breach, to contain the attack, to boot the attackers from their networks, and make sure they can’t come back.
+Those last two steps are, perhaps, better done after the company definitely decides that they are ready to deal with the consequences of the attackers’ anger.
+Calling in law enforcement and legal counsel for advice on what to do is also a good idea. “Understand that paying the ransom may be the right option, but there are no guarantees the attacker(s) won’t come back for more money or simply leak the data anyway. Include experts in the decision-making process and understand the risks associated with all options,” the researchers advise.
+Companies that have yet to be targeted by these or other hackers would do well to improve their security posture, but also to prepare for data breaches by tightening access to their backup environment, and knowing exactly who will be called in to help in case of a breach.
+</text>

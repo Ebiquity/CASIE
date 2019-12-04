@@ -1,0 +1,21 @@
+<title>Ransom demand with county cyber attack about $30,000</title>
+<source> http://www.newarkadvocate.com/story/news/local/2017/03/13/ransom-demand-county-cyber-attack-30000/99130064/ </source>
+<date> 2017_03_14 </date>
+<text>
+The Advocate sought the ransom demand amount with a public records request of the Licking County Commissioners.
+Licking County Prosecutor Bill Hayes provided The Advocate the information Monday.
+A computer virus discovered Jan 31 caused Licking County government to shut down about 1,000 computers and its phone systems to prevent the virus from spreading, protect data and preserve evidence.
+The FBI and Bureau of Criminal Investigation were notified.
+County officials chose not to pay the ransom, and recovered data from its backups.
+By Feb 16, most of the county system was back in service.
+Licking County Commissioner Tim Bubb said the price per bitcoin was about $1,100 when the computers were hacked, making the demand about $30,000.
+As of 4 p.m. Monday, the value of one bitcoin was $1,235.
+The computer hack cost the county more than $50,000, Bubb said, which includes insurance and overtime, but he does not regret refusing to pay the demand.
+"I'm just kind of hard-nosed about that," Bubb said.
+"I feel we were violated by people with criminal intent, and we don't owe them anything."
+Bubb said people have asked him why the county didn't just pay the demand, but Bubb said it may not have been that simple.
+"There was no guarantee that would have been the final price, or that they would have acted honorably.
+There's a certain amount of unknown that would make you uneasy."
+Sylint, a cyber security firm assisting the county, was set to notify the state that the county's computer system was virus-free, Bubb said.
+The state asked for the assurance before it hooked back up with the county.
+</text>

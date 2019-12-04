@@ -1,0 +1,14 @@
+<title> New GandCrab ransomware variant hammers Florida school district  </title>
+<source> https://www.csoonline.com/article/3305950/security/new-gandcrab-ransomware-variant-hammers-florida-school-district.html </source>
+<date> 2018_09_16 </date>
+<text>
+A GandCrab ransomware attack, combined with a Comcast outage, caused a Florida Keys school district’s computer system to be down for a week.
+The computer system in a Florida Keys school district were down for a week due to a ransomware attack. The problems were made worse when just as the district was bringing up some administration and school computers, Comcast suffered a day-long outage due to a cut fiber.
+Monroe County School District was the victim of a GandCrab ransomware attack. GandCrab, first spotted in January, was dubbed the leading ransomware threat in July. A school district employee working on payroll discovered undisclosed problems on Sunday, Sept 9, and submitted an IT ticket. IT contacted Symantec and was advised to bring it all down and secure the system.
+Pat Lefere, executive director of operations and planning for the district, told the Miami Herald, “This particular one was a variant that Symantec hadn’t seen before. They took all of our files and created a patch for us. It was applied to all servers before bringing them back up.”
+Symantec shows the latest detected GandCrab ransomware discovered on Wednesday, Sept 12, but it may not be the variant that hit the Florida school district, as the IT department thought it had fixed the problem on Tuesday morning. Yet upon bringing the system back up, they saw the same issues as when the ransomware was discovered on Sunday and shut the system down again.
+“We haven’t had any access to data that was inappropriate nor have we had lost data,” district superintendent Mark Porter later told the Miami Herald. “The bad news is we haven’t had the type of access our employees are used to.” The cyber attack did not affect payroll, but it did affect delivery of students’ mid-quarter progress reports.
+Monroe County School District claimed there were no ransom demands, but since ransomware locks up a system and demands payment to retrieve a decryption key for encrypted files, perhaps the district meant it didn’t cave to extortion? Lefere said, “That only happens for folks that don’t back up their stuff and are so desperate. We recover our files from the last backup.”
+The district’s website was back up by Wednesday, but the computer systems remained partially down on Thursday. Lefere said the district rebuilt “each server from scratch to make sure they’re clean.”
+</text>
+

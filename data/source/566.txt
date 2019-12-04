@@ -1,0 +1,20 @@
+<title>Mirai Gets a Windows Version to Boost Distribution Efforts</title>
+<source> https://www.bleepingcomputer.com/news/security/mirai-gets-a-windows-version-to-boost-distribution-efforts/ </source>
+<date> 2017_02_09 </date>
+<text>
+The Mirai malware was initially developed in late 2015 and early 2016, and only became a massive threat in the summer and autumn of 2016, when it spread to hundreds of thousands of routers and DVRs (deployed with smart cameras and CCTV systems).
+After crooks used a botnet of Mirai-infected devices to launch DDoS attacks on the KrebsOnSecurity blog, increased attention from law enforcement forced the malware's author to dump the Mirai source code online.
+This move resulted in tens of Mirai variants popping up everywhere, which in turn helped hide the author's tracks, or so the author thought, until this Brian Krebs exposé.
+One of the recent developments on the Mirai malware front was discovered by Russian cyber-security firm Dr.Web, whose experts came across a Windows trojan built with the sole purpose of helping Mirai spread to even more devices.
+Subsequent versions added the option to launch these password guessing attacks via SSH ports.
+In all of this process, the Mirai self-spreading behavior was contained to devices running various versions of the Linux operating systems only.
+The trojan discovered by Dr.Web (detected as Trojan.Mirai.1) helps crooks launch the password-guessing attacks from Windows devices, even if Mirai itself (detected as Linux.Mirai) won't be able to run on Windows.
+If the Windows trojan infects another Windows device, then that device is used as another point to launch the password-guessing attacks.
+Under the hood, the Mirai Windows trojan works by infecting a device, where it contacts an online C&C server and downloads a list of IP addresses.
+Unlike the Linux version, the Windows trojan targets more ports.
+When the Windows trojan manages to infect a new device, if the underlying platform runs Linux, it will execute a series of commands, which result in the creation of a new Mirai DDoS bot.
+If the Windows trojan spreads to a new Windows device, it will drop a copy of itself there and continue to target new devices.
+Additionally, researchers say that when the trojan infects a database, such as MSSQL and MySQL, the commands it receives tell it to create a new user with admin privileges, which attackers most likely use to steal data from infected devices.
+The only case where the trojan doesn't do anything is if it manages to connect via RDP, in which case it just waits, most likely for a human operator to take control of the infected machine.
+Dr.Web discovered the Mirai Windows version only this month, so it is currently unknown how this new development will affect the Mirai ecosystem.
+</text>

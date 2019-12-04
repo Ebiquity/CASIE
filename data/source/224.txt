@@ -1,0 +1,10 @@
+<title>Significant decrease in Locky ransomware attacks - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/17/locky-ransomware-attacks/ </source>
+<date> 2017_01_17 </date>
+<text>
+Locky ransomware attacks have dramatically decreased during December 2016, according to Check Point.
+Locky, which uses massive spam campaigns as a major distribution vector, only surfaced in 2016 but has rapidly become one of the most popular tools for cybercriminals, part of a growing trend for ransomware cyberattacks that encrypt data on the target machine and demand payment in return for decrypting it.
+In December, researchers recorded an 81% drop in the average number of Locky infections per week, compared with the weekly averages of October and November causing it to drop out of the top 10 global malware families for the first time since June 2016.
+Overall, they tracked an 8% decrease in the number of recognized malware attacks on organizations in December, which could be attributed to a Christmas holiday slowdown.
+Research also revealed the most prevalent mobile malware during December 2016, and once again attacks against Android devices significantly more common than iOS.
+</text>

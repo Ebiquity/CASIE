@@ -1,0 +1,17 @@
+<title> Microsoft patches RDP vulnerability. Update now!  </title>
+<source> https://nakedsecurity.sophos.com/2018/03/15/microsoft-patches-rdp-vulnerability-update-now/ </source>
+<date> 2018_03_15 </date>
+<text>
+As part of its monthly Update Tuesday, Microsoft announced this week that they’ve released a preliminary fix for a vulnerability rated important, and present in all supported versions of Windows in circulation (basically any client or server version of Windows from 2008 onward).
+The flaw affects the Credential Security Support Provider (CredSSP) protocol, which is used in all instances of Windows’ Remote Desktop Protocol (RDP) and Remote Management (WinRM).
+The vulnerability, CVE-2018-0886, could allow remote code execution via a physical or wifi-based Man-in-the-Middle attack, where the attacker steals session data, including local user credentials, during the CredSSP authentication process.
+Although Microsoft says the bug has not yet been exploited, it could cause serious damage if left unpatched.
+RDP is widely used in enterprise environments and an attacker who successfully exploits this bug could use it to gain a foothold from which to pivot and escalate. It’s also popular with small businesses who outsource their IT administration and, needless to say, an attacker with an admin account has all the aces.
+Security researchers at Preempt say they discovered and disclosed this vulnerability to Microsoft last August, and Microsoft has been working since then to create the patch released this week.
+Now it’s out there, it’s a race against time to make sure you aren’t an easy target for an attacker who wants to try and kick the tires on this vulnerability.
+Obviously, patch as soon as possible and please follow Microsoft’s guidance carefully:
+    Mitigation consists of installing the update on all eligible client and server operating systems and then using included Group Policy settings or registry-based equivalents to manage the setting options on the client and server computers. We recommend that administrators apply the policy and set it to “Force updated clients” or “Mitigated” on client and server computers as soon as possible.  These changes will require a reboot of the affected systems.
+    Pay close attention to Group Policy or registry settings pairs that result in “Blocked” interactions between clients and servers in the compatibility table later in this article.
+Both the “Force updated clients” and “Mitigated” settings prevent RDP clients from falling back to insecure versions of CredSSP. The “Force updated clients” setting will not allow services that use CredSSP to accept unpatched clients but “Mitigated” will.
+</text>
+

@@ -1,0 +1,18 @@
+<title> Hit by ransomware? This new free decryption tool for GandCrab might help  </title>
+<source> https://www.zdnet.com/article/hit-by-ransomware-this-new-free-decryption-tool-for-gandcrab-might-help/ </source>
+<date> 2018_02_28 </date>
+<text>
+Victims of one the newest - and most unusual - families of ransomware could now be able to recover their files without giving into the demands of criminals because decryption tools have been released for free.
+A GandCrab ransomware decryption tool has been released as part of the No More Ransom initiative, following a combined operation by Bitdefender, the Romanian Police, the Directorate for Investigating Organized Crime and Terrorism (DIICOT) and Europol.
+GandGrab first appeared in January and has already claimed over 53,000 victims around the world, making it what Europol describe as "one of the most aggressive forms of ransomware so far this year" costing each victim anything from a few hundred dollars to a few thousand.
+This variant of the file-locking malware is unusual in a number of ways: not only is it spread via the use of exploit kits - a tactic usually reserved for the likes of trojans and cryptocurrency miners - it is also the first form of ransomware to ask for payments in Dash. Most other forms of ransomware demand the ransom be paid in bitcoin or Monero.
+The spread of GandGrab has also been helped along by a cybercrime-as-a-service scheme which offers a toolkit for deploying the ransomware in exchange for wannabee crooks giving the original authors a cut of their profits.
+It's unknown which specific cybercriminal operation is behind GandGrab. However, the ransomware is advertised on Russian hacking forums, with the authors explicitly instructing those who become a part of the partnership scheme not to target Russia or any other country in the Commonwealth of Independent States of former Soviet republics.
+But regardless of who might be distributing GandCrab, now victims don't need to pay a ransom to those looking to cash in on it, because the decryption tool is available for free from the No More Ransom portal and from Bitdefender.
+"Ransomware has become a billion-dollar cash cow for malware authors, and GandCrab is one of the highest bidders," said Catalin Cosoi, senior director of the investigation and forensics unit at Bitdefender.
+In order to help prevent falling victim to ransomware, Bitdefender recommends regularly back-up sensitive data and to be wary of suspicious email attachments and malicious links.
+Launched in 2016, the No More Ransom scheme brings law enforcement and private industry together in the fight against cybercrime and has helped thousands of ransomware victims retrieve their encrypted files without lining the pockets of crooks.
+The portal is available in 29 languages and since its launch has has received over 1.6 million visitors from a total of 180 countries.
+The release of GandCrab decryption tools comes shortly after an operation involving Europol, the Belgian National Police and Kaspersky Lab led to the release of free decryption tools for Cryakl ransomware.
+</text>
+

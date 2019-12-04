@@ -1,0 +1,26 @@
+<title>
+<source> https://www.zscaler.com/blogs/research/android-marcher-posing-super-mario-run </source>
+<date> 2017_01_12 </date>
+<text>
+Check your security with our instant risk assessment, Security Preview
+Get insight into the most topical issues around the threat landscape, cloud security, and business transformation.
+See how Zscaler enables the secure transformation to the cloud.
+Zscaler is the preferred choice of leading organizations.
+Watch how Jabil achieved security at scale with Zscaler.
+Nintendo recently released Super Mario Run for the iOS platform.
+In no time, the game became a sensational hit on the iTunes store.
+However, there is not yet an Android version and there has been no official news on such a release.
+Attackers are taking advantage of the game's popularity, spreading malware posing as an Android version of Super Mario Run.
+The ThreatLabZ team wrote about a similar scam that occurred during the release of another wildly popular Niantic game, Pokemon GO.
+Like that scam, the new Android Marcher Trojan is disguised as the Super Mario Run app and attempts to trick users with fake finance apps and a credit card page in an effort to capture banking details.
+Once the user's mobile device has been infected, the malware waits for victims to open one of its targeted apps and then presents the fake overlay page asking for banking details.
+Unsuspecting victims will provide the details that will be harvested and sent out to to the malware's command and control (C&C) server.
+We have seen this malware evolve and take advantage of recent trends in order to target a large number of users.
+We have covered similar campaigns in the past related to Marcher malware here and here.
+Technical details
+In this new strain, the Marcher malware is disguised as the Super Mario Run app for Android.
+Knowing that Android users are eagerly awaiting this game, the malware will attempt to present a fake web page promoting its release.
+In previous variants of Marcher, we observed this malware family targeting well-known Australian, UK, and French banks.
+The current version is targeting account management apps as well as well-known banks.
+Like previous Marcher variants, the current version also presents fake credit card pages once an infected victim opens the Google Play store.
+</text>

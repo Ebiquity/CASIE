@@ -1,0 +1,38 @@
+<title> UConn Health Among the Latest Phishing Victims </title>
+<source> https://www.bankinfosecurity.com/uconn-health-among-latest-apparent-phishing-victims-a-12048 </source>
+<date> 2019_02_25 </date>
+<text>
+Phishing and other hacking incidents have led to several recently reported large health data breaches, including one that UConn Health reports affected 326,000 individuals.
+In describing a phishing attack, UConn Health says that on Dec 24, 2018, it determined that an unauthorized third party illegally accessed a limited number of employee email accounts containing patient information, including some individuals' names, dates of birth, addresses and limited medical information, such as billing and appointment information. The accounts also contained the Social Security numbers of some individuals.
+Several other healthcare entities also have recently reported to federal regulators data breaches involving apparent phishing and other email-related attacks.
+"All of these incidents speak to the rampant attacks we are seeing across healthcare, and yet organizations are still not investing enough in protection or detection," says Mac McMillan, CEO of security consulting firm CynergisTek. 
+
+UConn Health, an academic medical center, says in a media statement that it identified approximately 326,000 potentially impacted individuals whose personal information was contained in the compromised email accounts. For approximately 1,500 of these individuals, this information included Social Security numbers.
+"It is important to note that, at this point, UConn Health does not know for certain if any personal information was ever viewed or acquired by the unauthorized party, and is not aware of any instances of fraud or identity theft as a result of this incident," the statement notes. "The incident had no impact on UConn Health's computer networks or electronic medical record systems."
+UConn Health is offering prepaid identity theft protection services to individuals whose Social Security numbers may be impacted. The organization says it has notified law enforcement officials and retained a forensics firm to investigate the matter.
+
+Once the U.S.Department of Health and Human Services confirms the details, the attack on UConn Health could rank as the second largest health data breach reported so far this year, based on a snapshot of its HIPAA Breach Reporting Tool website on Monday.
+The largest health data breach revealed so far this year, but not yet added to the tally, affected University of Washington Medicine. UW Medicine says a misconfigured database left patient data exposed on the internet for several weeks last December, resulting in a breach affecting 974,000 individuals.
+
+Several other phishing and hacking incidents have been added to the HHS "wall of shame" tally in recent weeks.
+Among those is a hacking incident impacting 40,000 individuals reported on Feb 1 by Minnesota-based Reproductive Medicine and Infertility Associates. In a statement, the organization notes that on Dec 5, 2018, it discovered it had been the target of a "criminal malware attack."
+An RMIA practice manager tells Information Security Media Group that independent computer forensics experts removed the malware, but did not definitively determine how the malware infection was launched. The practice suspects the malware was likely embedded in an email attachment, he says.
+RMIA's statement notes that while the investigation did not identify any evidence of unauthorized access to anyone's personal information, "we unfortunately could not completely rule out the possibility that patients' personal information, including name, address, date of birth, health insurance information, limited treatment information and, for donors only, Social Security number, may have been accessible."
+In the aftermath of the incident, RMIA says it's adding another firewall, requiring changes to user credentials/passwords, implementing dual-factor authentication and providing additional staff training regarding information security."
+
+Also reporting a hacking incident in recent weeks was Charleston, S.C.-based Roper St.Francis Healthcare, which operates several hospitals in the region. The attack was reported as impacting nearly 35,300 individuals.
+In a Jan 29 statement, the entity says that on Nov 30, 2018, it learned that an unauthorized actor may have gained access to some of its employees' email accounts between Nov 15 and Dec 1, 2018 , "Our investigation determined that some patient information may have been contained in the email accounts, patients' names, medical record numbers, information about services they received from Roper St.Francis, health insurance information, and, in some cases, Social Security numbers and financial information," the statement says.
+For those patients whose Social Security number was potentially exposed, the organization is offering prepaid credit monitoring and identity protection services.
+"To help prevent something like this from happening again, we are continuing education with our staff on email protection and enhancing our email security," Roper St. Francis says.
+
+As phishing continues to menace healthcare entities, covered entities and business associates need to keep up with their defenses, some experts note.
+"Phishing techniques have become more sophisticated than in the past," note Kate Borten, president of security and privacy consulting firm The Marblehead Group. "Workforce training should include simulated phishing attacks to make people better prepared to recognize and thwart a real attack."
+To help mitigate breach risks, organizations should be deploying next-generation firewalls and multifactor authentication, plus employing advanced malware detection solutions, McMillan says.
+Too many organizations are overlooking the value of multifactor authentication, Borten adds.
+"Two-factor user authentication was intended to be required over the internet and public networks in the proposed HIPAA Security Rule," she notes. "Unfortunately, since that requirement was dropped in the final rule, healthcare is lagging on multifactor authentication, which is easier now than ever to implement."
+But McMillan advises healthcare organizations to avoid using multifactor authentication systems that use SMS to transmit a one-time password because those messages can be intercepted. "The software- or hardware-based solutions are preferred," McMillan says.
+So what other technologies or best practices should covered entities and business associates consider to prevent falling victim to phishing and other attacks?
+"Unfortunately we haven't seen any silver bullets here yet, but one thing we might want to begin exploring is just what an attacker has access to when they compromise a user's account," McMillan notes.
+"All too often, we hear that the accounts compromised had incredibly large numbers of emails immediately accessible to the attacker. The question is, are their better ways to deal with retention that mitigate risk as well?"   
+</text>
+

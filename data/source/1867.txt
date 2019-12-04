@@ -1,0 +1,23 @@
+<title>R2Games compromised again, over one million accounts exposed | CSO Online</title>
+<source> http://www.csoonline.com/article/3192246/security/r2games-compromised-again-over-one-million-accounts-exposed.html </source>
+<date> 2017_04_25 </date>
+<text>
+Online gaming company Reality Squared Games (R2Games) has been compromised for the second time in two years, according to records obtained by the for-profit notification service LeakBase. The hacker who shared the data with LeakBase says the attack happened earlier this month.
+Headquartered in Shenzhen, China, R2Games operates a number of free-to-play, micropayment-driven games on iOS and Android, as well as modern browsers. The company currently supports 19 online games, and claims over 52 million players.
+In December of 2015, stretching into July of 2016, more than 22 million R2Games accounts were compromised, exposing IP addresses, easily cracked passwords, email addresses, and usernames.
+The company denied the breach reports, telling one customer that "R2Games is safe and secured, and far from being hacked."
+The hacker claims all forums were compromised, in addition to the Russian version of r2games.com.
+The latest record set includes usernames, passwords, email addresses, IP addresses, and other optional record fields, such as instant messenger IDs, birthday, and Facebook related details (ID, name, access token).
+LeakBase shared the most recent records with Troy Hunt, a security researcher and owner of the non-profit breach notification website "Have I Been Pwned?" (HIBP).
+Hunt checked the data by testing a small sample of email addresses and usernames against the password reset function on R2Games. Every address checked was confirmed as an existing account. From there, Hunt did some number crunching.
+There were 5,191,898 unique email addresses in the data shared by LeakBase. However, 3,379,071 of those email addresses were using mail.ar.r2games.com or mail.r2games.com; and another 789,361 looked generated, as they were all [number]@vk.com addresses.
+LeakBase speculates that the r2games.com addresses are the result of registrations from third-party services.
+After stripping the questionable addresses Hunt was left with 1,023,466 unique email addresses to load into HIBP. Of this set, 482,074 have been seen before in other breaches, leaving 541,392 new entries for his index – and new notifications for 1,105 subscribers.
+When asked about the passwords, Hunt told Salted Hash many of them are MD5 with no salt, but a large number of them have a hash corresponding to the password "admin" and a few hundred thousand others are using the plain text word "sync".
+"The observation I'd make here is that clearly, they don't seem to be learning from previous failures. The prior incident should really have been a wake-up call and to see a subsequent breach not that long after is worrying. Perhaps the prior denials are evidence that they just don't see the seriousness in security," Hunt said, when asked his opinion about the latest R2Games data breach.
+Salted Hash reached out to R2Games, but the company didn't respond to questions. Emails were sent to support, as well as recruiting and sales, on the off chance someone could direct them to the proper resources.
+For their part, LeakBase said since this data breach isn't in the public domain, they will not add the records to their service and it will not be searchable. However, they do plan to email impacted users and inform them of the incident.
+HIBP has been updated, and those changes are live now.
+If you're an R2Games player, it might be wise to change your password and make sure the old password isn't used on any other websites.
+Also, keep an eye out for gaming related offers and emails, as well as "notifications" from domains that aren't related to R2Games itself - as those could be scammers looking to cash-in on the breach. While the hacked data isn't public yet, there's nothing preventing the person who shared it with LeakBase from selling it or trading it.
+</text>

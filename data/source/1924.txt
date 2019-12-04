@@ -1,0 +1,15 @@
+<title>More LastPass flaws: researcher pokes holes in 2FA – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/04/26/more-lastpass-flaws-researcher-pokes-holes-in-2fa/ </source>
+<date> 2017_04_27 </date>
+<text>
+Recently we’ve been writing about LastPass more than seems healthy.
+March saw two rounds of serious flaws made public by Google’s Tavis Ormandy (quickly fixed), which seemed like a lot for a single week. Days ago, news emerged of a new issue (also fixed) in the company’s two-factor/two-step authentication (2FA) security.
+To coin a phrase, all serious flaws are serious – but some are more serious than others.
+This one matters for two reasons, only one of which will sound flippant: it wasn’t discovered by Tavis Ormandy, who at times has seemed to be writing a novella on flaw-hunting with the company’s name on it.
+Another researcher with a taste for LastPass, researcher Martin Vigo, uncovered the latest issue, and it’s the 2FA bit of the story that explains the angst.
+Two-factor authentication (a term that also refers to more convenient but less secure two-step verification) matters because it is the crown jewels of everyday security, especially for password managers such as LastPass.
+The flaws are explained by Vigo in a slightly confusing way (one compromise was subsequently shown not to be exploitable) but cover overlapping weaknesses that might under specific circumstances allow 2FA to be bypassed when using Google’s Authenticator and QR codes.
+Again a user being logged into LastPass at the time of an attack is entirely possible.
+Significantly, LastPass quickly stopped using the login hash (used to authenticate the master password without having to know it) to retrieve Authenticator’s QR codes, and now sets a Cross-Site Request Forgery (CSRF) token to plug another weakness.
+We still don’t know why LastPass has been plagued by so many issues in such a short space of time – perhaps it’s just a big-name target worth researching – but some of these weaknesses appear to be in its design, the result of decisions to do things in a certain way, probably some years in the past.
+</text>

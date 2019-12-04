@@ -1,0 +1,16 @@
+<title>The Locky Ransomware is Back and Still Adding OSIRIS to Encrypted Files</title>
+<source> https://www.bleepingcomputer.com/news/security/the-locky-ransomware-is-back-and-still-adding-osiris-to-encrypted-files/ </source>
+<date> 2017_04_24 </date>
+<text>
+After almost an almost non-existent presence in 2017 and a few weeks off, according to Malwarebytes security researcher S!Ri, Locky is back with a fresh wave of SPAM emails containing malicious docs. While it is not known what caused Locky's hiatus, if they plan on pushing the ransomware like they previously did, then we all need to pay close attention.
+This current wave of SPAM comes in the form of emails that pretend to be payment receipts with various subjects. According to an article by My Online Security, the email subjects include Receipt 435, Payment Receipt 2724, Payment-2677, Payment Receipt_739, and Payment#229, where the numbers change.
+These emails include a PDF attachment with a name like P72732.pdf. When these PDFs are opened, the target will be prompted to open an embedded Word document as shown below.
+If a user opens the file, the Word document will open and the target will be greeted with the typical Malicious word document prompt. That is the prompting to enable the macros by clicking on Enable Content in order to properly see the document.
+When the macros are enabled, the macros are currently downloading an encrypted Locky binary from http://uwdesign.com.br/9yg65, decrypting the file, saving it to %Temp%\redchip2.exe, and then executing the file to begin the encryption process. Redchip2.exe currently has a 7/55 detection on VirusTotal.
+Just like previous variants, Locky deletes Shadow Volume Copies using a Scheduled Task and appends the .OSIRIS extension to encrypted files. 
+While encrypting files it will routinely send status updates to the Command & Control servers located at 188.120.239.230/checkupdate and 80.85.158.212/checkupdate. When done it will display the ransom note to let the victim know that they have been infected.
+Unfortunately, at this time there is still no way to decrypt files encrypted by Locky.
+One of my client is infected by the original locky which the file extension name is .locky in March, 2017. That means locky never disappears.
+Are you sure it is the real Locky? Lots of spoofs, honestly have not seen the original extension distributed in a super long time. ID Ransomware can detect between the real and the fakes.
+True, it was the spam campaign that stopped. Some old locky files are still hosted on hacked server.
+</text>

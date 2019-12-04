@@ -1,0 +1,36 @@
+<title>Top 6 Types of Rogue Security Software – The Merkle</title>
+<source> https://themerkle.com/top-6-types-of-rogue-security-software/ </source>
+<date> 2017_01_23 </date>
+<text>
+In this day and age of online attacks, it becomes all the more important to protect one’s computer and other devices against the various threats.
+Criminals often try to bypass existing security solutions on the device in question, but they also distribute fake tools that allegedly prevent these attacks from happening.
+This trend is called “rogue security software,” and has been proven to be quite successful over the past few years.
+This rogue anti-spyware program is a clone of  the Total Virus Protection malware whose origin points to the Russian Federation.
+The software offers you an option to purchase a license in order to remove those programs when in fact the “infections” are critical system files.
+Many more clones of this software exist, and 2017 variants have been spotted in the wild already.
+ANG Antivirus only targets Microsoft Windows users, the good news is that it is not too harmful because it’s main goal is to scare you into buying a software license.
+However, some variants have proven to be more harmful and may even steal sensitive user information.
+Do not confuse this “tool” with the official Microsoft Security Essentials software, as they are nothing alike.
+Security Essentials 2010 is a malware strain first discovered in February of 2010.
+Its most powerful threat is how the malware prevents users from launching over 150 different programs, including most browsers and the Windows Command Prompt.
+Unlike ANG Antivirus, Security Essentials uses 3rd party trojans that disguise themselves as flash updates that are required to view online videos.
+Once baited, the trojan will install a number of malware including Security Essentials 2010.
+Similar to the previous scareware, this one will also prompt you to purchase a license to supposedly remove quite a few threats, all of which are obviously fake.
+Thankfully, this malware has not been reported of stealing personal information or any more sensitive info and is no longer an active threat.
+The funny part about this program is that it started as a legitimate anti-spam system that tried to automate the complaint process for email spam.
+The program would allow for a user to send a complaint about a spam email to the software.
+However, some say that the program collected the list of emails in order to sell it to other spammers as a fresh list of targets.
+It did not take long for this security tool to get shut down completely, which occurred in May of 2006.
+The company bailed after a thread popped up on a security forum accusing Blue Security of initiating a massive spam attack on it’s users, Blue Frog was gone one week later.
+Macintosh users are also in need of proper security tools to keep their computer safe from harm.
+Mac Defender tried to fill this need, even though its developers had less honorable intentions.
+It was the first major malware threat to MacOS, its object was to trick users into paying the license fee, ranging between US$59 and US$79.
+Moreover, the malware collected payment card information used for the license and would use that for further fraudulent purposes.
+Do not be fooled into thinking this is a software tool that will keep a computer safe from spyware.
+Instead, the Zinaps software wants to perform fake computer scans and trick users into buying a license.
+This is a very common theme among rogue security software, as most developers hope to make a lot of money by tempting users into paying for their useless creations.
+What makes this malware so dangerous is that Zinaps would edit the Windows Registry, ensuring the software runs as soon as the computer boots up.
+It also makes removing the software much harder and almost almost always leaves traces after its gone.
+This scareware rogue security program will not fix any issues related to Windows or otherwise.
+Once again, this malware wants to force users to buy a license, while not offering any help with real security issues whatsoever.
+</text>

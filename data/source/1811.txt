@@ -1,0 +1,12 @@
+<title>Dozen hotels in Eastern Carolina victims of lengthy cyber attack</title>
+<source> http://www.witn.com/content/news/Dozen-hotels-in-Eastern-Carolina-victims-of-lengthy-cyber-attack-419966913.html </source>
+<date> 2017_04_21 </date>
+<text>
+GREENVILLE, NC (WITN) - A dozen Eastern Carolina hotels are among the 1200 locations that were victims of a lengthy cyber attack last year.
+InterContinental Hotels Group says customer credit card information was stolen from franchised locations that include Holiday Inn, Holiday Inn Express, Candlewood Suites and Staybridge Suites.
+The hacking began on September 29th and continued at some locations for three months.
+Hackers used malware that searched for track data stored on magnetic stripes, which includes name, card number, expiration date and internal verification code, the company said.
+Those hotels in Eastern Carolina affected, and the dates of hacking were:
+Greenville - Holiday Inn at 203 Greenville Boulevard.  Hacked from September 29 to December 29.Havelock - Holiday Inn Express.  Hacked from September 29 to December 1.Jacksonville - Staybridge Suites on Cobia Court.  Hacked from September 29 to December 29.Morehead City - Holiday Inn Express.  Hacked from September 29 to November 4.Nags Head - Holiday Inn Express Oceanfront on South Virginia Dare Trail.  Hacked from September 29 to December 29.New Bern - Holiday Inn Express on Dr. Martin Luther King Jr. Boulevard.  Hacked from September 29 to December 12.New Bern - Candlewood Suites on Dr. Martin Luther King Jr. Bouvevard.  Hacked from September 29 to December 29.Plymouth - Holiday Inn Express.  Hacked from September 29 to December 29.Roanoke Rapids - Holiday Inn Express.  Hacked from September 29 to December 15.Wilson - Holiday Inn Express at I-95.  Hacked from September 29 to December 29.Wilson - Holiday Inn Express Downtown.  Hacked from September 29 to December 29.Wilson - Candlewood Suites.  Hacked from September 29 to October 17.
+IHG says it has since installed an encryption system that makes front desk payments more secure, while it is telling people who stayed at the hotels during that time that they should review their credit card statements for any fraudulent purchases.
+</text>

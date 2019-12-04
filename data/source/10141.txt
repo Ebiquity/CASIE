@@ -1,0 +1,17 @@
+<title> Here's every patch for KRACK Wi-Fi vulnerability available right now  </title>
+<source> https://www.zdnet.com/article/here-is-every-patch-for-krack-wi-fi-attack-available-right-now/ </source>
+<date> 2017_10_17 </date>
+<text>
+Vendors are reacting swiftly to a vulnerability that lets attackers eavesdrop on your network traffic.
+Monday morning was not a great time to be an IT admin, with the public release of a bug that effectively broke WPA2 wireless security.
+As reported previously by ZDNet, the bug, dubbed "KRACK" -- which stands for Key Reinstallation Attack -- is at heart a fundamental flaw in the way Wi-Fi Protected Access II (WPA2) operates.
+The security protocol, an upgrade from WEP, is used to protect and secure communications between everything from our routers, mobile devices, and Internet of Things (IoT) devices, but there is an issue in the system's four-way handshake that permits devices with a pre-shared password to join a network.
+According to security researcher and academic Mathy Vanhoef, who discovered the flaw, threat actors can leverage the vulnerability to decrypt traffic, hijack connections, perform man-in-the-middle attacks, and eavesdrop on communication sent from a WPA2-enabled device.
+US-CERT has known of the bug for some months and informed vendors ahead of the public disclosure to give them time to prepare patches and prevent the vulnerability from being exploited in the wild -- of which there are no current reports of this bug being harnessed by cyberattackers.
+The bug is present in WPA2's cryptographic nonce and can be utilized to dupe a connected party into reinstalling a key which is already in use. While the nonce is meant to prevent replay attacks, in this case, attackers are then given the opportunity to replay, decrypt, or forge packets.
+In general, Windows and newer versions of iOS are unaffected, but the bug can have a serious impact on Android 6.0 Marshmallow and newer.
+The attack could also be devastating for IoT devices, as vendors often fail to implement acceptable security standards or update systems in the supply chain, which has already led to millions of vulnerable and unpatched IoT devices being exposed for use by botnets.
+The vulnerability does not mean the world of WPA2 has come crumbling down, but it is up to vendors to mitigate the issues this may cause.
+In total, ten CVE numbers have been preserved to describe the vulnerability and its impact, and according to the US Department of Homeland Security (DHS), the main affected vendors are Aruba, Cisco, Espressif Systems, Fortinet, the FreeBSD Project, HostAP, Intel, Juniper Networks, Microchip Technology, Red Hat, Samsung, various units of Toshiba and Ubiquiti Networks.
+</text>
+

@@ -1,0 +1,13 @@
+<title> Iranian Hackers Have Set Up a News Outlet to Court Possible Targets, Security Firm Says   </title>
+<source> https://www.calcalistech.com/ctech/articles/0,7340,L-3726650,00.html </source>
+<date> 2017_12_05 </date>
+<text>
+Hacker group “Charming Kitten” used false identities to ferret out information, says Israel-based cybersecurity firm ClearSky 
+An Iranian cyber espionage group known as Charming Kitten is believed to be behind a campaign targeting academic researchers, human rights activists, media outlets and political advisors focusing on Iran, according to a report published earlier this week by Israel-based threat intelligence company ClearSky Cyber Security. The group has also set up a news outlet called The British News Agency to lure targets in. 
+Most of the group's targets are in Iran, the U.S., Israel and the U.K., the report said, but some come from countries including France, Germany, Switzerland, Denmark, India, Turkey and the United Arab Emirates. 
+The report detailed the various methods used to gain access to computers and private social accounts. Those include false identities, the impersonation of real companies, the insertion of malicious code into a breached website, also known as "watering hole attacks," and spear phishing, the process of pretending to be service providers like Gmail or Facebook to trick people into giving out personal information.
+A significant mainstay of the group's activity was the establishment of a media outlet called The British News Agency. Much effort went into creating a seemingly legitimate website, including details about the agency and a contact list of the management team. The purpose of the site was to attract the targets and infect them with malware.
+According to the report, multiple Israeli researchers of Iran and the Middle East were sent emails and Twitter direct messages from accounts registered with seemingly Jewish Israeli names. Messages coming from one such account were presented as if coming from a journalist and political researcher at KNBC News. Other messages were presented as if coming from an Israeli political researcher raised in California who needed help with an article and also wanted to apply for a position at an Israeli university. Another message was described as coming from a Jewish girl living in Iran. These messages often linked to phishing pages.
+ClearSky cannot estimate how many accounts were successfully infiltrated, but the success rate for such attacks is usually around 10%, said Mr. Dolev.
+</text>
+

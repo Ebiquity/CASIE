@@ -1,0 +1,18 @@
+<title>Critical Xen hypervisor flaw endangers virtualized environments | CSO Online</title>
+<source> http://www.csoonline.com/article/3187722/security/critical-xen-hypervisor-flaw-endangers-virtualized-environments.html </source>
+<date> 2017_04_06 </date>
+<text>
+This is a serious violation of the security barrier enforced by the hypervisor and poses a particular threat to multi-tenant data centers where the customers' virtualized servers share the same underlying hardware.
+The open-source Xen hypervisor is used by cloud computing providers and virtual private server hosting companies, as well as by security-oriented operating systems like Qubes OS.
+The new vulnerability affects Xen 4.8.x, 4.7.x, 4.6.x, 4.5.x, and 4.4.x and has existed in the Xen code base for over four years.
+It was unintentionally introduced in December 2012 as part of a fix for a different issue.
+The Xen project released a patch Tuesday that can be applied manually to vulnerable deployments.
+The good news is that the vulnerability can only be exploited from 64-bit paravirtualized guest operating systems.
+Xen supports two types of virtual machines: Hardware Virtual Machines (HVMs), which use hardware-assisted virtualization, and paravirtualized (PV) VMs that use software-based virtualization.
+Based on whether they use PV VMs, Xen users might be affected or not.
+For example, Amazon Web Services said in an advisory that its customers' data and instances were not affected by this vulnerability and no customer action is required.
+Meanwhile, virtual private server provider Linode had to reboot some of its legacy Xen servers in order to apply the fix.
+Qubes OS, an operating system that uses Xen to isolate applications inside virtual machines, also put out an advisory warning that an attacker who exploits another vulnerability, for example inside a browser, can exploit this Xen issue to compromise the whole Qubes system.
+The Qubes developers have released a patched Xen package for Qubes 3.1 & 3.2 and reiterated their intention to stop using paravirtualization altogether in the upcoming Qubes 4.0.
+Vulnerabilities that allow breaking the isolation layer of virtual machines can be very valuable for attackers.
+</text>

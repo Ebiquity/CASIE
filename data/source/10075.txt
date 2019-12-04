@@ -1,0 +1,17 @@
+<title> Banking customers targeted by 'smishing'  </title>
+<source> https://content.govdelivery.com/accounts/UKCOVENTRY/bulletins/18ee546#link_1402481520159 </source>
+<date> 2017_03_24 </date>
+<text>
+After national reports in the press this week where bank customers have been targeted by a ‘smishing’ scam, including a man from Coventry, Trading Standards is advising all residents to be on their guard.
+Smishing messages (SMS + fishing) usually contain a phony telephone number to call or link to a counterfeit website that will ask you to enter personal details or transfer money as your account is at risk. They can also ask you to call or text a premium-rate number they have created to run up a large bill.
+In the reports this week, three customers of the same bank received text messages to say that there had been unusual activity on their accounts and given a phone number to call.
+When called, the people were convinced to give access to their online banking which generated a security code, which was then used to siphon money from accounts.
+‘Take Five’ is a new campaign by Financial Fraud Action UK (FFA UK) designed to tackle financial fraud and is the first national campaign to be backed by all the major banks and other financial service providers across the UK. 
+You can protect yourself from financial fraud by remembering some simple advice: 
+    Never disclose security details, such as your PIN or full password - it’s never okay to reveal these details.
+    Don’t assume an email request or caller is genuine - people aren’t always who they say they are.
+    Don’t be rushed – a genuine bank or organisation won’t mind waiting to give you time to stop and think.
+    Listen to your instincts – if something feels wrong then it is usually right to pause and question it.
+    Stay in control – have the confidence to refuse unusual requests for information.
+With financial fraud getting ever more sophisticated, anyone can be targeted and incidents are on the increase. Trading Standards advise to always be cautious with any unsolicited approaches. 
+</text>

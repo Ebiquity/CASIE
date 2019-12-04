@@ -1,0 +1,13 @@
+<title>Forcepoint Warn Of Healthcare Targeting Ransomware - Information Security Buzz</title>
+<source> https://www.informationsecuritybuzz.com/news/forcepoint-warn-healthcare-targeting-ransomware/ </source>
+<date> 2017_04_10 </date>
+<text>
+Forcepoint security labs has identified a form of ransomware, first documented back in September 2016 that targets healthcare organisations.
+‘Philadelphia’, believed to be a new version of ‘Stampedo’ currently shows patterns that could be the beginning of a widening targeting campaign, extending beyond US perimeters.
+Sold for just a few hundred dollars and promoted on YouTube, it gives have-a-go criminals, on a global scale, the tools to conduct very targeted and convincing attacks.
+The attack is sent through a spear-phishing email containing tailored logos and staff names, adding to the deception.
+Once activated the variant communicates information including operating system, username, country and system code back to its command and control and generates a victim ID, bitcoin wallet ID and bitcoin ransom price.
+Carl Leonard, principal security analyst at Forcepoint, said:
+“While processing our open source intelligence feeds we discovered Philadelphia, currently a cheap, poorly written ransomware that is available cheaply to script kiddies.
+Although the ransom is currently only 0.3 BTC, the command and control paths suggest that the actor is targeting hospitals for this campaign so there are likely to be other targets.
+</text>

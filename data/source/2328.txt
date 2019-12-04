@@ -1,0 +1,15 @@
+<title> Disney Hackers Threaten to Release Upcoming Movie: Report </title>
+<source> https://www.infosecurity-magazine.com/news/disney-hackers-threaten-to-release/ </source>
+<date> 2017_05_16 </date>
+<text>
+Disney boss Bob Iger has said the mass media giant is being targeted by hackers who are trying to extort money from the firm by threatening to release a film they claim to have stolen.
+The CEO of the entertainment behemoth told ABC employees of the stand-off at a town hall meeting in New York, multiple sources told The Hollywood Reporter.
+The hackers are said to have demanded a substantial payment in Bitcoin, and threatened to release five minutes of the unnamed film and then subsequent 20-minute chunks if their demands aren’t met.
+There are rumors circulating that the film in question could be upcoming blockbuster Pirates of the Caribbean: Dead Men Tell No Tales, although the hackers are running out of time if so as it’s due to open next Friday.
+The news calls to mind a similar incident last month when a hacker uploaded the upcoming series of Netflix prison drama Orange is the New Black to The Pirate Bay after the streaming giant refused to pay up.
+In that instance, Netflix claimed that “a production vendor used by several major TV studios had its security compromised”, highlighting the need for organizations in the entertainment sector to revisit their cyber-defenses and those of their partners.
+Mark James, security specialist at Eset, argued that anything of high value will be a target for thieves, be it digital or physical.
+“Disney has refused to pay the ransom and rightly so. If you’re going to download the film from an unofficial or dodgy source anyway then a month before or a month after is not going to make much of a difference,” he added.
+"The film industry has been plagued with piracy issues as early as the 1960s and this isn't going to change anytime soon. Paying the ransom or indeed any ransom is generally frowned upon for many reasons. Funding other criminal activity, rewarding the bad guys or funding future attacks are all good reasons to not pay as the chances are it’s going to get released anyway.”
+</text>
+

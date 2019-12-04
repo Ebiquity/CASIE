@@ -1,0 +1,21 @@
+<title> Hancock Health pays $47,000 ransom to unlock patient data  </title>
+<source> https://www.healthcareitnews.com/news/hancock-health-pays-47000-ransom-unlock-patient-data </source>
+<date> 2018_01_16 </date>
+<text>
+Hackers logged into the hospital’s remote access portal using a third-party vendor’s username and password.
+Greenfield, Indiana-based Hancock Health paid hackers 4 bitcoin or about $47,000 to unlock its network on Saturday, after the health system fell victim to a ransomware attack on Thursday night.
+Hackers compromised a third-party vendor’s administrative account to the hospital’s remote-access portal and launched SamSam ransomware. The virus infected a number of the hospital’s IT system and, according to local reports, the malware targeted over 1,400 files and changed the name of each to “I’m sorry.” 
+Hancock officials followed its incident response and crisis management plan and contacted legal representation and outside security firm immediately following the discovery of the attack. Hospital leadership also contacted the FBI for advisory assistance.
+The incident was contained by Friday and officials said the next focus was recovery. 
+Hancock Health was given just seven days to pay the ransom. While officials said Hancock could have recovered the affected files from backups, it would have taken days or possibly weeks to do so. And it would have been more expensive.
+“We were in a very precarious situation at the time of the attack,” Hancock Health CEO Steve Long said in a statement. “With the ice and snow storm at hand, coupled with one of the worst flu seasons in memory, we wanted to recover our systems in the quickest way possible and avoid extending the burden toward other hospitals of diverting patients. Restoring from backup was considered, though we made the deliberate decision to pay the ransom to expedite our return to full operations.”
+Hackers released the files early Saturday after they retrieved the bitcoins. The hospital’s critical systems were restored to normal function on Monday.
+The forensic analysis found patient data was not transferred outside of the hospital’s network, and the FBI confirmed the motivation for SamSam hackers is ransom payment, not to harvest patient data.
+The virus did not impact any equipment used to treat patients. However, the hospital’s patient portal was down during the security incident.
+After recovery, officials asked employees to reset passwords and implemented a security feature that could detect similar attacks in the future.
+The breach should serve as a wake-up call that ransomware attacks can happen. However, it’s important to note the FBI, the U.S. Department of Health and Human Services and a laundry list of security experts have long stressed that organizations should not pay ransoms to hackers.
+While the hackers returned the files to Hancock, there was no guarantee that would happen. For example, Kansas Heart Hospital paid a ransom in May 2016, and the hackers kept the files and demanded another payment. The hospital declined to pay a second time.
+Secondly, when an organization pays, hackers place the business on a list of those willing to pay the ransom and can expect to be hit again in the future.
+“There are lists out there, if you pay once, you may end up having to pay again because you’ve been marked as an organization that will pay,” said CynergisTek CEO Mac McMillan.
+</text>
+

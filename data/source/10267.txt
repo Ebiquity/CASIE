@@ -1,0 +1,15 @@
+<title> Microsoft announces Windows DNS Server Heap Overflow Vulnerability, users dissatisfied with patch details </title>
+<source> https://hub.packtpub.com/microsoft-announces-windows-dns-server-heap-overflow-vulnerability-users-dissatisfied-with-patch-details/ </source>
+<date> 2018_12_13 </date>
+<text>
+11th December was Microsoft’s December 2018 Patch Tuesday, which means users had to update their computers to be protected from the latest threats to Windows and Microsoft products. Microsoft has fixed 39 vulnerabilities, with 10 of them being labeled as Critical.
+Keeping up with its December 2018 Patch Tuesday, Microsoft announced on its blog that a vulnerability exists in Windows Domain Name System (DNS). There was not much information provided to the customers about how and when this vulnerability was discovered. The following details were released by Microsoft:
+The Exploit
+Microsoft Windows is prone to a heap-based buffer-overflow vulnerability. A remote code execution vulnerability exists in Windows Domain Name System (DNS) servers when they fail to properly handle requests. An attacker who successfully exploits this issue may execute arbitrary code within the context of the affected application. Microsoft states that failed exploit attempts will result in a denial-of-service condition. Windows servers that are configured as DNS servers are at risk from this vulnerability.
+Affected Systems
+Find a list of the affected systems on Microsoft’s Blog. The company has also provided users with security updates for the affected systems.
+Workarounds and Mitigations
+As of today, Microsoft has not identified any workarounds or mitigations for the affected systems.
+Jake Williams, the founder of Rendition Security and Rally security, posted an update on Twitter about the issue, questioning why there is no sufficient discussion among the infosec community about the matter.
+</text>
+

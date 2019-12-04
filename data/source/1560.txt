@@ -1,0 +1,15 @@
+<title>Malvertising campaign pushes data-collecting VPN on iOS users</title>
+<source> https://www.grahamcluley.com/malvertising-campaign-pushes-data-collecting-vpn-ios-users/ </source>
+<date> 2017_04_10 </date>
+<text>
+A malvertising campaign is targeting iOS devices with a VPN that doesn't hide the fact it collects large quantities of users' information.
+It also employs the aggressive tactic of playing a high-pitch beeping.
+To help address the "issues" the site provides a link to a program called "My Mobile Secure."
+"We have detected that your Mobile Safari is (45.4%) DAMAGED by BROWSER TROJAN VIRUSES picked up while surfing recent corrupted sites.
+When someone clicks "Remove Virus," their device presents an installation prompt for a VPN called "My Mobile Secure."
+My Mobile Secure is linked by users' emails to MobileXpression, a market firm which seeks to study web behavior by collecting users' information.
+If the intent is to use a VPN to anonymize your online activities, this does almost the opposite."
+It's reasonable to expect nothing more from a malvertising campaign.
+With that said, users should take great care to not click on suspicious ads and should consider installing an ad-blocker in their web browsers.
+They should also consider downloading a VPN, but they should make sure to research VPN providers and their privacy policies carefully before they choose a solution.
+</text>

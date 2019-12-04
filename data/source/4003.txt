@@ -1,0 +1,16 @@
+<title> Update now! Adobe Acrobat and Reader have critical flaws  </title>
+<source> https://nakedsecurity.sophos.com/2019/01/07/update-now-adobe-acrobat-and-reader-have-critical-flaws/ </source>
+<date> 2019_01_07 </date>
+<text>
+Adobe has patched two critical flaws in Acrobat and Reader that warrant urgent attention.
+Officially, Adobe patches security vulnerabilities around the middle of each month to coordinate with Microsoft’s Patch Tuesday, but recently it’s become almost routine for the company to issue out-of-band updates in between.
+APSB19-02, the first of such updates to reach customers in the new year, addresses critical flaws with a priority rating of ‘2’.
+That means that the flaw is potentially serious, but Adobe hasn’t detected any real-world exploits (the latter would entail issuing an ‘emergency’ patch with a ‘1’ rating).
+The first flaw, identified as CVE-2018-16011, is described by Adobe as a use-after-free bug that could be exploited using a maliciously crafted PDF to take control of a target system with their malware of choice.
+The second, CVE-2018-16018 (replacing CVE-2018-19725), is a security bypass targeting JavaScript API restrictions on Adobe Reader DC and seems to have been in the works since before Christmas, affecting all versions of Window and macOS Acrobat DC/Reader 2019.010.20064 and earlier, the fix in both cases is to update to 2019.010.20069.
+For the legacy Acrobat/Reader 2017 2017.011.30110 and Acrobat/Reader DC 2015 2015.006.30461, the updates take those to 2017.011.30113 and 2015.006.30464 respectively.
+As critical flaws with a ‘2’ rating, there is a suggested 30-day window within which to apply the updates, but it’s worth bearing in mind that a new round of patches will likely be offered for Adobe products tomorrow as part of Patch Tuesday.
+In December’s Patch Tuesday, Adobe released a not inconsiderable 87 patches, including 39 rated critical.
+Only days before, Adobe issued an emergency Flash patch for a zero-day vulnerability that was being exploited, while in November Flash received a separate patch for one whose exploitation was believed to be imminent.
+</text>
+

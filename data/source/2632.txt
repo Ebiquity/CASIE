@@ -1,0 +1,14 @@
+<title>Sanctuary Dark Web Market Hacked by Cipher0007</title>
+<source> https://www.bleepingcomputer.com/news/security/sanctuary-dark-web-market-hacked-by-cipher0007/ </source>
+<date> 2017_06_01 </date>
+<text>
+A hacker that goes by the nickname of Cipher0007 has hacked the Sanctuary Dark Web marketplace. The hacker announced the breach a few hours ago and also posted proof of his intrusion.
+According to Cipher0007, the hack took place after he found an SQL injection flaw in the market's database.
+The hacker claims he used the SQL injection flaw to upload a shell on the market's server. He then used this backdoor to access various parts of the backend and dumped the private key used to generate the market's .onion URL.
+Cipher0007 also says he used the market's phpMyAdmin installation to dump details on the database configuration and other login information. At the time of writing, the market's phpMyAdmin login page was still exposed to external connections.
+To prove his claims, the hacker posted online a screengrab while uploading the shell to the Sanctuary market's server, the market's 1024 bit RSA private key, and the market's root account database login information.
+The Sanctuary market is a small Dark Web market, and one of the few places where digital products such as data dumps, malware, and others, are far more prevalent than drugs and weapons.
+The admin of the Sanctuary market did not respond to a request for comment from Bleeping Computer in time for this article's publication.
+Cipher0007 has a reputation in the hacking underground already. In January, the hacker collected an unspecified Bitcoin reward for reporting a bug to the AlphaBay staff that would have allowed an attacker access to over 218,000 private messages.
+AlphaBay is today's biggest Dark Web market, and access to those PMs would have allowed an attacker insight into the operations of many sellers and vendors.
+</text>

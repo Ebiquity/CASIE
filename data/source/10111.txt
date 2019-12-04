@@ -1,0 +1,20 @@
+<title> Some Memcached DDoS Attackers Are Asking for a Ransom Demand in Monero  </title>
+<source> https://www.bleepingcomputer.com/news/security/some-memcached-ddos-attackers-are-asking-for-a-ransom-demand-in-monero/ </source>
+<date> 2018_03_02 </date>
+<text>
+DDoS extortionists have already pounced on the Memcached DDoS attack vector in attempts to extract payments from attacked companies.
+Akamai revealed earlier today that it detected DDoS attacks executed via Memcached servers that were different from others.
+Instead of blasting targets with UDP packets containing random data, one group of attackers is leaving short messages inside these packets.
+This one group is asking victims to pay 50 Monero —around $17,000— to a Monero address. The group doesn't say it will stop the attack but only implies it.
+Such attacks have first appeared in 2015 and were initially referred to as DDoS-for-Bitcoin after the DD4BTC group that pioneered such tactics. The group would send emails to various companies, threatening to launch DDoS attacks unless they paid a ransom fee.
+Even if the group's members were arrested, other factions appeared in subsequent years, using unique names such as Armada Collective or XMR Squad, but also mimicking hacker groups such as Anonymous or LulzSec.
+The tactic, now known as ransom DDoS (RDoS), has become quite popular among cybercriminal groups, and there have been too many RDoS campaigns to remember in the past years.
+In most past cases, attackers didn't have the firepower to launch DDoS attacks if victims ignored the ransom demand. But the Memcached-based DDoS extortions are different.
+Attackers clearly have the DDoS cannon to take down companies, mainly due to the large number of unsecured Memcached servers they can abuse to launch these attacks.
+Victims are also more likely to pay, seeing that they're under a heavy attack and this isn't just an empty threat.
+But according to Daniel Smith, a Radware security researcher who spoke with Bleeping Computer, paying the Monero ransom won't help companies at all.That's because attackers have used the same Monero address for multiple DDoS attacks against different targets. Here's the same Monero address from the Akamai attacks, but spotted by a different security researcher.
+Attackers wouldn't have the ability to tell which of the multiple targets they attacked paid the ransom. The general consensus is that this group is using a carpet bombing technique, hitting as many targets as possible for short bursts, hoping to scare one into paying.
+"Multiple targets are sent the same message in hopes that any of them will pay the ransom," Akamai said in a report today, echoing Smith's recommendation not to pay the ransom.
+"There is no sign to suggest that they are actively tracking the targets reaction to the attacks, no contact information, no detailed instructions on payment notification," Akamai added. "If a victim were to deposit the requested amount into the wallet, we doubt the attackers would even know which victim the payment originated from, let alone stop their attacks as a result."
+</text>
+

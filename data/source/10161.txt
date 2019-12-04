@@ -1,0 +1,19 @@
+<title> Patch your inkjet printer now warns HP over two critical flaws </title>
+<source> https://www.cso.com.au/article/644832/patch-your-inkjet-printer-now-warns-hp-over-two-critical-flaws/ </source>
+<date> 2018_08_07 </date>
+<text>
+Over a hundred HP Inkjet printers have serious flaws that should be fixed, HP has warned. 
+Computer and printer giant HP has flagged two critical flaws over a hundred different printer models that it says should be patched “as soon as possible”. 
+Owners of numerous HP Inject models will need to install new firmware for each of the affected models from its Officejet, Deskjet, Envy, as well as its larger form business printers, including DesignJet and PageWide Pro printers. 
+Multiple models from each product line are affected so customers and consumers should scroll through HP’s advisory to check whether their specific model is affected. 
+Customers should also check out HP’s support pages for how to install the firmware updates, which can be done directly from the printer for web-enabled printers — mostly those released after 2010 — or via Windows or Mac computers they’re networked with. 
+The bugs, which have been assigned the numbers CVE-2018-5924 and CVE-2018-5925, are rated “critical” and could allow remote code execution. 
+“Two security vulnerabilities have been identified with certain HP Inkjet printers. A maliciously crafted file sent to an affected device can cause a stack or static buffer overflow, which could allow remote code execution,” HP notes in an advisory. 
+The company hasn’t indicated whether the flaws are publicly known or under attack but says it was “recently made aware of a vulnerability in certain inkjet printers by a third-party researcher.”
+The patches come just a few days after HP Inc announced it would soon launch its printer bug bounty, which is the world’s first and only print security bug bounty program. 
+The computer maker is partnering with Australian-founded Bugcrowd to manage the program, which will validate the bug reports, and pay researchers between $500 to $10,000, depending on their severity. 
+It’s one of Bugcrowd’s “private programs” so only researchers who are invited can submit bug reports.  
+Printers are a soft spot for organizations because chief information security officers (CISOs) usually don’t get involved in their purchase, according to a member of HP’s security advisory board, MedSec CEO, Justine Bone.   
+“CISOs are rarely involved in printing purchase decisions yet play a critical role in the overall health and security of their organization,” said Bone. “For decades, HP has made cybersecurity a priority rather than an afterthought by engineering business printers with powerful layers of protection. And in doing so, HP is helping to support the valuable role CISOs play in organizations of every size.”
+</text>
+

@@ -1,0 +1,19 @@
+<title> Privacy Issue Discovered in Telegram Messaging App </title>
+<source> https://www.infosecurity-magazine.com/news/privacy-issue-telegram-messaging/ </source>
+<date> 2017_03_02 </date>
+<text>
+Researchers from Fidelis Cybersecurity have unearthed an “interesting security issue” involving the popular messaging app Telegram.
+One of the appeals of Telegram is that it has encryption options for Android and iOS, whereby it uses your contact list to prepopulate contacts inside the app. Also, when someone in your contact list signs up for Telegram, you receive a notification so you know you can contact them using the app. However, John Bambenek, threat systems manager, Fidelis Cybersecurity, revealed that the combination of these features has allowed the firm to uncover a big privacy problem.
+“If a scammer signs up for Telegram and already has your phone number in their contact list, it will also notify them that you have also Telegram,” he said.
+“So in addition to connecting you to your friends and contacts, the app will also connect scammers directly to you. Likewise, if you have scammers' numbers in your contact list for some reason, you will get push notifications when they join Telegram.”
+What’s more, Bambenek explained that this issue didn’t occur just once or twice, and on multiple occasions Fidelis observed phone numbers associated with telemarketing scammers signed up to use Telegram.
+“To complicate matters, we found no obvious way to prevent people from finding out if you are a Telegram user,” he added.
+Further, Bambenek warned that it would not be difficult to come up with a way to find out if a phone number uses Telegram (or many of the other popular mobile messaging/voice applications, for that matter), highlighting the following as uses for this insight by third parties:
+Intelligence agencies consider the use of such services as a "risk factor" when deciding on surveillance targets.
+Border control officials could detect the use of such services during border crossing interviews, and conclude that the user has something to hide.
+Criminals could use the knowledge that a user is on such a service to target them.
+“Encrypted messaging and voice applications create a new surface area for attacks to unfold and should not be entirely trusted,” Bambenek continued. “While these apps may be a great benefit to privacy, they shouldn’t be trusted any more than unencrypted calls. These systems do protect against spoofing, but if you have unknown callers on such applications, due caution is still required.”
+However, Chris Boyd, lead malware analyst at Malwarebytes, was quick to point out that all VoiP and regular chat apps have the ability for strangers to add you to their contact list, depending on security settings, adding:
+“Whether people add themselves to your Telegram, Skype or even plain old Instant Messaging services, the same ground rules apply: try to ensure that they are who they say they are before revealing too much information. If in doubt, contact your associate directly using another service – just like you would if sent a ‘stranded with no money in a foreign land’ message on Facebook,” he told Infosecurity.
+</text>
+

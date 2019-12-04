@@ -1,0 +1,21 @@
+<title> Adobe patch update tackles six critical vulnerabilities in ColdFusion </title>
+<source> https://www.zdnet.com/article/adobe-patch-update-tackles-six-critical-vulnerabilities-in-coldfusion/ </source>
+<date> 2018_09_12 </date>
+<text>
+Adobe has resolved six critical updates in the company's latest round of security fixes.
+On Tuesday, Adobe said in a security advisory that the update impacts ColdFusion version 11, as well as the 2016 and 2018 releases of the web application development platform.
+In total, six of the security flaws are deemed critical.
+The first set of vulnerabilities -- CVE-2018-15965, CVE-2018-15957, CVE-2018-15958, and CVE-2018-15959 -- relate to the deserialization of untrusted data.
+In addition, CVE-2018-15961 is a security flaw which permits unrestricted file uploads in the software, and the final critical bug, CVE-2018-15960, is described as "use of a component with a known vulnerability" which can cause arbitrary file overwrite.
+If exploited, all of the above security flaws can lead to arbitrary code execution.
+Three other bugs in ColdFusion have also been resolved. CVE-2018-15962 is a flaw within directory listings that can lead to information disclosure; CVE-2018-15963 is a security bypass bug which could permit attackers to create arbitrary folders, and CVE-2018-15964 is another security flaw caused by the use of a component with a known vulnerability which may cause data leaks.
+Adobe also released a fix for Adobe Flash Player on desktop Windows, macOS, and Linux machines, as well as Flash for Google Chrome on Windows, macOS, Linux, and Chrome OS, versions 30.0.0.154 and earlier.
+This security flaw, CVE-2018-15967 is listed as an "important" privilege escalation bug which could lead to information disclosure.
+Originally, Microsoft listed the same vulnerability as critical and one which enabled attackers to perform remote code execution attacks.
+However, Microsoft has now amended its advisory to reflect Adobe's severity rating.
+Adobe is not aware of any reports suggesting the vulnerabilities have been exploited in the wild but recommends that users accept the automatic updates as soon as possible.
+The tech giant thanked researchers including Matthias Kaiser of Code White GmbH, Gsrc from Venustech-Adlab, and Nick Bloor of Cognitous for reporting the vulnerabilities.
+This month's security fixes build upon Adobe's August patch update, in which 11 security flaws were resolved, including critical vulnerabilities in Adobe Acrobat 2017, Acrobat DC, and Acrobat Reader DC on Windows and macOS machines.
+In the same month, the tech giant also released an out-of-schedule patch for Adobe Photoshop CC. The security update tackled memory corruption bugs in the creative software which, if exploited, could lead to code execution.
+</text>
+

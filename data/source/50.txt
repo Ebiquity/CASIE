@@ -1,0 +1,12 @@
+<title>LA Valley College Hit By Cyber Attack « CBS Los Angeles</title>
+<source> http://losangeles.cbslocal.com/2017/01/03/la-valley-college-hit-by-cyber-attack/ </source>
+<date> 2017_01_04 </date>
+<text>
+Los Angeles Valley College in Valley Glen was subject to a cyber attack over the winter break but it is not known how large the breach was, officials said Tuesday.
+The attack was described as “malicious cyber activity targeting Los Angeles Valley College,” according to a statement from Los Angeles Community College District Chancellor Francisco Rodriguez.
+“This attack is believed to have taken place over the holidays and we are working closely with local and federal authorities to learn more about its potential impact,” Rodriguez said.
+“Our top priority in resolving this incident is ensuring that the security and privacy of our students and employees is protected”.
+Additional details about the attack were not made available and it was not immediately clear if anyone’s personal data was compromised.
+Los Angeles Sheriff’s cyber crimes unit was investigating, Deputy Caroline Rodriguez of the Sheriff’s Information Bureau said.
+The FBI did not immediately reply to emailed questions regarding the attack.
+</text>

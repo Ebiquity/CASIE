@@ -1,0 +1,10 @@
+<title> Phishing Email - March 1, 2017   </title>
+<source> https://www.uvacreditunion.org/content/phishing-email-march-1-2017 </source>
+<date> 2017_03_01 </date>
+<text>
+Fraudulent emails are being received by individuals and/or companies with the subject title similar to "Reinstate Your Account" or "[Audit] Reinstate Your Account". This email appears to be from UVA Community Credit Union telling them that an account is dormant and needs to be reinstated. The email includes a link that redirects the individual to a fraudulent web page and may contain a virus or malicious software, or solicit password information.
+If you receive an email like this, do not click on the link as doing so may open your system to damage from viruses.
+If you clicked through to this fraudulent website, you may be at risk for subsequent fraud. Change passwords to your Online Banking and Email accounts. You should ensure that you have the latest updates from your anti-virus vendor and run a full system scan. Please note that not all anti-virus vendors receive or update the latest virus signatures at the same time. Best practices are to configure your anti-virus software to automatically update and scan your computer on a regular basis. As always, you should closely monitor your accounts for suspicious activity.
+Visit our Security Center to learn more about protecting your computer, or if you believe you have been a victim of identity theft.
+UVA Community Credit Union will never contact you by email, cell phone, text message, or telephone asking for your personal information. If you have been a victim of a scam and think your UVA Community Credit Union account information may have been compromised, contact us immediately at 434-964-2001 or toll-free, 1-888-887-9136.
+</text>

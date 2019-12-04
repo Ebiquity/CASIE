@@ -1,0 +1,14 @@
+<title>Feds more at risk from clicking on links than from data stolen during OPM breach - FederalNewsRadio.com</title>
+<source> http://federalnewsradio.com/ask-the-cio/2017/02/feds-risk-clicking-links-data-stolen-opm-breach/ </source>
+<date> 2017_02_21 </date>
+<text> 
+The 21.5 million current and former federal employees impacted by the massive data breach in 2015 may never know if they will be targeted based on the information stolen from the Office of Personnel Management.
+Bill Evanina, the director of the National Counterintelligence and Security Center and the National Counterintelligence Executive, said the rate of attacks and the amount of information out there from public and private sector breaches, means hackers likely will bring together a host of data to use in spear phishing attacks.
+“If a foreign entity is using the data stolen from OPM, they will use it as one variable in a big matrix of targeting,” Evanina said on Ask the CIO.
+“It’s really not going to be reality to say if Bill Evanina is targeted a year from now by a foreign government, I’m never going to be able to say it’s because of the OPM data breach.
+It’s one set of data that is being used against those who would be targeted.
+We really haven’t seen any anecdotal evidence about anything and at the end of the day I don’t think we will.
+If it was stolen for the reason which we believe it was, you’ll never be able to point to the fact it was the OPM data breach”.
+Evanina said federal employees should understand the difference between targeting.
+If they are getting phone calls at home, that likely isn’t a foreign adversary targeting them.
+</text>

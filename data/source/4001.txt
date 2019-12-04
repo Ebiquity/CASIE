@@ -1,0 +1,20 @@
+<title> LibreOffice patches malicious code-execution bug, Apache OpenOffice – wait for it, wait for it – doesn't  </title>
+<source> https://www.theregister.co.uk/2019/02/04/apache_openoffice_no_patch/ </source>
+<date> 2019_02_04 </date>
+<text>
+A security flaw affecting LibreOffice and Apache OpenOffice has been fixed in one of the two open-source office suites. The other still appears to be vulnerable.
+Before attempting to guess which app has yet to be patched, consider that Apache OpenOffice for years has struggled attract more contributors. And though the number of people adding code to the project has grown since last we checked, the project missed its recent January report to the Apache Foundation. The upshot is: security holes aren't being patched, it seems.
+The issue, identified by security researcher Alex Inführ, is that there's a way to achieve remote code execution by triggering an event embedded in an ODT (OpenDocument Text) file.
+In a blog post on Friday, Inführ explains how he found a way to abuse the OpenDocument scripting framework by adding an onmouseover event to a link in an ODT file.
+The event, which fires when a user's mouse pointer moves over the link, can traverse local directories and execute a local Python script.
+After trying various approaches to exploit the vulnerability, Inführ found that he could rig the event to call a specific function within a Python file included with the Python interpreter that ships with LibreOffice.
+"For the solution I looked into the Python parsing code a little more in depth and discovered that it is not only possible to specify the function you want to call inside a python script, but it is possible to pass parameters as well," he said.
+The exploit was tested on Windows, and should work on Linux, too.
+Inführ says he reported the bug on October 18 and it was fixed in LibreOffice by the end of the month. RedHat assigned it CVE-2018-16858 in mid-November and gave Inführ a disclosure date of January 31, 2019.
+When he published on February 1, in conjunction with the LibreOffice fix notification, OpenOffice still had not been patched. Inführ says he reconfirmed that he could go ahead with disclosure even though OpenOffice 4.16 has yet to be fixed.
+His proof-of-concept exploit doesn't work with OpenOffice out-of-the-box because the software doesn't allow parameters to be passed in the same way as the unpatched version of LibreOffice did. However, he says that the path traversal issue can still be abused to execute a local Python file and cause further mischief and damage.
+We're imagining specifically targeted netizens being tricked into opening a ZIP file, unpacking an ODT and Python script, and then the ODT document attempting to execute the Python script when the victim rolls their mouse over a link, for instance.
+The Register tried to reach two OpenOffice contributors to find out what's going on. We've not heard back.
+According to Inführ, OpenOffice users can mitigate the risk by removing or renaming the pythonscript.py file in the installation folder.
+</text>
+

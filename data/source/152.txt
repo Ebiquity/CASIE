@@ -1,0 +1,31 @@
+<title>The Unpatched LSASS Remote Denial of Service (MS16-137) | Core Security</title>
+<source> https://www.coresecurity.com/blog/unpatched-lsass-remote-denial-service-ms16-137 </source>
+<date> 2017_01_11 </date>
+<text>
+In November 8, 2016 Microsoft released a security update for Windows Authentication Methods (MS16-137) which included 3 CVEs:
+Talking specifically about CVE-2016-7237, this fix was applied to "lsasrv.dll", which affected the LSASS service.
+The vulnerability affected all Windows versions, either 32 or 64 bits, and was reported and later described in more detail by Laurent Gaffié (@PythonResponder) the same day that the fix was published.
+He also published proof-of-concept (PoC) code triggering the vulnerability.
+When the LSASS service crashes, the target is automatically restarted after 60 seconds, which is not very nice when it's a production server.
+As this allocation is close to 4GB, this will probably fail.If the allocation fails, one of the necessary conditions to reproduce the NULL-Pointer dereference will be reached.
+There was a misunderstanding here about the vulnerability, because according to the PoC released by Laurent Gaffié, the problem WASN'T in the structure pointer, but rather in one field of the CRITICAL_SECTION object pointed by this structure, which is NULL when the huge allocation fails !
+To be clear, the check of the NULL pointer should probably have been here:
+Although the public PoC doesn't trigger the vulnerability in Windows 8.1 or Windows 10, the researcher and Microsoft declared these Windows versions as vulnerable.
+As I said before, the "NegGetExpectedBufferLength" function reads the evil size from the SMB packet.
+Now, this function has to return the 0x90312 value (SEC_I_CONTINUE_NEEDED) to produce the fail in the huge allocation.
+Unfortunately, in the latest Windows versions, an extra check was added in this function which compares the evil size against 0xffff (64KB).
+If the evil size is greater, this function won't return the 0x90312 value, but rather this will return the 0xC00000BB value (STATUS_NOT_SUPPORTED), which won't produce any allocation fail resulting in the vulnerability not being triggered.
+On the other hand, if we use the evil size with a value less or equal than 0xffff (64KB), the allocation won't fail and again, the vulnerability won't be triggered.
+So, why are Windows 8.1 and Windows 10 vulnerable?
+Although the bug is triggered when a memory allocation fails, that doesn't mean that the allocation has to be giant, but rather that the LSASS service doesn't have enough available memory to allocate.
+I had been able to confirm that this vulnerability can be triggered in Windows 7 and 2008 R2 by establishing several SMB connections and sending evil sizes with values like 0x1000000 (16 MB).
+The problem is that in the case of the latest Windows versions, it's not possible to use this kind of sizes, because as I said before, the limit is 64KB.
+So, the only way to trigger this vulnerability should be by producing a memory exhaustion in the LSASS service.
+It may be possible to do so by finding a controllable malloc in the LSASS authentication process, creating multiple connections and producing a memory exhaustion until the "LsapAllocateLsaHeap" function fails.
+Maybe, this memory exhaustion condition could be easily reached in local scenarios.
+I realized that the fix wasn't working when I tried to understand why the public PoC wasn't working against Windows 10.
+It's surprising to see that nobody else noticed that –that we know of-, and that a considerable amount of Windows users have been unprotected for more than 2 months since the public exploit was released.
+As of January 10th, Microsoft decided to release a new security bulletin including a patch for the affected systems (MS17-004).
+If we diff against the latest "lsasrv.dll" version (v6.1.7601.23642), we can see that the vulnerability was fixed by changing the "NegGetExpectedBufferLength" function.
+Basically, the same 64KB packet size check used by Windows 8.1 and Windows 10 was now added to the rest of the Windows versions.
+</text>

@@ -1,0 +1,14 @@
+<title>Boatload of Security Flaws Make Fosscam IP Cameras Absolutely Useless</title>
+<source> https://www.bleepingcomputer.com/news/security/boatload-of-security-flaws-make-fosscam-ip-cameras-absolutely-useless/ </source>
+<date> 2017_06_09 </date>
+<text>
+IP cameras manufactured by Chinese vendor Fosscam are riddled with security flaws that allow an attacker to take over the device and penetrate your network.
+The issues came to light yesterday when Finnish cyber-security firm F-Secure published its findings after Fosscam failed to answer bug reports and patch its firmware.
+Below is a list of 18 vulnerabilities researchers discovered in Fosscam IP cameras:
+The variety of issues F-Secure researchers discovered means there are multiple ways an attacker can hack one of these devices and use it for various operations.
+"For example, an attacker can view the video feed, control the camera operation, and upload and download files from the built-in FTP server," F-Secure says. " They can stop or freeze the video feed, and use the compromised device for further actions such as DDoS or other malicious activity."
+"If the device is in a corporate local area network, and the attacker gains access to the network, they can compromise the device and infect it with a persistent remote access malware. The malware would then allow the attacker unfettered access to the corporate network and the associated resources," researchers added.
+F-Secure researchers say all these vulnerabilities have been confirmed in Fosscam C2 models, but also in Opticam i5, an IP camera sold by another vendor, but based on a white-label Fosscam device.
+In fact, researchers suspect that Fosscam has sold the vulnerable IP camera model as a white-label product, which other companies bought, plastered their logo on top, and resold as their own devices. F-Secure says it identified 14 other vendors that sell Fosscam made cameras, but they have not tested their products as of yet.
+F-Secure recommends that network administrators remove any Fosscam made IP camera from their network until the Chinese company patches its firmware.
+</text>

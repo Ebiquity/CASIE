@@ -1,0 +1,18 @@
+<title> Ransomware crooks test a new way to spread their malware  </title>
+<source> https://www.zdnet.com/article/ransomware-crooks-test-a-new-way-to-spread-their-malware/ </source>
+<date> 2018_01_31 </date>
+<text>
+A new form of ransomware has emerged which is, unusually, being distributed by two separate exploit kits -- one of which was thought to have disappeared -- and demands payment in a lesser-known form of cryptocurrency.
+First seen on January 26, GandCrab has been spotted being distributed by two exploit kits, RIG EK and GrandSoft EK. According to researchers at security company Malwarebytes, it's unusual in itself for ransomware to be pushed using an exploit kit, with such tactics usually reserved for trojans and coin-miners.
+ An exploit kit is used by cybercriminals to take advantage of vulnerabilities in systems in order to distribute malware and perform other malicious activities. In contrast, ransomware is usually delivered by spam email. The only other form of ransomware known to be consistently distributed with an exploit kit is Magniber.
+GandCrab is distributed via the RIG exploit kit, which uses vulnerabilities in Internet Explorer and Flash Player to launch JavaScript, Flash, and VBscript-based attacks to distribute malware to users.
+It's possible that RIG spreads GandCrab to victims using malvertising on compromised websites, in an attack method similar to that used by Princess ransomware.
+GandCrab is also distributed using GrandSoft, an exploit kit which first appeared in 2012, but was thought to have disappeared. The GrandSoft EK takes advantage of a vulnerability in the Java Runtime Environment which allows attackers to remotely execute code, and in this case is used to distribute GandCrab.
+ Once the payload has been dropped and run on a compromised system, GandCrab, for the most part, acts like any other form of ransomware, encrypting Windows files using an RSA algorithm and demanding payment for the 'GandCrab Decryptor' required to unlock the files.
+The encrypted files gain a .GDCB extension, with the encryption loop designed in such a way it will eventually affect every file on the drive.
+However, unlike many forms of ransomware, GandCrab doesn't demand payment in bitcoin, but rather in a form of cryptocurrency called Dash.
+Those behind the ransomware demand 1.5 Dash (listed on the note as $1,200, although the fluctuating prices mean it's ever changing) as a ransom, a price which doubles to three Dash ($2,400) if the price isn't paid within a few days.
+ The demand for payment in Dash represents the latest example of ransomware distributors attempting to move away from bitcoin and onto other cryptocurrency, for reasons ranging from increased privacy and security to other forms of blockchain-based virtual currency being less popular than bitcoin and therefore quicker to process.
+There's currently no means of decrypting GandCrab ransomware files for free at this time, meaning the best way to avoid falling victim is to ensure all software updates and patches have been applied to ensure the vulnerabilities exploited by the exploit kits can't be used to distribute ransomware from infected sites.
+</text>
+

@@ -1,0 +1,12 @@
+<title> City of North Bend hit with ransomware   </title>
+<source> https://www.scmagazine.com/home/security-news/ransomware/the-city-of-north-bend-ore-was-hit-with-a-ransomware-attack-which-temporarily-locked-out-city-workers-from-their-computers-and-databases/ </source>
+<date> 2018_12_10 </date>
+<text>
+The city of North Bend, Ore., was hit with a ransomware attack which temporarily locked out city workers from their computers and databases.
+“One weekend morning a few weeks back all of our servers and things locked up, and we received a ransomware note that asked for $50,000 in Bitcoin these people would provide us with the code to unlock our computer systems,” North Bend City Administrator Terence O’Connor told The World.
+Fortunately the city’s IT systems were backed up and officials were able to avoid the high ransom demanded by the criminals responsible for the attack.
+City officials did, however, call in the FBI to investigate the attack and while they were unable to identify anyone directly involved in the attack, they were able to trace the ransom demand to Romania.
+O’Connor added that the attack appeared to be a more sophisticated ransomware where there are two keys needed to unlock your system with one planted in the system and the other is held by the culprit.
+The city was insured and ended up having to pay around $5,000 in out of pocket expenses as well as added a firewall security to prevent future attacks.
+</text>
+

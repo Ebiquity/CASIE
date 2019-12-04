@@ -1,0 +1,25 @@
+<title>How one man could have deleted any public Facebook video – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/01/26/how-one-man-could-have-deleted-any-public-facebook-video/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=5b01698c7d-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-5b01698c7d-455160889 </source>
+<date> 2017_01_27 </date>
+<text>
+Freelance security researcher Dan Melamed has done us all a solid.
+Then, he did the right thing: he reported it to Facebook.
+Melamed said in a blog post on Monday that he’d discovered the critical vulnerability in June.
+Besides finding a kill switch for any public video, he also discovered he could disable commenting on any video.
+Melamed had looked at the HTTP request that his browser sends to Facebook when he uploads a video.
+Using a program called Fiddler, he intercepted the request, swapped out his video’s ID for one belonging to a victim’s video, and then sent the modified request on its way to Facebook.
+Melamed’s method is simple: first, an attacker would either create a public event on Facebook or visit any existing public event.
+Then, they’d go to the event’s Discussion tab and create an event post by uploading a photo or video.
+He found that when you swap the value of the composer_unpublished_photo[0] parameter for the ID of the Facebook video you want to kill, the server will balk, putting out this error message:
+This content is no longer available.
+Error message or no error message, the video will still successfully attach itself to the created event post.
+When an attacker refreshes the Events Discussion page, they’d see that the event posting had appeared with the victim’s video attached.
+Then, it’s just a matter of clicking a small arrow dropdown and choosing “Delete Post”.
+A dialog box will warn that the video will also be removed from Photos and Videos.
+If you confirm in the dialog box that yes, you want to delete the video, Poof!
+Credit where credit’s due, Melamed noted that this vulnerability is similar to another video deletion bug that Indian security researcher and penetration tester Pranav Hivarekar discovered, also in June 2016.
+In a nutshell: whereas Hivarekar’s flaw had to do with attaching a victim’s video to a comment, Melamed discovered a way to attach the video to an event post.
+Delete the bath water/event post, and that baby/video gets tossed right out with it.
+This one had to do with how one man could have deleted any Facebook photo album that he could see.
+Mark offers this digression: In Melamed’s attack on videos, he specifies the ID of a video he’s targeting specifically, but since video IDs are just numbers, he could have just guessed one and wiped out a video at random.
+</text>

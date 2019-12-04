@@ -1,0 +1,10 @@
+<title>Android App Permission in Google Play Contains ...</title>
+<source> http://www.darkreading.com/mobile/android-app-permission-in-google-play-contains-security-flaw/d/d-id/1328834 </source>
+<date> 2017_05_10 </date>
+<text>
+Security researchers discovered a security vulnerability in Android's app permission model that could allow malicious apps to download onto the mobile device directly from Google Play and launch ransomware, adware, and banking malware, according to a Check Point Software blog post today.
+Check Point found the flaw in Android version 6.0.0,  otherwise known as the Marshmallow.
+"As a temporary solution, Google applied a patch in Android version 6.0.1 that allows the Play Store app to grant run-time permissions, which are later used to grant SYSTEM_ALERT_WINDOW permission to apps installed from the app store. This means that a malicious app downloaded directly from the app store will be automatically granted this dangerous permission," Check Point wrote in a blog post today.
+The SYSTEM-ALERT-WINDOW mechanism will also effectively bypass security mechanisms introduced in the previous version of Android, according to Check Point.
+Google plans to fix the issue in its upcoming "Android 0" version. 
+</text>

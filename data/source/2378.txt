@@ -1,0 +1,14 @@
+<title>Muslim Dating Site ‘Pure Matrimony’: Reset Your Passwords - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/muslim-dating-site-pure-matrimony-reset-your-passwords </source>
+<date> 2017_05_18 </date>
+<text>
+ Dating sites can make juicy targets for hackers.
+ Muslim focused site PureMatrimony.com says it has informed its users of an apparent data breach, and asked them to reset their passwords.
+ "Looking for a practising single Muslim? Look no further. We have over 100,000 members," PureMatrimony.com reads. Apart from a focus on a specific demographic, Pure Matrimony works very much like any other dating site, and has a free sign up process.
+ Motherboard obtained a list of some 120,000 hashes—a string of characters that can represent a user's password—that were dumped on a password cracking forum, and that appear to relate to Pure Matrimony. They were hashed with the weak MD5 algorithm, meaning that hackers could likely obtain many real passwords from them.
+ Indeed, several users on the forum had seemingly successfully cracked a number of the hashes. Many of the hashes, when translated to plaintext versions, read "purematrimony," or "purematrimony1," for example. The posted data did not include any other account information, such as email addresses or usernames.
+ "Customers have already been notified of the incident via email," a Pure Matrimony representative told Motherboard in an email. "Customers have been notified to change their passwords on their profile accounts as well as any other places online where they may have used the same password." The company claimed that Pure Matrimony's site had not been hacked, but believes a vulnerability in a third party service provider may be to blame. Motherboard could not independently verify this claim.
+ "Our team have taken advice from two separate independent security consultants to ensure that we are doing everything possible to secure our data and protect our members. Aside from the additional security measures and moving our website to a new server, we have informed members and also logged this with the ICO [the UK's Information Commissioner's Office, which upholds data protection in the country]," the representative added.
+ Last year, Motherboard reported on a data breach of another Muslim dating site, Muslim Match. In that case, hackers managed to grab the full content of messages between members.
+  The lesson: As Pure Matrimony advises, users should change their passwords, and especially on sites where they used the same login details. But it's not clear how successful a hack might be at breaking into other accounts, since the the data did not include usernames or email addresses.
+</text>

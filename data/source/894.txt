@@ -1,0 +1,19 @@
+<title>This old ransomware variant is back - with sneaky new tricks | ZDNet</title>
+<source> http://www.zdnet.com/article/an-old-ransomware-variant-is-back-with-new-tricks/ </source>
+<date> 2017_03_06 </date>
+<text>
+It's been quiet since 2015, but TorrentLocker has suddenly returned.
+And this time it wants to steal your passwords too.
+Cybercriminals are always adding new malicious tricks to ransomware.
+A ransomware variant which has been relatively inactive for almost two years is back, and this time it's stealing user credentials from victims in addition to demanding a ransom to unencrypt locked files.
+TorrentLocker -- also known as Cryptolocker -- started targeting Windows users in 2014 before dropping off by the summer of 2015.
+Like the majority of ransomware schemes,  TorrentLocker spreads via spam email messages  containing malicious attachments.
+Rising Bitcoin prices force Cryptolocker ransomware scammers to drop asking price
+Bitcoin's wild fluctuations have forced a price update to the Cryptolocker ransomware.
+If the victim enables the macros by choosing to 'Enable Editing', a PowerShell code is executed and the ransomware is downloaded, encrypting the victims' files until they pay a ransom.
+But that isn't where the malicious activity ends, because as noted by cybersecurity researchers at Heimdal Security, this incarnation of TorrentLocker has new features, including the ability to spread itself to other computers via shared files; something which could see the ransomware taking over a whole network in a very short space of time.
+In addition to holding networks to ransom, the new version of TorrentLocker also harvests usernames and passwords from infected computers, putting businesses at risk of cyberespionage and data breaches, while users could see their personal or financial information leaked and sold to cybercriminals on the dark web.
+The researchers warn that the revived TorrentLocker campaign is "very aggressive" and that many well known antivirus software products haven't been updated to protect against it, even days after the campaign began.
+Heimdal Security warns users in its native Denmark that they're being highly targeted by TorrentLocker.
+Indeed, it appears that European internet users are the main target for those behind the campaign, as Microsoft told BleepingComputer that Italy is by far the most targeted by the perpetrators.
+</text>

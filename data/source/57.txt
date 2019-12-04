@@ -1,0 +1,25 @@
+<title>FBI website hacked by CyberZeist and data leaked onlineSecurity Affairs</title>
+<source> http://securityaffairs.co/wordpress/55042/data-breach/fbi-hacked.html </source>
+<date> 2017_01_05 </date>
+<text>
+The hacker leaked the FBI.GOV accounts that he found in several backup files (acc_102016.bck, acc_112016.bck, old_acc16.bck, etc).
+Leaked records contain accounts data, including names, SHA1 Encrypted Passwords, SHA1 salts, and emails.
+The intrusion occurred on December 22, 2016, the hacker revealed to have exploited a zero-day vulnerability in the Plone Content Management System
+ Going back to 22nd December 2016, I tweeted about a 0day vulnerability in Plone CMS which is considered as the most secure CMS till date.
+The vulnerability resides in some python modules of the CMS.
+The hacker noticed that while media from Germany and Russia published the news about the hack, but US based publishers ignored it.
+According to CyberZeist, the FBI contacted him to pass on the leaks.
+"I was contacted by various sources to pass on the leaks to them that I obtained after hacking FBI.GOV but I denied all of them.
+just because I was waiting for FBI to
+react on time.
+They didn’t directly react and I don’t know yet what are they up to, but at the time I was extracting my finds after hacking FBI.GOV," he wrote.
+The expert added further info on the attack, while experts at the FBI were working to fix the issue, he noticed that the Plone 0day exploit was still working against the CMS backend.),  but I was able to recon that they were running FreeBSD ver 6.2-RELEASE that dates back to 2007 with their own custom configurations.
+Their last reboot time was 15th December 2016 at 6:32 PM in the evening .
+"While exploiting FBI.GOV, it was clearly evident that their webmaster had a very lazy attitude as he/she had kept the backup files (.bck extension) on that same folder
+where the site root was placed (Thank you Webmaster!),  but still I didn’t leak out the whole contents of the backup files, instead I tweeted out my findings and thought to wait for FBI’s response"
+Now let’s sit and wait for the FBI’s response. I obviously cannot publish the 0day attack vector myself. 
+The hacker confirmed that the 0-day is offered for sale on Tor by a hacker that goes by the moniker “lo4fer”.
+Once this 0day is no longer being sold, I will tweet out the Plone CMS 0day attack vector myself.
+Let’s close with a curiosity … CyberZeist is asking you to chose the next target.
+The hacker is very popular, among his victims, there are Barclays, Tesco Bank and the MI5.
+</text>

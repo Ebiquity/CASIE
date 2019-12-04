@@ -1,0 +1,27 @@
+<title>0.2 BTC Strikes Back, Now Attacking MySQL Databases - GuardiCore - Data Center and Cloud Security</title>
+<source> https://www.guardicore.com/2017/02/0-2-btc-strikes-back-now-attacking-mysql-databases/ </source>
+<date> 2017_02_27 </date>
+<text>
+Last week we first tweeted that the GuardiCore Global Sensor Network (GGSN) has detected a wide ransomware attack targeting MySQL databases.
+The attacks look like an evolution of the MongoDB ransomware attacks first reported earlier this year by Victor Gevers.
+Similarly to the MongoDB attacks, owners are instructed to pay a 0.2 Bitcoin ransom (approx.$200) to regain access to their content.
+We saw two very similar variations of the attack using two bitcoin wallets.
+In this post we will describe in detail the attack flow and provide some recommendations on how to protect your databases from similar attacks along with attack IoCs.
+The attacks started at midnight at 00:15 on February 12 and lasted about 30 hours in which hundreds of attacks were reported by GGSN.
+We were able to trace all the attacks to 109.236.88.20, an IP address hosted by worldstream.nl, a Netherlands-based web hosting company.
+The attacker is (probably) running from a compromised mail server which also serves as HTTP(s) and FTP server.
+Worldstream was notified a few days after we reported the attack.
+The attack starts with ‘root’ password brute-forcing.
+Once logged-in, it fetches a list of the existing MySQL databases and their tables and creates a new table called ‘WARNING’ that includes a contact email address, a bitcoin address and a payment demand.
+In one variant of the attack the table is added to an existing database; in other cases the table is added to a newly created database called ‘PLEASE_READ’.
+The attacker will then delete the databases stored on the server and disconnect, sometimes without even dumping them first.
+The attack as reported by GuardiCore Centra
+We logged two versions of the ransom message:
+INSERT INTO PLEASE_READ.`WARNING`(id, warning, Bitcoin_Address, Email) VALUES(‘1′,’Send 0.2 BTC to this address and contact this email with your ip or db_name of your server to recover your database!
+Your DB is Backed up to our servers!’, ‘1ET9NHZEXXQ34qSP46vKg8mrWgT89cfZoY’, ‘backupservice@mail2tor.com’)
+INSERT INTO `WARNING`(id, warning)
+VALUES(1, ‘SEND 0.2 BTC TO THIS ADDRESS 1Kg9nGFdAoZWmrn1qPMZstam3CXLgcxPA9 AND GO TO THIS SITE http://sognd75g4isasu2v.onion/ TO RECOVER YOUR DATABASE!
+The second version offers the owner to visit the following darknet web site ‘http://sognd75g4isasu2v.onion/’ to recover the lost data.
+The darknet web site referenced in the ransom note.
+Each version uses a different bitcoin wallet, 1Kg9nGFdAoZWmrn1qPMZstam3CXLgcxPA9 vs 1ET9NHZEXXQ34qSP46vKg8mrWgT89cfZoY and based on Blockchain public information people have been paying up.
+</text>

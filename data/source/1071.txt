@@ -1,0 +1,28 @@
+<title>US military leak exposes 'holy grail' of security clearance files | ZDNet</title>
+<source> http://www.zdnet.com/article/leaked-us-military-files-exposed/ </source>
+<date> 2017_03_14 </date>
+<text>
+An unsecured backup drive has exposed thousands of US Air Force documents, including highly sensitive personnel files on senior and high-ranking officers.
+Security researchers found that the gigabytes of files were accessible to anyone because the internet-connected backup drive was not password protected.
+The files, reviewed by ZDNet, contained a range of personal information, such as names and addresses, ranks, and Social Security numbers of more than 4,000 officers.
+Another file lists the security clearance levels of hundreds of other officers, some of whom possess "top secret" clearance, and access to sensitive compartmented information and codeword-level clearance.
+Phone numbers and contact information of staff and their spouses, as well as other sensitive and private personal information, were found in several other spreadsheets.
+The drive is understood to belong to a lieutenant colonel, whose name we are not publishing.
+ZDNet reached out to the officer by email but did not hear back.
+The data was secured last week after a notification by MacKeeper security researcher Bob Diachenko.
+Among the most damaging documents on the drive included the completed applications for renewed national security clearances for two US four-star generals, both of whom recently had top US military and NATO positions.
+Both of these so-called SF86 applications contain highly sensitive and detailed information, including financial and mental health history, past convictions, relationships with foreign nationals, and other personal information.
+These completed questionnaires are used to determine a candidate's eligibility to receive classified material.
+Several national security experts and former government officials we spoke to for this story described this information as the "holy grail" for foreign adversaries and spies, and said that it should not be made public.
+For that reason, we are not publishing the names of the generals, who have since retired from service.
+Nevertheless, numerous attempts to contact the generals over the past week went unreturned.
+"Some of the questions ask for information that can be very personal, as well as embarrassing," said Mark Zaid, a national security attorney, in an email.
+The form allows prospective applicants to national security positions to disclose arrests, drug and alcohol issues, or mental health concerns, among other things, said Zaid.
+Completed SF86 forms aren't classified but are closely guarded.
+These were the same kinds of documents that were stolen in a massive theft of sensitive files at the Office of Personnel Management, affecting more than 22 million government and military employees.
+One spreadsheet contained a list of officers under investigation by the military, including allegations of abuses of power and substantiated claims of wrongdoing, such as wrongfully disclosing classified information.
+Nevertheless, this would be the second breach of military data in recent months.
+of Defense subcontractor, was the source of a large data exposure of military personnel files of physical and mental health support staff.
+Many of the victims involved in the data leak are part of the US Special Operations Command (SOCOM), which includes those both formerly employed by US military branches, such as the Army, Navy, and Air Force, and those presumably still on active deployment.
+It's not known how long the backup drive was active.
+</text>

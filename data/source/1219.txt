@@ -1,0 +1,18 @@
+<title>Critical Moodle Vulnerability Could Lead to Server Compromise | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/critical-moodle-vulnerability-could-lead-to-server-compromise/124446/ </source>
+<date> 2017_03_22 </date>
+<text>
+A critical vulnerability in Moodle, an open source PHP-based learning management system deployed across scores of schools and universities, could expose the server its running on to compromise.
+Tens of thousands of universities worldwide, including the California State University system, the University of Oxford, and Stanford University, use the service to provide students with course outlines, grades, and other personal data.
+The issue–at its root a SQL injection vulnerability–could be used by an attacker to execute PHP code on a university’s server according to Netanel Rubin, the researcher who found the bug.
+Rubin, who has previously dug up vulnerabilities in Mozilla’s Bugzilla bug tracking system, e-commerce platform Magento, and WordPress, described the bug in depth in a blog post on Monday.
+“Similar scenarios could be used in previous versions of Moodle but only by managers/admins and only via web services,” the advisory reads.
+School IT administrators are being encouraged to apply a patch that maintainers of the system pushed 10 days ago.
+Rubin discovered that he could exploit the feature however and get an unserialize call by leaving a preference in a block mechanism empty.
+That could open the door to an object injection attack.
+While the attack had its limitations, Rubin discovered a way to pivot from it to a series of method calls.
+From there, he found he could use the system’s “update” method to update any row in an affected database.
+This gave him the ability to tweak administrator accounts, passwords, the site configuration, “basically whatever we want,” he wrote.
+Rubin used a double SQL injection to top off his exploit, helping him gain full administrator privileges on any server running Moodle.
+“After gaining full administrator privileges executing code is as simple as uploading a new plugin or template to the server,” Rubin writes.
+</text>

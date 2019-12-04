@@ -1,0 +1,28 @@
+<title>Netflix Scam Spreads Ransomware</title>
+<source> http://www.darkreading.com/attacks-breaches/netflix-scam-spreads-ransomware/d/d-id/1328012? </source>
+<date> 2017_01_31 </date>
+<text>
+A newly discovered threat aims to steal Netflix user credentials and hold them hostage, according to researchers at Trend Micro.
+Netflix has 93 million subscribers in more than 190 countries.
+It's a popular app, but many people aren't willing to pay the monthly subscription fee.
+They'll try to bypass the cost and watch content for free - and cybercriminals are now taking advantage of them.
+This newly detected ransomware, RANSOM_NETIX.A, aims to trick Windows PC users with a login generator typically used for software and account membership piracy.
+Victims click a "Generate Login" button to kick-start the encryption process.
+The ransomware uses fake login prompts as a distraction while it encrypts 39 file types under the C:\Users directory.
+The program then demands $100 in Bitcoin from victims.
+While it targets Windows users, it's worth noting the ransomware destroys itself on systems not running Windows 7 or Windows 10.
+Netflix, with its massive user base, presents a tempting opportunity for hackers to exploit vulnerabilities, infect systems to steal user data, and monetize data on the dark Web.
+Stolen credentials can be used to bargain among criminals or trick victims into installing malware, which can generate profit.
+"We regularly see threat actors utilize popular apps or services as a lure to get victims to infect themselves," explains Jon Clay, global director of threat communications at Trend Micro.
+"Also, by using imagery that is similar to the real vendor's imagery, [criminals] trick the victim into thinking it's real."
+Clay says this discovery marks a continuation of 2016 ransomware trends, which included the creation of new tactics to generate more victims.
+After seeing nearly 750% growth in new ransomware families in 2016, Trend Micro predicted 25% growth in new families for 2017.
+The Netflix scam carries implications for how ransomware will evolve later in the year.
+"We will likely see other popular vendors targeted with their brands, especially if the actors behind [the Netflix scam] find success," he continues.
+"They will use this tactic again with other vendors."
+This is a wake-up call for potential victims to protect their accounts.
+Best practices include regularly updating account credentials, employing two-factor authentication, limiting downloads to official sources, and being wary of illegitimate emails.
+Businesses should educate their employees on how ransomware threats work, and how using legitimate brands in social engineering attacks can trick victims into making dangerous decisions.
+Employees should be aware that trying to obtain a free Netflix account is "bogus," says Clay, and should not be acted upon.
+If a deal seems too good to be true, it typically is.
+</text>

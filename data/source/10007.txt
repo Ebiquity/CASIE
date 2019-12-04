@@ -1,0 +1,10 @@
+<title> Bully 4 U: Victims’, perpetrators’ names exposed in Western Albemarle data breach </title>
+<source> http://www.schillingshow.com/2018/10/25/bully-4-u-victims-perpetrators-names-exposed-in-western-albemarle-data-breach/ </source>
+<date> 2018_10_25 </date>
+<text>
+The results of an annual school survey administered by Western Albemarle High School (WAHS) were inadvertently exposed to the public in a serious breach of security and student privacy protocol.
+In a post-breach letter to parents, WAHS principal, Darah Bonham, explained that the school’s Peer Nomination Survey “asks students to identify peers who either have been victims of bullying or have been responsible for bullying others.”
+Bonham continued by revealing that a change to the survey exposed presumed confidential names of students listed on the survey:
+    The survey is administered electronically and this morning, a change was made to add questions having to do with student needs around technology. Regrettably, this change inadvertently altered the security settings, making publically accessible, some survey information reported by students. It did not make public the names of students who provided that information.
+While WAHS has given assurances that the names of those submitting data to the survey were not exposed, concerned parents, students, and teachers were not assuaged.
+</text>

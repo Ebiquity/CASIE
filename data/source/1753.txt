@@ -1,0 +1,13 @@
+<title>Beware bogus emails from LinkedIn asking for your CV! – HOTforSecurity</title>
+<source> https://hotforsecurity.bitdefender.com/blog/beware-bogus-emails-from-linkedin-asking-for-your-cv-17906.html </source>
+<date> 2017_04_19 </date>
+<text>
+LinkedIn users are being warned to be on their guard following a rise in reports of attacks being distributed via email designed to trick job seekers into sharing their personal details.
+Scammers have spammed out email messages posing as communications from LinkedIn, claiming that a company is “urgently seeking” workers matching your qualifications in “your region”.
+It would be nice to think that recipients of the bogus message would spot a number of warning signals as soon as they open the communication in their email inbox. But there’s always a chance that someone eager to find new employment might – in their haste – not notice that the messages
+As HelpNetSecurity describes, if anyone was careless enough to follow the email’s advice and click on the link contained within the message – they would be taken to a third-party website where they are instructed to upload their CVs, making it child’s play for scammers to harvest the information.
+Just think of some of the personal information that you include in your CV or resume. Before you know it, a scammer might have your full name, date of birth, work and home email addresses, work and home telephone numbers, and all manner of other personal information that could be abused by scammers.
+At the simplest level such data breaches could lead to a rise in targeted spam attacks, or scam phone calls. But it could also be a stepping stone to more damaging business email compromise (also often known as “CEO fraud”) which has resulted, in some cases, in companies losing tens of millions of dollars.
+Anything which gives online criminals inside information about you and your position within a company could give them the head start they need to launch a targeted attack that could lead to a significant data breach or a substantial financial loss.
+In short, being careless with your personal information – such as your CV – might not just put your career in jeopardy, it could also ultimately endanger the company you work for. And that’s certainly not going to ever look good on your CV.
+</text>

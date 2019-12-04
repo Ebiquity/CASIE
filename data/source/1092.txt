@@ -1,0 +1,20 @@
+<title>13 Google Play Store Apps Caught Stealing Instagram Credentials</title>
+<source> https://www.bleepingcomputer.com/news/security/13-google-play-store-apps-caught-stealing-instagram-credentials/ </source>
+<date> 2017_03_15 </date>
+<text>
+In total, ESET security researcher Lukas Stefanko discovered 13 apps that appear to have been written by a Turkish developer.
+While seven of the 13 apps obviously focused on Turkish-speaking users, the rest targeted users from across the world.
+Stefanko says he reported all 13 apps to Google's security team, who removed them from the Play Store last week.
+The modus operandi of all these apps was the same.
+The app would then collect the user's login details, send them to a remote server, and show a login error.
+The error would appear every time the user tried to authenticate, and after a certain number of login attempts, the error would change, and ask the user to visit the official Instagram site instead and authorize the app from there.
+When the user visited the Instagram homepage, he would see a notification from Instagram letting him know that someone has accessed his account.
+From this point on, if victims don't change their passwords, the crook would use the victim's Instagram account to like images or follow other accounts.
+Stefanko believes these apps power online services that offer Instagram likes and followers for money.
+Back in January, the researcher discovered a similar app that stole Instagram credentials and targeted Turkish users.
+That app, as well, was hosted on the official Google Play Store.
+Other ways in which hackers could use the stolen Instagram credentials is to post image ads on people's profiles and to extort some kind of payment from the owners of accounts with a large follower base.
+Overall, there have been many cases of apps that stole Instagram credentials in the past few years.
+In November 2015, Apple removed an app named "Who Viewed Your Profile - InstaAgent" from the App Store because of the same behavior.
+Six months later, Google faced a similar incident and was forced to remove two apps named "Who Viewed Me on Instagram" and "InstaCare - Who cares with me?," also caught stealing Instagram credentials.
+</text>

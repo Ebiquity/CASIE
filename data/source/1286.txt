@@ -1,0 +1,27 @@
+<title>Experts Doubt Hacker's Claim Of Millions Of Breached Apple Credentials | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/experts-doubt-hackers-claim-of-millions-of-breached-apple-credentials/124574/ </source>
+<date> 2017_03_27 </date>
+<text>
+Security experts say they are skeptical that a group of hackers called Turkish Crime Family actually possess a cache of hundreds of millions of Apple iCloud account credentials.
+A more plausible explanation, they say, is that crooks used credential stuffing attacks to amass a limited number of valid Apple usernames and passwords in attempt to extort money from Apple.
+Earlier this week, the group identifying itself as the Turkish Crime Family claimed to have a database of 750 million iCloud.com, me.com and mac.com email addresses and credentials.
+“There have not been any breaches in any of Apple’s systems including iCloud and Apple ID,” Apple said in a statement.
+“The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services”.
+Hackers behind the claim are demanding Apple pay them $75,000 in cryptocurrency or give them $100,000 in iTunes vouchers, according to reports.
+If  demands are not met by April 7, the group said it will begin deleting data stored on iCloud accounts en masse.
+An independent analysis of 54 samples of the breached account data provided to ZDNet by the hackers were valid.
+However, security experts such as Troy Hunt, who runs the data breach repository HaveIBeenPwned.com, still isn’t convinced.
+Hunt told Threatpost he suspects the hack is a hoax, admitting he has not seen the any samples of the breached data.
+“It’s entirely possible whoever is behind this could have username and password pairs that work on a limited number of Apple accounts in just the same way as re-used credentials will work across all sorts of other accounts,” Hunt said.
+He said the Turkish Crime Family likely has a far smaller pool of valid Apple credentials than it claims.
+Shuman Ghosemajumder, CTO of the firm Shape Security told Threatpost he suspects the hackers may have used credential stuffing attacks, using data from previous breaches, to gain access to an undetermined number of iCloud accounts.
+Shape Security estimates that last year alone 3.3 billion credentials were exposed via breaches.
+Despite credential stuffing’s low success rate of  1 percent to 2 percent, Ghosemajumder said, when applied to a large enough cache of data (purchased on the dark web by the database) the hackers may have enough information to successfully crack thousands of Apple accounts.
+“There are certainly enough credentials spilled onto the internet to think someone could use credential stuffing techniques to pull together a convincing number of valid accounts in attempt to extort Apple for ransom money,” Ghosemajumder said.
+Patrick Wardle, director of research at Synack, echoed the same credential theory suggesting that breaches over the past year have given hackers ample opportunity to pull together some valid iCloud account credentials.
+Since approaching Apple earlier this month with its demands, the Turkish Crime Family has been inconsistent about how many account credentials it allegedly possesses.
+Speaking to various different media outlets, the group has said it had 200 million credentials to as many as 750 million.
+The hacking group said that its repository isn’t the result of one breach, rather multiple.
+On Thursday, the group claimed to have a database of 750 million credentials, 250 million of which are “checked and working,” according to the group.
+Meanwhile, Apple says it’s actively monitoring to prevent unauthorized access to user accounts and is working with law enforcement to identify the criminals behind the Turkish Crime Family extortion scheme.
+</text>

@@ -1,0 +1,14 @@
+<title> EdgeWave Discovered New Spam Technique Exploiting Ubiquitous URL Shorteners </title>
+<source> http://www.marketwired.com/press-release/edgewave-discovered-new-spam-technique-exploiting-ubiquitous-url-shorteners-2202458.htm </source>
+<date> 2018_03_13 </date>
+<text>
+EdgeWave, Inc.®, a leading provider in cybersecurity and compliance, today revealed a new, malicious exploit embedded in popular URL shorteners, which are being mistaken as legitimate URLs.
+URL shorteners may be susceptible to this new exploit when a change is allowed to the long URL after the shortened URL is created. The malicious parties fabricate an email that appears to be a legitimate marketing email which includes the shortened URL --- passing by any in-transit virus scanning and potentially other spam checking tools.
+"Several days ago, we detected this new exploit while performing our real-time, human analysis on spam campaigns," said Blake Tullysmith, Principal Engineer at EdgeWave. "With over 100 million URLs being shortened per day, this new exploit can potentially impact billions of users across email and social media campaigns."
+Here is how the EdgeWave ePrism team explains the exploit:
+Some URL shorteners will allow users to change the long URL after they have already created the shortened URL. The malicious parties will then fabricate a seemingly legitimate email and include a shortened URL that passes in-transit virus scanning as well as other filtering solutions, which will allow the shortened URL to be delivered right into the inbox. Once the spam campaign is embedded in the message, the URL is redirected to a site that contains malicious content like a virus or malware. However, the delivered message is already in the inbox; so unfortunately, there is no protection at this point.
+Attached is an image of a sample email message extracted from an email campaign while in-transit with a link from http://tiny.cc pointing to a clean website. After the campaign was delivered, it points to a compromised website including malicious content.
+The EdgeWave team is still conducting further investigations on this exploit and recommends all URL shortening users utilize services that do not allow the URL to be edited after its creation. EdgeWave customers are being protected by its ePrism Email Security solution.
+EdgeWave ePrism is an award-winning, hosted cloud email security solution with Zero-Minute Defense against phishing, spam and malware campaigns using our unique combination of automated intelligence and 24/7/365 human analysis in a simple-to-use security suite for all email compliance and business needs. 
+</text>
+

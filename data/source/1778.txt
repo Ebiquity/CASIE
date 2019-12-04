@@ -1,0 +1,16 @@
+<title> Android SMS Spyware Sees Millions of Downloads </title>
+<source> https://www.infosecurity-magazine.com/news/android-sms-spyware-sees-millions/ </source>
+<date> 2017_04_20 </date>
+<text>
+An Android SMS-based spyware dubbed SMSVova, which can steal and relay a victim's location to an attacker in real time, has been downloaded between one and five million times since 2014 from the US Google Play store.
+Zscaler ThreatLabz found that the app claimed to give users access to the latest Android software updates, but in fact was being used to spy on a user’s exact geolocation, which could have been used for any number of malicious reasons.
+Despite clear red flags, millions downloaded it.
+“The app portrays itself as a ‘System Update,’” the firm’s researchers explained, in a blog. “After reading the app reviews, it became clear that several users were misled by the app, thinking that it would provide them with latest Android release. Many users were unhappy with the app and conveyed their concerns.”
+In addition to the negative reviews, there were other indicators that raised suspicions: The Google Play Store page for this particular app was showing blank screenshots, which is not common, and there was no proper description for the app. It also didn’t mention that it would track the victim, nor that it would send location information to a third party. It said only, “This application updates and enables special location features.”
+“There are many spyware variations present on the Google Play store, such as Cell Tracker, but the legitimate apps are explicit in their intentions, and have specific purposes for tracking a user’s device,” Zscaler researchers noted.
+As soon as the user tries to start up the app, it abruptly quits and hides itself from the main screen. From there, it sets up an Android service and broadcast receiver to fetch the user’s last known location and set it up in Shared Preferences. An attacker could also set a location alert when victim’s battery is running low.
+Interestingly, the code is a carbon copy of the location-stealing code in DroidJack, the remote access trojan.
+“There are many apps on the Google Play Store that act as a spyware; for example, those that spy on the SMS messages of one’s spouse or fetch the location of children for concerned parents,” researchers said. “But those apps explicitly state their purpose, which is not the case with the app we analyzed for this report. It portrayed itself as a system update, misleading users into thinking they were downloading an Android System Update.”
+Google has removed the app from the store since Zscaler reported it to the Google security team.
+</text>
+

@@ -1,0 +1,15 @@
+<title> Apple pushes out Mojave 10.14, patches numerous vulnerabilities </title>
+<source> https://www.scmagazine.com/home/security-news/apple-pushes-out-mojave-10-14-patches-numerous-vulnerabilities/ </source>
+<date> 2018_09_25 </date>
+<text>
+Apple has issued an update to fix a number of issues in macOS Mojave leading to arbitrary code execution, the ability to read restricted memory and access local users Apple IDs among others.
+All were patched with the release of macOS Mojave 10.14 on Sept 24.
+applePatchapplePatch
+The first issue, CVE-2018-5383, impacted a number of iMac, MacBook Air, Mac Pro and Mac mini server products. An input validation issue existed in Bluetooth was fixed that could have allowed an attacker in a privileged network position to intercept Bluetooth traffic.
+The App Store also patched CVE-2018-4324, an issue in the handling of Apple ID that could have been exploited by a malicious application that would expose the Apple ID of the computer’s owner. Also, a validation issue that could expose Apple IDs was in Auto Unlock that was patched with improved validation of the process entitlement.
+CVE-2018-4353 impacted the application firewall where a sandboxed process may be able to circumvent sandbox restrictions, but this was addressed by adding additional restrictions.
+In Crash Reporter a validation issue, CVE-2018-4333, was addressed that if exploited would allow a malicious application to read restricted memory.
+Two Kernel problems were fixed, CVE-2018-4336 and CVE-2018-4344, that could let an application may be able to execute arbitrary code with kernel privileges.
+The final problem, CVE-2016-1777, effected Security where an attacker could exploit a weaknesses in the RC4 cryptographic algorithm and was fixed by removing RC4.
+</text>
+

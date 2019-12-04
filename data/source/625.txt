@@ -1,0 +1,21 @@
+<title>Researcher develops ransomware attack that targets water supply | CSO Online</title>
+<source> http://www.csoonline.com/article/3169592/security/researcher-develops-ransomware-attack-that-targets-water-supply.html </source>
+<date> 2017_02_14 </date>
+<text>
+He's experimented with a simulated water treatment system based on actual programmable logic controllers (PLCs) and documented how these can be hacked.
+David Formby, a PhD student at Georgia Institute of Technology, conducted his experiment to warn the industry about the danger of poorly-secured PLCs.
+These small dedicated computers can be used to control important factory processes or utilities, but are sometimes connected to the internet.
+For instance, Formby found that 1,500 of these industrial PLCs are accessible online, he said while speaking at the RSA cybersecurity conference on Monday.
+It's not hard to imagine a hacker trying to exploit these exposed PLCs, he added.
+Cybercriminals have been infecting businesses across the world with ransomware, a form of malware that can hold data hostage in exchange for bitcoin.
+For a hacker, holding an industrial control system hostage can also be lucrative, and far more devastating for the victim.
+“He (the hacker) can threaten to permanently damage this really sensitive equipment,” Formby said.
+In a month's time he developed a ransomware-like attack to control the PLCs to fill the storage tank with too much chlorine, making the water mix dangerous to drink.
+Formby also managed to fool the surrounding sensors into thinking that clean water was actually inside the tank.
+A hacker wanting to blackmail a water utility could take a same approach, and threaten to taint the water supply unless paid a ransom, he warned.
+Real-world water treatment systems are more sophisticated than the generic one he designed, Formby said.
+However, poorly-secured PLCs are being used across every industry, including in oil and gas plants and manufacturing.
+Most of these PLCs he found that were accessible online are located in the U.S., but many others were found in India and China, he said.
+Formby recommends that industrial operators make sure they understand which systems connect to the internet, and who has control over them.
+He’s also set up a company designed to help operators monitor for any malicious activity over their industrial control systems.
+</text>

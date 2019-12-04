@@ -1,0 +1,21 @@
+<title>Netflix declines to pay Orange is the New Black ransom to hacker – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/05/02/netflix-declines-to-pay-orange-is-the-new-black-ransom-to-hacker/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=01addbcc03-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-01addbcc03-455160889 </source>
+<date> 2017_05_03 </date>
+<text>
+As everyone in TV-land knows, established broadcasters have been losing eyeballs to streaming companies such as Netflix and Amazon and their big-budget “event” shows.
+The upstarts look unstoppable but might an obscure hacker called The Dark Overlord, previously connected to health sector data extortion, have spotted an important flaw in the model?
+Last week, Netflix found itself on the receiving end of a ransom demand from the individual or group, making unconfirmed demands in return for not releasing the unseen series 5 of the hit Orange Is the New Black, starring Dascha Polanco (pictured, at Toronto Pride) to the web.
+The company, understandably, refused to play ball and on Saturday reports emerged that a number of episodes had appeared on a popular torrenting service, the name of which it behoves us not to mention for reasons including the high risk of encountering malware.
+Visiting that resource, we managed to find one file with mention of a “press release” that has since been expunged, including from web caches. It reportedly read:
+We’ve decided to release Episodes 2-10 of “Orange Is The New Black” Season 5 after many lengthy discussions at the office where alcohol was present.
+Separately, the group’s Twitter feed crowed:
+And so let it be read that the loathsome giants do too fall. Hello Netflix, we’ve arrived.
+The account threatened the release of material stolen from other media companies, including ABC, National Geographic and Fox.
+Netflix acknowledged the leak, which it said was caused by a breach at a “production vendor” also used by other TV studios. Netflix is cleverly covering its back by pointing the level of integration – and vulnerability – in the TV industry, but there is no question the breach still lands at its door.
+It’s not clear whether the way streaming services process digital content is that different or less secure from established broadcasters but the minute a show exists in a form that can be copied it becomes vulnerable to theft.
+The BBC found this out to its cost when an episode of the Russian version of Sherlock found its way on to the internet before it was due to be broadcast.
+And yet, defying cybersecurity breach orthodoxy, perhaps this particular breach isn’t so bad after all: on Monday, Netflix’s share price even rose.
+One reason might be that content breaches aren’t the same as ones involving customer data. The latter will cost the victim organisation money, court time and, in most countries, regulatory investigation.
+A few people watching a Netflix show earlier than normal seems minor by comparison as long as it doesn’t happen too often. Assuming the company patches the hole that let its show be thieved, it’s not stretching it to suggest The Dark Overlord’s leaking could even have given Orange Is the New Black an unintended publicity jump.
+Presumably that’s not what The Dark Overlord intended although it’s also possible this has always been about self-regarding publicity as much as simple extortion for money. If so, Netflix is starting to look like the winner on that front too.
+</text>

@@ -1,0 +1,23 @@
+<title>Cisco WebEx code execution hole – what you need to know – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/01/26/cisco-webex-code-execution-hole-what-you-need-to-know/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=5b01698c7d-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-5b01698c7d-455160889 </source>
+<date> 2017_01_27 </date>
+<text>
+The big security issue of the week is a remote code execution hole related to the Cisco WebEx service.
+WebEx is a popular collaboration tool for online events such as meetings, webinars and videoconferences.
+Like many services of this sort, you access online events via your browser, augmented by a special-purpose browser extension.
+Browser extensions and plugins allow web developers to extend the software features inside your browser with a mixture of scripts and program code, for example to add configuration options or to support new audio and video formats.
+Of course, when you add  another layer of programmatic complexity on top of an already-complex browser, it’s easy to add new security holes, too.
+Perhaps the best known example of a problematic plugin is Adobe Flash, which has provided cybercrooks with such a fruitful source of exploitable security holes over the years that we have long been urging you to try to live without Flash altogether.
+The latest security scare of this sort has been dubbed CVE-2017-3823, and it applies to Cisco’s special-purpose WebEx browser extension.
+In oher words, if your organisation uses WebEx, you probably have the browser extension installed, and if you have it installed, you may be at risk.
+According to Tavis Ormandy at Google’s Project Zero, who discovered and documented the bug, there are more than 20 million WebEx users worldwide.
+According to Cisco, Internet Explorer, Chrome and Firefox on Windows are affected.
+Microsoft Edge on Windows and all browsers on Mac and Linux are safe.
+The most recent update for Chrome is Cisco WebEx extension 1.0.7.
+Cisco published a notification about this update at 2017-01-26T19:45Z, having issued and then withdrawn 1.0.3 and then 1.0.5 earlier this week after deeming them “incomplete”.
+However, at 2017-01-26T19:45Z, Cisco’s official Security Advisory page says:
+Cisco is currently developing updates that address this vulnerability for Firefox and Internet Explorer.
+There are no workarounds that address this vulnerability.
+Using Microsoft Edge on Windows or any browser on Mac or Linux will shield you from this bug because it doesn’t apply on those platforms.
+You can also turn off WebEx support in your browser temporarily, thus preventing the Cisco extension or add-on from activating unexpectedly.
+</text>

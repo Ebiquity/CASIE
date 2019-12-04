@@ -1,0 +1,13 @@
+<title>Topps Data Breach Exposes Months of Credit Card Data</title>
+<source> http://www.esecurityplanet.com/network-security/topps-data-breach-exposes-months-of-credit-card-data.html </source>
+<date> 2017_01_04 </date>
+<text>
+All those affected are being offered one year of free access to identity theft protection services from CSID.
+BBC News notes that security researcher Chris Vickery uncovered vulnerabilities in Topps databases back in December of 2015 and June of 2016, but he wasn't able to get a response from the company by email.
+It's not clear whether the credit card breach was related to the flaws Vickery found.
+A recent Thales e-Security survey of 1,016 U.S. adults found that fully 88 percent of respondents said they would stop using digital payments if they fell victim to cybercrime as a result of a data breach.
+Seventy percent said they would stop using digital payments if money was stolen from a linked bank account, 68 percent said they would do so if unauthorized charges appeared on a linked credit card account, and 59 percent said they would do so if their user name and password were stolen.
+"The mobile payments industry needs to take note that their future success is based on trust," Thales e-Security director of payment strategy Jose Diaz said in a statement.
+"And that trust can easily fail if they do not provide the strong protection of their infrastructure, transactions and data that customers expect."
+A separate Thales survey of 1,000 adults in the U.S. and the U.K. recently found that 55 percent of respondents would switch to only using cash at a retailer if they learned that credit card data had been stolen from its systems -- and 20 percent would stop shopping at that retailer altogether.
+</text>

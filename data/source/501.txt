@@ -1,0 +1,15 @@
+<title>When Ransomware Comes Knocking at your Door… or Locks it</title>
+<source> http://www.pandasecurity.com/mediacenter/news/ransomware-comes-knocking/ </source>
+<date> 2017_02_06 </date>
+<text>
+A lot of things can go wrong on your holidays, like losing luggage or missing a flight, forgetting your travel documents or getting sick at the worst possible time.
+But have you ever been locked out of your hotel room because of a cyberattack?
+That’s just what happened to guests at a luxury hotel in Austria when they were left stranded outside of their rooms after a ransomware attack that overrode electronic key systems.
+This concept, which can be summed up as “if you don’t pay, your guests won’t be able to get into their rooms”, underscores a strategy shift in ransomware.
+Instead of directly attacking the hotel chain directly, cybercriminals are looking to increase profitability by compromising the well-being of paying customers.
+Infected computers and POS systems, credit card theft, access to confidential information… in the age of the Internet of Things and smart homes, these attacks are becoming commonplace or even antiquated.
+Clearly the attacks that this industry has been experiencing are not something casual or fleeting.
+Behind them lies a real economic interest and a preoccupation with stealthy operations.
+The hotel sector has become a major target for organized cybercriminals in possession of malware specifically designed to harm its running smoothly, not only in payment systems, but also by sealing off access to your room, turning lights on and off, or locking your blinds.
+This is, undoubtedly, a worrisome situation that could cause significant harm not only on an economic level, but also a PR level, sowing fear among clientele.
+</text>

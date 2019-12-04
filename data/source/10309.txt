@@ -1,0 +1,20 @@
+<title> Spotting and avoiding phishing scams so you don’t get hooked </title>
+<source> https://www.verdict.co.uk/avoiding-phishing-scams/ </source>
+<date> 2018_08_15 </date>
+<text>
+The BBC recently uncovered that scammers are attempting to trick us through the abuse of multilingual character sets. By creating these lookalike sites with domain names that are almost identical to the URLs we know and trust, it’s made telling the difference between fake and genuine sites – and avoiding phishing scams – increasingly difficult.
+Research by security company Wandera revealed that people are three times more likely to fall for a phishing scam if it is on their phone. 
+As a result, this new scam targets smartphone users, where the lookalike sites are harder to spot.
+
+A recent survey that tested the British public’s knowledge of scams and online security behaviours found 16% of British adults have experienced online fraud. For phishing scams specifically, it’s one in ten of us.
+The most common age group to experience online fraud is 35 – 54, with almost one-fifth (19%) of this demographic having fallen victim to a scam.
+CEO of Get Safe Online, Tony Neate, said:
+“While online fraud is common, it becomes less so when you engage common sense.
+“It is very easy to clone a real website and does not take a skilled developer long to produce a very professional-looking but malicious site, but if you know what to look for, it’s easy to stay safe.” 
+
+There are numerous ways to determine whether or not a received email is from a legitimate company trying to help, or a scammer looking to steal financial details.
+The initial sender is a good starting point. Take the time to look at the email address you’re being contacted by, not just the name. An unfamiliar address, or one that doesn’t correspond with the company, is a giveaway that it’s a fraudster.
+Then take a look at the greeting. If the email opens with ‘Dear loyal customer’ or ‘Hello (followed by your email address)’ then it’s another telltale sign. The real company would address you by your full name and make it personal to you.
+Careless slip-ups in the copy of the email are also giveaways. Does any of the grammar or spelling not sit quite right? This is a big indicator that it’s a phishing scam. You wouldn’t expect poor language by someone from a legitimate company.   
+</text>
+

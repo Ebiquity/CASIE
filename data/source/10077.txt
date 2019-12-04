@@ -1,0 +1,18 @@
+<title> Atlanta hit by ransomware attack, city employees told not to turn on computers  </title>
+<source> https://www.usatoday.com/story/tech/2018/03/23/atlanta-hit-ransomware-attack-city-employees-told-not-turn-computers/452846002/ </source>
+<date> 2017_03_23 </date>
+<text>
+City employees in Atlanta coming to work Friday morning were told not to turn on their computers and WiFi at the Atlanta airport was turned off due to a ransomware attack that hit municipal systems on Thursday.
+As employees walked into city hall for work, they were handed a printed notice telling them to not use their computers until they were cleared by the municipal IT group, the Atlanta Journal Constitution reported.
+At a news conference Friday afternoon, Atlanta chief operating officer Richard Cox said that the WiFi at Hartsfield–Jackson Atlanta International Airport had been disabled out of "an abundance of caution."
+The city is still working on mitigating the ransomware and Mayor Keisha Lance Bottoms did not answer questions from reporters as to whether the attack had ended.
+"What we want to make sure of is that we aren’t putting a Band-Aid on a gaping wound. We want to make sure that we take the appropriate steps," she said.
+Atlanta doesn’t know who is behind the attack, the mayor said.
+The good news is that while “this is a massive inconvenience to the city, it is not life and death,” she said. Police, fire and other vital services are still fully functional, Cox said. 
+The attack hit early Thursday morning. Bottoms has repeatedly told employees they should monitor their bank accounts because city officials don’t yet know what information was compromised in the attack.
+"Let's just assume that if your personal information is housed by the City of Atlanta, whether it be because you are a customer who goes online and pays your bills or any employee or even a retiree, we don't know the extent, so we just ask that you be vigilant," Bottoms said.
+The ransomware is affecting applications that customers use to pay bills and access court-related information among other things, Bottoms said.
+The attackers demanded the equivalent of $51,000 in digital currency to unlock the system. 
+The city is working with the FBI and local law enforcement to investigate the attack, Cox said. While it has been a difficult two days, Atlanta will in the end prevail, he said.
+"The city was around before computers were around, said Cox. "We’ll rise from the ashes," he added 
+</text>

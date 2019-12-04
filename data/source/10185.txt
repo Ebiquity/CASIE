@@ -1,0 +1,15 @@
+<title> Big bad Bluetooth blunder bug battered – check for security fixes </title>
+<source> https://www.theregister.co.uk/2018/07/24/bluetooth_cryptography_bug/ </source>
+<date> 2018_07_24 </date>
+<text>
+With a bunch of security fixes released and more on the way, details have been made public of a Bluetooth bug that potentially allows miscreants to commandeer nearby devices.
+This Carnegie-Mellon CERT vulnerability advisory on Monday laid out the cryptographic flaw: firmware or operating system drivers skip a vital check during a Diffie-Hellman key exchange between devices.
+The impact: a nearby eavesdropper could “intercept and decrypt and/or forge and inject device messages” carried over Bluetooth Low Energy and Bluetooth Basic Rate/Enhanced Data Rate (BR/EDR) wireless connections between gizmos.
+In other words, you can potentially snoop on supposedly encrypted communications between two devices to steal their info going over the air, and inject malicious commands. To pull this off, you must have been within radio range and transmitting while the gadgets were initially pairing.
+The bug's status in Android is confusing: while it doesn't appear in the operating system project's July monthly bulletin, phone and tablet manufacturers like LG and Huawei list the bug as being patched in the, er, July security update. Microsoft has declared itself in the clear.
+The CERT note says fixes are needed both in software and firmware, which should be obtained from manufacturers and developers, and installed – if at all possible. We're guessing for random small-time Bluetooth gizmos, it won't be very easy to prise an update out of the vendors, although you should have better luck with bigger brand gear.
+So, make sure you're patched via the usual software update mechanisms, or just look out for nearby snoops, and be ready to thwart them, when pairing devices. Manufacturers were warned in January, it appears, so have had plenty of time to work on solutions.
+Indeed, silicon vendor patches for CVE-2018-5383 are already rolling out among larger gadget and device makers, with Lenovo and Dell posting updates in the past month or so.
+Linux versions prior to 3.19 don't support Bluetooth LE Secure Connections and are therefore not vulnerable, we're told.
+</text>
+

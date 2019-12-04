@@ -1,0 +1,25 @@
+<title>Code Execution Vulnerability Found in Libpurple IM Library | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/code-execution-vulnerability-found-in-libpurple-im-library/124448/ </source>
+<date> 2017_03_22 </date>
+<text>
+A severe vulnerability has been disclosed in libpurple, the library used in the development of a number of popular instant messaging clients, including Pidgin and Adium for the macOS platform.
+Adium 1.5.10.2 is vulnerable and can be exploited to run arbitrary code remotely.
+A researcher who goes by the handle Erythronium submitted a post on March 15 to the Adium developers mailing list about the issue.
+While there’s been some discussion of a fix for CVE-2017-2640, no Adium advisory or patches have been released.
+In the meantime, Erythronium told Threatpost that libpurple and Adium should no longer be used.
+“Unless the [Adium] dev team comes out with an advisory about this issue, a serious apology, a completely solid story about how they plan to handle future vulnerabilities in their codebase and its dependencies, and a way for people to reproduce their builds without depending on a creepy binary blob of libpurple, people should simply stop using it,” the researcher said.
+“It’s also very arguable that people should stop using libpurple completely, since it also lacks strong security practices in its development”.
+A request for comment from two members of the Adium team was not returned in time for publication.
+“Adium’s build process documentation does not seem to include steps for upgrading or rebuilding libpurple, and the copy of libpurple checked into Adium’s open-source repository as a binary blob of unknown provenance,” Erythronium wrote in a post to the Full Disclosure mailing list.
+Adium is a freely available IM client for the Apple platform, and users may connect a number of other IM networks to it, including AIM, Google Talk, Yahoo Messenger and others.
+It’s written using the Cocoa API in macOS, and also supports Off the Record (OTR) encryption over XMPP.
+Libpurple is used in a number of IM programs, including Pidgin on Windows Linux and UNIX builds and Finch, a text-based IM program for Linux and UNIX.
+The vulnerability is an out-of-bounds write flaw that happens when invalid XML is sent by an attacker, Pidgin said in an advisory.
+“Successfully exploiting this issue may allow an attacker to cause a denial-of-service condition, execute arbitrary code or perform unauthorized actions,” said a SecurityFocus advisory.
+The use of messaging apps that support encryption have been encouraged since the Snowden disclosures and other challenges to secure communication such as Apple vs. FBI.
+Adium specifically was included in a Privacy Pack recommended by the Electronic Frontier Foundation in the months following the Snowden leaks.
+The pack was a collection of tools for privacy conscious users, and included the Tor browser, encryption extensions for browsers, HTTPS Everywhere, and Pidgin and Adium for encrypted chats.
+Enterprise applications from Oracle and others could be becoming juicier targets for attackers.
+Developers using the Twilio platform to build enterprise mobile communications apps have put call and text data at risk for exposure.
+Between $150 million and $300 million in digital currency called ether remains inaccessible today after a user said he “accidentally” triggered a vulnerability that froze the funds in the popular Parity wallet.
+</text>

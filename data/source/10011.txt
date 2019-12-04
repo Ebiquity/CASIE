@@ -1,0 +1,10 @@
+<title>Mumbai: Ransomware hits Dadar CA’s office, demands payment in bitcoins for decryption</title>
+<source> https://indianexpress.com/article/cities/mumbai/mumbai-ransomware-dadar-office-bitcoins-5281187/ </source>
+<date> 2018_07_29 </date>
+<text>
+A day after a Navi Mumbai hospital and hotel became targets of a ransomware attack, cyber fraudsters encrypted data belonging to a Dadar-based chartered accountant and demanded money to remove the block on the data on Monday. While the incident took place on Monday, the complainant, realised that his data has been blocked on Tuesday. “A case of ransomware was reported, following which, an FIR has been registered at the Bhoiwada police station,” said Deputy Commissioner of Police (Zone 4) N Ambika.
+While the FIR was lodged on Thursday, no arrest has been made in the case yet. Police said the incident took place on Monday at the complainant’s office near Framroz court in Dadar. Around 2.15 pm, a message flashed on the complainant’s computer screen saying, “You have to pay for decryption in bitcoins. The price depends on how fast you write to us. After payment, we will send you the decryption key, which will decrypt all your files.” The message also had an email address, on which he was to write to the fraudsters.
+Around 7 pm, when the complainant tried to use a computer for some work, he could not access the data. When he tried other computers, he faced the same problem. He also found that some data and software had been deleted. Suspecting that a computer virus may be behind this, he copied the other files still available from the computer.
+The complainant then left for the day and asked an employee from the information technology department to look into the matter. The employee later told him that the data had not been deleted but encrypted by fraudsters.
+On Sunday, the MGM hospital in Navi Mumbai was attacked by a ransomware. Its data was locked out and the fraudsters demanded payment in bitcoins.
+</text>

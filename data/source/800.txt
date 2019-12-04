@@ -1,0 +1,23 @@
+<title>1500 companies in over 100 countries hit by malicious Adwind backdoor RAT</title>
+<source> https://www.grahamcluley.com/1500-companies-in-over-100-countries-targeted-by-adwind-backdoor/ </source>
+<date> 2017_02_28 </date>
+<text>
+More than 1,500 companies in over 100 countries have suffered an infection at the hands of the Adwind Remote Access Tool (RAT).
+Discovered by researchers at Kaspersky Lab, this new attack campaign suggests that Adwind, a multifunctional backdoor which has targeted more than 450,000 individual users (including Mac lovers) since 2013, has developed a taste for business victims.
+The Adwind malware (also known as AlienSpy, Frutas, Unrecom, Sockrat and jRAT) appears particularly drawn to retail and distribution, with approximately one-fifth of this operation's victims falling under that category.
+It's also preyed upon organizations in the architecture, shipping, construction, insurance, and legal sectors.
+An attack begins when a business receives an email from what appears to be HSBC, one of the largest banking and finance organizations in the world.
+The email originates from the mail.hsbcnet.hsbc.com domain that's been active since 2013.
+Its message says the corresponding attachment contains payment advice for the recipient.
+As Kaspersky explains in an alert:
+"Instead of instructions, the attachments contain the malware sample.
+If the targeted user opens the attached ZIP file, which has a JAR file in it, the malware self-installs and attempts to communicate with its command and control server.
+The malware allows the attacker to gain almost complete control over the compromised device and steal confidential information from the infected computer."
+(Just to be clear - opening the ZIP file itself doesn't cause any harm, but opening the JAR file contained within the ZIP archive can infect computers)
+Upon establishing a connection, attackers can use Adwind to steal confidential information from the infected computer.
+This includes critical data relating to the business.
+Organizations based in Malaysia have suffered the brunt of this attack campaign thus far.
+But entities in the United Kingdom, Germany, Lebanon, and elsewhere are not far behind.
+Given Adwind's evolution (as well as its commercial availability on underground marketplaces and other dark web forums), organizations should restrict their use of Java (on which the malware is based) to a select few applications that absolutely require this software in order to function properly.
+If possible, companies should take their security one step further and try to isolate these applications from their other endpoints.
+</text>

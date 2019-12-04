@@ -1,0 +1,12 @@
+<title> New hAnt strain attack holds mining rigs hostage in China; demands 10 BTC in ransom </title>
+<source> https://ambcrypto.com/new-hant-strain-attack-holds-mining-rigs-hostage-in-china-demands-10-btc-in-ransom/ </source>
+<date> 2019_01_26 </date>
+<text>
+In a development that will do little to address concerns associated with the security of the cryptocurrency market, a new strain of ransomware, hAnt, has infected hundreds of mining rigs in China. The cryptovirus, which some people say first reared its head in August of last year, has primarily focused its attacks on mining farms in China, the country with the highest number of mining farms.
+The ransomware, in a note written in both English and Chinese, has threatened to turn off the mining unit’s fan and compromise its overheating protection and by extension, the safety and integrity of the mining unit. To remove the ransomware, the culprit behind the strain has demanded either a ransom of 10 BTC to be paid or a malicious software that could potentially infect thousands be downloaded by the victim.
+Although nobody is sure how these mining rigs came to be infected, it has been suggested by some that tainted rig firmware may have been the culprit. On the other hand, some also believe that the culprit has merely taken advantage of the vulnerability of mining equipment that is usually overclocked by mining pools to boost hash power and processing speeds. Presently, Antminer S9 and T9 devices are the worst affected mining equipment.
+As of now, there haven’t been any reports of the cryptohackers actually going ahead with the threat and destroying mining rigs, which would suggest this being an empty threat. That being said, the mere fact of infection has led to several financial losses accruing from many mining operations shutting down temporarily, mining equipment being reflashed or tainted firmware simply being replaced by a new one.
+Bitmain, the company that manufactures much of the Antminer equipment, that has come under the attack of hAnt has for its part, came forward and cautioned users against visiting untrusted third-party sites and downloading anything outside of Bitmain.
+Either way, the development is not good news and does nothing to alleviate concerns associated with the safety and security of cryptocurrency-related operations and services.
+</text>
+

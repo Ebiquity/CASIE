@@ -1,0 +1,15 @@
+<title>Data breach may have exposed personal information for thousands of Girl Scouts</title>
+<source> http://www.latimes.com/local/lanow/la-me-ln-girl-scouts-data-breach-20181025-story.html </source>
+<date> 2018_10_25 </date>
+<text>
+Members of the Girl Scouts of Orange County were notified this week that their personal information may have been exposed to an unknown party who gained access to an organization email account last month, according to a letter sent to members.
+The organization sent the letter Tuesday to about 2,800 members who may have been affected by the data breach.
+Christina Salcido, vice president of mission operations, said members’ names, birth dates, home addresses, insurance policy numbers and health history information could have been accessed from Sept 30 to Oct 1.
+“Out of an abundance of caution, we are notifying everyone whose email was in this email account,” Salcido wrote in the letter.
+On the day the organization became aware of the breach, IT services changed the password and determined it was secure, Salcido wrote. The Girl Scouts of Orange County reviewed the account, eliminated all personal information it contained and notified the California attorney general’s office of the breach.
+Because the email account was used for the organization’s travel purposes, it contained information about members dating to 2014. Salcido said the third party used the account to send messages, but she did not specify what type of messages were sent.
+Elizabeth Fairchild, spokeswoman for the Girl Scouts of Orange County, said staff members noticed Oct 1 that the email account had been used the day before “to send out non-Girl Scout related emails.” On Oct 1, staff members sent an email to members telling them what happened, stating they had secured the account and advising them to not open any unusual emails from that account.
+“The vast majority of information stored in the account was nonsensitive,” Fairchild said. “Fewer than 300 had sensitive information stored in the account.”
+The Girl Scouts of Orange County provided contact information for the credit bureaus Equifax, Experian and TransUnion and suggested that members place fraud alerts on their accounts.
+If members have questions or concerns about the breach, they can call (800) 974-9444 or email customercare@girlscoutsoc.org.
+</text>

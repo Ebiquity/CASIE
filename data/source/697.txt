@@ -1,0 +1,11 @@
+<title>Donald Trump Website Hacked by Iraqi Hacker</title>
+<source> https://www.hackread.com/donald-trump-website-hacked-iraqi-hacker/ </source>
+<date> 2017_02_22 </date>
+<text>
+The targeted server secure2.donaldjtrump.com was defaced Sunday evening when Ars Technica noted that the home page for the server was displaying a deface page along with a message left by a defacer from Iraq.
+The deface message was simple than expected since Iraq is among those seven countries whose citizens have been banned by Trump from entering the United States.
+According to the message:
+Where's Rudy 'Cyber' Giuliani when you need him?
+Trump’s hotels have also been targeted several times in the last couple of years starting from a credit card breach incident where personal and financial information of guests were stolen.
+However, it should not surprise the readers since Trump is still using an old Android phone to Tweet from his official account and one of the congressmen has already requested an investigation on the use of an old phone since Android is one of the most vulnerable and targeted mobile operating systems in the world.
+</text>

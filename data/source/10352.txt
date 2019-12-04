@@ -1,0 +1,19 @@
+<title> Market Research Firm Forrester Says Hackers Stole Sensitive Reports  </title>
+<source> https://www.bleepingcomputer.com/news/security/market-research-firm-forrester-says-hackers-stole-sensitive-reports/ </source>
+<date> 2017_10_07 </date>
+<text>
+Forrester, one of the world's leading market research and investment advisory firms, admitted late Friday afternoon to a security breach that took place during the past week.
+The company says that a yet to be identified attacker (or attackers) has gained access to the infrastructure hosting its website — Forrester.com.
+Forrester is using this website to allow customers to log in and download research specific to their contracts.
+The company provides statistics, trends, and other market research, which clients use to take decisions before launching new products or business endeavors.
+Attacker stole site credentials and stole proprietary research
+Steven Peltzman, Forrester's Chief Business Technology Officer, says the attacker stole valid Forrester.com user credentials that gave him access to Forrester.com accounts.
+"The hacker used that access to steal research reports made available to our clients," he said.
+"There is no evidence that confidential client data, financial information, or confidential employee data was accessed or exposed as part of the incident," Peltzman clarified.
+                              
+Even if no sensitive customer data was stolen, the market research information to which hackers had access is very valuable in the hands of an economic espionage hacker group, allowing it to determine what technologies are Forrester's customers working on, or what products they're ready to launch.
+This information could then be resold on dark markets or competitors, or hackers could also use it to select future targets — companies that are ready to launch valuable products.
+"We recognize that hackers will attack attractive targets — in this case, our research IP. We also understand there is a tradeoff between making it easy for our clients to access our research and security measures," said George F. Colony, Chairman and Chief Executive Officer of Forrester. "We feel that we have taken a common-sense approach to those two priorities; however, we will continuously look at that balance to respond to changing cybersecurity risk."
+Forrester is the fourth major financial and business entity that suffered or announced a security incident in the past month. The other three include credit rating and reporting firm Equifax, the US Securities and Exchange Commission (SEC), and accounting, auditing, and corporate finance consulting firm Deloitte.
+</text>
+

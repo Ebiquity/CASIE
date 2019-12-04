@@ -1,0 +1,26 @@
+<title>Dozens of iOS apps fail to secure users' data, researcher says | CSO Online</title>
+<source> http://www.csoonline.com/article/3166618/security/dozens-of-ios-apps-fail-to-secure-users-data-researcher-says.html </source>
+<date> 2017_02_07 </date>
+<text>
+Will Strafach, CEO of Sudo Security Group, said he found 76 iOS apps that are vulnerable to an attack that can intercept protected data.
+TLS is used to secure an app’s communication over an internet connection.
+Without it, a hacker can essentially eavesdrop over a network to spy on whatever data the app sends, such as login information.
+“This sort of attack can be conducted by any party within Wi-Fi range of your device while it is in use,” Strafach said.
+“This can be anywhere in public, or even within your home if an attacker can get within close range”.
+Strafach discovered the vulnerability in the 76 apps by scanning them with his company-developed security service, verify.ly, which he's promoting.
+It flagged “hundreds of applications” with a high likelihood of data interception.
+He’s so far confirmed that these 76 apps possess the vulnerability.
+He did so by running them on an iPhone running iOS 10 and using a proxy to insert an invalid TLS certificate into the connection.
+Strafach declared that 43 of the apps were either a high or medium risk, because they risked exposing login information and authentication tokens.
+Some of them are from “banks, medical providers, and other developers of sensitive applications,” he said.
+He's not disclosing their names, to give them time to patch the problem.
+The remaining 33 apps were deemed low risks because they revealed only partially sensitive data, such as email addresses.
+They include the free messaging service ooVoo, video uploaders to Snapchat and lesser-known music streaming services, among many others.
+In all, the 76 apps have 18 million downloads, according to app market tracker Apptopia, Strafach said.
+It’ll be up to the app developers to fix the problem, but it only involves changing a few lines of code, says Strafach, who’s been trying to contact the developers.
+He included some warnings for developers in the blog post.
+“Be extremely careful when inserting network-related code and changing application behaviors,” he wrote.
+“Many issues like this arise from an application developer not fully understanding the code they’ve borrowed from the web”.
+Users of affected apps can protect themselves by turning off the Wi-Fi when in a public location, Strafach says.
+That will force the phone to use a cellular connection to the internet, making it much harder for any hacker to eavesdrop unless they use expensive and illegal equipment, Strafach said.
+</text>

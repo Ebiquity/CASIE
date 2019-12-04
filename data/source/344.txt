@@ -1,0 +1,45 @@
+<title></title>
+<source> https://www.zscaler.com/blogs/research/spynote-rat-posing-netflix-app </source>
+<date> 2017_01_25 </date>
+<text>
+As users have become more attached to their mobile devices, they want everything on those devices.
+There’s an app for just about any facet of one’s personal and professional life, from booking travel and managing projects, to buying groceries and binge-watching the latest Netflix series.
+The iOS and Android apps for Netflix are enormously popular, effectively turning a mobile device into a television with which users can stream full movies and TV programs anytime, anywhere.
+But the apps, with their many millions of users, have captured the attention of the bad actors, too, who are exploiting the popularity of Netflix to spread malware.
+Recently, the ThreatLabZ research team came across a fake Netflix app, which turned out to be a new variant of SpyNote RAT (Remote Access Trojan).
+Please note that our research is not about the legitimate Netflix app on Google Play.
+The spyware in this analysis was portraying itself as the Netflix app.
+Once installed, it displayed the icon found in the actual Netflix app on Google Play.
+This is a common trick played by malware developers, making the user think the app may have been removed.
+But, behind the scenes, the malware has not been removed; instead it starts preparing its onslaught of attacks.
+It does so using the Services, Broadcast Receivers, and Activities components of the Android platform.
+Services can perform long-running operations in the background and does not need a user interface.
+Broadcast Receivers are Android components that can register themselves for particular events.
+Activities are key building blocks, central to an app’s navigation, for example.
+The SpyNote RAT registers a service called AutoStartup and a broadcast receiver named BootComplete.
+MainActivity registers BootComplete with a boot event, so that whenever the device is booted, BootComplete gets triggered.
+BootComplete starts the AutoStartup service and the AutoStartup service makes sure that MainActivity is always running.
+What follows are some of the features exhibited by SpyNote RAT.
+Command execution can create havoc for victim if the malware developer decides to execute commands in the victim’s device.
+Leveraging this feature, the malware developer can root the device using a range of vulnerabilities, well-known or zero-day.
+SpyNote RAT was able to take screen captures and, using the device’s microphone, listen to audio conversations.
+This capability was confirmed when the Android permission, called android.permission.RECORD_AUDIO, was being requested along with code found in the app.
+They tend to target any antivirus protections on the device and uninstall them, which increases the possibility of their malware persisting on the device.
+SpyNote RAT was designed to function only over Wi-Fi, which is the preferable mode for Android malware to send files to C&C.
+- There were two interesting sub-classes found inside Main Activity: Receiver and Sender.
+Receiver was involved in receiving commands from the Server and the  main functionality of Sender was to send all the data collected to the C&C over Wi-Fi.
+- SpyNote RAT was also collecting the device’s location to identify the exact location of the victim.
+The SpyNote Remote Access Trojan (RAT) builder is gaining popularity in the hacking community, so we decided to study its pervasiveness.
+What we found were several other fake apps developed using the SpyNote builder, which should come as a warning to Android users.
+Furthermore, we found that in just the first two weeks of 2017, there have been more than 120 such spyware variants already built using the same SpyNote Trojan builder as SpyNote RAT and roaming in the wild.
+A complete list of sample hashes is available here.
+The days when one needed in-depth coding knowledge to develop malware are long gone.
+Nowadays, script kiddies can build a piece of malware that can create real havoc.
+Moreover, there are many toolkits like the SpyNote Trojan builder that enable users to build malware with ease and few clicks.
+In particular, avoid side-loading apps from third-party app stores and avoid the temptation to  play games that are not yet available on Android.
+Yes, we are talking about SuperMarioRun, which was recently launched by Nintendo only for iOS users.
+Recent blogs by the Zscaler research team explain how some variants of Android malware are exploiting the popularity of this game and tricking Android users into downloading a fake version.
+You should also avoid the temptation to play games from sources other than legitimate app stores; such games are not safe and may bring harm to your reputation and your bank account.
+Zscaler users are protected from such attacks with multiple levels of security.
+Zscaler security is so comprehensive, you can forget about it.
+</text>

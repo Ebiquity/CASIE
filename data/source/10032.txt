@@ -1,0 +1,14 @@
+<title> WannaCry Ransomware Attack Hits Victims With Microsoft SMB Exploit </title>
+<source> http://www.eweek.com/security/wannacry-ransomware-attack-hits-victims-with-microsoft-smb-exploit </source>
+<date> 2017_05_12 </date>
+<text>
+A massive attack is spreading globally by way of a vulnerability in Microsoft's Server Message Block that was patched in March.
+Ransomware is no longer just a nuisance. Now it's quite literally a matter of life and death. A massive ransomware attack being labeled as "WannaCry" has been reported around the world and is responsible for shutting down hospitals in the United Kingdom and encrypting files at Spanish telecom firm Telefonica.
+The WannaCry attack is not a zero-day flaw, but rather is based on an exploit that Microsoft patched with its MS17-010 advisory on March 14 in the SMB Server. However, Microsoft did not highlight the SMB flaw until April 14, when a hacker group known as the Shadow Brokers released a set of exploits, allegedly stolen from the U.S.National Security Agency.
+SMB, or Server Message Block, is a critical protocol used by Windows to enable file and folder sharing. It's also the protocol that today's WannaCry attack is exploiting to rapidly spread from one host to the next around the world, literally at the speed of light. The attack is what is known as a worm, "slithering" from one host to the next on connected networks.
+Among the first large organizations to be impacted by WannaCry is The National Health Service in the UK, which has publicly confirmed that it was attacked by the Wanna Decryptor.
+"This attack was not specifically targeted at the NHS and is affecting organisations from across a range of sectors," the NHS stated. "At this stage we do not have any evidence that patient data has been accessed."
+Security firm Kaspersky Lab reported that by 2:30 p.m. ET May 12 it had already seen more than 45,000 WannaCry attacks in 74 countries. While the ransomware attack is making use of the SMB vulnerability to spread, the encryption of files is done by the Wanna Decryptor attack that seeks out all files on a victim's network. Once the ransomware has completed encrypting files, victims are presented with a screen demanding a ransom. Initially, the ransom requested was reported to be $300 worth of Bitcoin, according to Kaspersky Lab.
+"Many of your documents, photos, videos, databases and other files are no longer accessible because they have been encrypted," the ransom note states. "Maybe you are busy looking for a way to recover your files, but do not waste your time. Nobody can recover your files without our decryption service."
+It's not clear who the original source of the global WannaCry attacks is at this point, or even if it's a single threat actor or multiple actors. What is clear is that despite the fact that a software patch has been available since March for the SMB flaws, WannaCry is using tens of thousands of organizations that didn't patch.
+</text>

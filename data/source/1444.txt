@@ -1,0 +1,18 @@
+<title>Audit Finds Over a Dozen NTP Vulnerabilities | SecurityWeek.Com</title>
+<source> http://www.securityweek.com/audit-finds-over-dozen-ntp-vulnerabilities </source>
+<date> 2017_04_04 </date>
+<text>
+Researchers at Germany-based security firm Cure53 have conducted a 32-day audit of the Network Time Protocol (NTP) and the NTPsec project and discovered more than a dozen vulnerabilities.
+Experts identified a total of 16 security-related issues, including 8 weaknesses that only affect NTP and two that only impact NTPsec, which is meant to be a secure, hardened and improved implementation of NTP.
+Cure53 has published separate reports focusing on the NTP and NTPsec problems.
+The Network Time Foundation addressed the flaws earlier this month with the release of ntp-4.2.8p10.
+Cure53 has classified one vulnerability as being critical.
+CVE-2017-6460, which only affects NTP, has been described as a stack-based buffer overflow that can be triggered by a malicious server when a client requests the restriction list.
+The flaw can be exploited to cause a crash and possibly to execute arbitrary code.
+The security holes rated by Cure53 as high severity are CVE-2017-6463 and CVE-2017-6464, both of which can be exploited for DoS attacks.
+It’s worth noting that while some of the vulnerabilities have been classified as critical and high severity by Cure53, NTP developers have only assigned medium, low and informational-level severity ratings to the discovered flaws.
+Ntp-4.2.8p10 patches a total of 15 vulnerabilities and also includes just as many non-security fixes and improvements.
+Of the 15 security holes resolved in the latest version, 14 were discovered by Cure53, which also noticed that a flaw initially patched in December 2014 was reintroduced in November 2016.
+One of the vulnerabilities fixed in ntp-4.2.8p10 was reported by researchers at Cisco Talos.
+Experts identified a DoS vulnerability affecting the origin timestamp check functionality.
+</text>

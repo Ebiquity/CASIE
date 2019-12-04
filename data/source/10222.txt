@@ -1,0 +1,12 @@
+<title> Git Project Patches Remote Code Execution Vulnerability in Git </title>
+<source> https://www.bleepingcomputer.com/news/security/git-project-patches-remote-code-execution-vulnerability-in-git/ </source>
+<date> 2018_10_06 </date>
+<text>
+The Git Project announced yesterday a critical arbitrary code execution vulnerability in the Git command line client, Git Desktop, and Atom that could allow malicious repositories to remotely execute commands on a vulnerable machine.
+This vulnerability has been assigned the CVE-2018-17456 ID and is similar to a previous CVE-2017-1000117 option injection vulnerability. Like the previous vulnerability, a malicious repository can create a .gitmodules file that contains an URL that starts with a dash.
+By using a dash, when Git clones a repository using the --recurse-submodules argument, the command will interpret the URL as an option, which could then be used to perform remote code execution on the computer.
+"When running "git clone --recurse-submodules", Git parses the supplied .gitmodules file for a URL field and blindly passes it as an argument to a "git clone" subprocess.  If the URL field is set to a string that begins with a dash, this "git clone" subprocess interprets the URL as an option.  This can lead to executing an arbitrary script shipped in the superproject as the user who ran "git clone"."
+This vulnerability has been fixed in Git v2.19.1 (with backports in v2.14.5, v2.15.3, v2.16.5, v2.17.2, and v2.18.1), GitHub Desktop 1.4.2, Github Desktop 1.4.3-beta0, Atom 1.31.2, and Atom 1.32.0-beta3.
+The Git Project strongly recommends that all users upgrade to the latest version of the Git client, Github Desktop, or Atom in order to be protected from malicious repositories.
+</text>
+

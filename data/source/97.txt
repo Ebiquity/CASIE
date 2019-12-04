@@ -1,0 +1,19 @@
+<title>Windows 10 Mobile has a pretty weird security flaw - MSPoweruser</title>
+<source> https://mspoweruser.com/windows-10-mobile-pretty-weird-security-flaw/ </source>
+<date> 2017_01_06 </date>
+<text>
+Today, we noticed a pretty weird security flaw in Windows 10 Mobile.
+If you are using a Windows 10 Mobile that does not support Windows Hello, your are likely using a pin to secure your device.
+The pin can be easily set-up from Windows 10 Mobile’s Sign-in Options page in the Settings app.
+However, there’s an interesting issue with this system.
+That’s because you can easily remove the pin from the device without having to verify the current pin that’s set.
+For instance, if your pin is “2017” and someone else gets access to your phone, they can simply remove it without having to verify the pin.
+This, however, isn’t the case when you try to change the pin as the OS will ask you to verify the existing pin first.
+This may sound like a minor issue, but it actually isn’t one — that’s because someone can easily lock you out of your own device once they get the initial access (which, to be fair, can be difficult to attain).
+For example, they can remove the current pin, and set a new one without having to verify the password for the linked Microsoft Account on the device or the pin (since it’s already removed).
+This isn’t how the pin-lock system works on Android or iOS.
+Both of these operating systems require users to verify their pin/password/pattern before they can edit any of the settings related to the pin — including the ability to completely remove the pin from the device.
+What’s even more interesting is that this issue doesn’t exist on Windows 10 PCs where you will be required to verify the existing pin when you try to remove the pin from a device.
+As far as we are aware, the issue is impacting Windows 10 Mobile devices running Windows 10 Mobile Version 1511, 1607, and even the latest Insider preview releases.
+We hope Microsoft will fix this issue in Windows 10 Mobile pretty soon, and we’ll let you know if and when that happens.
+</text>

@@ -1,0 +1,19 @@
+<title>Was The Guardian’s WhatsApp reporting “irresponsible” or fake news?</title>
+<source> http://theconversation.com/was-the-guardians-whatsapp-reporting-irresponsible-or-fake-news-71749 </source>
+<date> 2017_01_24 </date>
+<text>
+The Guardian has drawn the ire of a large number of cryptography and security experts by publishing a story claiming that WhatsApp has a security backdoor that would allow it, or governments, to snoop on encrypted messages.
+The group of experts, led by Associate Professor Zeynep Tufekci have written an open letter demanding that the article is retracted and for The Guardian to issue an apology for the misleading claims.
+The article, written by freelance journalist Manisha Ganguly reported claims originally made by a UC Berkeley PhD student Tobias Boelter last year.
+He showed that under certain conditions a government could, with the cooperation of WhatsApp, gain access to the content of a small number of messages.
+The consensus of 40 of the most respected people from the security and cryptographic community however was that the behaviour described by PhD student Tobias Boelter, and sensationalised in The Guardian article, was simply a design decision taken by WhatsApp developers and represented a very small risk, if any, to the vast majority of users.
+The Guardian has so far refused the demands of Professor Tufekci and her colleagues and simply updated the article changing the word “backdoor” for “vulnerability” and including a statement from WhatsApp stating categorically that “WhatsApp does not give governments a ‘backdoor’ into its systems and would fight any government request to create a backdoor”.
+Tufekci made the point that The Guardian’s article had endangered people because they would switch to less secure forms of communication over concerns that governments could be potentially listening into conversations.
+The suggestion that people should use the potentially more secure app Signal was not going to work for most people because it was less user-friendly and simply by using an app like Signal could actually alert government agencies that they had something to hide.
+The Guardian article took the claims of a PhD student and failed to get input into the issue from a single recognised security or cryptography expert.
+The opinions quoted in the article came from three people who, although involved with privacy at the policy and user level, were by no means subject matter experts and couldn’t possibly have claimed to understand what had been implemented.
+In fact, Moxie Marlinspike, the developer behind Signal, the protocol that gives WhatsApp its end-to-end encryption also came out emphatically supporting WhatsApp’s implementation of the Signal Protocol.
+The Guardian has since published several other articles about WhatsApp including one by Tobias Boelter attempting to justify the claims of there being a “vulnerability” in WhatsApp.
+It is important to note that this story was not picked up and reported independently by other reputable mainstream media sites; a sure indication that other journalists weren’t buying into the claims.
+Even the tech media didn’t report on it other than some sites simply reporting what The Guardian had claimed.
+</text>

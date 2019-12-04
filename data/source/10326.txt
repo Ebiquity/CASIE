@@ -1,0 +1,16 @@
+<title> The D in SystemD stands for Dammmit... Security holes found in much-adored Linux toolkit  </title>
+<source> https://www.theregister.co.uk/2019/01/10/systemd_bugs_qualys/ </source>
+<date> 2019_01_10 </date>
+<text>
+Security biz Qualys has revealed three vulnerabilities in a component of systemd, a system and service manager used in most major Linux distributions.
+Patches for the three flaws – CVE-2018-16864, CVE-2018-16865, and CVE-2018-16866 – should appear in distro repos soon as a result of coordinated disclosure. However, Linux distributions such as Debian remain vulnerable at the moment, depending on the version you have installed.
+"They're aware of the issues and they're releasing patches," said Jimmy Graham, director of product management at Qualys, in a phone interview with The Register. "I don't believe Red Hat has released one but it should be coming shortly."
+The bugs were found in systemd-journald, a part of systemd that handles the collection and storage of log data. The first two CVEs refer to memory corruption flaws while the third involves an out of bounds error that can leak data.
+CVE-2018-16864 can be exploited by malware running on a Linux box, or a malicious logged-in user, to crash and potentially hijack the systemd-journald system service, elevating access from user to root. CVE-2018-16865 and CVE-2018-16866 can be exploited together by a local attacker to crash or hijack the root-privileged journal service.
+While systemd isn't universally beloved in the Linux community, Graham sees nothing unusual about the presence of the three flaws in the software. "The noteworthiness to me is that it is very commonly found in most major distributions," he said.
+Qualys contends all systemd-based Linux distros are vulnerable, though the vulnerabilities cannot be exploited in SUSE Linux Enterprise 15, openSUSE Leap 15.0, and Fedora 28 and 29 because their user-land code is compiled with GCC's -fstack-clash-protection option.
+The security biz calls it a simplified stack clash – where the size of the stack gets changed to overlap with other memory areas – because it only requires the last two steps in a four step process: Clashing the stack with another memory region, moving the stack-pointer to the stack start, jumping over the stack guard-page into another memory region, and smashing the stack or memory space.
+The third bug, CVE-2018-16866, appeared in June 2015 (systemd v221) and, Qualys says, was fixed inadvertently in August 2018. In code where the flaw still exists, it could allow an attacker to read out of bounds information, resulting in information leakage.
+"The risk [of these issues] is a local privilege escalation to root," said Graham. "It's something that should still be a concern because usually attackers don't just use one vulnerability to comprise a system. They often chain vulnerabilities together."  
+</text>
+

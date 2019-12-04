@@ -1,0 +1,21 @@
+<title> Advanced Chinese hacking campaign infiltrates IT service providers across the globe   </title>
+<source> https://www.zdnet.com/article/advanced-chinese-hacking-campaign-infiltrates-managed-it-service-providers-across-the-globe/ </source>
+<date> 2017_04_04 </date>
+<text>
+'Cloud Hopper' campaign by sophisticated APT10 hacking group uses advanced phishing and customised malware to conduct espionage.
+A Chinese hacking group with advanced cyber-espionage capabilities has been targeting managed IT services providers across the globe in a campaign to steal sensitive data.
+The cybercriminal gang is using sophisticated phishing attacks and customised malware in order to infect victims' machines and then gain access to IT providers and their customer networks.
+Dubbed Operation Cloud Hopper, the cyber-espionage campaign has been uncovered by security researchers at PwC, BAE Systems, and the UK's National Cyber Security Centre. The researchers say the campaign is "highly likely" to be the work of the China-based APT10 hacking group.
+The group has been focusing on espionage since 2009 and has evolved from targeting US defence firms as well as the technology and telecommunications sectors to targeting organisations in multiple industries across the globe.
+The group was behind the Poison Ivy malware family and has evolved its operations to include using custom tools capable of compromising high volumes of data from organisations and their customers, and stealthily moving it around the world.
+It's because of the sophisticated nature of the campaign that PwC's Operation Cloud Hopper report describes how APT10 "almost certainly benefits from significant staffing and logistical resources, which have increased over the last three years".
+The group's work shifted significantly during 2016, as it started to focus on managed service providers, following the significant enhancements to its operations. The move enabled APT10 to exfiltrate data from multiple victims around the world as part of a large scale campaign.
+Managed service providers (MSPs) represent a particularly lucrative target for attackers, because as well as having access to their clients' networks, they also store significant quantities of customer data, which can provide useful information or be sold for profit.
+Researchers note that the spear phishing campaign undertaken by APT10 indicates that the group conducts significant research on targets, in order to have the best chance of tricking them into opening malicious documents attached to specially crafted emails.
+Once the hacking group has infiltrated a network, it conducts reconnaissance to ensure legitimate credentials have been gained, before deploying tools such as mimikatz or PwDump to steal additional credentials, administration credentials, and data from infected MSPs.
+The shared nature of MSP infrastructure enables APT10's success, allowing the hackers to stealthily move between the networks of MSPs and clients -- hence the name Cloud Hopper.
+Using this approach, the group has been able to target organisations in the US, Canada, the UK, France, Switzerland, Scandinavia, South Africa, India, and Australia.
+"The indirect approach of this attack highlights the need for organisations to have a comprehensive view of the threats they're exposed to -- including those of their supply chain," Kris McConkey, partner, cyber threat detection and response at PwC, said.
+"This is a global campaign with the potential to affect a wide range of countries, so organisations around the world should work with their security teams and providers to check networks for the key warning signs of compromise and ensure they respond and protect themselves accordingly."
+The National Cyber Security Centre has issued guidelines following the global targeting of enterprises via managed service providers, and notes how the activity detected "likely represents only a small proportion of the total malicious activity".
+</text>

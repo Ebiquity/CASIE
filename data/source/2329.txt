@@ -1,0 +1,18 @@
+<title>After hackers fail to extort money, new Pirates of the Caribbean movie torrents appear</title>
+<source> https://www.grahamcluley.com/new-pirates-caribbean-movie-leaked-online-hackers-fail-extort-money/ </source>
+<date> 2017_05_17 </date>
+<text>
+Files claiming to be the new Pirates of the Caribbean movie have leaked online after Disney refused to meet hackers' demands.
+On 17 May, Softpedia's Gabriela Vatu reported that two copies of Pirates of the Caribbean: Dead Men Tell No Tales had appeared on the popular (and somewhat appropriate) BitTorrent site The Pirate Bay.
+"According to the information unearthed thus far, the hackers managed to get access to the systems of Larson Studios in Hollywood, a company that handles additional dialogue recorded for movies. It seems that the copies they've managed to get their hands on are in various stages of production and not exactly what you'd expect from a full cinema-ready release."
+News of the extortion attempt first appeared in The Hollywood Reporter on 15 May when Bob Iger, CEO at Walt Disney, revealed the hackers had demanded that Disney pay a "huge sum" in Bitcoins to prevent them from leaking a then-undisclosed movie online.
+At the time, the attackers said they would release the film incrementally to netizens, first publishing clips lasting only a few minutes and slowly building up to 20-minute segments. Iger said Disney decided to not pay the attackers and was working with federal law enforcement to investigate the theft of one of its productions.
+It's unclear who exactly perpetrated the leak - if indeed the files really are of the movie. Even so, a potential candidate is The Dark Overlord, a group of hackers who released the fifth season of Orange Is the New Black after Netflix refused to meet its ransom demands back in April 2017.
+Around that time, the hacking gang, which has also extorted non-film entities in the past, tweeted out that it had stolen content from a number of other media companies. It did not name Walt Disney by name, though it did point to FOX, ABC, and others.
+Who is next on the list? FOX, IFC, NAT GEO, and ABC. Oh, what fun we're all going to have. We're not playing any games anymore.
+While Disney and Netflix continue to work with the FBI in tracking down The Dark Overlord, someone has already removed the two copies of what claimed to be the Pirates of the Caribbean film from The Pirate Bay. The hackers could release the movies again. Or they might be focusing on their next target.
+While movie-goers might celebrate a leak of the movie, media companies like Walt Disney don't want viewers gaining early access to their content. That's why organizations should take the opportunity to conduct some security awareness training with their employees. This effort should include phishing simulations and reviewing the security readiness of companies along their supply chains.
+Article updated 19 May 2017. None of the files made available as downloadable torrents have been confirmed to contain footage of the movie. 
+For more discussion on the issue, make sure to listen to this recent episode of the "Smashing Security" podcast. 
+Your browser does not support this audio element.
+</text>

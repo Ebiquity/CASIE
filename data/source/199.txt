@@ -1,0 +1,18 @@
+<title>Amazon scammers hijack seller accounts, lure users with good deals - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/12/amazon-scammers-hijack-seller-accounts/ </source>
+<date> 2017_01_13 </date>
+<text>
+Amazon buyers are being targeted by clever scammers that either set up independent seller accounts or hijack those of already established, well-reputed sellers, then offer pricy items at unbeatable prices.
+In an example offered by Comparitech’s Lee Munson, the item in question is a big LCD TV that is usually sold at around £2,300, but the scammer offers it at almost half the price for a “used – like new” item.
+But when the potential victim tries to buy it, Amazon throws up an error, saying that there was a problem with the item in the order.
+A determined buyer will try to contact the seller through Amazon’s in-house messaging system, but the seller will push to move the conversation off it by offering a contact email address.
+Munson’s email exchange with the scammer shows that the latter insists that by contacting them directly the problem has been solved, and that an order confirmation will be sent to the buyers’ email address.
+The order confirmation looks like it came from Amazon (it appears to come from the auto-confirm@amazon-payments-support.co.uk email address), but was in fact sent by the scammer.
+The order instructs the user to pay via direct bank transfer, to a private bank account – seemingly through Amazon Payments, but actually not.
+Once the victims make the payment in the way they have been instructed, it’s game over.
+They have parted with their money, and Amazon won’t refund them as the payment hasn’t been effected through their payment system.
+“Payment within the Amazon.co.uk site is the only authorised and recognised form of payment for items sold by Sellers on Amazon.co.uk.
+Every customer who orders on Amazon.co.uk is covered by our A-to-z guarantee; however items paid for outside of the Amazon.co.uk Marketplace aren’t eligible for protection,” the company noted, and advised customers to report this type of sellers to them.
+But even that is not enough to stop these scammers, and they set up new accounts almost immediately after old ones have been blocked, as evidenced in this post on a Kindle Help Forum.
+Obviously, Amazon must find a way to spot these schemes and take these accounts down much sooner.
+</text>

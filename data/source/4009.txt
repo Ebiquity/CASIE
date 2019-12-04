@@ -1,0 +1,18 @@
+<title> Media Prima hit by ransomware, hackers demand RM26m in bitcoins, says report </title>
+<source> https://www.straitstimes.com/asia/se-asia/media-prima-hit-by-ransomware-hackers-demand-rm26m-in-bitcoins-says-report </source>
+<date> 2018_11_13 </date>
+<text>
+Media Prima Berhad's computer systems have been locked out by cyber attackers who are demanding millions of ringgit in ransom.
+The media company, which runs a stable of TV and radio channels, newspapers, advertising and digital media companies was hit by a ransomware attack last Thursday (Nov 8), The Edge Financial Daily reported.
+Ransomware is a type of malicious software (malware) designed to block access to a computer system until a sum of money is paid.
+The report, quoting a source, said the attackers are demanding 1,000 bitcoins to release access to the computer systems.
+This means that the attackers are demanding a ransom of RM26.42 million (S$8.71 million).
+Media Prima is listed on Bursa Malaysia's main board.
+It operates, among others, three national newspapers, namely New Straits Times, Berita Harian and Harian Metro; free-to-air television stations, namely TV3, TV9, ntv7 and 8TV; and four radio stations, namely Fly FM, Hot FM, One FM and Kool FM.
+When contacted, Media Prima group managing director, Datuk Kamal Khalid, declined to comment when asked to confirm whether the company has been hit by ransomware.
+He urged The Star to get in touch with the company's corporate communications department for comments, and efforts are ongoing to contact the department.
+The Edge Financial Daily report said it was not immediately known whether Media Prima's data has been breached, and whether the media group would be suffering financial losses due to the ransomware attack.
+It quoted another source saying that Media Prima's office e-mail has been affected but that the company has migrated the email to another system.
+The source reportedly added that Media Prima has decided not to pay the ransom.
+</text>
+

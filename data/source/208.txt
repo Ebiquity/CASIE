@@ -1,0 +1,21 @@
+<title>‘Fancy Bear’ also growls at Norway</title>
+<source> http://www.newsinenglish.no/2017/01/16/fancy-bear-also-growls-at-norway/ </source>
+<date> 2017_01_17 </date>
+<text>
+The same group of hackers that intelligence officials believe swung the US election in favour of Donald Trump has also attacked Norwegian targets within the military and foreign service.
+Called “Fancy Bear,” computer security experts believe Russia is behind the hacking that’s aimed at political manipulation and destablization of western democracies.
+Norway’s foreign ministry has been among the targets of hackers, also abroad.
+DN reported that the list of targets is long, including embassies and ministries in more than 40 countries, several NATO and EU institutions, political and military leaders, well-known journalists, activists and academics.
+Most haven’t been aware they were attacked when they clicked on links in email that seemed to come from people they knew.
+The attacks enabled the hackers to steal confidential information by penetrating email accounts and internal systems.
+The attacks in Norway only make up 2 percent of attacks on military and political institutions, DN reported, but local authorities are on high alert for more.
+The US’ FBI, CIA and NSA have all described the attacks as the largest Russian attempt to gain influence in the US ever.
+Russian authorities from President Vladimir Putin’s office on down have vigorously denied they’re behind the hacking.
+In addition to the attacks on foreign ministry and military interests, email accounts at Norway’s Greens Party (Miljøpartiet De Grønne, MDG) were hacked last June and the attacker gained access to the party’s membership register.
+A few weeks later, Norway’s Socialist Left party (SV) was also attacked, with the hackers gaining access to SV’s membership register as well.
+A false profile was established ono the party’s internal debate forum.
+Both attacks remain under investigation, according to the Oslo Police District.
+“It can seem that security is not good enough,” Grandhagen told DN, but it’s demanding and expensive for such organizations to fend off the hackers.
+Norwegian political parties aren’t required by law to test their data systems for possible penetration.
+“Information that should not or must never come out should never be sent via Hotmail or email that’s not classified,” Bernsen said.
+</text>

@@ -1,0 +1,19 @@
+<title>Latest WhatsApp Scam Infects Users with Banking Malware</title>
+<source> https://www.hackread.com/whatsapp-scam-users-banking-malware/ </source>
+<date> 2017_01_05 </date>
+<text>
+In this campaign, hackers are distributing the malware through 2 files namely “NDA-ranked-8th-toughest-College-in-the-world-to-get-into.xls” and “NIA-selection-order-.xls” respectively.
+These files are being circulated via WhatsApp in the form of authentic word files obtaining sensitive information from users which include online banking credentials, PIN codes and similar details.
+According to IBTimes, Android users in India are the key targets of this new WhatsApp scam.
+However, there isn’t any particular operating system that is being cited as the most affected one.
+It is worth noting that these sorts of malware campaigns are usually designed to work on Google’s operating system instead of the iOS.
+The reason why Indian android OS users are frequently being targeted by hackers in such campaigns is that Indian market is very popular for low-cost, cheap Android smartphones that run on older versions of the android OS.
+Hackers are attacking two key organizations in India to compel users to click on the word documents attached in the malicious WhatsApp message.
+This message has names of two major organizations of India namely National Defense Academy/NDA and National Investigation Academy/NIA.
+These files are in Excel format mainly but versions of these files in Word and PDF formats have also been identified.
+Authorities in India have already issued security alerts to the concerned authorities since it is being speculated that this new campaign attacks law enforcement authorities and military personnel in the majority.
+“It has been analyzed that the men and women in defense, paramilitary and police forces could be the target groups,” believe security officials in India.
+Israeli Tech firm claims its new CatchApp can hack any WhatsApp account
+According to the Economic Times, the NIA and NDA are very popular organizations in India as well as abroad; there is a high level of curiosity about the way these organizations function among masses, which is why people are so interested in opening the infected attachments on WhatsApp.
+At the moment it isn’t clear what else this malware performs when the files are opened and if WhatsApp has taken any action in this regard to prevent users from getting affected.
+</text>

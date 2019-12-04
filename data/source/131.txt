@@ -1,0 +1,17 @@
+<title>49% of businesses fell victim to cyber ransom attacks in 2016 - TechRepublic</title>
+<source> http://www.techrepublic.com/article/49-of-businesses-fell-victim-to-cyber-ransom-attacks-in-2016/ </source>
+<date> 2017_01_10 </date>
+<text>
+Nearly half of businesses report that they were the subject of a cyber-ransom campaign in 2016, according to Radware's Global Application and Network Security Report 2016-2017.
+Data loss topped the list of IT professionals' cyber attack concerns, the report found, with 27% of tech leaders reporting this as their greatest worry.
+It was followed by service outage (19%), reputation loss (16%), and customer or partner loss (9%).
+Malware or bot attacks hit half of all organizations surveyed in the last year.
+Some 55% of respondents reported that IoT ecosystems had complicated their cybersecurity detection measures, as they create more vulnerabilities.
+Ransomware attacks in particular continue to increase rapidly: 41% of respondents reported that ransom was the top motivator behind the cyber attacks they experienced in 2016.
+Meanwhile, 27% of respondents cited insider threats, 26% said political hacktivism, and 26% said competition.
+SEE: HR managers beware: Ransomware could be your next job applicant
+While large-scale DDoS attacks dominated the headlines of 2016, this report found that only 4% of all attacks were more than 50 Gbps, while more than 83% of DDoS attacks reported were under 1 Gbps.
+"One thing is clear: Money is the top motivator in the threat landscape today," said Carl Herberger, vice president of security solutions at Radware, in a press release.
+"Attackers employ an ever-increasing number of tactics to steal valuable information, from ransom attacks that can lock up a company's data, to DDoS attacks that act as a smoke screen for information theft, to direct brute force or injection attacks that grant direct access to internal data."
+Despite the growth in attacks, some 40% of organizations reported that they do not have an incident response plan in place, the survey found.
+</text>

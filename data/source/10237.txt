@@ -1,0 +1,23 @@
+<title> LAURA WHITCOMBE: Beware bogus tax refund emails and texts. Scammers are looking for easy targets days after 31 January deadline </title>
+<source> https://www.thisismoney.co.uk/money/beatthescammers/article-5354103/LAURA-WHITCOMBE-Beware-bogus-tax-refund-emails-texts.html </source>
+<date> 2018_02_09 </date>
+<text>
+If you've just paid your self-assessment tax bill, be vigilant if you receive an email informing you that you're due a refund.
+Fraudsters are targeting taxpayers with spurious emails and text messages pretending to be from the government. 
+I received one such email over the weekend, telling me I was due a refund of £222.32. 
+The email came complete with a bogus 'HMRC Transaction Confirmation' number and a link claiming to be to the Government Gateway, which is used to access online government services.
+Of course, I would just need to click on the bogus link with my 'credit/debit card ready' so the criminals at the other end of the link could scam my cards for as much money as possible.
+At first glance, it may look fairly convincing - the spelling and grammar is pretty good, it contains plenty of official-looking reference numbers and the web links are at least in part quite similar to the genuine articles. 
+But it's very definitely a 'phishing' email - whereby the fraudster sender is trying to hook you into providing personal information. In this case, they're after my credit or debit card numbers.
+Phishing happens by text message too. Earlier this month HMRC reported people are nine times more likely to fall for text message scams than other types such as email because they can appear more legitimate, with many texts displaying ‘HMRC’ as the sender, rather than a phone number.
+It also said it had 'stopped thousands of taxpayers from receiving scam text messages, with 90 per cent of the most convincing texts now halted before they reach their phones'.
+To help you protect yourself and your bank account, there are several warning signs you should always look out for to determine whether such emails and texts are fakes 
+
+This is in case they contain malware - software with a virus that can read personal information on your computer – or destroy it. The bug is often activated by users inadvertently opening an attachment or clicking on an email link.
+And it's not just emails and texts about tax refunds you need to be vigilant towards. 
+A spokesman for Action Fraud told This is Money: 'At this important time in the tax year when people will be claiming refunds, we are warning of fraudsters who contact victims claiming to be from HMRC to trick them into paying bogus debts and taxes. 
+'These criminals will contact victims in many ways, including spoof calls, voicemails and text messages. And in most cases they will ask for payments in iTunes giftcards.
+'It is important that people spot the signs of this type of fraud to protect themselves.
+'HMRC will never use text messages to inform about a tax rebate or penalty and will never ask for any payment in the form of iTunes vouchers.'  
+</text>
+

@@ -1,0 +1,14 @@
+<title>DFM hit by cyber attack - FTAdviser.com</title>
+<source> https://www.ftadviser.com/investments/2017/01/19/dfm-hit-by-cyber-attack/ </source>
+<date> 2017_01_20 </date>
+<text>
+Hawksmoor Investment Management has sought to reassure clients after it was the victim of a cyber attack earlier this week.
+The discretionary investment manager, which runs £711m on behalf of clients, has emailed investors to let them know it was the target of an attack on its IT systems.
+Phishing emails were sent out to clients on Tuesday (17 January) purporting to be from the company’s business development manager, Jill Gill.
+In an email sent out today (19 January), Hawksmoor chief executive John Crowley apologised to clients, but said the IT team had quickly identified and resolved the issue.
+He also said the team had taken “immediate steps” to prevent this kind of incident from happening again.
+“Hawksmoor treats confidentiality and data protection extremely seriously, and I can assure you that no client data was compromised at any stage,” he said.
+Mr Crowley advised clients to delete any emails they received from Ms Gill between 3pm and 4pm on the 17 January.
+He also recommended that customers change their password if they opened any link on the emails.
+Last year, the head of cyber technology firm ZoneFox said companies should implement a framework to guard against breaches to their data security.
+</text>

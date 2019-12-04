@@ -1,0 +1,20 @@
+<title>A recently discovered Linux flaw could be exploited by Sudo Users to gain Root PrivilegesSecurity Affairs</title>
+<source> http://securityaffairs.co/wordpress/59606/hacking/linux-flaw.html?utm_source=dlvr.it&utm_medium=twitter </source>
+<date> 2017_06_01 </date>
+<text>
+Security researchers at Qualys Security have discovered a Linux flaw that could be exploited to gain root privileges and overwrite any file on the filesystem on SELinux-enabled systems.
+The high severity flaw, tracked as CVE-2017-1000367, resides in the Sudo’s get_process_ttyname() for Linux and is related to the way Sudo parses tty information from the process status file in the proc filesystem.
+The Linux flaw could be exploited by a local user with privileges to execute commands via Sudo and could allow attackers to escalate their privileges to root.
+The Sudo’s get_process_ttyname() function opens “/proc/[pid]/stat” (man proc) and reads the device number of the tty from field 7 (tty_nr). These fields are space-separated, the field 2 (comm, the filename of the command) can contain spaces.
+Sudoer users on SELinux-enabled systems could escalate their privileges to overwrite any file on the filesystem with their command’s output, including root-owned files.
+“We discovered a vulnerability in Sudo’s get_process_ttyname() for Linux: this function opens “/proc/[pid]/stat” (man proc) and reads the device number of the tty  from field 7 (tty_nr). Unfortunately, these fields are space-separated and field 2 (comm, the filename of the command) can contain spaces (CVE-2017-1000367).” reads the security advisory. “On an SELinux-enabled system, if a user is Sudoer for a command that does not grant him full root privileges, he can overwrite any file on
+the filesystem (including root-owned files) with his command’s output,
+because relabel_tty() (in src/selinux.c) calls open(O_RDWR|O_NONBLOCK)
+on his tty and dup2()s it to the command’s stdin, stdout, and stderr.
+This allows any Sudoer user to obtain full root privileges.”
+To exploit the issue, a Sudo user would have to choose a device number that doesn’t exist under “/dev”. If the terminal isn’t present under the /dev/pts directory when the Sudo performs a breadth-first search of /dev, the user could allocate a pseudo-terminal between the two searchers and create a “symbolic link to the newly-created device in a world-writable directory under /dev, such as /dev/shm,”
+“Exploiting the bug requires that the user already have sudo privileges. SELinux must also be enabled on the system and sudo must have been built with SELinux support.
+To exploit the bug, the user can choose a device number that does not currently exist under /dev. If sudo does not find the terminal under the /dev/pts directory, it performs a breadth-first search of /dev. It is possible to allocate a pseudo-terminal after sudo has checked /dev/pts but before sudo performs its breadth-first search of /dev. The attacker may then create a symbolic link to the newly-created device in a world-writable directory under /dev, such as /dev/shm.” read a Sudo alert.
+“This file will be used as the command’s standard input, output and error when an SELinux role is specified on the sudo command line. If the symbolic link under /dev/shm is replaced with a link to an another file before it is opened by sudo, it is possible to overwrite an arbitrary file by writing to the standard output or standard error. This can be escalated to full root access by rewriting a trusted file such as /etc/shadow or even /etc/sudoers.”
+The Linux flaw affects all Sudo versions from 1.8.6p7 through 1.8.20, the Sudo 1.8.20p1 fixes it, the issue was rated with a CVSS3 Base Score of 7.8.
+</text>

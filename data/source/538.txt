@@ -1,0 +1,15 @@
+<title>Hacker hijacks thousands of publicly exposed printers to warn owners | CSO Online</title>
+<source> http://www.csoonline.com/article/3166054/security/hacker-hijacks-thousands-of-publicly-exposed-printers-to-warn-owners.html </source>
+<date> 2017_02_07 </date>
+<text>
+The messages included ASCII art depicting robots and warned that the printers had been compromised and they were part of a botnet.
+The hacker, who uses the online alias Stackoverflowin, later said that the botnet claim was not true and that his efforts served only to raise awareness about the risks of leaving printers exposed to the internet.
+Stackoverflowin claims to be a high-school student from the U.K. who is interested in security research.
+He said that for the most part he simply sent print jobs using the Line Printer Daemon (LPD), the Internet Printing Protocol (IPP) and the RAW protocol on communications port 9100 to printers that didn't require authentication.
+However, he also claims to have exploited an undisclosed remote command execution (RCE) vulnerability in the web management interface of Xerox printers.
+The hacker estimates that up to 150,000 printers were affected by his effort, but claims to have access to more RCE flaws that he didn't use and which would have allowed him to print to over 300,000 printers.
+As printers around the world started printing the hacker's rogue messages on Friday, affected users took to Twitter to report the problem.
+From the photos they posted, it appears that many of the printers were part of point-of-sale systems.
+The issue of publicly exposed printers is not new and has been exploited before to print rogue and sometimes offensive messages.
+However, the issue was renewed last week when researchers from Ruhr-University Bochum in Germany published a paper on different attacks against network printers and an assessment of 20 printer models.
+</text>

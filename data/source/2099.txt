@@ -1,0 +1,14 @@
+<title>Fatboy Ransomware-as-a-Service Emerges on Russian-Language Forum</title>
+<source> https://www.recordedfuture.com/fatboy-ransomware-analysis/ </source>
+<date> 2017_05_05 </date>
+<text>
+On March 24, 2017, a member of a top-tier Russian cyber criminal forum posted an advertisement for “Fatboy,” a new ransomware-as-a-service (RaaS) product.
+The advertiser, operating under the username “polnowz,” describes Fatboy as a partnership, offering support and guidance through Jabber. While the RaaS has not yet received any endorsements or feedback from the hacking community, on March 26, “ilcn,” a reputable member of the forum, offered to assist polnowz with translation in the product.
+The Fatboy ransomware is dynamic in the way it targets its victims; the amount of ransom demanded is determined by the victim’s location.
+According to polnowz, Fatboy uses a payment scheme based on The Economist’s Big Mac Index (cited as the “McDonald’s Index” in the product description), meaning that victims in areas with a higher cost of living will be charged more to have their data decrypted.
+Purchasers of the Fatboy RaaS partner directly with the author of the malware and not through a third-party vendor. Potential partners also receive payment instantly when a victim pays their ransom, adding another level of transparency to this partnership.
+Since February 7, 2017, the author of the Fatboy RaaS has purportedly earned at least $5,321 USD from their own ransomware campaigns using this product.
+A computer infected with the Fatboy malware will display the above message, explaining that the user’s files have been encrypted, stating the ransom amount, and warning the user against interfering with the ransomware.
+The level of transparency in the Fatboy RaaS partnership may be a strategy to quickly gain the trust of potential buyers. Additionally, the automatic price adjustment feature shows an interest in customizing malware based on the targeted victim.
+Organizations should be aware of the adaptability of Fatboy, as well as other ransomware products, and continuously update their cyber security strategies as these threats evolve.
+</text>

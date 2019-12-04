@@ -1,0 +1,34 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/apple-ransom-threat-legitimacy-is/ </source>
+<date> 2017_03_27 </date>
+<text>
+By now, you may have heard that a hacking organization identifying itself as the Turkish Crime Family has gone hunting for a very big fish: It said that it has credentials for hundreds of millions of Apple accounts of various sorts (including email and iCloud), and it’s threatening to wipe all of the iPhones in the cache unless a hefty ransom is paid.
+The group is asking for either $75,000 in Bitcoin or $100,000 in iTunes gift cards before the April 7 deadline.
+Turkish Crime Family (let’s call them TCF) was first reported by Vice’s Motherboard as having 559 million total accounts—and other reports say there are either 200 million or 300 million vulnerable iPhone accounts.
+Regardless of the number, it’s a lot—and on the surface the news, if TCF really does have those credentials, would indicate that Apple has suffered a major data breach.
+Apple said in a media statement: “There have not been any breaches in any of Apple’s systems including iCloud and Apple ID.
+The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services.
+We're actively monitoring to prevent unauthorized access to user accounts and are working with law enforcement to identify the criminals involved.
+To protect against these type of attacks, we always recommend that users always use strong passwords, not use those same passwords across sites and turn on two-factor authentication."
+Which means that the danger, if it does exist, isn’t new for these Apple users.
+And indeed, many of the accounts could be defunct: Some of the addresses are @mac.com and @me.com addresses, which could be almost two decades old.
+Motherboard confirmed a back-and-forth conversation between the hackers and Apple security teams, but TCF has yet to publicly provide solid proof of how and what information they have, besides a YouTube video (now removed) that Motherboard said shows someone logging into an iCloud account.
+Meanwhile, ZDNet said that it was able to get a data sample of 54 allegedly breached accounts from TCF—finding that they were all legitimate email addresses.
+The outlet also reached 10 users that said the listed pilfered passwords were correct.
+John Bambenek, threat systems manager of Fidelis Cybersecurity, said that he’s skeptical about the hacker group’s claims, noting that there are always people who make unfounded threats to organizations in the hope of an easy payday—or notoriety.
+“The hacker group is not following what’s become typical operating procedure,” he said via email.
+“For example, if this were a real ransomware attack, they would be communicating privately with the company they are targeting.
+Based on previous incidents, the current threat has all the hallmarks of a stunt.
+If they really have the ability to wipe iPhones then they would have wiped a few already as ‘proof of life’”.
+But that said, do consumers really want to roll the dice with their pictures and other information on the phone?
+Lamar Bailey, director of security research and development for Tripwire, said via email that the hackers may have indeed been able to meticulously assemble a cohesive database of previously stolen Apple credentials by making use of various former data breaches of sources outside of Apple—this is a good highlight once again of the widespread problem of password re-use.
+It would have required a large effort, but he noted that it could be done.
+“If this is legit, the hackers would have had to obtain access to the individual user accounts via breaking the passwords of each of the user accounts or have acquired access to the Apple iCloud servers,” he said.
+“The access to each user account is much more realistic since we have seen numerous reports of all the weak passwords people use for their computers and accounts”.
+And, he added, if the hackers have password access to individual user accounts, they can indeed erase phones remotely and change passwords for the Apple account.
+“The hackers cannot remove backups for Apple devices from the cloud, but changing the passwords will make it hard for the legitimate users to reset and recover their devices,” he noted.
+“Once the end-user has access to their account, they will be able to restore their device”.
+Apple users—and indeed all users of any online-facing service—should make sure they’re using strong passwords and enabling two-factor authentication as an added protection.
+“Having a local backup of your device is always a good idea too.
+It is faster to restore a device locally than over the internet, and having a small NAS (Network Attached Storage) device at home for pictures and backups is a good investment to supplement the cloud backups,” Bailey added.
+</text>

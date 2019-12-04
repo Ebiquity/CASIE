@@ -1,0 +1,18 @@
+<title> Thought Patch Tuesday was a load? You gotta check out this Oracle mega-advisory, then </title>
+<source> https://www.theregister.co.uk/2018/10/16/oracle_patch_bundle/ </source>
+<date> 2018_10_16 </date>
+<text>
+Oracle has released a wide-ranging security update to address more than 300 CVE-listed vulnerabilities in its various enterprise products.
+The October release covers the gamut of Oracle's offerings, including its flagship Database, E-Business Suite, and Fusion Middleware packages.
+For Database, the update addresses a total of three flaws. Two of the vulnerabilities (CVE-2018-3259 and CVE-2018-3299) can be remotely exploited without authentication, while the third, CVE-2018-7489, would require the user to have a Rapid Home Provisioning account to execute and is considered by far the least severe of the three.
+Oracle noted that all three bugs only impact the server versions of Database, user clients are not considered to be vulnerable.
+For Fusion Middleware, the update will include a total of 56 CVE-listed flaws, including 12 that are remotely exploitable with CVSS base scores of 9.8, meaning an exploit would be fairly easy to pull off and offer near total control of the target machine. Of those 12, five were for critical flaws in WebLogic Server.
+Java SE will get 12 security fixes, with all but one being for remotely exploitable vulnerabilities in that platform. Oracle notes that though the CVSS scores for the flaws are fairly high, Solaris and Linux machines running software with lower user privileges will be considered to be at a lower risk than Windows environments that typically operate with admin privileges.
+MySQL was the target of 38 CVE-listed bug fixes this month, through just three of those are remotely exploitable. The two most serious, CVE-2018-11776 and CVE-2018-8014, concern remote code flaws in MySQL Enterprise Monitor.
+PeopleSoft will see 24 bug fixes, 21 of which can be remotely targeted and seven that would not require any user interaction. Just one of the 24 flaws was given a CVSS base score higher than 7.2. in the Oracle listing.
+Sun products were the subject of 19 security fixes, including two remote code execution flaws in XCP Firmware.
+libssh bug more like "oh SSH…"
+Once admins get the Oracle patches in place, they will want to take a close look at the write-up for CVE-2018-10933, an authentication bypass for libssh that would allow an attacker to get into a target machine by sending a "SSH2_MSG_USERAUTH_SUCCESS" message when it expects a "SSH2_MSG_USERAUTH_REQUEST" message. That means any miscreant can log in without a password or other credential. As you can imagine, this is a very bad thing.
+Fortunately, the bug does not affect OpenSSH – and thus does not affect the hugely widespread sshd and ssh tools – but rather applications, such as KDE and XMBC, that use libssh as a dependency.
+</text>
+

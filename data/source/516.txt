@@ -1,0 +1,34 @@
+<title>29,000 taxpayers affected by W-2 scams, IRS issues new warning | CSO Online</title>
+<source> http://www.csoonline.com/article/3165418/security/29000-taxpayers-affected-by-w-2-scams-irs-issues-new-warning.html </source>
+<date> 2017_02_06 </date>
+<text>
+Last week, the Internal Revenue Service (IRS) issued a new warning to employers, urging them to stay alert as reports of compromised W-2 records started to climb.
+This newest advisory aligns with the agency's plan to delay refunds for those filing their returns early in order to combat identity theft and fraud.
+The IRS also informed employers the W-2 scam has moved beyond corporations, expanding to include schools, tribal organizations, and nonprofits.
+In a statement, IRS Commissioner, John Koskinen, said the scams - sometimes known as Business Email Compromise (BEC) attacks - are some of the most dangerous email scams the agency has seen in a long time.
+[ Learn about top security certifications: Who they're for, what they cost, and which you need.
+"It can result in the large-scale theft of sensitive data that criminals can use to commit various crimes, including filing fraudulent tax returns.
+We need everyone’s help to turn the tide against this scheme," Koskinen said.
+In 2016, at least 145 organizations fell victim to BEC scams, exposing tens of thousands of employees to tax fraud and identity theft.
+Salted Hash kept track of some of the high-profile cases, and Databreaches.net tracked everything, resulting in a massive list of documented successful attacks.
+As of February 5, 23 organizations have disclosed BEC-related data breaches publicly, each one resulting in compromised W-2 data.
+The confirmed BEC victims include ten school systems, a software development firm, a utility company in Pennsylvania, at least one restaurant in Indianapolis, and businesses operating within the healthcare, finance, manufacturing, and energy sectors.
+Distribution International emailed employees that their W-2 data was compromised on January 27.
+Their notification expands the number of affected taxpayers to more than 30,000.
+The scammers spoofed an email and pretended to be one of the company's owners.
+W-2 records for all companies and all employees were compromised.
+Salted Hash reached out to Sky Climber's CFO, Jeff Caswell, for more information.
+Also, the College of Southern Idaho has reported an incident that could impact 3,000 employees.
+According to Public Information Officer Doug Maughan, the W-2 records affected belong to seasonal and auxiliary staff.
+Palomar College disclosed an attack on January 30, which affected employee W-2 records.
+The school didn't say the incident was the result of a BEC attack, but Salted Hash is listing it anyway due to the timing of the attack and the information targeted.
+Finally today, the West Michigan Whitecaps - a Class A minor league baseball team affiliated with the Detroit Tigers - said staff W-2 records were compromised after someone posing as a manager requested them.
+In 2016, the criminals behind the BEC attacks mostly focused on payroll and tax records.
+This year though, the IRS says that in addition to the usual records request, the scammers are now following-up and requesting wire transfers.
+"Although not tax related, the wire transfer scam is being coupled with the W-2 scam email, and some companies have lost both employees’ W-2s and thousands of dollars due to wire transfers," the IRS explained in their warning.
+"Employers should consider creating an internal policy, if one is lacking, on the distribution of employee W-2 information and conducting wire transfers."
+BEC attacks are essentially Phishing scams, or Spear Phishing since the criminals have a specific target.
+They're effective too, exploiting the trust relationships that exist within the corporate environment.
+In a majority of the reported cases from 2016, the attackers forged an email and pretended to be the victim organization's top executive, or someone with direct authority.
+Often it is the CEO or CFO, but any high-level manager will work.
+</text>

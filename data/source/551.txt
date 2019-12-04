@@ -1,0 +1,11 @@
+<title>Over 67,000 Websites Defaced via Recently Patched WordPress Bug</title>
+<source> https://www.bleepingcomputer.com/news/security/over-67-000-websites-defaced-via-recently-patched-wordpress-bug/ </source>
+<date> 2017_02_08 </date>
+<text>
+According to web security firm Sucuri, who detected the attacks after details of the vulnerability became public last Monday, the attacks have been slowly growing, reaching almost 3,000 defacements per day.
+Attackers are exploiting a vulnerability in the WordPress REST API, which the WordPress team fixed almost two weeks ago, but for which they published public details last Monday.
+Exploiting the flaw is trivial, and according to Sucuri, a few public exploits have been published online since last week.
+Based on data collected from Sucuri's honeypot test servers, four attackers have been busy in the past week trying to exploit the flaw.
+Since the attacks have been going on for some days, Google has already started to index some of these defacements.
+Sucuri's CTO, Daniel Cid, expects to see professional defacers enter the fold, such as SEO spam groups that will utilize the vulnerability to post more complex content, such as links and images.
+</text>

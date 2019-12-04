@@ -1,0 +1,31 @@
+<title>Two New Edge Exploits Integrated into Sundown Exploit Kit | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/two-new-edge-exploits-integrated-into-sundown-exploit-kit/122974/?m=xla&utm_source=hs_email&utm_medium=email&utm_content=40429439&_hsenc=p2ANqtz-9kwkAUUs4yXchysJyLWVd87T1F6ozJEB7U2C9GCTqVwYVoQ7icXB5RwlopiLw2aEWbyweYma6fnIOJoj-aEGbvmN8JNg&_hsmi=40429439 </source>
+<date> 2017_01_11 </date>
+<text>
+Six months of relative quiet around exploit kits recently changed when a public proof-of-concept attack disclosed by a Texas startup was integrated into the Sundown Exploit Kit.
+The proof-of-concept exploit was developed by Theori, a research and development firm in Austin, which opened its doors last spring.
+The PoC targets two vulnerabilities, CVE-2016-7200 and CVE-2016-7201, in Microsoft Edge that were patched in November in MS16-129 and privately disclosed to Microsoft by Google Project Zero researcher Natalie Silvanovich.
+French researcher Kafeine said on Saturday that he had spotted weaponized versions of the Theori exploits in Sundown two days after they were made public.
+The payload is most likely the Zloader DLL injector, but Sundown has also moved other malware in the past including banking Trojans such as Zeus Panda and Dreambot, and even Bitcoin mining software.
+Kafeine said this is the first significant exploit kit activity he’s seen in six months.
+This is the second time a Theori proof-of-concept exploit has ended up in an exploit kit, Kafeine said, harkening back to CVE-2016-0189, which was patched in May by Microsoft and yet eventually found its way into Neutrino, RIG, Sundown and Magnitude.
+Kafeine said he expects other exploit kits to quickly integrate this attack as well, but activity could be slowed by Christmas and New Year holidays in the West, and the recently concluded Russian holiday season.
+A request for comment from researchers at Theori was not returned in time for publication.
+In the Readme for the exploits posted to Github, Theori said its PoC was tested on the latest version of Edge running on Windows 10.
+The vulnerabilities are in the Chakra JavaScript engine developed for Microsoft in Internet Explorer 9.
+The Theori exploits trigger information leak and type confusion vulnerabilities in the browser, leading to remote code execution.
+The bugs were patched Nov. 8 by Microsoft in a cumulative update for the Edge browser; Microsoft characterized them as memory corruption flaws and rated them both critical for Windows clients and moderate for Windows server.
+An attacker could also embed an ActiveX control marked ‘safe for initialization’ in an application or Microsoft Office document that hosts the Edge rendering engine.
+The integration of new exploits, however, has slowed significantly since the erasure of Angler and other popular kits from the underground.
+Angler’s disappearance coincided with the June arrests of 50 people in Russia allegedly connected to the development and distribution of the Lurk Trojan.
+Researchers at Kaspersky Lab who investigated the infrastructure supporting Lurk said there was little doubt that the criminals behind Lurk were also responsible for Angler’s constant development and profit-making.
+Since the end of the summer, however, exploit kit development has all but ended while attackers have returned to large-scale spamming campaigns and a resurgence of macro malware to move attacks along.
+“Regarding the why, I don’t know for sure,” Kafeine said.
+“Either it’s harder to code those, [or] those who were providing fully working exploits (for Angler for instance) are not anymore into this.
+“I think [exploit kits] have not been so far behind in years”.
+Microsoft patched this on Nov 8th, bug the huge problem is that whenever you buy a new computer, it doesn’t come with that pacth… You have to run the updates once you set up the new computer.
+And from what I have been finding over the last 6 months, is that the moment you open a brand new laptop with windows 10 and start to try to update it, the vulnerability is wide open for attack.
+The WORST part is that if you are a regular person not knowing anything about security, and you set up windows 10 with the “express settings” the computer is setup to connect to any open wifi hotspot and Bluetooth devices!
+So if you live in NYC or any heavy populated area, or your home wifi is already infected by Miria Botnet, you are screwed instantly… I have proof that it is happening to everyone and no one knows it.
+The internet is going to implode within the next 3-4 months and the government will have to shut it down.
+</text>

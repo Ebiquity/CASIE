@@ -1,0 +1,14 @@
+<title> Equifax's Latest Data Leak: Argentina  </title>
+<source> https://www.bankinfosecurity.com/equifaxs-latest-data-breach-argentina-a-10288 </source>
+<date> 2017_09_13 </date>
+<text>
+Investigators with Hold Security, a Wisconsin-based security consultancy, on Tuesday afternoon discovered an unsecure internal customer service portal for the company's Argentinian operations. The national ID numbers for at least 14,000 Argentinians have been exposed, but the leak could potentially affect tens of thousands more people.
+The website held thousands of credit-related dispute records, faxes and national identity numbers for Argentinians who had filed complaints. It also stored the usernames and passwords in plaintext for about 100 of the company's customer service representatives.
+The findings were first reported by cybersecurity blogger Brian Krebs, who notified Equifax. The website has now been shut down.
+The findings will put further pressure on Equifax, which has been criticized for its haphazard and slow response to a breach that exposed the personal details of 143 million U.S. consumers, as well as an as-yet-unspecified number of British and Canadian residents.
+Alex Holden, founder and CTO of Hold Security, tells Information Security Media Group that the Equifax website for Argentina "could be exploited by a 3-year-old." He says he didn't use any advanced hacking techniques to uncover the breach.
+Holden - a veteran investigator credited with discovering the massive Adobe Systems and Target data breaches in 2013 - says he still found the Equifax findings "completely unexpected and surprising."
+Equifax says it acted immediately to halt the leak, which is unrelated to the breach it announced Sept 7, says Meredith Griffanti, the company's spokeswoman for Latin America. The data was a "limited amount of public information strictly related to consumers who contacted our customer service center and the employees who managed those interactions," she says.
+"We have no evidence at this time that any consumers, customers, or information in our commercial and credit databases were negatively affected, and we will continue to test and improve all security measures in the region," Griffanti says.   
+</text>
+

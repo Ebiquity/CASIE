@@ -1,0 +1,16 @@
+<title>Hacking Too Close to Home: Why the Vermont Electric Grid “Laptop” Malware Matters</title>
+<source> http://blog.bayshorenetworks.com/hacking-too-close-to-home-why-the-vermont-electric-grid-laptop-malware-matters-and-what-needs-to-be-done-now?utm_campaign=Vermont%20Malware&utm_content=47184892&utm_medium=social&utm_source=twitter </source>
+<date> 2017_01_03 </date>
+<text>
+The recent political furor over state sponsored hacking took an ugly and dangerous turn, on the morning of December 30th when a tiny Vermont electric utility reported that Grizzly Steppe – the spear-fishing process used to access DNC emails – had been found on one of their systems.
+Vermont Governor, Peter Shumlin issued a statement accusing Vladimir Putin of attempting to hack Vermont’s electrical grid, and many others follow suit.
+And there appears to be a good chance that the malicious code found on a Burlington Electric laptop is evidence of a state sponsored cyberattack.
+Following the initial news cycle, some pundits dismissed the finding as a non-story.
+It’s true, the laptop was “not connected to the power grid systems”, and there is no proof yet that the Russians were involved.
+It’s also true that the Russian built Grizzly Steppe hacking code is widely available on the dark internet, and anyone could have put it on that laptop.
+According to Ukrainian energy provider Ukrenergo, a second major outage on December 17, 2016, may have been caused by a similar cyber-attack.
+Attacks on critical infrastructure typically require a long, slow, low-profile campaign, beginning with subtle, difficult to detect maneuvers, like slipping malware on laptop computers.
+Two years prior to the first Ukraine incident, hackers began attempting to acquire legitimate login credentials by hacking non-operational systems at Ukrainian utilities – systems very much like Burlington Electric’s laptop.
+According to a Booz Allen analysis, spear-phishing emails containing weaponized Microsoft Word, Excel, and PowerPoint files, exactly the type of files typically found on laptop computers, were sent to Ukraine electric utility employees as early as May 2014.
+Once legitimate login credentials were discovered through these seemingly minor attacks on non-operational systems, the hackers used them to access critical Industrial Control Systems (ICS) in order to shutoff breakers, shutdown uninterrupted power supplies (UPS), destroy Human Machine Interface (HMI) systems, and destroy Serial-to-Ethernet devices at substations.
+</text>

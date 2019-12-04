@@ -1,0 +1,19 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/gamestop-investigates-potential/ </source>
+<date> 2017_04_10 </date>
+<text>
+The company acknowledged the investigation after being contacted by Brian Krebs, confirming that it received a “notification from a third party” saying that info from cards used at GameStop.com were being offered for sale on the Dark Web.
+Krebs had been tipped off to the situation by financial industry sources, who said the compromise was likely active between mid-September 2016 and the first week of February 2017.
+GameStop however didn’t confirm these data points.
+“If Brian Krebs’ report is correct, the GameStop breach has the potential to be a huge payday for hackers,” said Vishal Gupta, CEO of Seclore, via email.
+“Compromised credit-card numbers aren’t always easy to monetize, but in this case hackers were able to intercept CVV2 numbers…There is a reason companies aren’t allowed to store this CVV2 data in their own databases, so the fact that the hackers were able to intercept these security codes elevates the severity of the incident significantly”.
+The timing could also be a key factor in the payoff for the crooks.
+“If the reports about the Gamestop.com breach are right, then it shows how business-minded the bad guys can be.
+Hitting them during the Christmas season—when tons of distant relatives buying kids they hardly know gift cards for the one thing they know every kid wants—is pretty savvy timing,” said Jonathan Sander, CTO, STEALTHbits Technologies.
+“It also means these are purchases that many will barely recall making, and consumers were exercising the least caution they ever do as they rushed to get all their online shopping done”.
+For now, details are skimpy as to what was stolen, when and how—no attack vector has yet been public.
+However, the company is large and hugely popular in the United States, with a global presence, so the potential for consumer exposure at scale, if the timeframe given is correct, could be significant.
+"You can imagine a future where attacks such as this become so sophisticated and frequent that no one but the largest retailers can afford to defend against them,” said John Gunn, CMO, VASCO Data Security.
+“This would give the Amazons and Walmarts of the world a real competitive advantage in winning consumers’ business."
+GameStop shoppers are advised to comb their purchase histories.
+</text>

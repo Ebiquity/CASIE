@@ -1,0 +1,7 @@
+<title>Chesapeake Public Schools’ computer network affected by malware from phishing emails</title>
+<source> https://wtkr.com/2018/11/08/chesapeake-public-schools-computer-network-affected-by-malware-from-phishing-emails/ </source>
+<date> 2018_11_08 </date>
+<text>
+CHESAPEAKE, Va. - An attack on computers at Grassfield High School has students and parents concerned. Chesapeake Public Schools says a malware attack is responsible for taking the school off the grid.
+The school district said a virus entered their network through phishing emails sent to employees. Only a couple of divisions have been affected and it's not a system-wide outage. However, it impacted Grassfield High School in a big way. Classes heavily relying on technology were affected, but the others carried on as usual.
+</text>

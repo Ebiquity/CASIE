@@ -1,0 +1,21 @@
+<title> Foxit patches 118 vulnerabilities in popular PDF reader </title>
+<source> https://portswigger.net/daily-swig/foxit-patches-118-vulnerabilities-in-popular-pdf-reader </source>
+<date> 2018_10_03 </date>
+<text>
+Foxit has patched more than 118 vulnerabilities in its PDF reader, some of which could be exploited to enable full remote code execution.
+Patches were released last week for Foxit Reader 9.3 and Foxit PhantomPDF 9.3 to address a huge number of issues in the programs.
+This security bulletin released by Foxit provides details on the extensive list of vulnerabilities, which were discovered via internal research, end user reports, and reports from research teams.
+More than 118 issues were addressed, though there was some overlap, and so the number of actual bugs was lower.
+Vulnerable versions are 9.2.0.9297 and earlier, and only affect Windows users.
+A significant number of flaws were classed as ‘critical’ and could allow for remote code execution – 18 were reported by Cisco Talos, all of which were dubbed high in severity.
+Several were use-after-free flaws, which allows memory to be accessed after it has been freed and can enable hackers to execute arbitrary code and take over the system.
+Cisco Talos wrote in a report: “There are a couple of different ways an adversary could leverage this attack including tricking a user to opening a specially crafted, malicious PDF or, if the browser plugin is enabled, the user could trigger the exploit by viewing the document in a web browser.”
+Foxit told The Daily Swig that its programs were embedded with security features designed to protect its users from malicious actors.
+These include a ‘Safe Mode’, which “prevents suspicious external commands to be executed by Foxit Reader”, and the option to disable JavaScript.
+The company also urged its users to update to the latest version.
+A spokesperson told The Daily Swig: “Overall, Foxit Reader has had over 525 million downloads, but obviously they are not all active users on the latest release.
+“In Foxit Reader, we have a Safe Mode which prevents suspicious external commands to be executed by Foxit Reader. Therefore, we don’t know how many folks are running without Safe Mode enabled.”
+However, this security feature was bypassed not just once, but twice, by researchers last year.
+Foxit added: “For a number of reasons, including bug fixes, we always advise users to download and install the latest release. Also, run the product in Safe Mode whenever possible.”
+</text>
+

@@ -1,0 +1,14 @@
+<title>County cyber attack makes Newark, LACA more vigilant</title>
+<source> http://www.newarkadvocate.com/story/news/local/2017/02/06/county-cyber-attack-makes-newark-laca-more-vigilant/97444170/ </source>
+<date> 2017_02_07 </date>
+<text>
+Newark's Service Director David Rhodes said the city's system has not been hurt by the cyber attack and nothing like that has happened to the city before.
+Steve Baum, Newark's safety director, said the city is using the unfortunate incident to educate city employees on best practices for computers.
+"We get complacent because everybody uses computers every day and sometimes we just need to be reminded," he said.
+A computer virus discovered late Tuesday caused Licking County government to shut down its computers and phone systems indefinitely to prevent the virus from spreading, protect data and preserve evidence.
+The FBI and Bureau of Criminal Investigation have been notified.
+The virus, accompanied by a financial demand, is labeled ransomware, which has hit several local governments in Ohio and was the subject of a warning from the state auditor last summer.
+One tip, Baum said, is not to open personal emails on a work computer and don't open emails or attachments from unknown senders.
+Baum said in the past city employees have said something if they've received questionable emails.
+"If they see something that seems suspicious about their computer or an email that they got or something like that, but they’ve opened it and they notify somebody, we can shut that section down and isolate the problem as quick as possible and minimize the amount of damage that it does," he said.
+</text>

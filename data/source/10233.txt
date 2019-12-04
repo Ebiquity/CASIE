@@ -1,0 +1,15 @@
+<title> It’s 2018, and fake Facebook sites are still fooling people online </title>
+<source> https://memeburn.com/2018/05/fake-facebook-sites/ </source>
+<date> 2018_05_23 </date>
+<text>
+People are still falling for fake sites pretending to be Facebook, research from Kaspersky Labs suggests.
+In 2018 thus far, the Russian security company blocked “3.7 million attempts to visit fraudulent social network pages”. Notably, 58.7% of these attacks were attempting to direct users to fake FB pages.
+That’s a pretty substantial slice of the pie, considering that VKontakte — Russia’s version of Facebook — was responsible for 20.8%, and LinkedIn 12.9%.
+“At the beginning of the year, Facebook was the most popular social networking brand for fraudsters to abuse, and Facebook pages were frequently faked by cybercriminals to try and steal personal data via phishing attacks,” the company states in a press release.
+The main targets for these attacks include “global internet portals and the financial sector, including banks, payment services and online stores,” Kaspersky adds.
+The firm also suggests that this is nothing new.
+“Last year Facebook was one of the top three most exploited company names. The schemes are numerous, but fairly standard: the user is asked to ‘verify’ an account or lured into signing into a phishing site on the promise of interesting content,” it reveals.
+The company also noted that South America suffered the most phishing attacks in 2018 thus far. “Brazil was the country with the largest share of users attacked by phishers in the first quarter of 2018 (19%),” it revealed.
+It was followed by Argentina, Venezuela, and Albania — all at 13%.
+</text>
+

@@ -1,0 +1,14 @@
+<title> Did you hear? There's a critical security hole that lets web pages hijack computers. Of course it's Adobe Flash's fault  </title>
+<source> https://www.theregister.co.uk/2018/11/20/adobe_flash_bug/ </source>
+<date> 2018_11_20 </date>
+<text>
+Adobe has emitted software updates to address a critical vulnerability in Flash Player for Windows, Mac, and Linux.
+PC owners and admins will want to upgrade their copies of Flash to version 31.0.0.153 or later in order to get the patch – or just dump the damn thing all together.
+The November 20 security update addresses a single flaw, designated CVE-2018-15981. It is a type confusion bug that can be exploited to achieve remote code execution. Basically, an attacker could slip the exploit code into a Flash .swf file, put it on a web page, and covertly install malware on any vulnerable machine that visits the page.
+Because Adobe does not maintain a fixed patching schedule for Flash Player, this isn't technically considered an out-of-band band-aid. However, the update does come just one week after Adobe pushed out a handful of fixes for Patch Tuesday, including one for an information disclosure vulnerability in Flash Player.
+That Adobe would post another update just one week after their last patch should underscore that CVE-2018-15981 is a serious enough vulnerability to be a priority fix for users and admins.
+After installing this latest fix, those who are tired of the constant security threats might also want to consider taking the advice of multiple security experts and developers and at least disable Flash by default if not permanently.
+The notoriously vulnerable plugin has long since been surpassed by HTML5, and most major websites have already transitioned away from Flash, leaving it only really useful for specific sites and applications.
+Even Adobe wants to kill off Flash. The Photoshop giant has said that by 2020 it plans to formally retire the plugin once and for all.
+</text>
+

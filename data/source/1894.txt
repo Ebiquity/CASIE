@@ -1,0 +1,17 @@
+<title>SquirrelMail opens users to remote code execution - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/25/squirrelmail-remote-code-execution/ </source>
+<date> 2017_04_26 </date>
+<text>
+Users of open source webmail software SquirrelMail are open to remote code execution due to a bug (CVE-2017-7692) discovered independently by two researchers.
+“If the target server uses Sendmail and SquirrelMail is configured to use it as a command-line program, it’s possible to trick sendmail into using an attacker-provided configuration file that triggers the execution of an arbitrary command,” the explanation provided by MITRE reads. 
+“For exploitation, the attacker must upload a sendmail.cf file as an email attachment, and inject the sendmail.cf filename with the -C option within the ‘Options > Personal Informations > Email Address’ setting.”
+The bug was found by researchers Filippo Cavallarin and Dawid Golunski, independently of one another, and affects SquirrelMail versions 1.4.22 and below. 
+Golunski reported it to SquirrelMail (sole) developer Paul Lesniewski, who asked for a delay of publication of the details until he could fix the flaw.
+But as Cavallarin published details about it last week (after not receiving any reply by the SquirrelMail developer), Golunski did the same during the weekend.
+Both researchers provided a proof-of-concept exploit for the flaw, and Cavallarin even offered an unofficial patch for plugging the hole.
+All this prompted Lesniewski to push out a patch on Monday, and new, patched version snapshots of the software (1.4.23-svn and 1.5.2-svn).
+He also told The Register that exploitation of the bug is difficult to pull off.
+“In order to exploit the bug, a malicious user would need to have already gained control over a mail account by other means, SquirrelMail would need to be configured to allow users to change their outgoing email address (we recommend keeping this disabled), the user would need to determine the location of the attachments directory (by gaining shell access or making guesses), the permissions on said directory and files would need to allow access by other processes (by default this will usually be the case, but prudent admins will exert more stringent access controls) and of course, SquirrelMail needs to be configured to send via Sendmail and not SMTP (default is SMTP),” he explained.
+Still, according to Golunski, the 1.4.23 version snapshot offered on Monday was still vulnerable. But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.
+Users can wait to update their installation until things become more clear, and in the meantime, they can protect themselves by configuring their systems not to use Sendmail.
+</text>

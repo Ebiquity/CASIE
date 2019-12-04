@@ -1,0 +1,18 @@
+<title> Microsoft May 2018 Patch Tuesday Fixes 67 Security Issues, Including IE Zero-Day </title>
+<source> https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2018-patch-tuesday-fixes-67-security-issues-including-ie-zero-day/ </source>
+<date> 2018_05_08 </date>
+<text>
+Microsoft published earlier today the Patch Tuesday security bulletin for May 2018, containing fixes for 67 security issues.
+This month, Microsoft fixed security flaws in Microsoft Windows, Internet Explorer, Microsoft Edge, ChakraCore, .NET Framework, Microsoft Exchange Server, Windows Host Compute Service Shim, and Microsoft Office and Microsoft Office Services and Web Apps.
+
+Microsoft patches two zero-days
+The biggest issue patched this month is a zero-day in Internet Explorer that has been abused by a cyber-espionage campaign earlier this month. The zero-day (CVE-2018-8174) affects not only IE but also any other projects that embed the IE web rendering engine. Microsoft credited researchers from both Qihoo 360 Core Security and Kaspersky Lab for discovering this issue.
+The second zero-day is CVE-2018-8120, an elevation-of-privilege vulnerability in the Win32k component.
+"An attacker who successfully exploited this vulnerability could run arbitrary code in kernel mode. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights," Microsoft says. But the flaw is not as dangerous as it sounds, as an attacker already needs a foothold on Windows systems to run his malicious code in the first place, to elevate his access rights.
+Microsoft also patched CVE-2018-8141 (Windows Kernel Information Disclosure Vulnerability) and CVE-2018-8170 (Windows Image Elevation of Privilege Vulnerability), for which exploitation details became public. Despite info about these two flaws being published online, Microsoft says none were exploited in the wild.
+
+Flash fixes also included
+Last but not least, the Microsoft May 2018 Patch Tuesday also included a patch for an Adobe Flash Player vulnerability (CVE-2018-4944) that Adobe patched earlier today.
+Below is a table listing of all the security issues Microsoft fixed this month. We used PowerShell and the Microsoft API to assemble the table below, but the report is much longer. We hosted the full report on GitHub, here.
+</text>
+

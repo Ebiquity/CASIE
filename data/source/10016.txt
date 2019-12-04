@@ -1,0 +1,12 @@
+<title>Hospital pays $55,000 ransom; no patient data stolen</title>
+<source> http://www.greenfieldreporter.com/2018/01/16/01162018dr_hancock_health_pays_ransom/ </source>
+<date> 2018_01_15 </date>
+<text>
+GREENFIELD — Hancock Health paid a $55,000 ransom to hackers to regain access to its computer systems, hospital officials said.
+Part of the health network had been held hostage since late Thursday, when ransomware locked files including patient medical records.
+The hackers targeted more than 1,400 files, the names of every one temporarily changed to “I’m sorry.” They gave the hospital seven days to pay or the files would be permanently encrypted, officials said.
+An analysis since the attack confirmed no personal patient information was taken by the hackers, believed to be located in eastern Europe, said Hancock Health CEO Steve Long.
+The affected files were backed up and could have been recovered, but restoring them would take days — maybe even weeks — and would be costly, Long said.
+From a business standpoint, paying a small ransom made more sense, he said.
+The hacker asked for four bitcoins — a virtual currency used to make anonymous transactions that are nearly impossible to trace. At the time of the transfer, those four bitcoins were valued at about $55,000.
+</text>

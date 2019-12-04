@@ -1,0 +1,16 @@
+<title>Doxed by Microsoft’s Docs.com: Users unwittingly shared sensitive docs publicly | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/03/doxed-by-microsofts-docs-com-users-unwittingly-shared-sensitive-docs-publicly/ </source>
+<date> 2017_03_28 </date>
+<text>
+On March 25, security researcher Kevin Beaumont discovered something very unfortunate on Docs.com, Microsoft's free document-sharing site tied to the company's Office 365 service: its homepage had a search bar.
+That in itself would not have been a problem if Office 2016 and Office 365 users were aware that the documents they were posting were being shared publicly.
+As described in a Microsoft support document, "with Docs.com, you can create an online portfolio of your expertise, discover, download, or bookmark works from other authors, and build your brand with built-in SEO, analytics, and email and social sharing."
+But many users used Docs.com to either share documents within their organizations or to pass them to people outside their organizations—unaware that the data was being indexed by search engines.
+And many of the documents are still discoverable on the Google or Bing search engines, as they had been publicly indexed.
+That means that until the documents are unpublished from Docs.com, they will continue to be accessible to anyone who searches against the site.
+Microsoft had previously published a notice on security fixes to Docs.com for Office 365 administrators, advising them on how to control access by users to the service.
+"Because Docs.com does not yet meet all of Office 365 compliance framework requirements, Office 365 and Azure Tenant administrators must 'opt-in' to enable users with organizational accounts to use the service," the Microsoft Support document states.
+It's not clear how recently that change was made; Ars has reached out to Microsoft for further comment.
+Update 10:30 AM ET: This morning, Microsoft disabled some searched on Docs.com, and is blocking some incoming links to searches from Google.
+But additional documents were discoverable via Google search, including documents with health benefits information filled in.
+</text>

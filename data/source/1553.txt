@@ -1,0 +1,22 @@
+<title>Irresponsible Chinese DVR Vendor Still the Target of IoT Botnets One Year Later</title>
+<source> https://www.bleepingcomputer.com/news/security/irresponsible-chinese-dvr-vendor-still-the-target-of-iot-botnets-one-year-later/ </source>
+<date> 2017_04_10 </date>
+<text>
+This particular vulnerability is a severe RCE (Remote Code Execution) bug that allows an attacker to take over a DVR via a simple request.
+The flaw came to light last year, after a report from security researcher Rotem Kerner.
+His investigation discovered that this flaw was present in the firmware of DVRs manufactured by Chinese company TVT.
+Unfortunately, this wasn't any DVR manufacturer, but a seller of white-label products, meaning other vendors purchased the DVRs from TVT, slapped their logo on top, and sold them to their own customers as separate products.
+In total, Kerner tracked the sloppy-coded DVR firmware to 70 other DVR vendors.
+Despite numerous contact attempts, Kerner was unable to get in contact with the company, meaning the vulnerability remained unpatched.
+With exploit code publicly available, it didn't take long for attackers to target TVT-based DVRs.
+This was easy because all they had to do was to ping random IPs and listen to a server response for the terms "Cross Web Server."
+During the past year, TVT DVRs have been at the heart of many IoT DDoS botnets.
+The first big botnet made up of TVT devices was discovered by Sucuri in June 2016, consisted of over 25,000 bots, and was used to launch Layer 7 DDoS attacks of up to 50,000 requests per second.
+While TVT devices were regularly targeted by various IoT malware families, the vendor's name came back into news headlines during the fall of 2016, when the Mirai botnet also incorporated these DVRs into its botnet.
+Now, according to a report published yesterday by cyber-security firm Palo Alto Networks, TVT devices are yet again targeted by another IoT malware that's building a huge botnet for launching DDoS attacks.
+Nicknamed Amnesia, this new malware strain is based on an older version of the Tsunami IoT/Linux DDoS botnet malware.
+This new Tsunami alteration is particularly advanced because this appears to be the first version of IoT malware that includes sandbox detection features, usually found in Android and Windows malware.
+This self-protection feature allows the malware to detect when security experts or security products execute the malware inside a virtual machine.
+According to researchers, the malware's response is something that's not been seen before, with Amnesia deleting the entire VM filesystem, most likely out of revenge after being uncovered, and desperately attempting to hide its tracks.
+Currently, there are between 50,000 (according to Shodan) and up to 705,000 (according to Censys) devices on the Internet that reply with a "Cross Web Server" response, albeit not all are TVT DVRs.
+</text>

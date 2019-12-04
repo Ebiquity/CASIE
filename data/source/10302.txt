@@ -1,0 +1,17 @@
+<title> Phishing the phishers: Sneaky crooks put backdoors into kits for wannabe fraudsters </title>
+<source> https://www.zdnet.com/article/phishing-the-phishers-sneaky-crooks-put-backdoors-into-kits-for-wannabe-fraudsters/ </source>
+<date> 2018_01_09 </date>
+<text>
+ It seems the old warning 'you get what you pay for' can just as easily be applied to items purchased on underground forums and the dark web as it can to anything you buy elsewhere, because unbeknown to those experimenting with free phishing kits, they're secretly being phished themselves.
+An analysis of over one thousand phishing kits designed to allow wannabe cybercriminals to build phishing emails and websites found that, in a significant proportion of cases, the trainee phishers are being compromised, with their stolen data being secretly sent to the kit authors.
+With phishing simple to carry out but potentially very financially rewarding -- some of the highest profile cyber-attacks of recent years began with a phishing email -- it's no wonder that newbie hackers want in.
+But their lack of skill is coming back to bite some of these aspiring cybercriminals, who might find that all their ill-gotten gains are also transferred to the original author of the kit.
+Researchers at Imperva analysed 1,019 readily-available phishing kits, finding underground markets filled with low-cost and free phishing kits advertised as means of providing aspiring cyber-attackers with a route into the illegal industry.
+ "Underground markets are full of phishing kits at all levels and cost, some even distributed at no charge, usually revealing one of the oldest rules in the book -- you get what you pay for," said Luda Lazar, security research engineer at Imperva. "Here we found the only free cheese is in the mousetrap," she added.
+While these phishing kits did provide aspiring attackers with the files necessary to create a copy of target websites and steal valuable information, many of these free offerings contain an undisclosed backdoor.
+ That means the kit author is able to secretly track the campaigns of the crooks using the software and gain access to the stolen information themselves. In doing so, they're able exploit the likes of stolen usernames, passwords, and credit card details without putting in the effort required to collect them.
+As a result, the phishing kit user can't reap much from their criminal gains, as in many cases, victims will change passwords or cancel credit cards if they realise they've been targeted.
+"About 25 percent of the kits contained implicit recipients which receive emails with the phishing results as well as the kit buyers who were intended to receive it. We assume that the hidden addresses belong to the kits' authors, which are actually stealing from the inexperienced phishers who deploy these kits," said Lazar.
+Ultimately, by offering these phishing kits for free, it provides those behind them with the largest possible pool of victims to exploit -- and it's not as if a hacker can complain to the authorities that they've been scammed.
+</text>
+

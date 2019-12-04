@@ -1,0 +1,21 @@
+<title> Cisco critical flaw: At least 8.5 million switches open to attack, so patch now </title>
+<source> https://www.zdnet.com/article/cisco-critical-flaw-at-least-8-5-million-switches-open-to-attack-so-patch-now/ </source>
+<date> 2018_03_29 </date>
+<text>
+Cisco patches a severe flaw in switch deployment software that can be attacked with crafted messages sent to a port that's open by default.
+Cisco has released patches for 34 vulnerabilities mostly affecting its IOS and IOS XE networking software, including three critical remote code execution security bugs.
+Perhaps the most serious issue Cisco has released a patch for is critical bug CVE-2018-0171 affecting Smart Install, a Cisco client for quickly deploying new switches for Cisco IOS Software and Cisco IOS XE Software.
+A remote unauthenticated attacker can exploit a flaw in the client to reload an affected device and cause a denial of service or execute arbitrary code.
+Embedi, the security firm that found the flaw, initially believed it could only be exploited within an enterprise's network. However, it found millions of affected devices exposed on the internet.
+"Because in a securely configured network, Smart Install technology participants should not be accessible through the internet. But scanning the internet has shown that this is not true," wrote Embedi.
+"During a short scan of the internet, we detected 250,000 vulnerable devices and 8.5 million devices that have a vulnerable port open."
+Smart Install is supported by a broad range of Cisco routers and switches. The high number of devices with an open port is probably because the Smart Install client's port TCP 4786 is open by default.
+This situation is overlooked by network admins, Embedi said. The company has also published proof-of-concept exploit code, so it probably will be urgent for admins to patch.
+An attacker can exploit the bug by sending a crafted Smart Install message to these devices on TCP port 4786, according to Cisco.
+Embedi discovered the flaw last year, landing it an award at the GeekPwn conference in Hong Kong last May, and reported it to Cisco in September.
+Cisco's internal testing also turned up a critical issue in its IOS XE software, CVE-2018-0150, due to an undocumented user account that has a default username and password. Cisco warns that an attacker could use this account to remotely connect to a device running the software.
+Cisco engineers also found CVE-2018-0151, a remote code execution bug in the QoS subsystem of IOS and IOS XE.
+"The vulnerability is due to incorrect bounds checking of certain values in packets that are destined for UDP port 18999 of an affected device. An attacker could exploit this vulnerability by sending malicious packets to an affected device," writes Cisco.
+All three bugs were given a CVSS score of 9.8 out of 10.
+</text>
+

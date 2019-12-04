@@ -1,0 +1,18 @@
+<title>WannaCry Exploit Could Infect Windows 10</title>
+<source> http://www.darkreading.com/endpoint/wannacry-exploit-could-infect-windows-10/d/d-id/1329049? </source>
+<date> 2017_06_06 </date>
+<text>
+A flaw in unpatched versions of Window 10 could leave machines vulnerable to EternalBlue, the remote kernel exploit behind the recent WannaCry ransomware attack.
+WannaCry targeted a Server Message Block (SMB) critical vulnerability that Microsoft patched with MS17-010 on March 14, 2017. While WannaCry damage was mostly limited to machines running Windows 7, a different version of EternalBlue could infect Windows 10.
+Researchers at RiskSense stripped the original leaked version of EternalBlue down to its essential components and deemed parts of the data unnecessary for exploitation. They found they could bypass detection rules recommended by governments and antivirus vendors, says RiskSense senior security researcher Sean Dillon.
+This version of EternalBlue, an exploit initially released by Shadow Brokers earlier this year, does not use the DoublePulsar payload common among other exploits leaked by the hacker group. DoublePulsar was the main implant used in WannaCry and a key focus for defenders.
+"That backdoor is unnecessary," says Dillon, noting how it's dangerous for businesses to only focus on DoublePulsar malware. "This exploit could directly load malware onto the system without needing to install the backdoor."
+EternalBlue gives instant un-credentialed remote access to Windows machines without the MS17-010 patch update. While it's difficult to port EternalBlue to additional versions of Windows, it's not impossible. Unpatched Windows 10 machines are at risk, despite the fact that Microsoft's newest OS receives exploit mitigations that earlier versions don't.
+The slimmed-down EternalBlue can be ported to unpatched versions of Windows 10 and deliver stealthier payloads. An advanced malware would be able to target any Windows machine, broadening the spread of an attack like WannaCry, Dillon explains.
+It's worth noting WannaCry was a blatant, obvious attack, he says, and other types of malware, like banking spyware and bitcoin miners, could more easily fly under the radar.
+"These can infect a network and you won't know about it until years later," he says. "It's a threat to organizations that have been targets, like governments and corporations. Attackers may try to get onto these networks and lay dormant … then steal intellectual property or cause other damage."
+Dillon emphasizes the importance of updating to the latest version of Windows 10, but says patching alone won't give complete protection from this kind of threat. Businesses with SMB facing the Internet should also put up firewalls, and set up VPN access for users who need external access to the internal network.
+ Businesses should have a good inventory of software and devices on their networks, along with processes for identifying and deploying patches as they are released, says Craig Young, computer security researcher for Tripwire's Vulnerability and Exposures Research Team (VERT). This will become even more critical as attackers move quickly from patch to exploit.
+There will always be a window of opportunity for attackers before the right patches are installed, Young notes. EternalBlue is a "very fresh vulnerability" given that most breaches that use exploits leverage flaws that have been publicly known for an average of two years or more.
+"EternalBlue is a particularly reliable exploit that gives access to execute code at the very highest privilege level, so I would expect that hackers and penetration testers will get a lot of use out of it for years to come," he says.
+</text>

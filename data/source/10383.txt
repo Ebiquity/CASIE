@@ -1,0 +1,17 @@
+<title> BSA settles $347,000 in damages against Australian firms that used unlicensed software  </title>
+<source> https://securitybrief.com.au/story/bsa-settles-347000-damages-against-australian-firms-used-unlicensed-software </source>
+<date> 2018_03_12 </date>
+<text>
+Global software industry advocate BSA | The Software Alliance is warning Australian organisations to be mindful of the security risks involved with using unlicensed software after it settled with a record number of infringement settlements last year.
+A total of 28 case settlements for the use of unlicensed software occurred in 2017 – twice the amount in 2016. The 28 settlements were worth more than $347,000 in damages against businesses across Australia.
+BSA warns that with the Notifiable Data Breaches legislation now in effect, this is a good time for organisations to consider the risks unlicensed software bring to their business.
+“Businesses need to remember that unlicensed software, or software downloaded from an unknown source, may contain malware which puts an organisation and its customers at significant risk of becoming the victim of a data breach,” comments BSA APAC’s director of compliance programs, Gary Gan.
+“Without properly licensed software, organisations don’t receive patch updates which strengthen the software’s security and address vulnerabilities, which otherwise would leave the business exposed.”
+One of the 28 settlements involved a Western Australia-based energy company that was found using unlicensed software. The settlement amounted to more than $40,000.
+Every business caught using unlicensed software had to purchase genuine software licenses for ongoing use on top of the copyright infringement damages. 
+“It’s especially important that organisations are ensuring they’re doing all they can to protect their data given the recent introduction of NDB legislation. In order to stay on top of their software licensing, businesses should consider investing in SAM tools. The potential consequences faced by businesses that are found to be using unlicensed software far outweighs the cost of investment into SAM, something that all businesses should be considering,” Gan continues.
+The BSA continues to clamp down on unlawful use of its members’ software. Members include Adobe, Apple, IBM, Microsoft, Okta, Oracle, Symantec, Trend Micro and Workday, amongst others.
+BSA offers up to $20,000 to eligible recipients who disclose accurate information regarding unlawful copying or use of BSA members’ software. Potential recipients must provide assistance and evidence to support the information, as may be required by the BSA’s legal advisers, in connection with any claim or legal proceedings initiated by the BSA members.
+BSA says it remains committed to its role in raising awareness of the risks to businesses when using unlicensed software and the damaging effects that software piracy has on the Australian IT industry. 
+</text>
+

@@ -1,0 +1,14 @@
+<title>A Vigilante Is Warning Admins of Open Databases Before They Get Hacked - Motherboard</title>
+<source> http://motherboard.vice.com/read/a-vigilante-is-warning-admins-of-open-databases-before-they-get-hacked </source>
+<date> 2017_01_25 </date>
+<text>
+Over the past few weeks, hackers have targeted thousands of publicly accessible servers running database software such as MongoDB and Hadoop, and held their data for ransom.
+Now someone is apparently taking matters into their owns hands, helpfully alerting admins that their databases are vulnerable to attack.
+"It looks like a friendly warning," Victor Gevers, chairman of the non-profit GDI Foundation which discloses security issues to affected victims, told Motherboard in a Twitter message.
+Gevers has been tracking the malicious attacks since they began in December, and on Monday started following this rather strange twist.
+But the vigilante, whoever they may be, is creating an empty folder called "your_db_is_not_secure" in some open databases.
+So far, the message has been placed into 49 of the 2,641 open databases using the Cassandra software, Gevers told Motherboard.
+It's not clear how effective this approach will actually be at informing potential victims, however, considering that database administrators might not even notice the slight change.
+Gevers recently wrote in a tweet that the GDI Foundation has been informing victims too via email, and another group of security experts tried sending emails en masse automatically to potential targets.
+If the messages don't get through to database owners, maybe the ransom notes will.
+</text>

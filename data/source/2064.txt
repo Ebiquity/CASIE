@@ -1,0 +1,17 @@
+<title>It Took Google One Hour to Shut Down Massive Self-Replicating Phishing Campaign</title>
+<source> https://www.bleepingcomputer.com/news/security/it-took-google-one-hour-to-shut-down-massive-self-replicating-phishing-campaign/ </source>
+<date> 2017_05_04 </date>
+<text>
+A massive phishing campaign took place today, but Google's security staff was on hand and shut down the attacker's efforts within an hour after users first reported the problem on Reddit.
+According to multiple reports on Twitter, the attacks first hit journalists, businesses, and universities, but later spread to many other users as well.
+The attack itself was quite clever if we can say so ourselves. Victims received a legitimate (non-spoofed) email from one of their friends, that asked them to click on a button to receive access to a Google Docs document.
+If users clicked the button, they were redirected to the real Google account selection screen, where a fake app titled "Google Docs" (not the real one) asked the user's permission to authorize it to access the shared document. In reality, the app only wanted access to the user's Gmail inbox and contact list.
+After gaining access to these details, the fake app copied the user's contact list and sent a copy of itself to the new set of targets, spreading itself to more and more targets. The email was actually sent to "hhhhhhhhhhhhhhhh@mailinator.com," with the user's email address added as BCC. Following the incident, Mailinator intervened and blocked any new emails from arriving into that inbox.
+Because of this self-replicating feature, the phishing attack spread like wildfire in a few minutes, just like the old Samy worm that devasted MySpace over a decade ago.
+Fortunately, one Google staff member was visting the /r/Google Reddit thread, and was able to spot a trending topic detailing the phishing campaign.
+The Google engineer forwarded the Reddit thread to the right person, and within an hour after users first complained about the issue, Google had already disabled the fake app's ability to access the Google OAuth screen.
+Later on, as engineers had more time to investigate the issue, Google issued the following statement:
+We have taken action to protect users against an email impersonating Google Docs & have disabled offending accounts. We’ve removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again. We encourage users to report phishing emails in Gmail.
+There are no reports that malware was deployed in the phishing attack. Cloudflare was also quick to take down all the domains associated with the phishing attack.
+Users that clicked on the button inside the phishing email can go to the https://myaccount.google.com/permissions page and see if they granted the app permission to access their account. The real Google Docs isn't listed in this section, as it does not need permissions, being an official Google property.
+</text>

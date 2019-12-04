@@ -1,0 +1,14 @@
+<title> Phishing: Would you fall for one of these scam emails?  </title>
+<source> https://www.zdnet.com/article/phishing-would-you-fall-for-one-of-these-scam-emails/ </source>
+<date> 2018_03_13 </date>
+<text>
+Staff are still falling for phishing scams, with social media friend requests and emails pretending to come from the HR department among the ones most likely to fool workers into handing over usernames and passwords.
+Phishing scams aim to trick staff into handing over data -- normally usernames and passwords -- by posing as legitimate email. It's a technique used by the lowliest criminals as part of ransomware campaigns, right up to state-backed hackers because it continues to be such an effective method.
+In a review of 100 simulated attack campaigns for 48 of its clients, accounting for almost a million individual users, security company MWR Infosecurity found that sending a bogus friend request was the best way to get someone to click on a link -- even when the email was being sent to a work email address.
+Almost a quarter of users clicked the link to be taken through to a fake login screen, with more than half going on to provide a username and password, and four out of five then going on to download a file.
+A spoof email claiming to be from the HR department referring to the appraisal system was also very effective: nearly one in five clicked the link, and three-quarters provided more credentials, with a similar percentage going on to download a file.
+Some might argue that gaining access to a staff email account is of limited use, but the security company argues that this is a handy for an assault. A hacker could dump entire mailboxes, access file shares, run programs on the compromised user's device, and access multiple systems, warned MWR InfoSecurity. Even basic security controls, such as two-factor authentication or disabling file and SharePoint remote access, could reduce the risk.
+The company also reported bad news about the passwords that users handed over: while over 60 percent of passwords were found to have a length of 8 to 10 characters -- the mandatory minimum for many organizations -- the company argued that this illustrates how users stick to minimum security requirements. A third of the passwords consisted of an upper-case first letter, a series of lower-case letters, and then numbers with no symbols.
+It also found that 13.6 percent of passwords ended with four numbers in the range of 1940 to 2040. Of those, nearly half ended in 2016, which means one-in-twenty of all passwords end with the year in which they were created.
+</text>
+

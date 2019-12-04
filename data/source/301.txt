@@ -1,0 +1,25 @@
+<title>India’s Famous Horse Racing Site Hacked with Dharma Ransomware</title>
+<source> https://www.hackread.com/india-horse-racing-site-hacked-with-dharma-ransomware/ </source>
+<date> 2017_01_23 </date>
+<text>
+A popular horse racing website (Racingpulse.in) that operates out of Bangalore, India was reportedly hacked on Tuesday. The hackers posted a statement on the home page informing that the entire data on the website has been encrypted.
+As is the norm, they also informed about what they expected as ransom.
+The ransom note suggested that they were expecting ransom amount in Bitcoins while the amount to be paid was not disclosed clearly.
+The message also included an email address for further communication, which was registered at india.com.
+The hackers offered Racingpulse.in an unimaginable favor by providing decryption key of a maximum of three files which should not be more than 10mb in size for free.
+This was probably done to prove that they did hack all the files on the site.
+The note read:
+“All your files have been encrypted: All your files have been encrypted due to a security problem with your PC.
+If you want to restore them, write us to the e-mail mkgoro@india.com, You have to pay for decryption in Bitcoins.
+After payment, we will send you the decryption tool that will decrypt all your files.
+“Free decryption as a guarantee: Before paying you can send to us up to 3 files for free decryption.
+The message contained a link to the beginners’ guide to Bitcoins too.
+“How to obtain Bitcoins: The easiest way to buy bitcoins is LocalBitcoins site.
+You have to register, click ‘Buy bitcoins’, and select the seller by payment method and price.
+The ransomware used in this attack is a new version of Dharma Ransomware Trojan.
+In the ransom note, hackers have provided the email address mkgoro@india.com, which is a contact email for the victims to facilitate communication with them.
+According to security researchers, this new version of Dharma works just like the older version using unsolicited emails.
+These emails contain social network logos, bank information, payment portals and an option to download and open a file.
+The previous two attacks were countered by using backup files, said Kumar.
+“We have now decided to move to another server in the hope of better security, it may take a day for the site to be up and running,” revealed Kumar.
+</text>

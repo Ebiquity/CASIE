@@ -1,0 +1,12 @@
+<title> Microsoft Issues Emergency Fix for IE Zero Day </title>
+<source> https://krebsonsecurity.com/2018/12/microsoft-issues-emergency-fix-for-ie-zero-day/ </source>
+<date> 2018_12_20 </date>
+<text>
+Microsoft today released an emergency software patch to plug a critical security hole in its Internet Explorer (IE) Web browser that attackers are already using to break into Windows computers.
+The software giant said it learned about the weakness (CVE-2018-8653) after receiving a report from Google about a new vulnerability being used in targeted attacks.
+Satnam Narang, senior research engineer at Tenable, said the vulnerability affects the following installations of IE: Internet Explorer 11 from Windows 7 to Windows 10 as well as Windows Server 2012, 2016 and 2019; IE 9 on Windows Server 2008; and IE 10 on Windows Server 2012.
+“As the flaw is being actively exploited in the wild, users are urged to update their systems as soon as possible to reduce the risk of compromise,” Narang said.
+According to a somewhat sparse advisory about the patch, malware or attackers could use the flaw to break into Windows computers simply by getting a user to visit a hacked or booby-trapped Web site. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.
+Microsoft says users who have Windows Update enabled and have applied the latest security updates are protected automatically. Windows 10 users can manually check for updates this way; instructions on how to do this for earlier versions of Windows are here.
+</text>
+

@@ -1,0 +1,18 @@
+<title>Boeing Notifies 36,000 Employees Following Breach | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/boeing-notifies-36000-employees-following-breach/123942/ </source>
+<date> 2017_02_28 </date>
+<text>
+A Boeing employee inadvertently leaked the personal information of 36,000 of his co-workers late last year when he emailed a company spreadsheet to his non-Boeing spouse.
+Forty-seven states, including Washington, have legislation on the books that requires companies or government entities to disclose whenever there’s been a breach of personally identifiable information.
+Under Washington law, companies are required to notify the Attorney General’s office if the incident affects more than 500 of the state’s residents.
+In this instance Boeing claims the information of 7,288 Washington residents may have been impacted.
+According to the letter, the breach occurred on Nov. 21, 2016 after a Boeing employee encountered a formatting issue and emailed a spreadsheet to his spouse who didn’t work at the company.
+The file contained sensitive, personally identifiable information of 36,000 of the aircraft manufacturer’s employees.
+The file included the names, places of birth, BEMSID, or employee ID numbers, and accounting department codes.
+The spreadsheet also included Social security numbers and dates of birth, albeit in “hidden columns,” according to Olson.
+Spreadsheet software, such as Microsoft’s Excel, usually allows authors to make select information hidden, usually to prevent that data from being seen, changed, or deleted.
+According to Olson’s letter, the breach was discovered earlier this year, on Jan. 9, but the company didn’t begin to inform employees until a month later, Feb. 8.
+In the letter to Ferguson, Boeing claims it destroyed copies of the spreadsheet and carried out a “forensic examination” of both the Boeing employee’s computer and his spouse’s to ensure it was deleted.
+“Both the employee and his spouse have confirmed to us that they have not distributed or used any of the information,” Olson writes.
+For its part, Boeing, the second largest defense contractor in the world after Lockheed Martin, said it doesn’t believe its employee’s data has been or will be used inappropriately.
+</text>

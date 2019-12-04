@@ -1,0 +1,11 @@
+<title>Cyber criminals targeting healthcare orgs' FTP servers - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/27/healthcare-ftp-servers/ </source>
+<date> 2017_03_28 </date>
+<text>
+FBI’s Cyber Division has sent out another notification to healthcare organizations, alerting them to the danger of cyber criminals using their FTP servers for various malicious purposes.
+“The FBI is aware of criminal actors who are actively targeting File Transfer Protocol (FTP) servers operating in ‘anonymous’ mode and associated with medical and dental facilities to access protected health information (PHI) and personally identifiable information (PII) in order to intimidate, harass, and blackmail business owners,” says the notification.
+“anonymous” or “ftp”) and no password, the FBI explained.
+In the past, cyber criminals have been known for compromising hospitals through vulnerable JBoss servers, and other organizations through unsecured remote desktop servers.
+The FBI urged medical and dental healthcare organization to check their networks for or FTP servers running in anonymous mode, and to make a configuration change that would disallow that kind of access.
+“If businesses have a legitimate use for operating a FTP server in anonymous mode, administrators should ensure sensitive PHI or PII is not stored on the server,” they noted.
+</text>

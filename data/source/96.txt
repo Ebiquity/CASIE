@@ -1,0 +1,36 @@
+<title>Free 3G internet from WhatsApp? No, it’s a scam – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/01/05/free-internet-from-whatsapp-no-its-a-scam/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=1206c441d7-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-1206c441d7-455160889 </source>
+<date> 2017_01_06 </date>
+<text>
+It’s still the first week of 2017, and we’ve already had a WhatsApp scam warning from a keen Naked Security reader.
+This one tries to draw you in by claiming you’ll get free Wi-Fi service, promising to keep you connected even if you don’t have 3G airtime or a Wi-Fi connection of your own.
+It sounds too good to be true, and that’s because it is!
+Here’s what the message looks like:
+The suffix .ML visible in the link above stands for Mali, which started giving away domain names for free a few years ago.
+(It’s not the only country to do this, but it claims to have been the first African nation to do so.)
+The use of a free domain isn’t always a reliable indicator of a scam, not least because even mainstream-looking .COM domains can be had for a dollar these days, but you don’t need the link to make you suspicious in this case.
+There’s a lot that’s visually wrong with this message, such as the inconsistent spellings Whatsapp and whatsapp, both of which are incorrect; the poor spacing and punctuation; and the rather casually confused way that Wifi (which is, in fact, properly written Wi-Fi) and 3G are mixed into the story.
+Nevertheless, scams propagated on social media services ofter pass the “why not try it?” test, because they generally come from people you know and communicate with regularly.
+Spelling mistakes, shortened URLs, casual language and other inconsistencies might very well seem suspicious in an email claiming to be an official message from a well-known brand…
+…but not in what looks like a quick message from a friend.
+You can probably imagine what happens if you click through: you enter the murky world of bait-and-switch.
+That’s where you are drawn in with the promise of something that sounds both useful and interesting, but quickly find that there are a few hoops to jump through first.
+As with many scams of this sort, where you end up and what you have to do to “qualify” may differ from what we saw and are reporting here.
+That’s because cloud-based scams of this sort, where the content isn’t delivered in the original message but via a series of web URLs, can vary their form over time.
+Crooks can tailor the content they serve up in just the same way that legitimate sites do, based on many factors such as: where you are; what browser you are using; what time of day it is; what operating system or device you have; which ISP you’ve used to connect; whether you’ve visited before; and much more.
+We encountered two rather different bait-and-switch campaigns – we’re guessing that the crooks were using the device type to choose how to hit us up.
+When we used an (old) iPhone, we quickly ended up with a chance to win a brand new iPhone for free:
+When we clicked through, we found out how this scam is spread.
+Instead of using malware to push out messages furtively behind your back, the crooks use you as their propagation vector by telling you send the message to eight other recipients on WhatsApp:
+When we used an (old) Android device, the crooks were even pushier, insisting that we forward the scam to fifteen new recipients first:
+Cheekily, the buttons marked [About], [FAQ] and [Blog] take you to genuine WhatsApp pages, thus adding a veneer of legitimacy.
+We didn’t invite anyone, of course, but a little bit of digging revealed the page that we’d have ended up on if we’d done what the crooks wanted:
+Amusingly, if cyberscamming can ever be considered funny, the [App2] button downloaded an Android Package (APK) file, while the [App3] link took us to a free app on Apple’s App Store.
+No devices exist that can run Android and iOS apps side-by-side – it’s one or the other, or neither, but never both – so we couldn’t have complied with the demands of the crooks even if we’d wanted to.
+The crooks had rigged up the buttons to redirect through various affiliate programmes, which are online marketing services where you get paid some sort of referral fee for generating clicks to, or downloads from, someone else’s site.
+In fact, this page refuses to let you use the [FINISH] button at first, popping up a message to warn you very ungrammatically that You have not installed All Apps in your mobile.
+For what it’s worth, the Android app was what seems to be the official front-end to an alternative Android app store aimed at the Indian market; the iOS software was a shopping app for a popular Chinese web service.
+When it comes to freebies, special deals and other innocent-sounding web offers, especially when they are apparently recommended by your friends, it’s easy to fall into the “no harm in taking a look” trap.
+After all, this scam doesn’t actually try to trigger any exploits to implant malware on your phone, or trick you into installing malware, so it’s easy to think of it as mostly harmless.
+But it’s a scam nevertheless, and even if all you do is to take a look, you’re taking part in something with potentially harmful side-effects on the community around you, from bombarding your friends with unwanted messages to helping crooks to earn affiliate revenues fraudulently.
+</text>

@@ -1,0 +1,11 @@
+<title> Netflix subscribers targeted by scam email </title>
+<source> https://ew.com/tv/2017/11/06/netflix-subscribers-scam-email/ </source>
+<date> 2017_11_06 </date>
+<text>
+An email scam passing as a Netflix notification has been targeting subscribers of the streaming service. The “suspension notification” looks similar in design and format to other Netflix emails. It notifies and urges users to update their information to avoid the suspension of their account. The goal of the scam is to steal personal and credit card information, according to a report from Mailguard.
+The email contains a link to a fake Netflix website where users are required to enter log-in information and a credit card number. The faux website has the Netflix logo on display plus The Crown and House of Cards banners to further trick visitors.
+In a stament sent to EW, a Netflix spokesperson assured subscribers that the company takes the “security of our members’ accounts seriously,” also stating that these type of scams aren’t uncommon: “Netflix employs numerous proactive measures to detect fraudulent activity to keep the Netflix service and our members’ accounts secure. Unfortunately, these scams are common on the internet and target popular brands such as Netflix and other companies with large customer bases to lure users into giving out personal information.”
+According to Mailguard’s report, the scam has targeted almost 110 million subscribers. One important thing to note is that the email’s recipient appears as “no sender,” plus the victim’s name appears as “#name#,” as shown in the screenshot. Netflix customers who receive this email are advised to abstain from filling out any information prompted by the website.
+Netflix’s spokesperson also suggested that members of the streaming service visit netflix.com/security or contact Customer Service directly to learn more information about scams and other malicious activity.
+</text>
+

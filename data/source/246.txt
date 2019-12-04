@@ -1,0 +1,24 @@
+<title>New RCE Flaws Found in Samsung Smartcam | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/new-rce-flaws-found-in-samsung-smartcam/123146/ </source>
+<date> 2017_01_18 </date>
+<text>
+UPDATE At DEFCON 22 in 2014, researchers demonstrated hacks against the Samsung Smartcam that allowed an attacker to remotely take over the device.
+Samsung’s reaction at the time was to remove the web interface enabling the attack rather than patch the code in question.
+The Exploitee.rs, formerly the GTVHacker group, said users weren’t pleased with the response and in turn, decided to take another crack at analyzing the device for vulnerabilities.
+On Saturday, the group publicly disclosed a remote code execution bug it found in the SNH-1011 Smartcam, and cautioned that it likely exists in all Samsung Smartcam devices.
+“The vulnerability occurs because of improper sanitization of the iWatch firmware update filename,” the group wrote in a technical description of the vulnerability that also included a proof-of-concept exploit and instructions on how to patch the flaw.
+“A specially crafted request allows an attacker the ability to inject his own command providing the attacker remote root command execution”.
+A request for comment from Samsung was not returned in time for publication.
+A Samsung contact told Threatpost that the vulnerability affects only the SNH-1011 model and it will be removed in an upcoming firmware update.
+The Exploitee.rs said they were motivated to look further at the cameras because of Samsung’s response to their first disclosure.
+“This angered a number of users and crippled the device from being used in any DIY monitoring solutions.
+So, we decided to audit the device once more to see if there is a way we can give users back access to their cameras while at the same time verifying the security of the devices new firmware”.
+The original response looks especially weak in a climate where connected devices are being especially scrutinized for their security.
+“While this flaw by default would not directly allow attacks from the Internet suitable for something like Mirai, it would be pretty trivial to use CSRF to infect devices on home networks,” Tripwire principal security researcher Craig Young said.
+“It is always disappointing when a vendor eliminates features rather than fixing vulnerabilities as was the case in this camera”.
+While the original issue from 2014 has been addressed, the Exploitee.rs wrote that what remains of the web interface includes a set of PHP scripts that allow the camera’s firmware to be updated through the iWatch webcam monitoring service.
+“These scripts contain a command injection bug that can be leveraged for root remote command execution to an unprivileged user,” they said.
+The researchers said the flaw in iWatch can be exploited through a special filename stored in a tar command that is passed to a php system call.
+“Because the web-server runs as root, the filename is user supplied, and the input is used without sanitization, we are able to inject our own commands within to achieve root remote command execution,” they said.
+ASUS patched a bug that allowed attackers to pair two vulnerabilities to gain direct router access and execute commands as root.
+</text>

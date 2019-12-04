@@ -1,0 +1,20 @@
+<title>Why Ransomware Is Only Going To Get Worse </title>
+<source> http://www.darkreading.com/operations/why-ransomware-is-only-going-to-get-worse-/a/d-id/1327819? </source>
+<date> 2017_01_06 </date>
+<text>
+Ransomware is perhaps the most ingenious cybercrime in the history of the Internet in terms of its simplicity and effectiveness.
+It has caused absolute terror in nearly every industry, affecting almost 50% of organizations in 2016, and is considered one of the top cyberthreats to the enterprise for 2017.
+According to the FBI, ransomware — malware that holds systems and data for ransom — cost victims $209 million in the first three months of 2016, yet totaled only $24 million in all of 2015.
+This astronomical rise in ransomware is motivated, in large part, by a lack of preparedness.
+And the problem will get worse before it gets better.
+But in order to understand the rise of ransomware, you need to understand its economics.
+The Business of RansomwareTraditional data from major breaches is starting to be worth less and less as the black market gets flooded with stolen records.
+Just call a toll-free number and the problem is fixed in minutes.
+Even the cost of prized electronic healthcare records is down 50% to 60% from last year.
+But at the same time, the price per ransom has continued to climb, and much of the data being ransomed is completely worthless on the black market.
+Innovations in online payments have also helped pave the way for the current ransomware epidemic.
+Similar to how some sites are the middlemen for sellers, Web-based "businesses" started to appear in early 2016 to act as proxies for data extortionists to post sensitive stolen data to add urgency to payment demands, sell the stolen data to a third-party, or utilize it in other ways.
+These Web vendors use a "Business 101" approach by providing an easy Bitcoin-based payment interface — currently worth $768 each (at the time of writing this) — and take a cut of every payment.
+Popularity Breeds PandemicBecause of ransomware's massive success, its creators are pushing new technologies to their limits, with the potential to infiltrate every data storage device between the Internet and any given company.
+And with the massive success of Mirai — the Internet of Things botnet that took down a portion of the Internet last fall — connected devices are poised to become the next big target, translating into even more ransomware.
+</text>

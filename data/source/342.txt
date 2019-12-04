@@ -1,0 +1,40 @@
+<title>Smartphone Ransomware Is a Looming Threat - Consumer Reports</title>
+<source> http://www.consumerreports.org/digital-security/smartphone-ransomware-a-looming-threat/ </source>
+<date> 2017_01_25 </date>
+<text>
+Imagine turning on your smartphone to send a text and finding this threatening notice instead:
+“You need to pay for us, otherwise we will sell portion of your personal information on black market every 30 minutes.
+WE GIVE 100% GUARANTEE THAT ALL FILES WILL RESTORE AFTER WE RECEIVE PAYMENT.
+WE WILL UNLOCK THE MOBILE DEVICE AND DELETE ALL YOUR DATA FROM OUR SERVER!
+TURNING OFF YOUR PHONE IS MEANINGLESS, ALL YOUR DATA IS ALREADY STORED ON OUR SERVERS!
+WE STILL CAN SELLING IT FOR SPAM, FAKE, BANK CRIME etc.
+We collect and download all of your personal data.
+All information about your social networks, Bank accounts, Credit Cards.
+We collect all data about your friends and family."
+This is the message, word for word, found recently by Oren Koriat and Andrey Polkovnichenko, a pair of mobile cybersecurity analysts at Check Point, a security firm in California.
+The smartphone on which it appeared was an Android model that had been compromised by smartphone ransomware.
+Ransomware has become a ubiquitous threat to personal-computer users.
+Criminals remotely access a victim's computer and lock all the files using encryption software, offering to unlock the data in exchange for a payment.
+The first ransomware attack on a phone occurred in 2013, according to the Check Point researchers, but until now has been confined to small numbers of victims, primarily in Eastern Europe.
+Now, the company says, the threat has gained a toehold in the United States.
+Koriat and Polkovnichenko found the software, which they dubbed Charger, embedded in an app called Energy Rescue, which purports to make a phone battery last longer.
+"The infected app steals contacts and SMS messages from the user’s device and asks for admin permissions," the company said in a statement.
+"If granted, the ransomware locks the device and displays a message demanding payment."
+The payment demanded was 0.2 bitcoin, or about $180 at the current exchange rate.
+(The phone was being used for business and didn't contain much personal data; the owner chose to replace the phone rather than pay.)
+The most disturbing part of the attack might be that the app was downloaded from the Google Play store.
+Android phones can use apps from other sources, but security experts usually recommend that users stick to the Play store to take advantage of the processes Google uses to check the software for safety.
+"The main issue here is the fact that such a severe threat managed to penetrate Google's security and enter Google Play, Google's official app store," says Daniel Padon, another member of Check Point's research team.
+"Most malware that manages to enter Google Play has only slim malicious traits, while Charger is about as malicious as can be.
+As mobile ransomware try to keep the pace with their cousins in the PC world, we are likely to see more efforts of this sort, endangering users around the world."
+Padon added that this malware was particularly sophisticated, using a number of innovative tactics to evade detection by Google.
+Google commended the security firm for catching the Charger threat so early.
+"We appreciate Check Point’s efforts to raise awareness about this issue," a Google spokesperson says.
+"We’ve taken the appropriate actions in Play and will continue to work closely with the research community to help keep Android users safe."
+Ransomware attacks on mobile phones are still relatively rare.
+One well-known case involved users of pornography apps in Eastern Europe who were targeted by ransomware called DataLust, Check Point says.
+In those cases, the ransom was set at 1,000 rubles, or about $15.
+There's evidence that Charger, too, comes from Eastern Europe—beyond the clichéd bad grammar of the ransom note.
+"This is likely done to keep the developers from being prosecuted in their own countries or being extradited between countries."
+Ransomware attacks are joining a growing list of threats to mobile phone security.
+</text>

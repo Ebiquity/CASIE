@@ -1,0 +1,13 @@
+<title>Dark web: Hackers selling stolen data from Qatar National Bank and UAE InvestBank</title>
+<source> http://www.ibtimes.co.uk/dark-web-hackers-selling-stolen-data-qatar-national-bank-uae-investbank-1625984?utm_source=OWL+Cybersecurity+Contacts+%282016%29&utm_campaign=ffb96b7524-Weekly+News+Review+Vol.+2%2C+Issue+24&utm_medium=email&utm_term=0_95be6d86fe-ffb96b7524-113012093 </source>
+<date> 2017_06_19 </date>
+<text>
+Hackers are reportedly selling stolen data from the Qatar National Bank (QNB) and UAE InvestBank on the dark web. Both the banks suffered major data breaches in 2016 and the data of thousands of customers was later leaked online by hackers. Now, even as tensions escalate between the two Middle Eastern nations, cybercriminals appear to be cashing in on the underground cybercrime community.
+Hackers hit the QNB in April 2016 and the UAE InvestBank in May 2016. The Sharjah-based InvestBank's stolen data was leaked online by a hacker going by the pseudonym "Buba", who demanded a $3m ransom from the bank. The stolen data, including customers' financial details as well as personal details such as full names, addresses, passport numbers, phone numbers, account numbers, credit card numbers along with their CVV codes and more was leaked online by the hacker after the bank refused to pay up the ransom.
+
+In the case of the QNB, a hacker group going by the pseudonym "Bozkurt Hackers" claimed responsibility for the data breach. Hackers leaked 1.4GB data, which included customers' financial records, credit card numbers and PIN codes as well as banking details pertaining to the Al-Thani Qatar Royal Family and Al Jazeera journalists.
+The stolen data from the QNB hack as well as the InvestBank data breach is now up for sale on an unspecified yet popular dark web marketplace, HackRead reported. This has not been independently verified by IBTimes UK.
+InvestBank's data is allegedly being sold for a mere 0.0071 bitcoins ($18.86, £14.91). The data on sale includes bank accounts, card details, customer IDs, branch codes as well as account holders' full names.
+The stolen and leaked data from the QNB, which the bank later acknowledged may have been accurate, is also on sale for 0.0071 bitcoins. The data listed for sale includes the previously leaked QNB records such as bank accounts as well as card and personal details of customers.
+Dark web data sales from major breaches are not uncommon. In 2016, a series of major breaches affecting several leading tech firms including LinkedIn and Dropbox, eventually saw hackers selling hacked and stolen databases on the dark web.
+</text>

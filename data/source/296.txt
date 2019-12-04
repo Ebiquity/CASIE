@@ -1,0 +1,18 @@
+<title>Satan ransomware-as-a-service gives hackers on the dark web malware customising tools</title>
+<source> http://www.ibtimes.co.uk/satan-ransomware-service-gives-malware-customising-tools-hackers-dark-web-1602311 </source>
+<date> 2017_01_23 </date>
+<text>
+A new ransomware-as-a-service (RaaS) has reportedly emerged, offering cybercriminals on the dark web the option of using ransomware created by someone else in exchange for subscription payments.
+According to a report by ZDNet, independent security researcher going by the Twitter handle Xylitol uncovered the Satan malware as part of the Gen:Trojan.Heur2.FU malware family.
+Satan now however has been launched as part of a RaaS platform, which allows prospective cybercriminals access to ransomware in exchange for 30% of the revenues generated.
+Once a victim has been infected with Satan via either malicious links or phishing campaigns, the victim's files are encrypted and the attackers instruct the victims about ransom demands.
+Satan reportedly contains a HTML file that claims that restoring the encrypted files are impossible.
+According to researchers, this claim is not unfounded, indicating that the only way victims can regain access to their stolen files is by paying up the demanded ransom.
+Satan's ransom note instructs victims to install the Tor browser and then redirected to an .onion link to make the ransom payments.
+The ransom amount varies according to the specification of the cybercriminals using the RaaS platform.
+Those interested in the RaaS' services must connect a Bitcoin wallet to their account and point out a cost for decryption.
+Satan RaaS comes with several features, including fee payment records, transaction tracking, ransomware version releases and more.
+The platform provides hackers with tips on how to customise ransomware demands.
+Satan also helps hackers learn how to set up gateway proxies, and how to test their malware on systems.
+The platform also provides hackers with the option of translating their malware into different languages.
+</text>

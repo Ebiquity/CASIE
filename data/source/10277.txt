@@ -1,0 +1,13 @@
+<title> Logitech Options App Plagued By PID Exploit, Security Vulnerability Fixed With New Update </title>
+<source> https://appuals.com/logitech-options-app-plagued-by-pid-exploit-security-vulnerability-fixed-with-new-update/ </source>
+<date> 2018_12_16 </date>
+<text>
+Logitech Options is an app that controls all of Logitech’s mice and keyboards. It offers several different configurations like Changing function key shortcuts, Customizing mouse buttons, Adjusting point and scroll behavior and etc. This app contained a huge security flaw that was discovered by Tavis Ormandy who is a Google security researcher. It was found that Logitech Options was opening a WebSocket server on each individual computer Logitech Options was run on. This WebSocket server would open on port 10134 on which any website could connect and send several various commands which would be JSON-encoded.
+PID Exploit
+Through this any attacker can get in and run commands just by setting up a web page. The attacker only needs the Process Identifier (PID). However the PID can be guessed as the software has no limit on the amount of try’s conducted.
+Once the attacker has obtained the PID and is in, consequently he can then completely control the Computer and run it remotely. This can also be used for keystroke injection or Rubber Ducky attacks which have been used to take over PC’s in the past.
+After Ormandy got a hold of Logitech’s engineers, he reported the vulnerability privately to them in a meeting between the Logitech’s engineering team and Ormandy on the 18th of September. After waiting a total of 90 days, Ormandy saw the company’s failure in addressing the issue publicly or through a patch for the app, Thus Ormandy himself posted his finding on the 11th of December making the issue public.
+As the story gained attention Accordingly Logitech responded with an update for Logitech Options. Logitech released Options version 7.00.564 on the 13th of December. They claim to have fixed the origin and type checking bugs along with a patch for the security vulnerability. However they have not mentioned the Security Vulnerability patch on their own website. They told German magazine heise.de that the new version does indeed fix the vulnerability
+Travis Ormandy and his team are currently checking the new version of Logitech Options for any signs of Security Vulnerabilities. Everyone with the old version of Logitech Options are advised to upgrade to the new 7.00.564.
+</text>
+

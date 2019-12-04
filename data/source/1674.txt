@@ -1,0 +1,26 @@
+<title>Warwick business owner’s warning after cyber attack blackmail - Warwick Courier</title>
+<source> http://www.warwickcourier.co.uk/news/crime/warwick-business-owner-s-warning-after-cyber-attack-blackmail-1-7914478 </source>
+<date> 2017_04_14 </date>
+<text>
+A Warwick company’s managing director is warning other businesses to protect themselves from cyber criminals after being held to ransom.
+Kettell Video Productions was targeted by tech scammers who infected its IT systems with viruses before demanding £1,000 in online currency Bitcoins or the files would be permanently deleted.
+Luckily, owner Stuart Kettell routinely backs up all his company’s systems so nothing was lost but he warned others to do the same to avoid disaster.
+“It was scary: I had no idea about cyber-attacks before and really didn’t know what to do,” he said. 
+“Critical files, including images and videos for clients, were wiped out along with a lifetime of personal memories.
+“The affected files were lost for good – the only way to recover them was with the key code held by the blackmailer – but luckily I back-up everything to an external data cartridge. 
+“In the end it was more an inconvenience…but it could have threatened the business.
+“I would strongly urge all business owners to back-up their essential files.”
+Mr Kettell acted quickly when he realised the audio-visual specialists in Arlescote Close were under attack by the web sharks in December, 2015.
+“I noticed all my photos, videos and pdf files ghosting to white with a new filename… it attacked my desktop first then it wormed its way into folders one file at a time every few seconds,” he said.
+“I’ve no idea how the malware was introduced as we use software that’s designed to prevent against such attacks. 
+“And the demand for payment seemed very professional: I was given links where I could buy Bitcoins and even offered the chance to decrypt one file for free.
+“I unplugged my computer, isolated it from the internet, and ran some anti-malware software to stop the virus spreading further.”
+Latest figures from the Crime Survey for England & Wales estimated there were 1.3m computer virus offences and 667,000 hacking related offences committed in the year ending September 2016.
+Sergeant Gary Sirrell from the cybercrime team at West Midlands Regional Organised Crime Unit said commercial web attacks are increasingly being committed against smaller firms and not big multi-nationals.
+“Small and medium sized companies are easier targets: they often don’t have the resources or expertise to protect against cyberattacks,” he said. 
+“And if they are targeted, the impact can be devastating. 
+“But there are steps business owners can take to mitigate the risk. 
+“A really effective tactic involves ‘layering’ defences to include a firewall, anti-malware software, staff training and regular re-training) around phishing email awareness, and finally to plug any holes in your defences by updating software patches and updates in a timely manner.
+“By exercising good cyber hygiene, and having a strong backup policy, Stuart avoided the dilemma of whether to see his business significantly damaged, or to have to hand over a ransom to organised crime gangs to get his data unlocked. 
+“If more businesses in the West Midlands proactively took such steps there would be significantly fewer crimes victims.” 
+</text>

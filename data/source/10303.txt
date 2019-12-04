@@ -1,0 +1,23 @@
+<title> Group Makes $50 Million by Phishing Bitcoin Users Using Google AdWords </title>
+<source> https://www.bleepingcomputer.com/news/security/group-makes-50-million-by-phishing-bitcoin-users-using-google-adwords/ </source>
+<date> 2018_02_15 </date>
+<text>
+A Ukrainian cybercrime operation has made an estimated $50 million by using Google AdWords to lure users on Bitcoin phishing sites.
+The operation has been temporarily disrupted this month when Ukrainian cyber police shut down servers hosting some of the phishing sites, acting on information they received from Cisco's Talos security division.
+No arrests were made, and it's very likely that the group will make a comeback in the future.
+
+The group —which Cisco tracked internally under the codename of Coinhoarder— has been operating for years, but appears to have used the same scheme since February 2017, possibly earlier.
+Crooks purchase so-called typosquatted domains that imitate the real Blockchain.info Bitcoin wallet management service. Coinhoarder operators then set up phishing pages on these domains that log users credentials, which they later use to steal funds from users' accounts.
+According to Cisco, instead of using malvertising or spam campaigns, crooks buy legitimate ads via the Google AdWords platform and place links to their phishing sites at the top of Bitcoin-related Google search results.
+This trick is not only simple to execute but very effective. Cisco reported that based on DNS query data, ads for one domain roped in over 200,000 users. It is believed the group lured tens of millions of users to its phishing sites.
+It is unclear how many users tried to log in on the fake sites, but after tracking down various thefts reported on social media and involving some of the Coinhoarder groups typosquatted domains, Cisco says the group made around $50 million worth of Bitcoin in the past three years.
+For example, in one campaign that took place from September 2017 to December 2017, the group made around $10 million, while in another campaign that lasted 3.5 weeks, the group made another $2 million.
+
+Researchers also point out that crooks used geo-targeting filters for their ads, targeting mostly Bitcoin owners in Africa.
+"This threat actor appears to be standing up phishing pages to target potential victims African countries and other developing nations where banking can be more difficult, and local currencies much more unstable compared to the digital asset," researchers said in a report published yesterday. "Additionally, attackers have taken notice that targeting users in countries whose first language is not English make for potentially easier targets."
+Cisco says it tracked down the phishing sites hosted on the servers of a bulletproof hosting provider located in Ukraine —Highload Systems. This is where Ukraine's cyber police department intervened and took down servers.
+According to Cisco, the Coinhoarder group is by far the largest phishing operation that has targeted Blockchain.info, the biggest Bitcoin wallet service online.
+Bleeping Computer, too, has spotted increases in phishing campaigns targeting Blockchain.info in December 2016 and December 2017.
+Among the new tricks detected by Cisco since our previous reports, crooks have started using Let's Encrypt certificates to make their phishing sites load via HTTPS, and have also incorporated homograph attacks.
+</text>
+

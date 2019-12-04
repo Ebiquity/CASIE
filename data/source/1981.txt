@@ -1,0 +1,17 @@
+<title>Network management vulnerability exposes cable modems to hacking | CSO Online</title>
+<source> http://www.csoonline.com/article/3193221/security/network-management-vulnerability-exposes-cable-modems-to-hacking.html </source>
+<date> 2017_05_01 </date>
+<text>
+Hundreds of thousands of internet gateway devices around the world, primarily residential cable modems, are vulnerable to hacking because of a serious weakness in their Simple Network Management Protocol implementation.
+SNMP is used for automated network device identification, monitoring and remote configuration. It is supported and enabled by default in many devices, including servers, printers, networking hubs, switches and routers.
+Independent researchers Ezequiel Fernandez and Bertin Bervis recently found a way to bypass SNMP authentication on 78 models of cable modems that ISPs from around the world have provided to their customers.
+Their internet scans revealed hundreds of thousands of devices whose configurations could be changed remotely through the SNMP weakness that they found and dubbed StringBleed.
+The leaking of sensitive configuration data through the default "public" SNMP community string is a known problem that has affected many devices over the years.
+The two researchers first located a small number of vulnerable devices, including the Cisco DPC3928SL cable modem that's now part of Technicolor's product portfolio following the company's acquisition of Cisco's Connected Devices division in 2015.
+The researchers claim that when they reported the issue to Technicolor, the company told them that it was the result of an access misconfiguration by a single ISP in Mexico rather than a problem with the device itself.
+This prompted the researchers to perform a wider internet scan that resulted in the discovery of 78 vulnerable cable modem models from 19 manufacturers, including Cisco, Technicolor, Motorola, D-Link and Thomson.
+Regardless of the cause, the problem is serious, as attackers could exploit this flaw to extract administrative and Wi-Fi passwords or to hijack devices by modifying their configurations.
+There's not much that users can do if their ISP supplied them with a vulnerable device, other than ask for a different model or install their own modem. Unfortunately, not many ISPs allow their residential customers to use their own gateway devices, because they want uniformity and remote management capabilities on their networks.
+Determining if a particular device is vulnerable to this issue is possible, but requires a bit of work. An online port scanner like ShieldsUp can be used to determine if the device responds to SNMP requests over its public IP address.
+If SNMP is open, a different online tool can be used to check if the device's SNMP server returns valid responses when the "public" or random community strings are used. At the very least this would indicate an information leak problem.
+</text>

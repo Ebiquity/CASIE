@@ -1,0 +1,19 @@
+<title>Hackers claim they will wipe iPhones and iCloud accounts unless Apple pays ransom – HOTforSecurity</title>
+<source> https://hotforsecurity.bitdefender.com/blog/hackers-claim-they-will-wipe-iphones-and-icloud-accounts-unless-apple-pays-ransom-17829.html </source>
+<date> 2017_03_21 </date>
+<text>
+A group of hackers are allegedly threatening to remotely wipe millions of iPhones and iCloud accounts, unless Apple agrees to pay a ransom by April 7th.
+As Motherboard reports, the hackers – who are calling themselves the “Turkish Crime Family” – are demanding Apple pay a ransom of $75,000 (in either the Bitcoin or Ethereum cryptocurrencies), or hand over $100,000 worth of iTunes gift cards.
+Motherboard‘s Joseph Cox reports that one of the hackers shared screenshots of emails that had allegedly been exchanged with Apple, including one where a member of Apple’s security team asked if the group would be willing to share a sample of the stolen data.
+If emails shared by the hackers are legitimate, then it appears that Apple’s security team also requested that a YouTube video be removed of an unnamed member of the gang using stolen credentials to access an elderly woman’s iCloud account and view photos that had previously been backed up online.
+The alleged emails from Apple go on to underline that the technology firm will “not reward cyber criminals for breaking the law”.
+What we don’t know is whether the email exchanges between the hackers and Apple are real or faked, and – indeed – whether the so-called “Turkish Crime Gang” really has access to a large number of Apple users’ credentials.
+Other than the video of the elderly woman’s iCloud account being broken into, there has been no evidence shared with the media to suggest that the hackers’ claims of having gained access to a large database of Apple usernames and passwords are legitimate.
+However, if it’s true that the hackers are attempting to engage with the media in an attempt to increase their chances of a substantial payout then that would be in line with an increasingly common technique deployed by extortionists.
+For instance, we have discussed before how an individual hacker or hacking group known as The Dark Overlord has targeted investment banks – stealing internal documents and bringing them to the public’s attention in an attempt to extort more money.
+In another extortion attempt, The Dark Overlord stole hundreds of gigabytes of files from the Gorilla Glue adhesive company, and attempted to increase their chances of crowbarring more money out of corporate victims by sharing details with security industry media.
+For the record, when The Dark Overlord contacted me to help them blackmail companies, I declined.
+I believe that companies should do everything in their power to protect their customers and prevent criminals from profiting from extortion.
+We simply don’t know the truth of the Turkish Crime Family’s claims, and whether Apple users are at risk.
+But I do hope that the media stories will help remind Apple users of the importance of using a strong, unique password to secure their account and enable two-factor authentication to make their accounts harder to break into.
+</text>

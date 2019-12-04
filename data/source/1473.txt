@@ -1,0 +1,12 @@
+<title>Samsung Tizen TVs Reportedly Ship With Zero Day Security Flaws | Fortune</title>
+<source> http://fortune.com/2017/04/04/samsung-tv-hacking/ </source>
+<date> 2017_04_05 </date>
+<text>
+Samsung’s televisions and wearables reportedly have serious vulnerabilities that could allow malicious hackers to remotely take control of them.
+Security researchers in Israel have uncovered 40 previously undiscovered vulnerabilities in the operating system running in Samsung’s line of smart televisions, smartwatches, and even mobile phones, which could give hackers easy access to the devices, Motherboard is reporting after discussing the findings with the researchers.
+Tens of millions of electronics could be at risk, security researcher Amihai Neiderman told Motherboard.
+The security flaws are living inside Tizen, an operating system Samsung (SSNLF) has been developing over the last several years that runs on the company’s televisions, smartwatches, and some low-powered mobile devices.
+Hackers with knowledge of the vulnerabilities can be half a world away but connect over the Internet to a Samsung television or wearable, and assume complete control over the device.
+Neiderman didn’t say if hackers have been exploiting some of the flaws built into Tizen, and he has only been analyzing the software for the past eight months.
+He believes that many of the 40 flaws—called zero day exploits because there are no fixes and hackers could take advantage of them right now—were caused by Samsung coding errors that were never discovered in product testing.
+</text>

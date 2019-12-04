@@ -1,0 +1,14 @@
+<title>India's Aadhaar Biometrics Database Is About to Become a Security Nightmare</title>
+<source> https://www.bleepingcomputer.com/news/security/indias-aadhaar-biometrics-database-is-about-to-become-a-security-nightmare/ </source>
+<date> 2017_05_04 </date>
+<text>
+A report released on Monday by The Centre for Internet and Society reveals that over 135 million records from India's Aadhaar national ID systems have already leaked online.
+The leaks didn't take place because of a flaw in the national Aadhaar system, but through government agencies that handle Aadhar data. According to the report, just four government programs are responsible for leaking a whopping number of 135 million records.
+The programs mentioned in the report are India's National Social Assistance Programme (NSAP), the National Rural Employment Guarantee Scheme (NREGA), the Govt. of Andhra Pradesh's Chandranna Bima Scheme, and the Govt. of Andhra Pradesh's Daily Online Payment Reports of NREGA.
+The prevalence of Aadhaar data is how The Centre for Internet and Society has discovered the leak.
+Improperly configured systems exposed the details of program participants on the Internet. While the full Aadhaar database was never exposed, details in the government program databases allow a fraudster to tie a person's leaked details (names, addresses, phone numbers) to an Aadhaar 12-digit ID.
+If enough of these details leak in different places, fraudster can build comprehensive profiles on Indian citizens, even recreating the Aadhaar database themselves.
+For its part, the Indian government has admitted that some of the Aadhaar database has leaked online through its ministries, said it started investigations, and is already preparing changes to Aadhaa'rs security policies.
+
+Right now, because of the massive leak of 135 million details, including Aadhaar IDs, Indians stand to become victims of financial fraud. In the future, as other government programs leak more data, including biometrics, the problem will pass the point where the government could do anything to fix it.
+</text>

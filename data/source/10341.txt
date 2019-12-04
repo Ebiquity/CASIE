@@ -1,0 +1,18 @@
+<title> Phishing scams are surging in the wake of the TSB banking meltdown  </title>
+<source> https://www.wired.co.uk/article/phishing-texts-and-emails-surge-in-the-wake-of-tsb-outage </source>
+<date> 2018_05_21 </date>
+<text>
+Noticed more emails and texts lately claiming to be from your bank – and not just yours? You’re not the only one.
+Action Fraud, the UK police’s dedicated fraud tracking team, has revealed a significant increase in reports about phishing attacks connected to TSB’s massive IT outage have been reported.
+A total of 176 complaints have been received, or around ten a day since April 30. “There has been an uptick in phishing attempts across the piece,” says an Action Fraud spokesperson.
+TSB’s banking meltdown, caused by a botched IT upgrade, still has not been remedied – nearly four weeks on. And the crisis has become paydirt for scammers and hackers, who have waded into a confusing, chaotic situation and are making out with thousands of pounds worth of savings from people’s accounts. And it’s not just TSB - the number of phishing texts claiming to be from other banks such as Barclays and NatWest also seems to be on the rise.
+“When a ‘change’ goes wrong and so publicly like TSB’s, it’s like cyber blood in the water,” explains Ian Thornton-Trump, chief technical officer of Octopi Managed Services, an IT company. “Cyber criminals pay attention to companies rocked by internal scandals or public ‘ball drops’ and react accordingly.”
+With the bank’s staff overloaded trying to fix the problems that caused the outage in the first place, fraudulent transactions aren’t being tracked or checked as quickly as they should be. “It is a sad fact that fraudsters might try to take advantage of situations like these,” says a TSB spokesperson.
+The scammers are using one of the most common tools in their arsenal: phishing attacks. They send out mass texts and emails to customers – many of whom identify themselves as TSB’s customers in increasingly irate social media posts – with links to legitimate-sounding but fraudulent websites.
+Customers are encouraged to click a link and input their username and password to process their complaints against the company – and lose control of their bank account.
+Lucy Evans, 23, is one customer who has had her cash stolen. Her TSB current account was looted, and she’s received a number of texts purporting to be from TSB. She was defrauded by a combination of phone calls and texts. “I think I was targeted whilst we couldn’t actually view our money,” says Evans.
+“Criminals are happy to exploit people’s misery, whatever form that might take,” says professor Alan Woodward, a cybersecurity specialist from the University of Surrey. “Criminals can pretend to be the bank and ask customers to undertake strange actions that under normal operations would seem suspicious. Customers might be so delighted to actually be able to access their web banking that they might just let their guard down that little bit more than usual.”
+TSB has to act more proactively to shut down fraudulent domains and to make the public more aware of the scams circulating, Woodward argues. “TSB need to up their game in responding to customers – as that very lack of response can be used to lure customers in.”
+For those who have fallen victim, the loss of money is adding insult to injury. “I’m certain I’ll move banks,” says Evans, who lost the contents of her current account. “Most of the staff have been helpful and apologetic, but this should have been resolved by now. It seems they are not fit for purpose.”
+</text>
+

@@ -1,0 +1,13 @@
+<title>1.9 million Bell Canada customer account details stolen, leaked - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/05/17/bell-canada-data-theft/ </source>
+<date> 2017_05_17 </date>
+<text>
+Anonymous hackers have stolen and leaked 1.9 million email addresses and some 1,700 names and active phone numbers of Bell Canada customers.
+The company has not shared where the stolen information was stored and how they attackers managed to access it, because the Royal Canadian Mounted Police cyber crime unit’s investigation into the matter is still ongoing.
+But, according to a brief statement, the affected systems have been secured, the Office of the Privacy Commissioner of Canada informed, and affected users notified directly (either via email or phone).
+“There is no indication that any financial, password or other sensitive personal information was accessed,” the company noted, and added that the incident is not connected to the recent global WannaCry malware attacks.
+They’ve also warned customers to be on the lookout for phishing emails or calls impersonating the company and asking the customers for credit card or personal information.
+According to The Globe and Mail, the attackers are threatening to release more of the stolen data, if the telecom company doesn’t co-operate with them.
+It’s unclear what they mean by co-operating, but it’s more than likely that they’ve asked to be paid in order not to release the stolen information.
+Bell Canada has known about the breach since at least last Wednesday, when they notified the commissioner’s office of it.
+</text>

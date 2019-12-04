@@ -1,0 +1,31 @@
+<title>Cloud Storage The New Favorite Target Of Phishing</title>
+<source> http://www.darkreading.com/attacks-breaches/cloud-storage-the-new-favorite-target-of-phishing-attacks/d/d-id/1328078? </source>
+<date> 2017_02_08 </date>
+<text>
+For all the sophisticated tactics, techniques, and procedures employed by threat actors these days, phishing continued to be the top attack vector in 2016, as it has been for some time.
+The big difference was that instead of targeting financial services companies, phishers increasingly targeted cloud storage service providers like Google and DropBox, security vendor PhishLabs said in a voluminous report on phishing trends released this week.
+Compared to 2013, when barely 10% of phishing attacks targeted cloud storage services, about 22.5% of phishing attacks last year involved such companies.
+That was just barely below the 23% of phishing scams involving financial brands, the company noted.
+What that means is that users are likely going to get more phishing emails this year trying to get them to part with credentials to their cloud storage credentials.
+"Over the last four years, the number of phishing attacks targeting cloud storage services has skyrocketed," says Crane Hassold, senior security threat researcher at PhishLabs.
+"Based on recent trends, it is likely that phishing attacks targeting cloud storage services will overtake financial institutions as the top target for phishers in 2017."
+So far at least, almost all phishing attacks impacting this industry have involved only Google and DropBox.
+Many of the phishing campaigns targeting cloud storage providers contain lures saying that a document or picture has been shared with the victim and encourage them to sign in to their account in order to view it.
+A majority of the phishing pages involved in such campaigns have really been poor duplicates of the pages used by Google, DropBox, and other legitimate sites.
+Even so, "based on the growing popularity of these types of attacks, phishers must still be having success compromising victim even with this lack of authenticity," Hassold says.
+The PhishLabs report is based on an analysis of some one million confirmed phishing sites spread across more than 170,000 unique domains, and also from the company’s handling of more than 7,800 phishing attacks per month in 2016.
+The analysis showed an alarming increase across the board in phishing-related activities.
+The number of phishing sites in 2016, for instance, was 23% higher than the year before, while the volume of phishing emails grew by an average of 33% across financial services, cloud storage/file hosting, webmail/online, payment services, and ecommerce sites.
+PhishLabs identified a total of 976 brands belonging to 568 organizations that cybercriminal used in phishing campaigns last year.
+The kind of data that phishers went after also broadened considerably last year.
+In addition to account credentials and personal data, phishers also used their phishing lures to try and snag financial, employment, and account security data like answers to challenge/response questions and mother’s maiden name.
+Ransomware's Best Friend
+In 2016, phishing also continued to be by far the most prevalent method for delivering ransomware on everything from end user systems to systems belonging to businesses, government agencies, schools, and critical infrastructure targets.
+The use of email as an authentication measure made it easier for phishers to mass harvest credentials for all email services on a single phishing site, instead of having to target email providers individually, Hassold says.
+"Additionally, because a growing number of Web services are using email as a primary credential, phishers are able to multiply their profits by conducting password reuse attacks against these unsuspecting targets," he says.
+The easy availability of phish kits, or ready-to-use templates for creating working phishing sites, contributed to the problem.
+Many of these kits included sophisticated anti-detection mechanisms.
+Mechanisms included access control measures based on IP address, HTTP referrer, and hostname, whitelists, and blocklists.
+"The big takeaway is that we’ve created ideal conditions for the mass harvesting of credentials via phishing attacks," Hassold notes.
+Unlike in the past where phishers were focused on immediate gains—by going after and selling access to financial accounts for instance—they are now trying to maximize the information they can compromise with the least effort.
+</text>

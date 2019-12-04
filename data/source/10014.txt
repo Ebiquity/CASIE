@@ -1,0 +1,9 @@
+<title>Canadian Town Pays Hackers Ransom in Bitcoin (BTC)</title>
+<source> https://cryptovest.com/news/canadian-town-pays-hackers-ransom-in-bitcoin-btc/ </source>
+<date> 2018_09_12 </date>
+<text>
+An amount in Bitcoin (BTC) is what the Canadian town of Midland is said to have paid to regain access to its hacked computer systems.
+The ransom that the Canadian town of Midland has paid to cyber criminals to have its servers unblocked was in the form of Bitcoin (BTC), media source Global News reported last week, quoting a local spokesperson. How much Midland has paid in cryptocurrency, however, was not specified.
+On September 1, the town in the Ontario province became a victim of a malware attack, as hackers managed to encrypt the information stored on several town systems, leaving them virtually unusable. Right after, Midland got a ransom demand to get decryption keys. The town authorities decided a few days later to pay the sum.
+    “Although not ideal, it is in our best interest to bring the system back online as quickly as possible. The Town had previously secured an insurance policy to cover such circumstances. Decryption efforts are underway,” a statement on Midland’s web site reads.
+</text>

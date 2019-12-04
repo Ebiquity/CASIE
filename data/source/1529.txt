@@ -1,0 +1,20 @@
+<title>IAG CEO Peter Harmer blows the whistle on cyber risk  | afr.com</title>
+<source> http://www.afr.com/brand/chanticleer/iag-ceo-peter-harmer-blows-the-whistle-on-cyber-risk-20170406-gvfcu6 </source>
+<date> 2017_04_07 </date>
+<text>
+After a week of being bruised and battered over elevated reputation and credit risks, the last thing the bankers attending The Australian Financial Review Banking and Wealth Summit needed was a reminder of the rising operational risks from cyber attacks.
+But the straight-shooting chief executive of Insurance Australia Group, Peter Harmer, did not dodge the question when asked what his firm had found while trawling through the "dark web".
+He said IAG had uncovered the personal details of customers belonging to one of the big four banks.
+The information was being sold online for $25 per customer.
+That suggests the systems of at least one major financial institution have been breached and customer data stolen.
+Harmer was primed for this conversation about cyber risks at the Summit.
+On Wednesday he had led the IAG board of directors on a tour of the company's cyber-security facility in Sydney.
+He said any chief executive who believes they have a secure digital environment is "completely oblivious to the threats that are out there".
+"We trawl our systems all the time looking for unusual activity," he said.
+"We trawl the dark net looking for where our data might be up for sale, and it's amazing when you actually see what is being offered for sale.
+All we've found is a couple of our employees' names and addresses, so our view is that we are reasonably confident with the analysis, and being able to thwart the hackers coming into our system."
+Harmer's most worrying revelation was that the global capacity for cyber protection was a measly $500 million.
+He said for a business such as IAG, which has a market capitalisation of $14 billion, this amount of insurance "would not even touch the sides".
+This made it imperative for companies to invest in defence efforts and avoid any major extraction of data by cyber attackers.
+On Wednesday, bankers attending the summit were reminded of the lack of trust in the community towards financial institutions.
+</text>

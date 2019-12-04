@@ -1,0 +1,24 @@
+<title> Top 5 phishing scams and how to avoid them  </title>
+<source> https://www.foxnews.com/tech/top-5-phishing-scams-and-how-to-avoid-them </source>
+<date> 2018_04_21 </date>
+<text>
+Phishing is one of the most devious scams for filching your personal information, but experts say it is possible to avoid them if you know what you're looking for.
+At its essence, phishing is the act of pretending to be someone or something you trust in order to trick you into entering sensitive data like your user name and password. The goal -- of course -- is to take your money.
+Some of the most common phishing scams are bogus emails purportedly from trustworthy institutions like the U.S.Internal Revenue Service or major banks. The more sophisticated scams are crafted to look very much like a legitimate message from a site you do business with.
+“Many popular phishing scams purport to be from shipping companies, e-commerce companies, social networking websites, financial institutions, tax-preparation companies and some of the world’s most notable companies,” said Norton by Symantec senior security response manager Satnam Narang via email.
+One of the worst cases on record was an aircraft parts CEO who was tricked into handing over more than $55 million – which shows that phishing scams can dupe even smart people.
+Fox News asked Symantec about the top phishing scams and how to avoid them.
+1. Your account has been or will be locked, disabled or suspended.
+"Scare tactics are a common theme when it comes to phishing scams," said Narang. "Claiming a users’ account has been or will be locked or disabled is a call to action to the user to entice them to provide their login credentials."
+2. Irregular/fraudulent activity detected or your account requires a "security" update.
+"Extending off of #1, scammers will also claim irregular or fraudulent activity has been detected on your account or that your account has been subjected to a compulsory 'security update' and you need to login to enable this security update," Narang said.
+3. You’ve received a secure or important message.
+"This type of phishing scam is often associated with financial institutions, but we have also seen some claiming to be from a popular e-commerce website," said Narang. "Because financial institutions don’t send customer details in emails, the premise is that users will be more inclined to click on a link or open an attachment if it claims to be a secure or important message."
+4. Tax-themed phishing scams.
+"Each year, tax-themed phishing scams crop up before tax-time in the U.S. and other countries," Narang added. "These tax-related themes can vary from updating your filing information, your eligibility to receive a tax refund or warnings that you owe money. One thing that’s for sure is that the IRS doesn’t communicate via email or text message, they still send snail mail."
+5. Attachment-based phishing with a variety of themes.
+"Another trend we have observed in recent years is that scammers are using the lures mentioned above, but instead of providing a link to an external website, they are attaching an HTML page and asking users to open this 'secure page' that requests login credentials and financial information," according to Narang.
+Avast, which also develop antivirus software and internet security services, offered advice on what to look for.
+Ransomware, which encrypts data (i.e., makes it inaccessible to the user), tries to tap into the same fears that phishing does. The hope that the “attacked person will panic, and pay the ransom,” Jonathan Penn, Director of Strategy at Avast, told Fox News.
+</text>
+

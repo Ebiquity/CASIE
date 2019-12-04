@@ -1,0 +1,27 @@
+<title>Russian hackers use OAuth, fake Google apps to phish users | ITworld</title>
+<source> http://www.itworld.com/article/3192143/security/russian-hackers-use-oauth-fake-google-apps-to-phish-users.html </source>
+<date> 2017_04_26 </date>
+<text>
+The Russian hacking group blamed for targeting U.S. and European elections has been breaking into email accounts, not only by tricking victims into giving up passwords, but by stealing access tokens too. 
+It's sneaky hack that's particularly worrisome, because it can circumvent Google's 2-step verification, according to security firm Trend Micro. 
+The group, known as Fancy Bear or Pawn Storm, has been carrying out the attack with its favored tactic of sending out phishing emails, Trend Micro said in a report Tuesday. 
+The attack works by sending out a fake email, pretending to be from Google, with the title “Your account is in danger.”
+An example of a phishing email that Fancy Bear has used. 
+The email claims that Google detected several unexpected sign-in attempts into their account. It then suggests users install a security application called “Google Defender.”
+However, the application is actually a ruse. In reality, the hacking group is trying to dupe users into giving up a special access token for their Google account, Trend Micro said.
+Victims that fall for the scheme will be redirected to an actual Google page, which can authorize the hacking group's app to view and manage their email. Users that click “allow” will be handing over what’s known as an OAuth token.
+Although the OAuth protocol doesn't transfer over any password information, it's designed to grant third-party applications access to internet accounts through the use of special tokens. 
+In the case of Fancy Bear, the hacking group has leveraged the protocol to build fake applications that can fool victims into handing over account access, Trend Micro said.  
+“After abusing the screening process for OAuth approvals, (the group’s) rogue application operates like every other app accepted by the service provider,” the security firm said.
+Even Google's 2-step verification, which is designed to prevent unwarranted account access, can't stop the hack, according to Trend Micro.
+Google's 2-step verification works by requiring not only a password, but also a special code sent to a user's smartphone when logging in. Security experts say it's an effective way to protect your account.
+However, the phishing scheme from Fancy Bear manages to sidestep this security measure, by tricking users into granting access through the fake Google security app.
+Google, however, said it takes many steps to protect users from such phishing attacks.
+"In addition, Google detects and reviews potential OAuth abuse and takes down thousands of apps for violating our User Data Policy, such as impersonating a Google app," the company said in a statement.
+"Note that a real Google app should be directly accessed from a Google site or installed from the Google Play or Apple App stores," it added.
+According to Trend Micro, victims were targeted with this phishing attack in 2015, and 2016. In addition to Google Defender, Fancy Bear has used other apps under names such as Google Email Protection and Google Scanner. They’ve also gone after Yahoo users with apps called Delivery Service and McAfee Email protection.
+The attack attempts to trick users into handing over access to their email through fake Google third-party applications. 
+“Internet users are urged to never accept OAuth token requests from an unknown party or a service they did not ask for,” Trend Micro said.
+Although a password reset can sometimes revoke an OAuth token, it's best to check what third-party applications are connected to your email account. This can be done by looking at an email account's security settings, and revoking access where necessary. 
+Fancy Bear is most notorious for its suspected role in hacking the Democratic National Committee last year. However, the group has also been found targeting everything from government ministries, media organizations, along with universities and think tanks, according to Trend Micro.
+</text>

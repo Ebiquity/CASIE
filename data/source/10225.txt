@@ -1,0 +1,14 @@
+<title> Windows 10 alert: All versions get new Intel patches for Spectre, Foreshadow bugs </title>
+<source> https://www.zdnet.com/article/windows-10-alert-all-versions-get-new-intel-patches-for-spectre-foreshadow-bugs/ </source>
+<date> 2018_08_22 </date>
+<text>
+Microsoft releases Intel's microcode updates, including one to address the recently revealed Foreshadow flaw.
+Microsoft has released a set of new microcode patches from Intel that address Spectre vulnerabilities, as well as the recently disclosed Foreshadow attacks.
+The updates are available for all supported versions of Windows 10 and Windows Server.
+As noted on the support page for Windows 10 version 1803, the microcode updates include mitigations for Spectre Variant 3a, CVE-2018-3640, Spectre Variant 4, CVE-2018-3639, as well as two of the Foreshadow bugs, CVE-2018-3615 and CVE-2018-3646, which are also known as L1TF or 'L1 Terminal Fault'.
+As Microsoft recently highlighted, Windows machines with affected Intel CPUs will need microcode as well as software patches to mitigate the Foreshadow attacks.
+Microsoft began helping Intel deliver its microcode updates after Intel first started addressing the Meltdown and Spectre CPU flaws in January. The microcode updates help mitigate Spectre Variant 2, CVE-2017-5715.
+Foreshadow includes CVE-2018-3615, which affects Intel's Software Guard Extensions (SGX) enclaves, while CVE-2018-3620 affects operating systems and System Management Mode (SMM) memory. CVE-2018-3646 impacts virtualization.
+Microsoft made the updates, all dated 8/20/2018, available on the Microsoft Update Catalog this week.
+</text>
+

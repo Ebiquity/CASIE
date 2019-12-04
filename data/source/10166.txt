@@ -1,0 +1,14 @@
+<title> Oracle: Run, don't walk, to patch this critical Database takeover bug </title>
+<source> https://www.theregister.co.uk/2018/08/14/oracle_database_flaw/ </source>
+<date> 2018_08_14 </date>
+<text>
+Oracle is advising customers to update their database software following the discovery and disclosure of a critical remote code execution vulnerability.
+The flaw, dubbed CVE-2018-3110 was given a CVSS base score of 9.9 (out of 10) and Oracle warns that successful exploit of the bug "can result in complete compromise of the Oracle Database and shell access to the underlying server."
+"Due to the nature of this vulnerability, Oracle strongly recommends that customers take action without delay," Oracle says.
+Vulnerable versions of Database Server include 11.2.0.4, 12.1.0.2, 12.2.0.1, and 18. Admins are advised to install Oracle's update as soon as possible. No credit was given for discovery or reporting.
+The flaw itself is found in the JavaVM component of Oracle Database Server and is not considered a remote code exploit flaw, as it requires the attacker have a connection to the server via Oracle Net, the protocol Oracle servers use to connect with client applications. Other than that, however, there is little else required for a successful attack that gives complete control over the host server.
+The Oracle patch will only pile on to what is going to be a busy week for IT departments and administrators.
+In addition to this fix, Microsoft is releasing its monthly Patch Tuesday security update for Windows, Office, and Internet Explorer/Edge today, and Adobe has posted fixes for security holes in Flash Player, Acrobat/Reader, Creative Cloud, and Experience manager.
+Our advice is to keep a pot of coffee handy and reserve a table at the pub for when this is all over with.
+</text>
+

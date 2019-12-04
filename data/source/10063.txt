@@ -1,0 +1,14 @@
+<title> Google Addressed That Scary Gmail Phishing Scam — Here's What To Look Out For   </title>
+<source> https://www.refinery29.com/en-us/2017/01/136500/gmail-phishing-scam </source>
+<date> 2017_03_15 </date>
+<text>
+Google has come up with a fix for the phishing scam that affected users. A Chrome browser update, which has been rolling out since February, now issues a warning when you've landed on an page with the scam.
+In your browser address bar, look out for "not secure" to the left of the address. Fortune reports that in the future, Google will present this warning and indicate unprotected sites more aggressively with a red triangle.
+According to Satnam Narang, Senior Security Response Manager at Norton by Symantec, here's how the Gmail phishing scam works: You'll see an email in your inbox from one of your contacts who has already been hacked. The email looks like it contains an attachment. But if you look closely, as this Twitter user did, you'll notice that the image preview for the attachment looks slightly fuzzy. This is because there isn't actually an attachment, just an image designed to look like one.
+If you click on the image you'll be directed to a page that looks like the standard Google sign-in page. If you log-in there, the damage is done: The hacker can read and download all of your emails and could also access accounts elsewhere.
+In the past, you might have recognized a scam by the language in the email. But Narang says that there are reports that these hackers are sending emails that look realistic. In one school district, for example, team members received what looked like a copy of a practice schedule.
+Still, there are things you can look out for to spot a fake. "The best way to identify this attack is to look at the address bar. In this case, look for the words 'data:/text/html' at the beginning of the URL," Narang says. "If you see this, close the browser tab and alert your friend that their account has been compromised."
+Narang also recommends setting up two-step verification for your Gmail account (find out how to do so here). And follow these rules for boosting your password strength.
+In a statement about the attack, a Google spokesperson said, "“We're aware of this issue and continue to strengthen our defenses against it. We help protect users from phishing attacks in a variety of ways, including: machine learning based detection of phishing messages, Safe Browsing warnings that notify users of dangerous links in emails and browsers, preventing suspicious account sign-ins, and more. Users can also activate two-step verification for additional account protection.”
+Above all, think twice before clicking on something. We're starting to see more sophisticated scams, so being vigilant will only help you in the long-run.
+</text>

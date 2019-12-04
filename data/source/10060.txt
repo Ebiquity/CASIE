@@ -1,0 +1,9 @@
+<title> Cyber crime warning from Warwick company boss   </title>
+<source> https://www.coventrytelegraph.net/news/cyber-crime-warning-warwick-company-12893056 </source>
+<date> 2017_04_13 </date>
+<text>
+The boss of a company held to ransom by computer hackers is warning others not to fall victim.
+Two years ago Stuart Kettell’s company Kettell Video Productions was targeted by hackers who encrypted all his files and demanded money to decrypt them.
+Stuart Kettell may be best known for his light hearted charity fund raising challenges but this cyber attack was no joke.
+The hackers infiltrated computer systems at the Warwick based company. They made it impossible for staff to see any of the company data and demanded £1,000 in online currency bitcoins to put matters right.
+</text>

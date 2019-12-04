@@ -1,0 +1,12 @@
+<title> Cyberattackers demand ransom from Allied Physicians of Michiana   </title>
+<source> https://www.southbendtribune.com/news/business/cyberattackers-demand-ransom-from-allied-physicians-of-michiana/article_8199b04b-32ec-54fc-9aab-ddf4f6f266e7.html </source>
+<date> 2018_05_22 </date>
+<text>
+SOUTH BEND — A local physicians network was the focus of a recent cyberattack that released ransomware into its network.
+According to a news release from Allied Physicians of Michiana CEO Shery Roussarie, the company became aware of the cyberattack on Thursday afternoon and immediately took steps to shut down the network in order to protect personal and protected health information of patients.
+The company restored its data in a secure format without significant disruption to patients, but an investigation is ongoing to confirm that personal or protected health information wasn’t compromised.
+The type of ransomware, known as SamSam, has been used in other attacks to coerce businesses, municipalities and individuals to pay a ransom in order to unlock files held hostage by the infection. In March, the city of Atlanta was attacked by SamSam ransomware that crippled its court system, prevented water bill payments and forced city employees to file paper reports.
+“The security of our patients’ personal and protected health information is foremost in our mind” Roussarie said in the news release. “While we make every effort to keep ahead of these types of cyberattacks, we have nevertheless taken additional steps to minimize any such future attack of the type experienced last week.”
+Allied Physicians would not say whether or not it has paid a ransom, or what amount was demanded by the SamSam hackers, but that it plans to work with “all relevant regulatory agencies, including the FBI, to thoroughly define the scope of the incident.”
+</text>
+

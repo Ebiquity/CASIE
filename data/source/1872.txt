@@ -1,0 +1,15 @@
+<title>Northrop Grumman can make a stealth bomber – but can't protect its workers' W-2 tax forms • The Register    </title>
+<source> https://www.theregister.co.uk/2017/04/24/northrop_grumman_breach_worker_w2s/ </source>
+<date> 2017_04_25 </date>
+<text>
+Northrop Grumman has admitted one of its internal portals was broken into, exposing employees' sensitive tax records to miscreants.
+In a letter [PDF] to workers and the California Attorney General's office, the aerospace contractor said that between April 18, 2016 and March 29, 2017, crooks infiltrated the website, allowing them to access staffers' W-2 paperwork for the 2016 tax year.
+These W-2 forms can be used by identity thieves to claim tax rebates owed to employees, allowing the crims to pocket victims' money. The corp sent out its warning letters on April 18, the last day to file 2016 tax returns.
+"The personal information that may have been accessed includes your name, address, work email address, work phone number, Social Security number, employer identification number, and wage and tax information, as well as any personal phone number, personal email address, or answers to customized security questions that you may have entered on the W-2 online portal," the contractor told its employees.
+The Stealth Bomber maker says it will provide all of the exposed workers with three years of free identity-theft monitoring services. Northrop Grumman has also disabled access to the W-2 portal through any method other than its internal single sign-on tool.
+The aerospace giant said it farmed out its tax portal to Equifax Workforce Solutions, which was working with the defense giant to get to the bottom of the intrusion. "Promptly after confirming the incident, we worked with Equifax to determine the details of the issue," Northrop told its teams.
+"Northrop Grumman and Equifax are coordinating with law enforcement authorities to assist them in their investigation of recent incidents involving unauthorized actors gaining access to individuals’ personal information through the W-2 online portal."
+According to Equifax, the portal was accessed not by hackers but by someone using stolen login details.
+"We are investigating alleged unauthorized access to our online portal where a person or persons using stolen credentials accessed W-2 information of a limited number of individuals," an Equifax spokesperson told El Reg on Monday.
+"Based on the investigation to date, Equifax has no reason to believe that its systems were compromised or that it was the source of the information used to gain access to the online portal."
+</text>

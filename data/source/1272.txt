@@ -1,0 +1,15 @@
+<title>SAP GUI vulnerability “most dangerous” since 2011: ERPScan - Inside SAP</title>
+<source> http://www.insidesap.com.au/sap-gui-vulnerability-most-dangerous-since-2011-erpscan/ </source>
+<date> 2017_03_24 </date>
+<text>
+Researchers from security firm ERPScan have disclosed a vulnerability in the SAP GUI application which it has described as perhaps the most dangerous SAP issue since 2011, as it affects not only every SAP customer but also every user.
+The vulnerability allows an attacker to make all endpoints with compromised SAP GUI clients automatically install malware that locks their computers when an SAP user logs in to the system.
+When the user next logs into the SAP GUI application, the malicious software will run and prevent them from logging on to SAP Server.
+Firstly, in this case, patching process is especially laborious and time-consuming, as the vulnerability affects client side, so an SAP administrator has to apply the patch on every endpoint with SAP GUI in a company and a typical enterprise has thousands of them,” said Vahagn Vardanyan, senior security researcher, ERPScan.
+The vulnerability was patched by SAP with a fix as part of its March Security Note 2407616.
+An SAP spokesperson confirmed that a SAP GUI vulnerability was fixed in the March Patch Day, with further details available via this blog post.
+“It has a priority of High, based on CVSS rating of 8.0 (but not Very High).
+We have no information or evidence of this vulnerability being exploited at a customer but advise all customers to patch their infrastructure immediately.
+Customers are required to apply the SAP GUI patch released on their landscape using their standard client software distribution and update tools (which they would have in place for end-user software licensed from other vendors as well),” the spokesperson said.
+Pingback: SAP GUI vulnerability “most dangerous” since 2011
+</text>

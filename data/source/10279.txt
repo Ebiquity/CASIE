@@ -1,0 +1,10 @@
+<title> Intel Announces Faster Processor Patched for Meltdown and Spectre </title>
+<source> https://hackaday.com/2018/12/12/intel-announces-faster-processor-patched-for-meltdown-and-spectre/ </source>
+<date> 2018_12_12 </date>
+<text>
+Intel just announced their new Sunny Cove Architecture that comes with a lot of new bells and whistles. The Intel processor line-up has been based off the Skylake architecture since 2015, so the new architecture is a fresh breath for the world’s largest chip maker. They’ve been in the limelight this year with hardware vulnerabilities exposed, known as Spectre and Meltdown. The new designs have of course been patched against those weaknesses.
+The new architecture (said to be part of the Ice Lake-U CPU) comes with a lot of new promises such as faster core, 5 allocation units and upgrades to the L1 and L2 caches. There is also support for the AVX-512 or Advanced Vector Extensions instructions set which will improve performance for neural networks and other vector arithmetic.
+Another significant change is the support for 52-bits of physical space  and 57 bits of linear address support. Today’s x64 CPUs can only use bit 0 to bit 47 for an address space spanning 256TB. The additional bits mean a bump to a whooping 4 PB of physical memory and 128 PB of virtual address space.
+The new offering was demoed under the company’s 10nm process which incidentally is the same as the previously launched Cannon Lake. The new processors are due in the second half of 2019 and are being heavily marketed as a boon for the Cryptography and Artificial Intelligence Industries. The claim is that for AI, memory to CPU distance has been reduced for faster access, and that special cryptography-specific instructions have been added.
+</text>
+

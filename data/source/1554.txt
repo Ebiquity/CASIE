@@ -1,0 +1,11 @@
+<title>FAFSA Tool Taken Offline After Breach Report</title>
+<source> http://www.darkreading.com/endpoint/fafsa-tool-taken-offline-after-breach-report/d/d-id/1328586? </source>
+<date> 2017_04_10 </date>
+<text>
+The Internal Revenue Service (IRS) has said that personal data of nearly 100,000 taxpayers may have been compromised by a breach of its tool to apply for student financial aid, The Chronicle of Higher Education reports.
+The Free Application for Federal Student Aid (FAFSA) tool was taken offline in March after discovery of suspicious activity, and will be operational only in October.
+In a statement to the Senate Finance Committee, IRS chief John Koskinen said 35,000 affected people had been notified of the breach and $30 million been paid for around 8,000 fraudulent tax refunds.
+The IRS has come under fire for cutting off the tool and Senator Lamar Alexander of Tennessee, urged authorities to “continue to prioritize getting the helpful data-retrieval tool back online quickly with adequate protection for users’ data”.
+The agency admits being made aware in September last year that FAFSA could be misused by hackers.
+“To shut it down without a clear indication of criminals actually using it seemed to us that it was going to unnecessarily disadvantage millions of people who used it,” Koskinen clarified, says The Wall Street Journal.
+</text>

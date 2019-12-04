@@ -1,0 +1,21 @@
+<title> Bank fraud up as criminals hit individuals: Efforts by lenders to bolster IT security leads fraudsters to bombard customers with scams   </title>
+<source> https://www.dailymail.co.uk/news/article-4366670/Bank-fraud-criminals-hit-individuals.html </source>
+<date> 2017_03_30 </date>
+<text>
+High street banks are losing the battle against fraud as criminals switch tactics to directly target customers.
+Efforts by lenders to bolster their IT defences against hackers have simply encouraged fraudsters to bombard individual customers with scams, according to Financial Fraud Action UK.
+Despite investing millions in tackling fraud, losses from fraud rose last year as banks became less effective at preventing scams.
+Financial Fraud Action UK said this was ‘largely due to criminals shifting their methods away from using malware attacks on online banking systems, which bank security processes identified’.
+Increasingly, it said, fraudsters are focussing on targeting individuals directly, which is harder for banks to stop.
+The report said the main ploy used by criminals is the ‘impersonation and deception scam’ whereby they pretend to be from a ‘legitimate and trusted organisation’ such as a bank, the police, a utility company or a government department.
+These scams typically involve the fraudster contacting the customer through a phone call, text message or email.
+Often the fraudster will claim there has been suspicious activity on an account, ask the individual to verify or update their account details, or claim they are due a refund.
+The criminal then attempts to trick the target into giving away their personal or financial information, such as passwords, payment card details or bank account information.
+Financial Fraud Action UK – which represents banks - said its intelligence suggests criminals have also recently increased their focus on ‘phishing’ emails claiming to be from major online retailers and internet companies.
+It warned these emails are an ‘increasingly sophisticated’ attempt to trick recipients into giving away personal and financial details, or into downloading malware software which hacks into their computers.
+Several banks have been targeted by high profile cyber attacks that have attempted to exploit weaknesses in their IT systems.
+Last November criminals launched an online attack against Tesco Bank that resulted in the loss of £2.5million from 9,000 accounts.
+Others to have been targeted include Royal Bank of Scotland and NatWest, Lloyds and HSBC.
+The threat to Britain’s financial infrastructure from persistent cyber-attacks prompted chancellor Philip Hammond to commit an extra £1.9billion in the autumn statement to boost Britain’s defences against the growing online threat.
+</text>
+

@@ -1,0 +1,18 @@
+<title> When is a patch not a patch? When it's for this McAfee password bug  </title>
+<source> https://www.theregister.co.uk/2018/09/11/mcafee_flaw_fix/ </source>
+<date> 2018_09_11 </date>
+<text>
+A privilege escalation flaw in McAfee's True Key software remains open to exploitation despite multiple attempts to patch it.
+This according to researchers with security shop Exodus Intel, who claim that CVE-2018-6661 was not fully addressed with either of the two patches McAfee released for it.
+The flaw is an elevation of privilege issue in McAfee's TrueKey password manager. An exploit can be carried out on a guest account by side-loading a specially-crafted DLL into True Key that would then allow for commands and code to be executed with system-level privileges.
+McAfee's summary of the flaw, published on March 30, lists it as a 'high' severity issue that was patched in version 4.20.110 - which was released in April.
+Exodus says that the April release didn't fully fix the bug, however. The researchers explain that McAfee's patch only addresses one of the libraries (SDKLibAdapter) that would allow the attack to take place, with another DLL (NLog logging library) being left vulnerable to the same side-loading tactic.
+"The patch is incomplete because it overlooks this and hence the nlog.dll can be utilized to allow arbitrary code execution just as the McAfee.TrueKey.SDKLibAdapter.dll could be used in versions prior to the patch," Exodus researchers Omar El-Domeiri and Gaurav Baruah said.
+"Furthermore, any other McAfee signed binary can be used to exploit the vulnerability as long as the binary depends on a DLL outside the list of known DLLs."
+Exodus said that it notified McAfee of the issue back in August, prompting a second patch that, unfortunately, also failed to fully remedy the issue.
+"However, we tested the latest version available (5.1.173.1 as of September 7th, 2018) and found that it remains vulnerable requiring no changes to our exploit."
+To its credit, McAfee acknowledged the issue and said it is still working to fully resolve the flaw.
+"McAfee has been working with the researchers to confirm their findings, and has provided customers mitigation guidance to allow them to protect themselves until the company can address the reported issues via automatic product updates," McAfee told The Register.
+In the meantime, McAfee says customers can use the True Key browser extension (which is not subject to the DLL vulnerability) rather than the Windows application.  
+</text>
+

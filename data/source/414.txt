@@ -1,0 +1,18 @@
+<title>That Heartbleed problem may be more pervasive than you think | CSO Online</title>
+<source> http://www.csoonline.com/article/3162022/security/that-hearbleed-problem-may-be-more-pervasive-than-you-think.html </source>
+<date> 2017_01_30 </date>
+<text>
+That lingering Heartbleed flaw recently discovered in 200,000 devices is more insidious than that number indicates.
+According to a report posted by Shodan, the Heartbleed vulnerability first exposed in April 2014 was still found in 199,594 internet-accessible devices during a scan it performed last weekend.
+But according to open-source security firm Black Duck, about 11% of more than 200 applications it audited between Oct  2015 and March 2016 contained the flaw, which enables a buffer overread that endangers data from clients and servers running affected versions of OpenSSL.
+The company’s vice president of security strategy Mike Pittenger says it’s likely most of those machines have been remediated, but it doesn’t address the countless other applications – commercial and proprietary - Black Duck didn’t audit.
+“However, I would not extrapolate that to say 11% of all commercial applications were vulnerable to Heartbleed at that time”.
+That 11% is a number from the company’s last published report.
+In a new report due out next month that hasn’t been wrapped up yet, that number is likely to dip into the single digits, but is still significant.
+The problem is that commercial software in general uses a great deal of open source code – 35% on average - and authors of the code don’t necessarily have processes in place to track when vulnerabilities are found in that code and to then patch them, he says.
+He says Black Duck’s study finds that two-thirds of these applications have open-source vulnerabilities of one kind or another and that they average 5 years old.
+In regard to Heartbleed in particular, he says the reports draw on anonymized data about its audits so they don’t reveal the specific applications in which the Heartbleed vulnerability was found.
+Running vulnerable applications in a regulated environment could have consequences for the enterprises using them, he says, because the security threat they represent could violate HIPAA or PCI security and privacy requirements.
+The Shodan report on the prevalence of Heartbleed showed that the individual entities hosting the largest number of Heartbleed-vulnerable devices were service providers.
+That may be because these machines were set up a while ago and are no longer in use but were never taken offline, Pittenger says.
+</text>

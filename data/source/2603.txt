@@ -1,0 +1,19 @@
+<title> Disney ‘Hackers’ Were Bluffing, Says CEO </title>
+<source> https://www.infosecurity-magazine.com/news/disney-hackers-were-bluffing-iger/ </source>
+<date> 2017_05_30 </date>
+<text>
+Hackers that tried to extort money from Disney by threatening to make public an upcoming movie ahead of its release date appear to have been bluffing, the firm’s boss has revealed.
+Chairman and CEO Bob Iger said the media giant had, to its knowledge, not been hacked.
+“We had a threat of a hack of a movie being stolen. We decided to take it seriously but not react in the manner in which the person who was threatening us had required,” he told Yahoo Finance.
+“We don’t believe that it was real and nothing has happened.”
+The hackers apparently demanded a large payment in Bitcoin, and threatened to release five minutes of the stolen film followed by subsequent 20-minute instalments if their demands weren’t met.
+Disney likely took the threat seriously given that a similar incident occurred last month when a hacker uploaded the upcoming series of Netflix prison drama Orange is the New Black to The Pirate Bay after the streaming giant refused to pay a ransom.
+In that case, a third-party production vendor used by the studios was to blame, after its security was compromised by the hacker.
+Iger acknowledged the elevation of cybersecurity to a “front burner issue.”
+“Technology is an enabler to run our businesses more securely, whether that’s protecting our intellectual property or protecting our guests or employees around the world,” he argued.
+Unfortunately, many boardrooms don’t share Iger’s enthusiasm for cybersecurity-related issues.
+Just 5% of FTSE 100 companies claim to have a technology expert on the board, despite most of them (87%) identifying cybersecurity as a major risk to the firm, according to a recent Deloitte report.
+Yet cybersecurity is something the C-level need to get urgently up to speed with, as increasing numbers are targeted by whalers.
+Just this month, Barclays CEO Jes Staley was tricked into emailing someone pretending to be the bank’s chairman, John McFarlane.
+</text>
+

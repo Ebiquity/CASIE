@@ -1,0 +1,10 @@
+<title>WannaCry: United States’ National Security Agency links ransomware attack to North Korea</title>
+<source> https://scroll.in/latest/840743/us-intelligence-links-wannacry-ransomware-attack-to-north-korea </source>
+<date> 2017_06_16 </date>
+<text>
+The United States’ National Security Agency has linked North Korea to the WannaCry ransomware attack that had affected more than 3,00,000 people worldwide in May, reported The Washington Post. 
+The NSA analysed tactics, techniques and targets that suggest  the Reconnaissance General Bureau, North Korea’s spy agency, was behind the attack.  
+The assessment was issued internally last week and has not yet been made public.  According to the assessment, the cyber actors, suspected to be sponsored by the RGB, were behind two versions of WannaCry.  
+The Shadow Brokers, a hacking group believed to be behind a massive dump of National Security Agency cyber-weapons and software, were responsible for releasing the vulnerability in the computer systems used by government agencies and other companies. The vulnerability had led to WannaCry being able to replicate itself and causing massive damage internationally. The vulnerability was referred to by the NSA as “EternalBlue”.
+WannaCry is a malicious software that had crippled systems worldwide and affected more than 150 countries in a cyber attack in May. It had locked data on computers it struck, which could only be released after a paying a ransom in bitcoins. The major cyber attack had targeted several nations, bringing operations at hospitals, telecommunications firms and other companies to a halt.
+</text>

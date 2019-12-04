@@ -1,0 +1,18 @@
+<title> Hospital Pays $55K Ransomware Demand Despite Having Backups  </title>
+<source> https://www.bleepingcomputer.com/news/security/hospital-pays-55k-ransomware-demand-despite-having-backups/ </source>
+<date> 2018_01_16 </date>
+<text>
+An Indiana hospital paid a ransom of $55,000 to get rid of ransomware that had infected its systems and was hindering operations last week.
+The infection took root last week, on Thursday, January 11, when attackers breached the network of Hancock Health, a regional hospital in the city of Greenfield, Indiana.
+Attackers deployed the SamSam ransomware, which encrypted files and renamed them with the phrase "I’m sorry", according to a local newspaper who broke the news last week.
+Hospital operations were affected right away. IT staff intervened and took down the entire network, asking employees to shut down all computers to avoid the ransomware from spreading to other PCs.
+By Friday, the next day, the hospital was littered with posters asking employees to shut down any computer until the incident was resolved.
+While some news sites reported that the hospital shut down operations, medical and management staff continued their work, but with pen and paper instead of computers. Patients continued to receive care at the hospital's premise.
+Hospital had backups but decides to pay ransom demand.
+The hospital said that despite having backups it opted to pay the ransom demand of 4 Bitcoin, which was worth around $55,000 at the time the hospital paid the sum, on Saturday morning.
+Hospital management told local press that restoring from backups was not a solution as it would have taken days and maybe even weeks to have all systems up and running. Hence, they decided paying the ransom was quicker.
+By Monday, all systems were up and running, and the hospital released a short statement on its site admitting to the incident, but with very few other details.
+While the hospital has not confirmed the typical SamSam attack scenario, they did say the infection was not the case of an employee opening a malware-infected email.
+The FBI has long asked companies and individuals affected by ransomware to report any infections via the IC3 portal so the Bureau can get a better grasp of the threat and have the legal reasons to go after such groups.
+</text>
+

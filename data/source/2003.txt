@@ -1,0 +1,16 @@
+<title>Vulnerability hits Intel enterprise PCs going back 10 years | CSO Online</title>
+<source> http://www.csoonline.com/article/3193751/security/vulnerability-hits-intel-enterprise-pcs-going-back-10-years.html </source>
+<date> 2017_05_02 </date>
+<text>
+Intel is reporting a firmware vulnerability that could let attackers take over remote management functions on computers built over nearly the past decade.
+The vulnerability, disclosed on Monday, affects features in Intel firmware that are designed for enterprise IT management.  
+Enterprises using Intel Active Management Technology, Intel Small Business Technology and Intel Standard Manageability on their systems should patch them as soon as possible, the company says.
+The vulnerable firmware features can be found in some current Core processors and all the way back to Intel's first-generation Core, called Nehalem, which shipped in 2008. They're part of versions 6.0 through 11.6 of Intel's manageability firmware.
+No consumer PCs are affected, the company said. Nor are data-center servers running Intel Server Platform Services.
+Intel Active Management Technology is a feature in Core processors that lets organizations remotely track, manage and secure whole fleets of connected computers.
+For example, it can be used to monitor and repair retail checkout systems, digital signage and PCs at places like stores, offices and schools.
+Intel didn’t provide technical details of the vulnerability, but it said a hacker could use the flaw to take over the remote management functions.
+In an email, Intel said it learned about the vulnerability from a security researcher in March. “We are not aware of any exploitation of this vulnerability,” the company said.
+Intel said it has prepared a patch and is working with manufacturers to roll it out to users as soon as possible.
+Intel’s security advisory also lays out steps users can take to find out if they’re affected. For example, PCs built with its vPro technology will have the vulnerable Intel Active Management feature.
+</text>

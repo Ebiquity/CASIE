@@ -1,0 +1,21 @@
+<title> Does your BMW need a security patch? </title>
+<source> https://nakedsecurity.sophos.com/2018/05/25/does-your-bmw-need-a-security-patch/ </source>
+<date> 2018_05_11 </date>
+<text>
+If you’re a BMW owner, prepare to patch! Chinese researchers have found 14 security vulnerabilities affecting many models.
+The ranges affected (some as far back as 2012) are the BMW i Series, X Series, 3 Series, 5 Series and 7 Series, with a total of seven rated serious enough to be assigned CVE numbers.
+The vulnerabilities are in in the Telematics Control Unit (TCU), the Central Gateway Module, and Head Unit, across a range of interfaces including via GSM, BMW Remote Service, BMW ConnectedDrive, Remote Diagnosis, NGTP, Bluetooth, and the USB/OBD-II interfaces.
+Some require local access (e.g. via USB) to exploit but six including the Bluetooth flaw were accessible remotely, making them the most serious.
+Should owners worry that the flaws could be exploited, endangering drivers and vehicles?
+On the basis of the technical description, that seems unlikely, although Keen Lab won’t release the full proof-of-concept code until 2019.
+Keen Lab described the effect of its hacking as allowing it to carry out: The execution of arbitrary, unauthorized diagnostic requests of BMW in-car systems remotely.
+To which BMW responded:
+    BMW Group has already implemented security measures, which are currently being rolled out via over-the-air configuration updates. Additional security enhancements for the affected infotainment systems are being developed and will be available as software updates for customers.
+In other words, some fixes have already been made, while others will be made between now and early 2019, potentially requiring a trip to a service centre.
+Full marks to BMW for promptly responding to the research but the press release issued in its wake reads like PR spin.
+To most outsiders, this is a case of Chinese white hats finding vulnerabilities in BMW’s in-car systems.
+To BMW, judging by the triumphant language of its press release, it’s as if this was the plan all along, right down to awarding Keen Lab the “first-ever BMW Group Digitalization and IT Research Award.”
+More likely, car makers are being caught out by the attention their in-car systems are getting from researchers, with Volkswagen Audi Group experiencing some of the same discomfort a couple of weeks ago at the hands of Dutch researchers. BMW has experienced this before too – three years ago it suffered an embarrassing security flaw in its car ConnectedDrive software door-locking systems.
+Let’s not feel too sorry for the car makers because it’s the owners who face the biggest adjustment to their expectations – software flaws and patching are no longer just for computers.
+</text>
+

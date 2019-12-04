@@ -1,0 +1,23 @@
+<title>Developers Again Blamed for Cloud Back-End Security Vulnerabilities -- ADTmag</title>
+<source> https://adtmag.com/articles/2017/06/05/cloud-security-report.aspx </source>
+<date> 2017_06_06 </date>
+<text>
+Developers are once again being blamed for cloud back-end security vulnerabilities, this time in a new report from Appthority.
+The company published investigation results that found nearly 43 TB of enterprise data was exposed on cloud back-ends, including personally identifiable information (PII). This comes just shortly after a similar report from a different security company.
+In the new "2017 Q2 Enterprise Mobile Threat Report" report (free upon providing registration info), Appthority found "data leakage" from mobile apps that send data to unsecured cloud back-ends. While security concerns typically focus on a triad of other factors -- apps, device threats and network threats -- this data leakage on the back-end was dubbed the "HospitalGown" threat because of that garment's open back-end. 
+"In total, we found almost 43 TB of data exposed and 1,000 apps affected by the HospitalGown vulnerability," Appthority said in a blog post last week. "Looking at a subset of 39 apps, we still found 280 million records exposed, a total of about 163 GB of data. This is a staggering amount of leaked information, and in some cases represents the entirety of customer or operational data for an enterprise."
+The report echoes the findings of an earlier report by RedLock Inc., which revealed many security issues primarily caused by user misconfigurations on public cloud platforms. RedLock claimed it found 82 percent of hosted databases remain unencrypted, among many other problems.
+As with the RedLock report, developers were blamed for the HospitalGown vulnerabilities. " HospitalGown is a vulnerability to data exposure caused, not by any code in the app, but by the app developers' failure to properly secure the back-end (hence its name) servers with which the app communicates and where sensitive data is stored," Appthority said. 
+Unsecured Elasticsearch servers and MongoDB databases were prime targets of a series of ransomware attacks earlier this year that generated widespread publicity in the security field. However, that publicity apparently wasn't enough to significantly alleviate the issue.
+"As our findings show, weakly secured back-ends in apps used by employees, partners and customers create a range of security risks including extensive data leaks of personally identifiable information (PII) and other sensitive data," the report states. "They also significantly increase the risk of spear phishing, brute force login, social engineering, data ransom, and other attacks. And, HospitalGown makes data access and exfiltration far easier than other types of attacks." 
+Key findings of the report as listed by the company include:
+    Affected apps are connecting to unsecured data stores on popular enterprise services, such as Elasticsearch and MySQL, which are leaking large amounts of sensitive data.
+    Apps using just one of these services revealed almost 43TB of exposed data.
+    Multiple affected apps leaked some form of PII, including passwords, location, travel and payment details, corporate profile data (including employees' VPN PINs, emails, phone numbers), and retail customer data.
+    Enterprise security teams do not have visibility into the risk due to the risk's location in the mobile app vendor's architecture stack.
+    In multiple cases, data has already been accessed by unauthorized individuals and ransomed.
+    Even apps that have been removed from devices and the app stores still pose an exposure risk due to the sensitive data that remains stored on unsecured servers.
+The company said its Mobile Threat Team identified the HospitalGown vulnerabilities with a combination of its dynamic app analysis tool and a new back-end scanning method, looking at the network traffic on more than 1 million enterprise mobile apps, both iOS and Android.
+As with the misconfiguration problems identified in the RedLock report, Appthority emphasized that all cases of HospitalGown vulnerabilities were caused by human errors, not malicious intent or inherent infrastructure problems.
+That human error was especially prevalent in two app implementations investigated by Appthority: Pulse Workspace (for accessing enterprise network and Web applications) and Jacto apps (from an agricultural machinery company). 
+</text>

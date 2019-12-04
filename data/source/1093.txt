@@ -1,0 +1,21 @@
+<title>How 13 apps attempted to steal 1.5M Instagram credentials: ESET</title>
+<source> http://techseen.com/2017/03/14/13-apps-steal-instagram-eset/ </source>
+<date> 2017_03_15 </date>
+<text>
+ESET discovered 13 mobile applications on the Google Play Store that were phishing for Instagram credentials and stealing them to a remote server 
+Global cybersecurity provider ESET, claims to have discovered 13 apps on Google Play Store that steal Instagram credentials.
+These apps, as stated by ESET, target Instagram users who are wanting to either manage or boost the number of followers.
+Under the detection name Android/Spy.Inazigram these 13 applications were phishing for Instagram credentials and stealing them to a remote server.
+ESET claims that these apps seem to have originated from Turkey, some apps used English localization to target Instagram users worldwide and have been installed by 1.5 million users.
+Post notification by the company the apps were removed from the Google Play Store.
+To lure users into downloading, the apps promised a rapid increase in the number of followers, likes and comments for an Instagram account.
+The credentials entered into the form were then sent to the attackers’ server in plain text.
+The compromised accounts were used to raise follower counts of other users.
+ESET believes that apart from an opportunity to use compromised accounts for spreading spam and ads, there are various business models in which the most valuable assets are followers, likes and comments.
+All the applications employed the same technique of harvesting Instagram credentials and sending them to a remote server.
+Interestingly, the Instagram account might appear to have increased following and follower numbers, but the user would be getting replies to comments which have never posted.
+If the attackers were successful and the user did not recognize the threat upon seeing Instagram’s notification, the stolen credentials could be put to further use.
+The company suggests that users should uninstall the apps from the application manager or use a reliable mobile security solution to remove the threats.
+Change the Instagram password and if the password is same for other platforms it should be changed as well, as malware authors are known to access other web services using the stolen credentials.
+When downloading third party applications from Google Play Store, ESET states that users should not use sensitive information and check if the apps can be trusted by checking the popularity of the developer through the number of installs, content of its reviews and ratings.
+</text>

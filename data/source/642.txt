@@ -1,0 +1,21 @@
+<title>IoT Smart Dust – The Next Internet of Zombies (Learn More - Video) - American Security Today</title>
+<source> https://americansecuritytoday.com/iot-smart-dust-next-internet-zombies-learn-video/ </source>
+<date> 2017_02_15 </date>
+<text>
+The Internet of Things (IoT) is placing an unprecedented number of unsecured devices on the Internet every day that are being leveraged by hackers to steal data and to launch Denial of Service Attacks (DDoS).
+These devices are coming in the form of thermostats, refrigerators, pet feeders, cameras, healthcare devices, and more.
+Gartner estimates that by 2020, 50 Billion connected “things” will be on the internet.
+Pushing the escalation of DDoS attacks is the release of the Mirai code which has opened the door for hackers to create their own code to access the vast varieties of IoT devices to be leveraged as bots designed to launch massive DDoS attacks.
+This trend is gaining momentum in the threat landscape as hackers experiment with the Mirai code to boost the impact of their DDoS attacks as evidenced by the recent discovery of a record-setting 12.2-day DDoS attack.
+What comes next is an exponential windfall for hackers with the introduction of Smart Dust.
+Smart Dust is the term used to describe very small chips containing a system of tiny microelectromechanical systems (MEMS) such as sensors, robots, or other devices that can, for example, gather and send sensory data such as temperature, vibration, GPS coordinates and more to an internet host where the data can be stored and analyzed.
+These chips are microscopic, can be airborne and will be able to run for years without external power.
+Professor Julie McCann takes her inspiration from nature for writing algorithms that allow distributed wireless networks to become self-organizing, adaptive and intelligent.
+Smart Dust will be manufactured inexpensively, making it possible to integrate into a variety of products including food or merchandise packaging as a means of tracking.
+Smart Dust embedded into a variety of disposable products will eventually end up in a landfill still connected and capable of communicating to the internet via 6LoWPAN.
+With the longevity associated with these MEMs and the ability to run without external power, hackers will have unprecedented opportunity to access these unsecured MEMs that can be used to create massively distributed botnets.
+Without a definitive end-of-life process, these objects could stay connected to the Internet for years.
+In this talk, Jordan Duffy, a serial entrepreneur and technology innovation expert, explores how the internet of things is changing our lives in ways we don’t even recognize.
+Ownership and responsibility guidelines need to be hammered out to govern these next generation sensors.
+The significant ramifications of not decommissioning Smart Dust properly has the potential to result in an Internet of Zombies.
+</text>

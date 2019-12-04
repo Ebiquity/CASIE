@@ -1,0 +1,22 @@
+<title>MongoDB Databases being Targeted by Cyber-criminals for Ransom</title>
+<source> https://www.hackread.com/mongodb-databases-for-ransom/ </source>
+<date> 2017_01_05 </date>
+<text>
+Organizations use them regardless of their size; from MetLife, LinkedIn, City of Chicago, Expedia, BuzzFeed to KMPG and The Guardian there are several other high-profile platforms that are currently taking advantage of MongoDB.
+At the same time, having a high-profile customer doesn’t mean that platform is completely secure.
+That’s why in 2016, in two different incidents, hackers leaked more than 36 million and 58 million accounts respectively from unsecured MongoDB.
+More: LG Smart TV Screen Bricked After Android Ransomware Infection
+Now, unsecured MongoDB databases are being hijacked by a hacker, who is not only wiping out these databases but also storing copies of them and asking for a ransom of 0.2 bitcoins (roughly US$ 211) from admins in exchange of the lost data.
+Those admins who haven’t created backups of these databases are seriously helpless because the rate of Bitcoin is also increasing and the latest rate is 1 Bitcoin = USD1063.93.
+The hacking campaign was discovered by security researcher Victor Gevers, co-founder of GDI Foundation, a non-profit organization.
+Gevers notified owners about the presence of vulnerable, non-password-protected MongoDB databases and also informed that around 200 of these installations have been wiped out by the hacker.
+Gevers believes that the hacker(s) might be utilizing an automation tool but they manually select their target databases.
+Hacker seems to be interested in databases that contain important information/data or he chooses companies that are most likely in a position to pay the ransom to get their data back.
+In a conversation with SecurityWeek, Gevers said that “They use some sort of automation tool, but they also do some of the work manually.
+If they used a fully automated tool, we might have seen all exposed MongoDB databases being hijacked in one swift move”.
+But that was old news; as per recent tweet by Shodan founder John Matherly, approx.
+It must be noted that Shodan is the platform where a majority of MongoDB instances can be located.
+As of now, 16 admins/organizations have already paid the ransom to obtain the lost data.
+The attacks on MongoDB databases have been going on for more than a week and servers from across the globe have been targeted.
+Researchers believe that the attacker, who uses the alias “harak1r1” does not encrypt the stolen data but runs a script, which replaces the database content with the ransom note.
+</text>

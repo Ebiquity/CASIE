@@ -1,0 +1,22 @@
+<title>Attackers start wiping data from CouchDB and Hadoop databases | CSO Online</title>
+<source> http://www.csoonline.com/article/3159534/security/attackers-start-wiping-data-from-couchdb-and-hadoop-databases.html </source>
+<date> 2017_01_20 </date>
+<text>
+Researchers are now observing similar destructive attacks hitting openly accessible Hadoop and CouchDB deployments.
+Security researchers Victor Gevers and Niall Merrigan, who monitored the MongoDB and Elasticsearch attacks so far, have also started keeping track of the new Hadoop and CouchDB victims.
+The two have put together spreadsheets on Google Docs where they document the different attack signatures and messages left behind after data gets wiped from databases.
+In the case of Hadoop, a framework used for distributed storage and processing of large data sets, the attacks observed so far can be described as vandalism.
+That's because the attackers don't ask for payments to be made in exchange for returning the deleted data.
+Instead, their message instructs the Hadoop administrators to secure their deployments in the future.
+According to Merrigan's latest count, 126 Hadoop instances have been wiped so far.
+The number of victims is likely to increase because there are thousands of Hadoop deployments accessible from the internet -- although it's hard to say how many are vulnerable.
+The attacks against MongoDB and Elasticsearch followed a similar pattern.
+The number of MongoDB victims jumped from hundreds to thousands in a matter of hours and to tens of thousands within a week.
+The latest count puts the number of wiped MongoDB databases at more than 34,000 and that of deleted Elasticsearch clusters at more than 4,600.
+A group called Kraken0, responsible for most of the ransomware attacks against databases, is trying to sell its attack toolkit and a list of vulnerable MongoDB and Elasticsearch installations for the equivalent of US$500 in bitcoins.
+The number of wiped CouchDB databases is also growing rapidly, reaching more than 400 so far.
+CouchDB is a NoSQL-style database platform similar to MongoDB.
+Unlike the Hadoop vandalism, the CouchDB attacks are accompanied by ransom messages, with attackers asking for 0.1 bitcoins (around $100) to return the data.
+Victims are advised against paying because, in many of the MongoDB attacks, there was no evidence that attackers had actually copied the data before deleting it.
+Researchers from Fidelis Cybersecurity have also observed the Hadoop attacks and have published a blog post with more details and recommendations on securing such deployments.
+</text>

@@ -1,0 +1,18 @@
+<title> Oracle Fixes 301 Flaws in October Critical Patch Update </title>
+<source> https://threatpost.com/oracle-fixes-301-flaws-in-october-critical-patch-update/138407// </source>
+<date> 2018_05_11 </date>
+<text>
+Oracle has released a critical patch update addressing more than 300 vulnerabilities across several of its products – including one flaw with a CVSS 3.0 score of 10 that could allow the takeover of the company’s software package, Oracle GoldenGate.
+Of the 301 security flaws that were fixed in this month’s Oracle patch, 45 had a severity rating of 9.8 on the CVSS scale.
+“Due to the threat posed by a successful attack, Oracle strongly recommends that customers apply Critical Patch Update fixes as soon as possible,” the company said in its Tuesday advisory.
+The highest-severity flaw (CVE-2018-2913) lies in the Monitoring Manager component of Oracle GoldenGate, which is the company’s comprehensive software package that allows data to be replicated in heterogeneous data environments.
+According to the National Vulnerability Database, the glitch is an easily exploitable vulnerability that allows unauthenticated attacker with network access via the TCP protocol to compromise Oracle GoldenGate.
+The flaw was discovered by Jacob Baines, a researcher with Tenable.
+“CVE-2018-2913 is a stack buffer overflow in GoldenGate Manager,” Baines told Threatpost. “The Manager listens on port 7809 where it accepts GoldenGate Software Command Interface (GGSCI) commands. Tenable found that a remote unauthenticated attacker can trigger a stack buffer overflow by sending a GGSCI command that is longer than expected.”
+The attack is not complex and a bad actor could be remote and unauthenticated. Making matters worse, an attacker could compromise other products after initially attacking GoldenGate, the advisory warned.
+“While the vulnerability is in Oracle GoldenGate, attacks may significantly impact additional products,” the note said. “Successful attacks of this vulnerability can result in takeover of Oracle GoldenGate.”
+The flaw impacts versions 12.1.2.1.0, 12.2.0.2.0, and 12.3.0.1.0 in Oracle GoldenGate. Currently no working exploits for the flaw have been discovered in the wild, according to the release. It should be noted that For Linux and Windows platforms, the flaw’s CVSS score is 9.0 because the access complexity is lower (only rated high, not critical); while for all other platforms, the CVSS score is a critical 10.
+Two other flaws were also discovered in Oracle GoldenGate (CVE-2018-2912 and CVE-2018-2914), with ratings of 7.5 on the CVSS scale; those vulnerabilities weren’t nearly as severe.
+“All of these vulnerabilities may be remotely exploitable without authentication, i.e., may be exploited over a network without requiring user credentials.”
+</text>
+

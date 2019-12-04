@@ -1,0 +1,23 @@
+<title> USPS finally fixes website flaw that exposed 60 million users' data </title>
+<source> https://www.zdnet.com/article/usps-finally-fixes-website-flaw-that-exposed-60-million-users-data/ </source>
+<date> 2018_11_22 </date>
+<text>
+US Postal Service website flaw was patched this week but reported by a security researcher a year ago.
+The US Postal Service has fixed a security bug in its website that allowed anyone with an account to see the account details of the site's 60 million users.
+The flaw was patched this week after USPS was informed of the issue by Krebs on Security, which reports that an unnamed independent researcher reported the bug a year ago but never received a response.
+According to Krebs, the flaw was caused by an authentication weakness in the application programming interface (API) on usps.com that supported the USPS 'Informed Visibility' program, which offers business customers "near real-time tracking data" about mail campaigns and packages. 
+The bug let anyone who was logged in to usps.com to see account details for others users, including email address, username, user ID, account number, street address, phone number, authorized users, mailing campaign data and more.
+Krebs notes that the "API also let any user request account changes for any other user, such as email address, phone number or other key details".
+USPS said in a statement it had no information that the vulnerability had been used to access customer records.
+"Computer networks are constantly under attack from criminals who try to exploit vulnerabilities to illegally obtain information. Similar to other companies, the Postal Service's Information Security program and the Inspection Service uses industry best practices to constantly monitor our network for suspicious activity," USPS said.
+"Any information suggesting criminals have tried to exploit potential vulnerabilities in our network is taken very seriously. Out of an abundance of caution, the Postal Service is further investigating to ensure that anyone who may have sought to access our systems inappropriately is pursued to the fullest extent of the law." 
+However, a recent vulnerability assessment of the Informed Visibility program by the Office of Inspector General of the US Postal Service turned up weaknesses, including a lack of audit logs, in the Informed Visibility database.
+The partially redacted audit report, published in October, assessed 13 Informed Visibility (IV) servers.
+It found overall compliance with Postal Service server configuration baselines, but weakness in the IV database's account-management systems.
+"We identified weaknesses in account management controls, specifically with password complexity, disabling user accounts, and maintaining audit logs," the OIG report notes.
+"Without account management controls, the IV system is at risk for [redacted]. Further, if expired accounts are not disabled in a timely manner, this increases the duration that Postal Service information resources are vulnerable to compromise.
+"Additionally, without audit logs, the Postal Service would not be able to obtain sufficient detail to reconstruct activities in the event of a compromise or malfunction".
+USPS has faced scrutiny in the past, after a 2014 hack exposed personal information on 800,000 employees, 485,000 workers' compensation records, and 2.9 million customer-inquiry records.
+The OIG in 2015 criticized the USPS for focusing on compliance and failing to foster a "culture of effective cybersecurity across the enterprise".  
+</text>
+

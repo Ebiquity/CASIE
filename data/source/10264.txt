@@ -1,0 +1,19 @@
+<title> Virgin Media patches router modem backdoor flaws  </title>
+<source> https://portswigger.net/daily-swig/virgin-media-patches-router-modem-backdoor-flaws </source>
+<date> 2018_12_14 </date>
+<text>
+Virgin Media has – perhaps rather belatedly – fixed a series of vulnerabilities in its Super Hub 3.0 home broadband router modem, after they were reported more than 18 months ago.
+Balazs Bucsay, managing security consultant at NCC Group, says that after receiving one of the devices as a home customer and examining it for a few hours, he was quickly able to find a remote command execution bug. He uncovered many others during the following days.
+Eventually, he says, he was able to create a full chain of exploits that made it possible to perform a remote authentication as an administrator on the router.
+This could potentially allow a hacker to take control of millions of these devices, installing backdoors in a way that would be extremely hard to find and investigate.
+“After hacking into my own Super Hub 3.0, I was able to find multiple security flaws within the router’s firmware and combine these to create an exploit that could have been hidden within webpages and sent to other unsuspecting owners via scam emails or other methods,” Bucsay tells The Daily Swig.
+“If customers had opened the webpages and activated the exploit, hackers could have gained unauthorized access to their modems and other devices on the victim’s home network, enabling them to spy on online activity and even execute their own commands on the devices.”
+Bucsay reported the vulnerabilities to Virgin Media in March 2017, but says they weren't fixed until the end of July this year. “The proposed roll-out date was postponed many times,” he says.
+However, a Virgin Media spokeswoman defended the company’s actions.
+“The online security of our customers is a top priority for Virgin Media and the issues described by NCC have been fixed,” she told The Daily Swig.
+“We have seen no evidence that these advanced technical exploits, carried out by NCC as a proof of concept, were used maliciously to impact customers.”
+With the patch rolled out in August, Super Hub 3.0 users don’t need to do anything extra to protect themselves.
+“However, this research should remind consumers that no connected device is inherently secure, and that they should consider additional security measures around their home network, such as using password managers and different passwords for each device and service,” Bucsay warns.
+He also urged internet service providers to be more proactive in checking the security of any third-party devices they use.
+</text>
+

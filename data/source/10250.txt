@@ -1,0 +1,17 @@
+<title> U.S. hospitals have been hit by the global ransomware attack  </title>
+<source> https://www.recode.net/2017/6/27/15881666/global-eu-cyber-attack-us-hackers-nsa-hospitals </source>
+<date> 2018_06_27 </date>
+<text>
+The ransomware is linked to a leaked vulnerability originally kept by the National Security Agency.
+Major corporations across the world have been hit by a wave of ransomware attacks that encrypt computers and then demand that users pay $300 to a bitcoin address to restore access.
+While countries across Europe — the United Kingdom, Ukraine, Spain and France, to name a few — were hit hardest by the outbreak, the virus has now spread to the United States.
+Today, one of the largest drug makers in the U.S., Merck, reported being infected by the malware, as did the multinational law firm DLA Piper, which counts more than 20 offices in the U.S.
+Heritage Valley Health Systems, a health care network that runs two hospitals in Western Pennsylvania, also confirmed in a statement to Recode on Tuesday that it was a victim of the same ransomware attack that has spread around the globe.
+At least one surgery had to be postponed because of the hack, according to a woman interviewed by Pittsburgh Action News 4.
+The malware, which has been dubbed NotPetya, has been confirmed by multiple security firms to resemble the WannaCry ransomware attack, which in May infected hundreds of thousands of computers by taking advantage of a National Security Agency hacking tool called Eternal Blue. 
+That exploit was leaked last April by a hacker or group of hackers called ShadowBrokers. Eternal Blue takes advantage of a vulnerability in the Windows operating system, for which Microsoft issued a patch earlier this year. Not all Windows users installed the update — hence one of the reasons WannaCry was able to spread.
+“Our initial analysis found that the ransomware uses multiple techniques to spread, including one which was addressed by a security update previously provided for all platforms from Windows XP to Windows 10,” Microsoft said in a statement to Recode.
+Microsoft further advised users to exercise caution when opening files in emails from unknown sources, since malware is often spread through email attachments. Microsoft also noted that its antivirus software is capable of detecting and removing the ransomware.
+Ukraine appears to have been the country most affected by today’s ransomware outbreak, according to a chart shared in a tweet by Costin Raiu, the director of a global research team with Kaspersky Lab. 
+</text>
+

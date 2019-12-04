@@ -1,0 +1,18 @@
+<title> Intercontinental Hotels Suffer Major Card Breach </title>
+<source> https://www.infosecurity-magazine.com/news/intercontinental-hotels-suffer/ </source>
+<date> 2017_04_18 </date>
+<text>
+The Intercontinental Hotels Group (IHG) has been forced to reveal yet another major data breach of customer card details over the latter part of 2016.
+In a lengthy missive on Friday, the group explained that an unspecified number of IHG hotels run as franchises were affected between September 29 and December 29 last year.
+It added:
+“Although there is no evidence of unauthorized access to payment card data after December 29 2016, confirmation that the malware was eradicated did not occur until the properties were investigated in February and March 2017…
+"The malware searched for track data (which sometimes has cardholder name in addition to card number, expiration date, and internal verification code) read from the magnetic stripe of a payment card as it was being routed through the affected hotel server. There is no indication that other guest information was affected.”
+IHG-branded hotels which had implemented the firm’s Secure Payment Solution (SPS) – a point-to-point encryption (P2PE) payment acceptance product – are said to have been protected from the malware’s attempts to find card data.
+Although the hotel group didn’t explicitly mention how many outlets and/or customers may have been affected, a list of hotels impacted by the breach reveals a huge number across the US and Puerto Rico.
+Ilia Kolochenko, CEO of High-Tech Bridge, argued that the hotel industry remains relatively poorly secured.
+“I frequently face well-known hotel brands asking to send a passport and two-sides of a credit card by email, or having their reception laptops connected to free Wi-Fis for guests,” he explained.
+“Such carelessness and negligence will unavoidably lead to huge data breaches, the majority of which will not be ever detected due to lack of technical skills and resources. Strict regulation, besides PCI DSS and the approaching GDPR, is certainly required to make hotel business safe.”
+Hyatt, Marriott, Starwood and Intercontinental hotels were hit with point-of-sale malware revealed in August last year.
+Like the current IHG breach, it was the firms’ card providers that alerted them, revealing a worrying lack of internal threat detection capabilities.
+</text>
+

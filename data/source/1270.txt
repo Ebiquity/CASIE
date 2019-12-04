@@ -1,0 +1,18 @@
+<title>Apple: Hackers Threaten to Wipe Millions of iPhones | Fortune</title>
+<source> http://fortune.com/2017/03/22/apple-iphone-hacker-ransom/ </source>
+<date> 2017_03_24 </date>
+<text>
+Apple is reassuring customers that its systems have not been breached while a hacker, or hackers, threaten to remotely wipe hundreds of millions iPhones of all their data, including photos, videos, and messages.
+The hackers are using an alleged cache of stolen email accounts and passwords as leverage in an attempt to extort the world’s most valuable company.
+They claim to have access to as many as 559 million Apple email and iCloud accounts, Vice blog Motherboard reported on Tuesday.
+The group, calling itself “Turkish Crime Family,” said it would delete its alleged list of compromised login credentials only after Apple pays it $75,000 in cryptocurrency, either Bitcoin or rival Ether, or $100,000 worth of iTunes gift cards, Motherboard reported.
+The group has given Apple (aapl) a deadline of April 7 to meet its demands.
+Though Apple has not officially confirmed the authenticity of the data that the hackers say they have, an Apple spokesperson told Fortune in an emailed statement that, if the list is legitimate, it was not obtained through any hack of Apple.
+“There have not been any breaches in any of Apple’s systems including iCloud and Apple ID,” the spokesperson said.
+“The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services”.
+A person familiar with the contents of the alleged data set said that many of the email accounts and passwords contained within it matched data leaked in a past breach at LinkedIn.
+The company representative declined to elaborate on what steps Apple had taken to monitor the situation.
+The spokesperson merely noted that such measures, whatever they may be, are “standard procedure”.
+Apple customers who secure their iCloud accounts with the same passwords they use on other online accounts—especially ones at LinkedIn, Yahoo (yhoo), Dropbox, and other sites recently revealed to have suffered big breaches over the past few years—should adopt new passwords that are long, strong, and unique.
+Many security experts also recommend storing them in a password manager, and activating two-factor authentication, an additional layer of security, where available.
+</text>

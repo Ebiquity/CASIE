@@ -1,0 +1,17 @@
+<title>How Hackers Could Have Pwned You With a Nasty Steam Bug - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/how-hackers-could-have-pwned-you-with-a-nasty-steam-bug </source>
+<date> 2017_02_08 </date>
+<text>
+The bug could've likely been exploited to make a self-spreading worm too, according to hackers and security researchers.
+Steam's operator Valve announced that it fixed the bug earlier today, but with over 125 million monthly active users on its platform, the exploit could have wreaked havoc for thousands of people, and for the company itself.
+"Anyone who views a specially crafted profile gets popped," a white hat hacker who has found several bugs in Steam in the past, and asked to remain anonymous, told me in a Twitter DM.
+Several users and security researchers noticed this week that it was possible to put malicious javascript code inside a Steam user's profile page, and the code will execute whenever someone visits that profile page, without any need for the victim to click anywhere.
+This type of bug is known as a cross-site scripting vulnerability, or XSS, a problem that's plagued Steam for years.
+"Phishing scams and virus downloads are possible at the very least, but if account take overs are possible, that's about as bad as XSS gets," Jeremiah Grossman, a web security expert, said in a chat.
+A Valve spokesperson said the bug was fixed on Tuesday at noon, but there's no telling how long the door was open for hackers to exploit it.
+(The spokesperson did not immediately respond to a request for comment.)
+The bug was so bad that the moderators of the Steam subreddit told users to refrain from visiting other user's profiles.
+"Do NOT click suspicious (real) steam profile links and Disable JavaScript on Browser," a moderator wrote in the warning post.
+Grossman and Jake Davis, a former LulzSec hacker, confirmed that the bug existed as of Tuesday morning and analyzed the potential attacks that bad guys could do if they were to exploit it.
+"If something like this were to be found on Google or Facebook, it would be a high-severity issue," said Grossman, who's the Chief of Security Strategy at security firm ‎SentinelOne.
+</text>

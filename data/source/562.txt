@@ -1,0 +1,20 @@
+<title>David Beckham calls in police over hacked emails – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/02/07/david-beckham-calls-in-police-over-hacked-emails/ </source>
+<date> 2017_02_08 </date>
+<text>
+What does David Beckham have in common with Sony and the Democratic National Committee?
+Hacked emails that are apparently reputation-shredding – plus enough media attention paid to the details of the leaked content to overshadow the actual crime.
+The Daily Mail reports that police in Portugal have launched an investigation into an attack on the servers at Beckham’s PR firm, Doyen Global, which is run by his friend Simon Oliveira.
+The police have reportedly been investigating the attack for the past 12 months.
+According to the Telegraph, the hackers had allegedly demanded €1m ($1.07m)  in exchange for destroying a dossier of some 18.6m emails and documents, which the ever-colorful British press have dubbed “Beckileaks”.
+A source told the Telegraph that the blackmailer(s) first made the pitch by email, using the fake name of Artem Lovuzov.
+“Lovuzov” allegedly told Doyen Sports chief executive Neilo Lucas that paying the money would ensure that no embarrassing messages were given to the press:
+A generous donation, and you can be sure that all the information I possess will be destroyed.
+The Beckham team didn’t respond, so the blackmailer set a deadline:
+I’m giving you until 16.00 on Tuesday to contact my lawyer with a view to a proper resolution to this impasse.
+Beckham and his team didn’t want to play the game.
+The hacker(s) didn’t stop at Team Beckham, though: they’ve reportedly targeted a number of businesses connected to the football world.
+It was then published by sites including Der Spiegel, L’Equipe and El Mundo.
+Former UK football star Beckham – a mega-celebrity who’s gone on to use his considerable clout to raise big sums of money for Unicef – has been faced with the publication of expletive-laced emails that make it look like he’s used the charity as a front to buff up his chances of knighthood.
+A spokesman for Beckham told the BBC that the alleged emails were “hacked”, “doctored” and “private” from a third-party server.
+</text>

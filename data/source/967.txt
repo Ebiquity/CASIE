@@ -1,0 +1,33 @@
+<title>WikiLeaks Publishes Biggest Leak of Secret CIA Documents | SIGNAL Magazine</title>
+<source> http://www.afcea.org/content/?q=Article-wikileaks-publishes-files-it-says-are-biggest-leak-secret-cia-documents </source>
+<date> 2017_03_09 </date>
+<text>
+WikiLeaks is posting thousands of files Tuesday the organization says detail the CIA’s efforts to surveil overseas targets by tapping otherwise ordinary devices that are connected to the Internet.
+The anti-secrecy group launched a “new series of leaks,” this time taking aim at the CIA’s Center for Cyber Intelligence, which falls under the agency’s Digital Innovation Directorate.
+The group maintains the CIA’s center lost control of its hacking arsenal, including malware, viruses, trojans, weaponized "zero day" exploits, malware remote control systems and associated documentation, and is posting what it calls the "largest-ever publication of confidential documents on the agency."
+The dump comprises 8,761 documents and files from a network of the Center for Cyber Intelligence.
+A CIA spokeswoman declined to comment specifically.
+“We do not comment on the authenticity or content of purported intelligence documents,” says Heather Fritz Horniak.
+The authenticity of the posted documents in links from the WikiLeaks site could not be independently verified.
+Last year, WikiLeaks disseminated internal email communications following a hack—purportedly aided by the Russian government—of the Democratic National Committee and the Hillary Clinton campaign.
+The group says the Center for Cyber Intelligence's archive was circulated in an "unauthorized manner" among former U.S. government hackers and contractors, one of whom provided WikiLeaks with portions of the archive.
+“This extraordinary collection, which amounts to more than several hundred million lines of code, gives its possessor the entire hacking capacity of the CIA,” WikiLeaks states.
+“Once a single cyber 'weapon' is 'loose' it can spread around the world in seconds, to be used by rival states, cyber mafia and teenage hackers alike”.
+The violation highlights critical shortcomings in personnel practices, the realities of insider threats and the lack of adequate controls, even within the intelligence community.
+"It’s too easy for data to be stolen, even—allegedly—within the CIA’s Center for Cyber Intelligence," says Brian Vecci, technical evangelist at Varonis, a software company focused on data protection against insider threats, data breaches and ransomware attacks "The entire concept of a spook is to be covert and undetectable; apparently that also applies to actions on their own network.
+The CIA is not immune to issues affecting many organizations: too much access with too little oversight and detective controls."
+A Forrester study noted that more 90 percent of data security professionals experience challenges with data security, and 59 percent of organizations do not restrict access to files on a need-to know-basis, Vecci points out.
+"In performing forensics on the actual breach, the important examination is to determine how 8,761 files just walked out of one of the most secretive and confidential organizations in the world," he continues.
+"Files that were once useful in their operations are suddenly lethal to those same operations.
+We call this toxic data, anything that is useful and valuable to an organization but once stolen and made public turns toxic to its bottom line and reputation.
+All you have to do is look at Sony, Mossack Fonseca and the DNC to see the effects of this toxic data conversion.
+"Organizations need to get a grip on where their information assets are, who is using them, and who is responsible for them," Vecci concludes.
+They need to put all that data lying around in the right place, restrict access to it and monitor and analyze who is using it."
+Tuesday’s document dump mirrors the one WikiLeaks carried out when it exposed cyber toolkits used by the National Security Agency, and frankly, is not that surprising of revelation at all, offers Richard Forno, assistant director at the University of Maryland, Baltimore County Center for Cybersecurity and director of the Cybersecurity Graduate Program.
+“The big takeaway is that it shows the CIA is just as capable of operating in the cyberspace as the NSA,” Forno says.
+The CIA’s cyber focus reinforces the idea that security in this domain is just as important as others for national security and solidifies the U.S. government’s commitment in the area, Forno offers.
+WikiLeaks contends that the CIA and its contractors developed malware and hacking tools for targeted surveillance efforts, tapping otherwise ordinary devices such as cellphones, computers, televisions and automobiles to spy on targets.
+Some cases involved CIA collaboration with the United Kingdom’s intelligence MI5/BTSS, WikiLeaks states.
+It maintains the CIA’s Mobile Devices Branch developed malware to penetrate cellphone securities and could be tapped to send CIA users’ geolocation information, audio and text files and covertly activate the phones’ cameras and microphones.
+“These techniques permit the CIA to bypass the encryption of WhatsApp, Signal, Telegram, Wiebo, Confide and Cloackman by hacking the ‘smart’ phones that they run on and collecting audio and message traffic before encryption is applied,” the group states.
+</text>

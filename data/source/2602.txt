@@ -1,0 +1,15 @@
+<title>Hackers blackmail patients of cosmetic surgery clinic - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/05/31/plastic-surgery-hack-blackmail/ </source>
+<date> 2017_05_31 </date>
+<text>
+Hackers have been trying to blackmail patients of a Lithuanian plastic surgery clinic, by threatening to publish their nude “before and after” photos online.
+The photos were stolen earlier this year, along with other sensitive data – passport scans, national insurance numbers, etc – from the servers of Grozio Chirurgija, which has clinics in Vilnius and Kaunas.
+According to The Guardian, the stolen data was first offered for sale in March. At that time, the hackers, who call themselves “Tsar Team,” released a small portion of the database to prove the veracity of their claims and to entice buyers.
+They asked for 300 bitcoin for the entire lot, and at the same time contacted some of the affected patients directly, offering to delete the sensitive data for a sum that varied between €50 and €2,000 (in bitcoin).
+Apparently, among the patients of the clinic were also celebrities, both Lithuanian and not, and individuals from various European countries, including 1,500 from the UK.
+It is unknown if any of them paid the ransom, but the clinic did not try to buy back the stolen data. Instead, they called in the Lithuanian police, CERT and other authorities to help them prevent the spread of the data online, and to find the culprits.
+They’ve also asked the affected patients to notify the police if they got a ransom request from the hackers; to notify news portals, forums or social networking sites of any links to the stolen data that may have been published in the comments on their sites and ask them to remove them; and do the same if they find a link through Google Search.
+In the meantime, the hackers decided to leak online over 25,000 of the private photos they have stolen, more than likely in an attempt to force the affected patients’ hand and get at least some money.
+It’s interesting to note that the name of the hacker group – Tsar Team – is also a name that has been associate with the Pawn Storm attackers (aka APT28, aka Sofacy), a Russian cyberespionage group that has targeted a wide variety of high-profile targets, including the NATO, European governments, the White House, and so on.
+It is unclear, though, if this is the same group. Given that it is a very unusual target for APT28, it’s possible that these attackers have simply used the name to add weight to their demands.
+</text>

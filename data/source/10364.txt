@@ -1,0 +1,26 @@
+<title> Schools promised better protection from ransomware as Taranaki school falls victim   </title>
+<source> https://www.stuff.co.nz/business/105950814/schools-promised-better-protection-from-ransomware-as-taranaki-school-blackmailed </source>
+<date> 2018_08_02 </date>
+<text>
+Files that were scrambled in a ransomware attack on Hāwera High School in Taranaki included school assessments that students had only partly completed as well as backups, principal Rachel Williams has confirmed.
+More help is on the way for schools battling ransomware and other malware, but it has come a little late for the school which is being held to ransom for US$5000 by hackers.
+N4L, the Crown-owned company that manages the provision of broadband to schools, said it would improve online security as part of a wider upgrade of its managed network that is due to be completed by October next year.
+The 2450 schools and 800,000 students on the network will get a new security solution supplied by Californian company Fortinet which would provide "more robust protection against online threats, such as phishing and ransomware", it said in a statement issued on Monday.
+Ironically, that was the same day that staff at Hāwera High School switched on their computers to discover the message demanding US$5000 (NZ$7352) in bitcoin for the return of encrypted data on a server containing students' work and teaching resources. 
+ Hāwera High School is connected to ultrafast broadband via N4L, but N4L chief executive Larrie Moore said the school had opted out of N4L's existing security solution and was instead using an alternative commercial offering.
+"We've been in touch with the school and their IT company to offer our support," he said.
+"Until we know how the school's network was compromised, we are unable to say whether the new Fortinet solution would have prevented it," he said.
+But Moore said there was no "silver bullet" for malware. Instead, technological protections needed to be used in combination with "continuous education around good digital citizenship", he said. 
+Williams said many of its students and teachers had backed up their files in the cloud and were not affected by the ransomware attack, but backups stored on servers at the school were also encrypted by the hackers.
+"We have been working today on getting a clearer audit of student and staff work and where we are at. Some students are really not affected at all because they have saved their work on their cloud-based system. 
+"If students were part-way through an assessment, some of those are the ones that are encrypted and we can't access those at the moment."
+The school was working with NZQA to make sure those students were not disadvantaged, she said.
+Others had backups of their work at home, she said. 
+Williams was not sure how the malware had arrived at the school, saying that was still being investigated.
+The Government is not believed to have any rules on whether state-funded organisations such as schools can pay ransoms, but in 2017 it issued advice against it and Williams said the school would follow police advice not to pay.
+While the incident had been annoying, "you see people's character come through and we've seen real resilience from our staff and students", Williams said.
+"It is not stopping us doing what we need to do." 
+N4L said its technology upgrade would be the first major refresh of its network since it began connecting schools with ultrafast broadband at the end of 2013.
+Its existing security system had blocked more than 118,000 viruses and malware threats so far during this school year, it said.
+</text>
+

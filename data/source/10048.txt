@@ -1,0 +1,14 @@
+<title> The post Splunk addressed several vulnerabilities in Enterprise and Light products appeared first on Security Affairs </title>
+<source> http://securityaffairs.co/wordpress/57630/cyber-crime/phishing-airline-consumers.html </source>
+<date> 2017_04_03 </date>
+<text>
+Splunk recently addressed several vulnerabilities in Enterprise and Light products, some of them have been rated “high severity.”
+Splunk Enterprise solution allows organizations to aggregate, search, analyze, and visualize data from various sources that are critical to business operations.
+The Splunk Light is a comprehensive solution for small IT environments that automates log analysis and integrate server and network monitoring.
+“To mitigate these issues, Splunk recommends upgrading to the latest release and applying as many of the Hardening Standards from the Securing Splunk documentation as are relevant to your environment. Splunk Enterprise and Splunk Light releases are cumulative, meaning that future releases will contain fixes to these vulnerabilities, new features and other bug fixes,” reads the advisory published by Splunk.
+The most severe issue fixed by the company is a high severity cross-site scripting (XSS) flaw in the Web interface, tracked as CVE-2018-7427, that received the CVSS score of 8.1.
+Another severe vulnerability is a DoS flaw tracked as CVE-2018-7432 that could be exploited using malicious HTTP requests sent to Splunkd that is the system process that handles indexing, searching and forwarding. This issue was tracked as “medium severity” by the company.
+The company also addressed a denial-of-service (DoS) vulnerability, tracked as CVE-2018-7429, that could be exploited by an attacker by sending a specially crafted HTTP request to Splunkd.
+The last flaw addressed by the vendor, tracked as CVE-2018-7431, is a path traversal issue that allows an authenticated attacker to download arbitrary files from the vendor Django app. The vulnerability has been rated “medium severity.”
+The vendor declared it has found no evidence that these vulnerabilities have been exploited in attacks in the wild.
+</text>

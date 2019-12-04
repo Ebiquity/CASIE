@@ -1,0 +1,14 @@
+<title> Git discloses and patches security vulnerability </title>
+<source> https://sdtimes.com/security/git-discloses-and-patches-security-vulnerability/ </source>
+<date> 2018_05_30 </date>
+<text>
+Git has disclosed a security vulnerability that allows for arbitrary code execution in malicious repositories, Microsoft reports.
+The vulnerability, CVE-2018-11235, was addressed and fixed in Git 2.17.1 and Git for Windows 2.17.1 (2), which were both released today. In addition, the Visual Studio Team Services (VSTS) team has blocked malicious repositories from being pushed to VSTS to ensure that Visual Studio cannot be used as a vector for transmitting malicious repositories to clients who have not yet patched their clients.
+The vulnerability is caused when repositories are cloned. When cloning a repository, Git checks out the parent repository into the working directory as it prepares to clone the submodule. Then, Git realizes that it does not need to perform the clone of submodule because the submodule’s repository already exists on the disk from when it was checked in to the parent, and then was written to the working directory when the parent repository was checked out.
+According to Microsoft, the problem lies in the fact that when Git repositories are cloned, there are important configuration details not obtained from the server, such as hooks, which are scripts that can be run at certain points in the Git workflow. 
+The configuration is not cloned from a remote server because that would lead to a vulnerability where remote servers could provide code that would be executed on the end user’s computer. Unfortunately, with the new vulnerability, that is exactly what happens, Microsoft explained.
+Because the submodule’s repository is checked in to a parent repository, it is not actually cloned. Therefore, the submodule repository can already have a hook configured. Additionally, if a user recursively cloned a malicious parent repository, it first checks out the parent, reads the submodule’s checked-in repository and prepares to write that submodule to the working directory, then it executes post-checkout hooks, Microsoft explained.
+In order to eliminate this vulnerability, submodule’s folder names are examined more closely by Git clients. Now, submodule folder names can no longer contain “..” as a path segment and they cannot be symbolic links. As a result, they now will have to be within the .git repository folder instead of in the actual repository’s working directory.
+According to Microsoft, Git now refuses to work with repositories that do not follow this newly specified configuration. Visual Studio Team Services and other hosting providers will also reject users from pushing repositories that do not adhere to this submodule configuration to protect clients that have not been patched yet. 
+</text>
+

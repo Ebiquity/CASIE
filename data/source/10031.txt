@@ -1,0 +1,25 @@
+<title>Alert: 33.7 Millions Records Released to Public Due to Leak of Massive Marketing Database</title>
+<source> https://www.infracore.net/blog/alert-33-7-millions-records-released-to-public-due-to-leak-of-massive-marketing-database </source>
+<date> 2017_04_03 </date>
+<text>
+In recent news, millions of records containing personal information were made available to the public in a sizable data leak, providing potential scammers with plenty of information to utilize in their schemes. These records were all part of a 53 GB database that was available for purchase from Dun & Bradstreet, a business service firm.
+The database contained information that could be of great use to hackers and marketers alike, as it outlined corporate data for businesses within the United States, providing professional details and contact information for members at every level of the businesses included.
+Dun & Bradstreet released a statement via email in an attempt to remove the firm from any responsibility. According to the firm, there was no evidence of a breach on their systems. The email also pointed out that the leaked data was sold to “thousands” of other companies, and that the leaked data seemed to be six months old. In essence, Dun & Bradstreet’s position was “not our fault.,” and that there was little cause for worry, as the list only contained “generally publicly available business contact data.”
+However, not everyone feels that the responsibility for this event can be passed off so easily, especially considering the nature of the data found on the database.
+Troy Hunt manages Have I Been Pwned, a data leak alert site that allows a user to reference one of their accounts to determine if their credentials have been compromised. He offered up his own take after reviewing the database for himself. Hunt’s analysis revealed that the organizations with the most records in the database were:
+    The United States Department Of Defense: 101,013
+    The United States Postal Service: 88,153
+    AT&T Inc.: 67,382
+    Wal-Mart Stores, Inc.: 55,421
+    CVS Health Corporation: 40,739
+    The Ohio State University: 38,705
+    Citigroup Inc.: 35,292
+    Wells Fargo Bank, National Association: 34,928
+    Kaiser Foundation Hospitals: 34,805
+    International Business Machines Corporation: 33,412
+If this list alarms you, you have the right idea. In his comments, Hunt brought up a few concerns that he had with the contents of the database out in public.
+First of all, this list is essentially a guidebook for someone running a phishing campaign. A resourceful scammer could easily use the information contained in this list (including names, titles, and contact information) to create a very convincing and effective campaign. Furthermore, the most common records in the leaked database were those of government officials and employees. Hunt went so far as to mention which personnel records could be found in the database for the Department of Defense: while “Soldier” was the most common, the list also included “Chemical Engineer” and “Intelligence Analyst” entries.
+In his response, Hunt asked a very important question: "How would the U.S. military feel about this data - complete with PII [personally identifiable information] and job title - being circulated?" With the very real threat of state-sponsored hacking and other international cyber threats in mind, Hunt brought up the value this list would have to a foreign power that isn’t fond of the U.S.
+Finally, Hunt cited the chances of this data being recovered to be at a firm “zero” percent.
+In short, despite the reassurances from Dun & Bradstreet, this database going public could present some very real dangers to any businesses included in it.
+</text>

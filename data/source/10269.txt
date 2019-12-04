@@ -1,0 +1,14 @@
+<title> Microsoft releases emergency security patch for Internet Explorer </title>
+<source> https://www.techradar.com/news/microsoft-releases-emergency-security-patch-for-internet-explorer </source>
+<date> 2018_12_20 </date>
+<text>
+Troubled browser has once again come under attack, with flaw discovered in multiple versions of Internet Explorer.
+Microsoft has been forced to issue an emergency security patch for its Internet Explorer browser.
+The release came after Google security engineer Clement Lecigne uncovered a critical vulnerability in several versions of Microsoft's browser, and could have been activated simply by directing users to a malicious website
+The flaw, known as CVE-2018-8653, affects Internet Explorer 9, 10 and 11, with the update issued to Windows 7, 8.1 and 10 versions, as well as Windows Server 2008, 2012, 2016 and 2019.
+"A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer," Microsoft stated in its support document for the threat. "The vulnerability could corrupt memory in such a way that an attacker could execute arbitrary code in the context of the current user."
+The company has issued a fix for the flaw now, outside of its typical Patch Tuesday security cycle, signifying it is a significant threat and should be patched immediately.
+Microsoft has gradually retired Internet Explorer from public view over the past few years as it focuses on its newer browser Edge, with only customised versions available to certain business users.
+The company may also be about to pull the plug on Edge as well, with report recently confirming Microsoft is set to introduce a new browser built on Google's Chromium platform.
+</text>
+

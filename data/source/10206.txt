@@ -1,0 +1,18 @@
+<title> Windows security: Microsoft issues fix for critical Docker tool flaw, so patch now </title>
+<source> https://www.zdnet.com/article/windows-security-microsoft-issues-fix-for-critical-docker-tool-flaw-so-patch-now/ </source>
+<date> 2018_05_03 </date>
+<text>
+ Microsoft has released a patch for a critical remote code execution flaw affecting a Windows service used for importing Docker container images.
+The vulnerability, tracked as CVE-201808115, is due to the Windows Host Compute Service Shim (hcsshim) library not properly validating input from container images while importing them.
+A remote attacker could execute malware on a Windows host using a malicious Docker container image if they managed to trick an authenticated administrator to import it in Docker for Windows, which uses the hcsshim library.
+"An attacker who successfully exploited the vulnerability could execute arbitrary code on the host operating system," Microsoft notes in its advisory.
+The vulnerability hasn't been publicly disclosed.
+ Anyone using Docker for Windows can resolve the issue today by installing version 0.6.10 of hcsshim. The patch is available from Microsoft's security advisory or from Microsoft's GitHub page.
+Hcsshim, which is written in Go, is an open-source wrapper that Microsoft developed for use with its Host Compute Service, a container management API in Windows Hyper-V virtualization for Docker.
+The HCS abstraction layer is Microsoft's way of allowing Docker containers to use Linux kernel features on Windows, such as Linux Namespaces and Control Groups.
+Hanselmann explains that the flaw stems from hccshim's use of a function from Go and the failure to sanitize input from an imported container image.
+"Its use of Go's filepath.Join function with unsanitized input [made it possible] to create, remove and replace files in the host file system, leading to remote code execution," he noted.
+"Importing a Docker container image or pulling one from a remote registry isn't commonly expected to make modifications to the host file system outside the Docker-internal data structures."
+Separately, Microsoft is reportedly working on a fix for a "fatal flaw" in its initial Windows 10 fix for the Meltdown CPU vulnerability. It's been patched in the new Windows 10 April 2018 Update, according to Alex Ionescu, chief architect at Crowdstrike, but hasn't been backported to previous versions of Windows 10.
+</text>
+

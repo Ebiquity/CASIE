@@ -1,0 +1,16 @@
+<title> Hackers Demand $6.3 Million in Bitcoin From Malaysian Media Giant  </title>
+<source> https://www.ccn.com/hackers-demand-6-3-million-in-bitcoin-from-malaysian-media-giant </source>
+<date> 2018_11_13 </date>
+<text>
+Ransomware creators have attacked Malaysian media giant Media Prima Bhd and are demanding bitcoins before they can allow access to the company’s compromised computer systems.
+According to The Edge Markets, which initially broke the news, the hackers struck on November 8 consequently denying the company’s employees access to the email system. The hackers are now demanding 1,000 bitcoins, translating to approximately US$6.3 million at current market prices, to reauthorize access.
+Media Prima did not, however, confirm the attack though sources indicated that the publicly listed company would not be paying the ransom. Sources also told The Edge Markets that with access to the office email denied, the media giant had migrated to G Suite, a Google product hosted offsite.
+It was also not immediately clear whether the company which owns four TV stations, four radio stations and three national newspapers among other media assets had lodged a complaint with the police.
+Lucrative Business
+While extortionists have been targeting individuals in the recent past especially by threatening to reveal the porn-viewing habits of their victims, it has generally been more lucrative to target businesses. According to a report by cybersecurity firm Sophos, the SamSam ransomware, which has mostly targeted business enterprises and public bodies, has, for instance, generated its creators bitcoin worth more than US$6 million since it emerged three years ago.
+Some of the high-profile victims of ransomware attacks in the recent past have included the Port of San Diego. While the Californian port did not reveal the amount that the hackers demanded, it was serious enough that it got the U.S. Federal Bureau of Investigations, the U.S. Department of Homeland Security and the U.S. Coast Guard involved.
+“As previously stated, the investigation has detected that ransomware was used in this attack. The Port can also now confirm that the ransom note requested payment in Bitcoin, although the amount that was requested is not being disclosed,” a statement from the Port of San Diego read, as CCN reported at the time.
+Can’t Pay, Won’t Pay
+Another high-profile target of ransomware in the recent past was the Professional Golfers Association (PGA) of America. In this case, the hackers encrypted critical files denying access to them just as the golfing body was holding a PGA Championship event as well as preparing for the Ryder Cup.
+</text>
+

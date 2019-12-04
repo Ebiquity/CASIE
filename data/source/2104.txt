@@ -1,0 +1,17 @@
+<title>Bank robbers exploited SS7 weaknesses to drain 2SV-protected accounts</title>
+<source> https://www.grahamcluley.com/bank-robbers-exploited-ss7-weaknesses-drain-2sv-protected-accounts/ </source>
+<date> 2017_05_05 </date>
+<text>
+A group of thieves exploited weaknesses in Signaling System 7 (SS7) to drain users’ bank accounts, including those protected by two-step verification (2SV).
+On 3 May, a representative with O2 Telefonica, a provider of mobile phones and broadband, told German newspaper Süddeutsche Zeitung that thieves managed to bypass security measures and make unauthorized withdrawals from customers’ bank accounts:
+    “Criminals carried out an attack from a network of a foreign mobile network operator in the middle of January. The attack redirected incoming SMS messages for selected German customers to the attackers.”
+The thieves pulled off their heist by exploiting the weak underbelly of SS7. It’s a protocol that specifies how public switched telephone networks (PSTN) exchange data over digital signaling network. In simpler terms, SS7 helps phone carriers around the world route your calls and text messages.
+Useful! Unfortunately, it’s also terribly insecure.
+That’s what researchers Tobias Engel and Karsten Nohl found back in 2014. Specifically, the duo discovered flaws in the protocol that allowed an attacker to intercept a victim’s mobile phone calls as well as use a radio antenna to pick up all of a local user’s phone calls and texts.
+Along the researchers’ observations, the January attackers first compromised users’ computers with malware that stole their bank account numbers, login credentials, and mobile phone numbers. The Register reports that these criminals then waited until the middle of the night to spring into action.
+For those accounts protected by SMS-based 2SV (not to be confused with 2FA), the attackers abused SS7 to redirect customers’ SMS text messages to phone numbers under their control. This exploit allowed the thieves to steal users’ mobile transaction authentication numbers (mTAN) and thereby withdraw money from their accounts.
+In the aftermath of the attack, authorities blocked the unidentified foreign network exploited by the attackers. Bank officials also notified customers of the unauthorized withdrawals.
+But that’s not all. Some people are now calling on the FCC to fix the (finally!) fix the issues affecting SS7. One of them is U.S. Representative Ted Lieu, who made his position clear to Ars Technica:
+    “Everyone’s accounts protected by text-based two-factor authentication, such as bank accounts, are potentially at risk until the FCC and telecom industry fix the devastating SS7 security flaw. Both the FCC and telecom industry have been aware that hackers can acquire our text messages and phone conversations just knowing our cell phone number. It is unacceptable the FCC and telecom industry have not acted sooner to protect our privacy and financial security. I urge the Republican-controlled Congress to hold immediate hearings on this issue.”
+Let’s hope we finally get some movement on these security flaws. In the meantime, users might want to reconsider using SMS messages as a means of 2SV. They might want to go with an app like Google Authenticator or choose a solution like the U2F Security Key instead.
+</text>

@@ -1,0 +1,20 @@
+<title> Google warns Apple: Missing bugs in your security bulletins are 'disincentive to patch'  </title>
+<source> https://www.zdnet.com/article/google-warns-apple-missing-bugs-in-your-security-bulletins-are-disincentive-to-patch/ </source>
+<date> 2018_10_19 </date>
+<text>
+Google's Project Zero has again called Apple out for silently patching flaws.
+Apple has secretly patched a bunch of high-severity bugs reported to it by Google's Project Zero researchers.
+The move has resulted in Google's Project Zero once again calling Apple out for fixing iOS and macOS security flaws without documenting them in public security advisories.
+While it's good news that Apple beat Project Zero's 90-day deadline for patching or disclosing the bugs it finds, the group's Ivan Fratric recently argued that the practice endangered users by not fully informing them why an update should be installed.
+This time the criticism comes from Project Zero's Ian Beer, who's been credited by Apple with finding dozens of serious security flaws in iOS and macOS over the years.
+Beer posted a blog about several vulnerabilities in iOS 7 he found in 2014 that share commonalities with several bugs he has found in iOS 11.4.1, some of which he's now released exploits for.
+Beer notes that none of the latest issues is mentioned in the iOS 12 security bulletin even though Apple did fix them. The absence of information about them is a "disincentive" for iOS users to patch, Beer argues. 
+"Apple are still yet to assign CVEs for these issues or publicly acknowledge that they were fixed in iOS 12," wrote Beer.
+"In my opinion a security bulletin should mention the security bugs that were fixed. Not doing so provides a disincentive for people to update their devices since it appears that there were fewer security fixes than there really were."
+In other instances, such as one macOS bug Beer reported, Apple did actually assign a CVE, but it still hasn't updated the relevant security bulletin to reflect the fix.
+Apple similarly allocated CVE-2018-4337 to another high-severity iOS bug, which was fixed in iOS 12, but isn't currently acknowledged in the iOS 12 security bulletin.
+In another case, Apple fixed a bug that affected iOS and macOS but didn't assign a CVE or mention it in the security bulletins.
+Not only may it be a disincentive for end-users to patch iPhones and Macs, but Beer also points out in another bug report that the lack of public acknowledgement by Apple means he has no way of knowing whether the issue is a duplicate that another researcher may have already found.
+As he notes in the blog, many of the bugs he has found in iOS are very similar or the same as bugs found by noted jailbreaking hackers Pangu Team. 
+</text>
+

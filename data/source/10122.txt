@@ -1,0 +1,20 @@
+<title> Atlanta has shut down courts and people there can't pay their bills online because of a crippling cyberattack the mayor has called 'a hostage situation'  </title>
+<source> https://www.businessinsider.com/atlanta-cyberattack-cripples-city-operations-2018-3 </source>
+<date> 2018_03_29 </date>
+<text>
+ It's been a week since hackers launched a ransomware attack against the city of Atlanta, and local officials are still grappling with its effects.
+"We are dealing with a hostage situation," Atlanta Mayor Keisha Lance Bottoms said in a statement.
+On Thursday, municipal courts were closed again and residents were unable to pay their traffic tickets or water bills online. In some cases, employees had to fill out urgent forms and reports by hand, CNN reported. 
+The city allowed its employees to turn on their work computers and printers for the first time on Wednesday, although officials warned that some computers may still be affected.
+ In a ransomware attack, hackers place malware on a computer — or system of computers — that restricts access, and then demand payment to undo it.
+The culprits have demanded the city of Atlanta pay them $51,000 in bitcoin to unlock the government's encrypted systems. Bottoms would not say whether the city would meet their request.
+Atlanta officials — along with local law enforcement, the FBI, the Department of Homeland Security, and Secret Service — are said to be working round-the-clock on the matter to investigate whether any government data or anybody's personal information was compromised.
+An information portal has been set up on the city government's website to keep residents and employees updated on the latest developments of the hack.
+Officials from Atlanta Information Management, the city's technology department, realized the city had been attacked on March 22. 
+ As a result, officials said, "some city data is encrypted and customers are not able to access city applications." This has mostly prevented people from using online applications to pay bills and access court-related information.
+Although Atlanta officials have not yet identified those behind the attack, an Atlanta-based security firm called Dell SecureWorks, which is helping the city investigate the attack, pointed to a group called SamSam, according to The New York Times.
+It is not clear who is part of the group or where it is based.
+On Monday, Mayor Bottoms held a news conference to reassure the public that the city was doing everything in its power to restore its systems, but cautioned people against taking the matter lightly.
+"I just want to make the point that this is much bigger than a ransomware attack," Bottoms said. "This is really an attack on our government, which means it's an attack on all of us." 
+</text>
+

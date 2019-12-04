@@ -1,0 +1,19 @@
+<title>ICS, SCADA Security Woes Linger On | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/ics-scada-security-woes-linger-on/123572/ </source>
+<date> 2017_02_07 </date>
+<text>
+A handful of worrisome vulnerabilities in Honeywell building automation system software disclosed last week are case in point of how far the industry continues to lag in securing SCADA and industrial control systems.
+Honeywell published in September new firmware that patches vulnerabilities privately disclosed by researcher Maxim Rupp in its XL Web II controllers.
+The flaws could give an attacker the ability to access relatively unprotected credentials and use those to manipulate, for example, environmental controls inside a building.
+While these aren’t critical infrastructure systems such as wastewater, energy or manufacturing, building automation system hacks can be expensive to remedy, and in a worst-case scenario, afford an attacker the ability to pivot to a corporate network.
+Experts told Threatpost that building automation systems can be used to remotely manage heating, air conditioning, water, lighting and door security, and help reduce building operations costs.
+They’re also popping up as more and more buildings go green; such systems, for example, are crucial to Leadership in Energy and Environmental Design (LEED) certification from the United States Green Building Council.
+“The main risk from this is a super simple method of accessing building system HMIs, whether for mischief or maybe even ransom.
+Controllers like this provide an easy interface to operating the entire building system, no additional programming knowledge or protocol expertise required,” said Michael Toecker of Context Information Security.
+Unless very poorly designed, a user can’t damage equipment from the HMI, but they can make the building inhospitable, inefficient, and expensive to fix”.
+The Industrial Control System Cyber Emergency Response Team (ICS-CERT) issued an advisory last Thursday warning of five vulnerabilities in the Honeywell XL1000C500 XLWebExe-2-01-00 and prior, and XLWeb 500 XLWebExe-1-02-08 and prior.
+Four of the five are authentication-related flaws, the most serious of which involved passwords either stored in clear text or reachable by accessing a particular URL.
+A user with low privileges could also open and change parameters via a URL, ICS-CERT said.
+Honeywell also patched a session fixation vulnerability allowing an attacker to establish new users sessions without invalidating prior sessions, giving them access to authenticated sessions.
+It also patched a path traversal bug that allowed attackers to carry out directory traversal attacks via a URL.
+</text>

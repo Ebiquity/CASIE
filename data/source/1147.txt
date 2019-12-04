@@ -1,0 +1,20 @@
+<title>ERP Attack Risks Come into Focus</title>
+<source> http://www.darkreading.com/application-security/database-security/erp-attack-risks-come-into-focus/d/d-id/1328418? </source>
+<date> 2017_03_17 </date>
+<text>
+Several developments this week recentered the security spotlight on some of the enterprise's most critical business systems as cybersecurity experts deal with the reality that enterprise resource planning (ERP) software needs heightened attention.
+On the vulnerability front, SAP this week patched a new, highly critical vulnerability for SAP HANA with one of the highest severity ratings available.
+Meanwhile, a new survey report shows that security professionals are finally waking up to the fact that attackers are looking to leverage vulnerabilities like these, with indicated expectations of increased ERP attacks in the near future.
+SAP HANA is an in-memory data platform used by enterprises to crunch data from across their business software stacks.
+Organizations use it to perform advanced analytics that inform critical business processes and fuel innovative applications, and as such it contains some of the most sensitive data pertaining to customers, business processes and intellectual property.
+The major vulnerability was discovered by ERP security firm Onapsis in SAP HANA's User Self-Service component and scored a CVSS vulnerability rating of 9.8, garnering a Hot News designation in this month's SAP Security Notes.
+If exploited, it would allow full remote compromise without access to any credentials.
+"This level of access would allow an attacker to perform any action over the business information and processes supported by HANA, including creating, stealing, altering, and/or deleting sensitive information," says Sebastian Bortnik, head of research for Onapsis.
+SAP patched the problem in this month's round of SAP Security Notes, which included 35 vulnerabilities across its portfolio.
+Among them there were eight vulnerabilities with a high priority rating.
+Last year, the threats posed by these vulnerabilities tipped over from the theoretical realm to one of documented reality when US-CERT released a report that warned of at least 36 organizations worldwide impacted by attacks that leveraged a vulnerability in SAP's Invoker Servlet functionality running on SAP Java platforms.
+This week, a new report from Crowd Research Partners found that 89% of security experts anticipate more attacks against ERP systems.
+Approximately 1 in 3 experts expect a significant increase in these attacks.
+As things stand, most enterprises are still dreadfully unprepared for any attacks, let alone an increased volume of them.
+A report last year from Ponemon Institute showed that more than half of enterprises admit it would take their firm a year or longer to detect a breach in the SAP platform.
+</text>

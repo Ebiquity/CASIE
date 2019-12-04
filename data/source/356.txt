@@ -1,0 +1,24 @@
+<title>St. Louis Public Library Recovers from Ransomware Attack  | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/st-louis-public-library-recovers-from-ransomware-attack/123297/ </source>
+<date> 2017_01_25 </date>
+<text>
+Services are being restored to the St. Louis Public Library computer system after a ransomware attack last Thursday impacted access to machines and data at all 17 branches.
+Library management refused to pay the $35,000 demanded as ransom, and IT staff wiped affected servers and restored them from available backups.
+On Friday, the library was able to restart its circulation workflow, and patrons were able to check out books at all locations.
+By Saturday, checkout and returns systems were at 100 percent availability, and now only the library’s reserve system remains to be restored.
+That work began on Monday and is expected to be up and running shortly.
+Executive director Waller McGuire said the library immediately reached out to the FBI for help with the investigation, and it’s not clear where the infection began, nor how it spread throughout the library network.
+“The real victims of this criminal attack are the Library’s patrons.
+SLPL has worked hard to open a secure but widely available digital world to the people of St. Louis, and I am sorry it was interrupted,” McGuire said in a letter to library patrons published on Monday.
+“An attempt to hold information and access to the world for ransom is deeply frightening and offensive to any public library, and we will make every effort to keep that world available to our patrons”.
+McGuire also said that patrons’ personal and financial information is not stored on its servers, and none of that data was impacted by the attack.
+Louis Public Library has been working with the FBI to identify how criminals broke into our system and correct the problem,” McGuire said.
+“I apologize to patrons for any inconvenience this incident has caused: on most days thousands of St. Louis Public Library patrons check out materials and use computers for many purposes”.
+A request for additional comment from McGuire was not returned in time for publication.
+It’s unknown which ransomware family was used to attack the library, nor how the infection started.
+McGuire said in his letter to patrons that criminals broke into the library network and installed malware.
+This runs contrary to most ransomware infections where the malware is spread in spam or phishing emails enticing the victim to open a malicious email attachment or click on a link in the message that downloads the malware.
+The St. Louis library is the latest in a growing list of high-profile businesses and public services falling victim to ransomware.
+Less than a year has passed since the Hollywood Presbyterian attack, in which a $17,000 ransom was paid, and the Kentucky Methodist Hospital attack, in which officials reportedly refused to pay.
+The University of Calgary also fell victim as have other colleges, universities, local law enforcement and government agencies, and entertainment organizations.
+</text>

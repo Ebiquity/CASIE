@@ -1,0 +1,16 @@
+<title>Routers Under Attack: Current Security Flaws and How to Fix Them - TrendLabs Security Intelligence Blog</title>
+<source> http://blog.trendmicro.com/trendlabs-security-intelligence/routers-under-attack-current-security-flaws-and-how-to-fix-them/ </source>
+<date> 2017_02_01 </date>
+<text>
+How is it possible for users to lose hundreds of dollars in anomalous online bank transfers when all of their gadgets have security software installed?
+Last year, user Y, who is based in Brazil, lost R$600 (US$191.02, as of January 30, 2017) as a side effect of information theft.
+Upon discovering this, Y immediately called an IT technician to find the root cause.
+But since no malware was found in the devices connected to the network, he then reviewed the home router settings.
+What he found was interesting:  even though the home router did not expose any remote management interface to the internet, the DNS settings were still modified.
+In another case, user X noticed R$3,000 (US$955.11, as of January 30, 2017) was deducted from her account last January 2016.
+Her home router was also infected with a malicious DNS-changing malware.
+Routers often have unsecure configurations that make them susceptible to malware attacks similar to the real-world cases we presented above.
+For one, security flaws exist in the operating system, firmware, and web applications of routers.
+Attackers can simply use these vulnerabilities as entry points to further compromise the home network.
+Web-based scripts are an effective tactic to infiltrate routers.
+</text>

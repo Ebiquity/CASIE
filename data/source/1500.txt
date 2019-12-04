@@ -1,0 +1,27 @@
+<title>Businesses Hit by More W-2 Fraud as Cybercriminals ...</title>
+<source> http://www.darkreading.com/attacks-breaches/businesses-hit-by-more-w-2-fraud-as-cybercriminals-shift-tax-season-targets/d/d-id/1328564? </source>
+<date> 2017_04_06 </date>
+<text>
+Every year, cybercriminals cash in on tax season by targeting individuals, but this year it's a little different.
+It's businesses that must be extra careful when filing, because businesses are experiencing a rise in tax-related scams, specifically W-2 fraud.
+Researchers at IBM X-Force, the tech giant's security research division, discovered more than 1400% growth in general tax-themed spam between December 2016 and March 2017.
+"On top of all the usual activity -- consumer tax fraud, filing on others' behalf -- we began to see that businesses are being targeted a lot more," says Limor Kessem, executive security advisor for IBM Security.
+In the past, she says, tax fraud on businesses were the purview of only advanced attackers.
+This year, they saw a rise in social engineering attacks on smaller organizations like schools, non-profits, and restaurants as fraudsters start to aim for the "low-hanging fruit" of the corporate world.
+Cybercriminals often collect W-2 data by pretending to be a company exec and emailing HR or payroll for employee information, which is used to file fraudulent returns and collect refunds.
+In addition, they may also request a wire transfer to a specific bank account.
+Attackers who are more technically inclined may bypass the fake emails and breach an organization's servers to steal data directly, says Kessem.
+In addition to using W-2 data for their own scams, fraudsters will sell it on the dark web, the report states.
+The most valuable bundles of information are called "Fullz" and contain the victim's address, contact info, Social Security and driver's license numbers, plus all W-2 and W-9 information.
+Each record runs for $40-$50 in Bitcoin on the Dark Web.
+With all this data for $50 per record, harmful activity doesn't have to stop at tax fraud, Kessem notes.
+Cybercriminals can buy and use this data for other scams like identity theft or online loan applications.
+Tax-related risks increase as the filing deadline approaches.
+One-third of Americans (54 million people) filed their taxes after April 1 in 2016, giving fraudsters a larger window of opportunity to strike.
+Tax-related cybercrime won't stop after April 18, 2017.
+"There are a number of people filing after the deadline," says Kessem, noting the popularity of extensions.
+There are millions who will still be interested in tax-themed emails."
+However, their tax scam strategies will shift after the deadline as cybercriminals move from stealing data to infecting machines with malware.
+Because victims may expect messages indicating problems with their returns, they are more likely to open potentially malicious attachments, Kessem explains.
+Researchers believe data sets sold on the Dark Web are a sign that fraudsters are stealing tax info from employer databases -- meaning they get it before the taxpayers.
+</text>

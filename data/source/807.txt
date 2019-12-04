@@ -1,0 +1,29 @@
+<title>Creepy IoT teddy bear leaks &gt;2 million parents’ and kids’ voice messages | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/02/creepy-iot-teddy-bear-leaks-2-million-parents-and-kids-voice-messages/ </source>
+<date> 2017_02_28 </date>
+<text>
+A maker of Internet-connected stuffed animal toys has exposed more than 2 million voice recordings of children and parents, as well as e-mail addresses and password data for more than 800,000 accounts.
+He said searches using the Shodan computer search engine and other evidence indicated that, since December 25 and January 8, the customer data was accessed multiple times by multiple parties, including criminals who ultimately held the data for ransom.
+The recordings were available on an Amazon-hosted service that required no authorization to access.
+The data was exposed by Spiral Toys, maker of the CloudPets line of stuffed animals.
+The toys record and play voice messages that can be sent over the Internet by parents and children.
+The MongoDB database of 821,296 account records was stored by a Romanian company called mReady, which Spiral Toys appears to have contracted with.
+Hunt said that, on at least four occasions, people attempted to notify the toy maker of the breach.
+In any event, evidence left behind by the ransom demanders made it almost certain company officials knew of the intrusions.
+Hunt wrote:
+It's impossible to believe that CloudPets (or mReady) did not know that firstly, the databases had been left publicly exposed and secondly, that malicious parties had accessed them.
+Obviously, they've changed the security profile of the system, and you simply could not have overlooked the fact that a ransom had been left.
+So both the exposed database and intrusion by those demanding the ransom must have been identified yet this story never made the headlines.
+Further ReadingInternet-connected Hello Barbie doll gets bitten by nasty POODLE crypto bugThe breach is the latest to stoke concerns about the privacy and security of Internet-connected toys.
+In November 2015, tech news site Motherboard disclosed the hack of toy maker VTech in a breach that exposed the names, e-mail addresses, passwords, and home addresses of almost 5 million adults, as well as the first names, genders and birthdays of more than 200,000 kids.
+A month later, a researcher found that an Internet-connected Barbie doll made by Mattel contained vulnerabilities that might allow hackers to intercept real-time conversations.
+In addition to storing the customer databases in a publicly accessible location, Spiral Toys also used an Amazon-hosted service with no authorization required to store the recordings, customer profile pictures, children's names, and their relationships to parents, relatives, and friends.
+In Monday's post, Hunt acknowledged the help of Motherboard reporter Lorenzo Franceschi-Bicchierai, who published this report.
+Oddly enough, for a product with such lax security, the service used the ultra-secure bcrypt hashing function to protect passwords.
+Unfortunately, CloudPets had one of the most permissive password policies ever.
+It allowed, for instance, a passcode of the single character "a" or the short keyboard sequence "qwe."
+"What this meant is that when I passed the bcrypt hashes into [password cracking app] hashcat and checked them against some of the world's most common passwords ('qwerty,' 'password,' '123456,' etc.)
+along with the passwords 'qwe' and 'cloudlets,' I cracked a large number in a very short time," Hunt wrote.
+Further ReadingHow to search the Internet of Things for photos of sleeping babiesThe lesson that emerged long ago is that the security of so-called Internet of things products is so poor that it often outweighs any benefit afforded by an Internet-connected appliance.
+As the CloudPets debacle underscores, the creep factor involved in Internet-connected toys makes the proposition even worse.
+</text>

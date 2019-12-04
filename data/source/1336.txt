@@ -1,0 +1,18 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/hong-kongs-37-million-voters/ </source>
+<date> 2017_03_29 </date>
+<text>
+Hong Kong might just have experienced its biggest ever data breach after the personal details of the Special Administrative Region (SAR)’s 3.7 million voters were stolen on two laptops.
+The details are said to have included ID card numbers, addresses and mobile phone numbers.
+They were stored on two laptops in a locked room at the AsiaWorld-Expo conference center near the airport.
+The center is said to be the “back-up venue” for the region’s chief executive elections, which took place over the weekend.
+The Registration and Electoral Office has reported the theft to police and told the South China Morning Post that the details of voters were encrypted – although it’s unclear how strong that encryption is.
+It’s also unclear why the details of 3.7m voters were stored on the laptops when only an Election Committee of 1194 specially chosen business and political leaders is allowed to pick Hong Kong’s CEO.
+The SAR’s privacy watchdog said in a statement that it is launching an investigation into the matter.
+Over a three-year period from 2013 to 2016, the privacy commissioner’s office is said to have received 253 data breach notifications.
+Eduard Meelhuysen, EMEA boss at Bitglass, argued that public sector breaches stand out as particularly concerning.
+"Whether it’s the NHS or the Hong Kong Registration and Electoral Office, these organizations need to remember their duty of care, not to mention legal obligations, to protect citizens' and employees' data,” he said.
+“This means not only keeping sensitive data encrypted, but also controlling where it goes using tools like access control and data leakage prevention.
+Is it really a business necessity to store the information of millions of citizens on a laptop?"
+In a separate incident, a laptop was stolen from Queen Mary Hospital last year, containing the personal details of nearly 4000 patients.
+</text>

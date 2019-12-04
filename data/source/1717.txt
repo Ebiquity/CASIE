@@ -1,0 +1,14 @@
+<title>Microsoft (MSFT) mysteriously managed to fix NSA targeted security gaps revealed in Shadow Brokers leak — Quartz</title>
+<source> https://qz.com/960501/microsoft-msft-mysteriously-managed-to-fix-nsa-targeted-security-gaps-revealed-in-shadow-brokers-leak/ </source>
+<date> 2017_04_18 </date>
+<text>
+On Friday, a cache of hacking tools allegedly developed by the US National Security Agency was dumped online.
+The news was explosive in the digital security community because the tools contained methods to hack computers running Windows, meaning millions of machines could be at risk. Security experts who tested the tools, leaked by a group called the Shadow Brokers, found that they worked. They were panicked:
+This is really bad, in about an hour or so any attacker can download simple toolkit to hack into Microsoft based computers around the globe.
+— Hacker Fantastic (@hackerfantastic) April 14, 2017
+But just hours later, Microsoft announced that many of the vulnerabilities were addressed in a security update released a month ago.
+“Today, Microsoft triaged a large release of exploits made publicly available by Shadow Brokers,” Philip Misner, a Microsoft executive in charge of security wrote in a blog post. “Our engineers have investigated the disclosed exploits, and most of the exploits are already patched.”
+Misner’s post showed that three of nine vulnerabilities from the leak were fixed in a March 14 security update. As Ars Technica pointed out, when security holes are discovered, the individual or organization that found them is usually credited in the notes explaining the update. No such acknowledgment was found in the March 14 update. Here’s a list of acknowledgments for 2017, showing credit for finding security problems in almost every update.
+One theory among security practitioners is that the NSA itself reported the vulnerabilities to Microsoft, knowing that the tools would be dumped publicly. Microsoft told ZDNet that it might not list individuals who discover flaws for a number of reasons, including by request from the discoverer.
+The US government has not commented on this leak, though previous leaks by the Shadow Brokers claiming to be NSA hacking tools were confirmed at least in part by affected vendors and NSA whistleblower Edward Snowden.
+</text>

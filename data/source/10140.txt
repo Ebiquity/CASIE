@@ -1,0 +1,26 @@
+<title> Locky Returns via Spam and Dropbox-Themed Phishing Attacks  </title>
+<source> https://www.bankinfosecurity.com/locky-returns-via-spam-dropbox-themed-phishing-attacks-a-10250 </source>
+<date> 2017_11_20 </date>
+<text>
+A new attack campaign has been flinging phishing messages as well as ransomware-laced spam emails at potential victims in massive quantities.
+The attack campaign involves crypto-locking Locky ransomware.
+"Beware. Don't fall for this. Locky is horrid," says Alan Woodward, a computer science professor at the University of Surrey.
+The campaign began Monday, according to cloud-based cybersecurity provider AppRiver, which counted more than 23 million related spam emails having been sent in less than 24 hours. That makes it "one of the largest malware campaigns that we have seen in the latter half of 2017," says Troy Gill, manager of security research for AppRiver, in a blog post.
+Finnish security firm F-Secure says that the majority of the spam messages that its systems are currently blocking relate to Locky. It notes that some spam contains links to infected sites, while other messages carry malicious attachments.
+If a system becomes infected with this strain of Locky, crypto-locked files will have the extension ".lukitus" added, which is a Finnish word variously translated by native speakers as "locking" or "locked," according to F-Secure.
+The Lukitus variant of Locky was first spotted last month. Rommel Joven, a malware researcher with security firm Fortinet, warned that it was being distributed via email attachments as part of a massive spam campaign being run by the one of the world's biggest botnets, Necurs, which has historically been the principle outlet for Locky attacks.
+
+Spam Can Carry Locky Attachments
+AppRiver says emails related to the new Locky campaign have featured a variety of subject lines, including these words: documents, images, photo, pictures, please print, scans.
+"Each message comes with a zip attachment that contains a Visual Basic Script (VBS) file that is nested inside a secondary zip file," Gill says. "Once clicked, [the] VBS file initiates a downloader that reaches out to greatesthits[dot]mygoldmusic[dotcom] to pull down the latest Locky ransomware. Locky goes to work encrypting all the files on the target system and appending [.]lukitus to the users now-encrypted files."
+The ransomware then drops a ransom note on the victim's desktop. "The victim is instructed to install the Tor browser and is provided an .onion (aka Darkweb) site to process payment of 0.5 bitcoins" - currently worth $2,400 - Gill says. "Once the ransom payment is made the attackers promise a redirect to the decryption service."
+As of Friday, meanwhile, Xavier Mertens, a freelance security consultant and SANS Institute Internet Storm Center contributor based in Belgium, says he's seeing a new wave of malicious spam that uses emails that pretend to carry voice messages.
+Internet Storm Center reports that some malicious messages tied to Locky are showing fake alerts stating that the HoeflerText font needs to be installed.
+Not all of the Locky spam emails arrive with malicious attachments; some are designed as phishing attacks that redirect users to real-looking but malicious sites.
+Peter Kruse, an e-crime specialist at CSIS Security Group in Denmark, says some emails related to this ransomware campaign are skinned to look like they've come from Dropbox. Some will attempt to trick recipients into clicking on a "verify your email" link. Kruse says the attacks are being launched by the group tied to the Affid=3 [aka affiliate ID=3] version of Locky. 
+If victims click on the link, they're redirected to one of a number of websites.
+Clicking on a link can result in a zipped attack file being downloaded, per the VBS attack detailed above, according to security researcher JamesWT, a former member of the anti-malware research group called Malware Hunter Team.
+Alternately, clicking on the link may result in the site attempting to execute a malicious JavaScript file that functions as a dropper, meaning it then attempts to download a payload file.
+In some attacks, this payload file is Locky. But JamesWT tells ISMG that malware from the campaign that he uploaded to malware-checking service VirusTotal was identified as being Shade ransomware.
+</text>
+

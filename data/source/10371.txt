@@ -1,0 +1,18 @@
+<title> Scammers Are Using Fake IRS Sites To Steal Your Personal Info  </title>
+<source> https://www.nextgov.com/cybersecurity/2018/03/scammers-are-using-fake-irs-sites-steal-your-personal-info/146704/ </source>
+<date> 2018_03_15 </date>
+<text>
+It’s tax season, and that means con artists and scammers are out in full force trying to capitalize on people’s financial anxieties.
+The IRS puts out strong warnings each year—often republishing its “’Dirty Dozen’ list of tax scams” several times between January and April. This year, phishing schemes—in which scammers send emails pretending to be from the IRS in order to trick people into divulging sensitive information—topped the list.
+“We urge taxpayers to watch out for these tricky and dangerous schemes,” acting IRS Commissioner David Kautter said in a March 5 warning to consumers. “Phishing and other scams on the ‘Dirty Dozen’ list can trap unsuspecting taxpayers. Being cautious and taking basic security steps can help protect people and their sensitive tax and financial data.”
+Threat researchers at Zscaler published a blog on March 15 outlining four new phishing schemes they identified during this tax season, most of which used fake IRS websites to steal taxpayers’ information.
+“Cybercriminals have long used social engineering and phishing techniques to lure unsuspecting users into giving away private information,” the researchers wrote. “They track current trends and events to make their attacks more effective, and tax season offers a rich opportunity for attackers to disguise themselves as well-known brands and even government agencies in an effort to exploit users.”
+This tendency is on display with the “chalbhai” phishing attack, which uses a spoof of an outdated IRS form to trick users into giving up their tax identification information, which can then be used to file false returns. While studying this campaign, researchers noticed the term “chalbhai” used in the source code.
+“We have typically seen this tag associated with phishing pages that look like Microsoft Office 365, Apple ID, Dropbox or DocuSign,” Zscaler wrote. “This is a good example of criminals adapting their phishing content to reflect current trends,” i.e., tax season.
+Another similar scheme directed users to a fake IRS page for unlocking expired passwords. Researchers noted this campaign was particularly tricky, as users were redirected to a legitimate IRS page after giving up their information.
+“With this page,” they wrote, “the attacker is attempting to prevent user suspicion by redirecting the user from this phishing page to a legitimate e-policy statement hosted on the actual IRS page… At this point, the victims believe they have completed the account unlock process and they proceed to log in on the legitimate page unaware that their information has been stolen.”
+Researchers also found similar tactics used to get taxpayers’ logins for tax preparer sites like TurboTax.
+In a fourth example, Zscaler researchers found an encrypted phishing page designed to mask their ill-intent from security measures. After a user downloads the page, it is decrypted within the browser, skirting some security checks.
+In all these examples, users could have avoided the scam by double-checking the URL in the browser, which all included additional characters before the .gov domain, indicating users were not actually at an official IRS site.
+</text>
+

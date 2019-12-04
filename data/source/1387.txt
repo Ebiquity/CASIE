@@ -1,0 +1,14 @@
+<title>Blizzard's World of Warcraft fans hit by phishing scam</title>
+<source> https://www.hackread.com/blizzard-world-of-warcraft-phishing-scam/ </source>
+<date> 2017_03_31 </date>
+<text>
+According to the Graham Cluley, hackers are conducting phishing attacks on gamers using two types of emails to steal their login credentials.
+Hackers are sending emails to World of Warcraft players making them believe that they have won a prize followed by a link to claim it by putting their Blizzard account credentials.
+The items used in the email are “Battlepaw” an in-game pet, and a flying mount called “Mystic Runesaber”.
+Both these items are legitimate and can be bought in the game, which makes these emails more believable, but of course, it’s all just a lie.
+Once you click the email, a new window will appear asking you to enter the login details of your blizzard account, and if you do that, the hacker will receive your information, which can either be sold or used personally.
+“You are receiving this e-mail because your friend has purchased World of Warcraft In-Game Pet: Brightpaw for you as a gift!
+This would have been a perfect scam if not for the two obvious flaws in the email.
+First one is the suspicious looking question mark after Battle dot net, and the second one is named Blizzard Entertainment wrote at the end of the email.
+Like all the other phishing scams, this one also relies on the poor judgment of the recipients and to make sure that you do not fall into this trap you must be very careful when you receive an email from an unknown sender.
+</text>

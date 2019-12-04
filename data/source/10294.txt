@@ -1,0 +1,17 @@
+<title> WordPress 5.0 Patched to Fix Serious Bugs </title>
+<source> https://threatpost.com/wordpress-5-0-patched-to-fix-serious-bugs/139948/ </source>
+<date> 2018_12_14 </date>
+<text>
+ WordPress 5.0 users are being urged to update their CMS software to fix a number of serious bugs. The update (WordPress 5.0.1) addresses seven flaws and was issued Thursday, less than a week after WordPress 5.0 was released.
+The most serious of the flaws is a bug that allows the WordPress “user activation screen” to be indexed by Google and other search engines, leading to the possible public exposure of WordPress usernames and passwords.
+“The user activation screen could be indexed by search engines in some uncommon configurations, leading to exposure of email addresses, and in some rare cases, default generated passwords,” wrote security firm Wordfence in a blog post outlining the flaws.
+Wordfence said all WordPress users running versions of the 4.x branch of WordPress core are also impacted by similar issues. It urges those 4.x users, not ready to update to the 5.0 branch, to install the WordPress 4.9.9 security update (also released this week), which addresses similar bugs.
+Three of the bugs fixed with the release of WordPress 5.0.1 are cross-site scripting (XSS) vulnerabilities. Two of the XSS bugs could allow for an adversary to launch a privilege escalation attack.
+“Contributors could edit new [WordPress web-based] comments from higher-privileged users, potentially leading to a cross-site scripting vulnerability,” Wordfence wrote. “This is another vulnerability that requires a higher-level user role, making the likelihood of widespread exploitation quite low. WordPress addressed this issue by removing the <form> tag from their HTML whitelist.”
+WordPress plugins are potentially impacted by a third XSS bug that opens up sites to attacks launched by adversaries who send specially crafted URLs to affected sites. According to researchers, the bug doesn’t impact WordPress 5.0 directly, rather the “wpmu_admin_do_redirect” function used by some WordPress plugins.
+“Specially crafted URL inputs could lead to a cross-site scripting vulnerability in some circumstances,” they said.
+A PHP (Hypertext Preprocessor) bug was also identified by WordPress. This bug is more technical in nature and was found by Sam Thomas, of Secarma Labs, who publicly disclosed it at the 2018 Black Hat conference.
+“This vulnerability allows an author to assign an arbitrary file path to an attachment. The file path supplied by the author uses the phar:// stream wrapper on a previously uploaded attachment which leads to object injection utilizing a “feature” of the PHAR file type which stores serialized objects in the metadata of the PHAR file,” wrote Wordfence.
+WordPress is also warning users of a unauthorized file deletion bug and an unauthorized post creation bug.
+</text>
+

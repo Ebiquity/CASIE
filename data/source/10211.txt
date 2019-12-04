@@ -1,0 +1,17 @@
+<title> Password bypass flaw in Western Digital My Cloud drives puts data at risk </title>
+<source> https://techcrunch.com/2018/09/19/password-bypass-flaw-western-digital-my-cloud-drives/ </source>
+<date> 2018_09_19 </date>
+<text>
+A security researcher has published details of a vulnerability in a popular cloud storage drive after the company failed to issue security patches for over a year.
+Remco Vermeulen found a privilege escalation bug in Western Digital’s My Cloud devices, which he said allows an attacker to bypass the admin password on the drive, gaining “complete control” over the user’s data.
+The exploit works because drive’s web-based dashboard doesn’t properly check a user’s credentials before giving a possible attacker access to tools that should require higher levels of access.
+The bug was “easy” to exploit, Vermeulen told TechCrunch in an email, and was remotely exploitable if a My Cloud device allows remote access over the internet — which thousands of devices do. He posted a proof-of-concept video on Twitter.
+Details of the bug were also independently found by another security team, which released its own exploit code.
+Vermeulen reported the bug over a year ago, in April 2017, but said the company stopped responding. Normally, security researchers give 90 days for a company to respond, in line with industry-accepted responsible disclosure guidelines.
+After he found that WD updated the My Cloud firmware in the meanwhile without fixing the vulnerability he found, he decided to post his findings.
+A year later, WD still hasn’t released a patch.
+The company confirmed that it knows of the vulnerability but did not say why it took more than a year to issue a fix. “We are in the process of finalizing a scheduled firmware update that will resolve the reported issue,” a spokesperson said, which will arrive “within a few weeks.”
+WD said that several of its My Cloud products are vulnerable — including the EX2, EX4 and Mirror, but not My Cloud Home.
+In the meantime, Vermeulen said that there’s no fix and that users have to “just disconnect” the drive altogether if they want to keep their data safe.
+</text>
+

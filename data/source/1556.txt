@@ -1,0 +1,27 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/wonga-at-a-loss-after-suspected/ </source>
+<date> 2017_04_10 </date>
+<text>
+Payday lender Wonga appears to be the latest big-name brand to suffer a damaging data breach, after admitting over the weekend “there may have been illegal and unauthorized access” to customers’ personal details.
+The firm was tight-lipped on how many customers might have been affected, although reports suggest it is in the region of 270,000, most of whom are based in the UK.
+The short-term loans company, which charges customers over 1200% APR, was also short on details and hedged its bets somewhat as to the cause.
+The firm claimed in an FAQ on the incident that it is still trying to establish the details and contact those affected.
+What we do know is that customer names, e-mail addresses, home addresses and phone numbers may have been compromised, along with the last four digits of their card number and/or bank account number and sort code.
+It added:
+“We do not believe your Wonga account password was compromised and believe your account should be secure, however if you are concerned you should change your account password.
+We also recommend that you look out for any unusual activity across any bank accounts and online portals”.
+Wonga also advised customers to be on the lookout for follow-up scams, both online and over the phone.
+The kind of information that appears to have been compromised would certainly provide seasoned fraudsters with enough to socially engineer targets into divulging more details such as their full card numbers.
+This is just the latest in a long line of breaches at big-name companies.
+Data from over 130,000 customers of network operator Three was illegally obtained by fraudsters back in November.
+The impact to brand and reputation can be a serious blow to breached organizations.
+TalkTalk is said to have lost 100,000 customers and £60m as a result of a breach at the ISP.
+André Stewart, EMEA vice-president at Netskope, argued that coming European privacy laws will force organizations to be more accountable for their data practices.
+“As a result, companies will be forced to take active measures to mitigate any threats to personal privacy, whether that data is stored on-premises or in the cloud.
+Any companies falling short of these standards could face hefty fines,” he explained.
+“Alongside demonstrating that they have coached employees on the GDPR and secure data handling, employers will also need to provide staff with the tools to do their jobs securely without sacrificing ease and convenience”.
+Kevin Cunningham, president of SailPoint, added that staff from the board down need to be well-drilled in order to help protect sensitive customer information.
+“In today’s market, it’s a matter of when, not if, a data breach will happen.
+So the most important factors are prevention, education, and rapid response,” he argued.
+“When a breach does happen, it’s important to quickly find out how and why it occurred, assess the damage and required response, and put IT controls in place to address future attacks”.
+</text>

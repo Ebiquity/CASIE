@@ -1,0 +1,23 @@
+<title>Attacks on Phones of Bitcoin Moguls Continue with Recent KeepKey Security Breach</title>
+<source> https://www.bleepingcomputer.com/news/security/attacks-on-phones-of-bitcoin-moguls-continue-with-recent-keepkey-security-breach/ </source>
+<date> 2017_01_04 </date>
+<text>
+According to Darin Stanchfield, KeepKey founder and CEO, the attack took place on Christmas Day, December 25, when an unknown attacker had activated a new phone number with Stanchfield's Verizon account.
+This allowed the attacker to request a password reset for his Verizon email account, but receive the password reset details on the newly activated phone number.
+A few minutes later, the attacker had taken over Stanchfield's email account and proceeded to request password resets for several services where the KeepKey founder had used that email address to register profiles.
+In no time, the attacker had taken over several of Stanchfield's accounts on other sites, such as KeepKey's official Twitter account, and several of KeepKey's side services, such as accounts for sales distribution channels and email marketing software.
+In less than an hour after the attack started, the KeepKey CEO had discovered what happened and started working with his staff to regain access to the hijacked accounts, while also blocking the intruder from reaching other KeepKey services.
+The attacker also contacted the KeepKey staff, offering to provide details about how he hacked the Verizon email account and what he stole.
+The attacker had also promised to return the stolen data and keep quiet about the hack if KeepKey would agree to pay him 30 Bitcoin (~$30,000).
+Instead of paying the ransom demand, the KeepKey team managed to stall the attacker for two more hours, during which time they regained access to all but one account, the company's Twitter profile.
+Since the night of the hack, the company has filed a complaint with the FBI and is now offering the 30 Bitcoin ransom as a reward for any clues that lead to the attacker's arrest.
+KeepKey was adamant about the attacker not being able to access any of its customers' Bitcoin access keys stored on its devices.
+KeepKey is known in the Bitcoin market for manufacturing hardware devices that allow users to store the access keys used to authenticate on Bitcoin wallets.
+The device, which is a modified USB storage unit, works offline and the keys on it can be accessed only with physical access to the device.
+In the Christmas security breach, the attacker would have only managed to steal home addresses, emails, and phone numbers from users that have bought KeepKey devices in the past, and not the content of those devices.
+It is unknown at the time of writing if the attacker used the access over these accounts to steal any KeepKey customer data.
+Nevertheless, as a precautionary measure, the company is offering a 30-day refund policy to all customers that had their details stored in the sales distribution channels and email marketing software accounts that the attacker managed to gain access to.
+At the start of December, someone had taken over the mobile number of Bo Shen, the founder of Bitcoin venture capital firm Fenbushi Capital, and had stolen at least $300,000 worth of Augur and Ether cryptocurrency.
+Two weeks later, the same hacker took over a mobile number for one of the Ethereum Project's admins and used it to reset the passwords for various accounts, eventually downloading a copy of Ethereum forum database backup, dated to April 2016.
+At the time of writing, there are no clues that link the first two attacks with the security breach at KeepKey, despite the similar hacking methods.
+</text>

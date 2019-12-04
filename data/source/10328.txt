@@ -1,0 +1,12 @@
+<title> Critical iOS 12.0.1 Update Fixes Security, Charging Bugs  </title>
+<source> https://www.tomsguide.com/us/ios-12.0.1-update-fixes,news-28263.html </source>
+<date> 2018_08_03 </date>
+<text>
+A new iPhone and a new iOS are here, but a number of bugs, and security flaws, have frustrated early adopters.
+iOS 12.0.1, Apple's first update after the release of iOS 12, has patched two vulnerabilities that could have allowed a user to bypass a device's passcode. Spanish hacker Jose Rodriguez was able to use Siri to enable VoiceOver mode, which could pull up the phone's contacts. You can see the specifics of his (very complicated) procedure in the video below. 
+Apple also says it has fixed a bug that caused the new iPhones to stop charging when their screens turned off. This wasn't an issue our review unit had, but it was noted throughout multiple forums and message boards. 
+The company has fixed a number of smaller bugs as well. A bug that caused the phone to automatically join 2.4-GHz networks rather than 5 GHz networks, a bug that sometimes caused Bluetooth to become unavailable, and a bug that blocked subtitles from appearing in some video apps are no longer.
+iPad users weren't left out, either. To some users' chagrin, the original iOS 12 moved the "123" key closer to the center of the iPad keyboard. You can breathe easy again: The key has moved back to the far left. 
+The update should be available to all users now. If you don't have automatic updates enabled, we recommend you update to the new patch ASAP if you've experienced any of these flaws, or are worried about hackers obtaining your phone.  
+</text>
+

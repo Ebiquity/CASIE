@@ -1,0 +1,39 @@
+<title>Cloudflare Breach Had Potential To Be Much Worse</title>
+<source> http://www.darkreading.com/attacks-breaches/cloudflare-breach-had-potential-to-be-much-worse/d/d-id/1328308? </source>
+<date> 2017_03_03 </date>
+<text>
+A security lapse at content distribution network provider Cloudflare that resulted in customer data being leaked publicly for several months was bad - but had the potential to be much worse.
+That's Cloudflare's initial postmortem conclusion after a twelve-day review of log data related to the breach.
+The review showed no evidence that attackers had exploited the flaw prior to it being discovered and patched, Cloudflare CEO and founder Matthew Prince said in a blog Wednesday.
+A "vast majority" of Cloudflare's customers also did not appear to have had any of their data leaked.
+Cloudflare’s inspection of tens of thousands of pages that were leaked from its reverse-proxy servers and cached by search engines revealed a "large number" of instances of internal Cloudflare cookies and headers.
+But so far, according to Prince, there’s no evidence that passwords, credit card numbers, and other personal data were compromised as was initially feared.
+The Cloudflare security snafu stemmed from the manner in which a stream parser application that the company uses to modify content passing through its edge servers handled HTTP requests.
+The bug caused the parser to read memory not only from the HTML page that was being actually parsed, but also from adjacent memory that contained data in response to HTTP requests made by other customers.
+The flaw was triggered only when pages with certain specific attributes were requested through Cloudflare’s CDN.
+"If you had accessed one of the pages that triggered the bug you would have seen what likely looked like random text at the end of the page," Prince said.
+A lot of the leaked data ended up getting cached by search engines and Web scrapers.
+A security researcher from Google’s Project Zero threat hunting team alerted Cloudfare to the bug last month.
+The company claimed it fixed the problem in a matter of hours after being notified of the problem.
+Some have compared the breach to Heartbleed and have even called it Cloudbleed.
+In his blog, Prince compared the threat posed by the bug to that posed by a stranger eavesdropping on a random conversation between two employees.
+Most of the time, the stranger would likely hear nothing of value, but occasionally might pick up something confidential.
+The same would have been true for a malicious attacker, who had somehow known about the bug and exploited it before Cloudflare’s fix, he said.
+The customers most at risk of having their data exposed were those that sent the most requests through Cloudflare’s CDN.
+Cloudflare’s detailed postmortem and mea culpa evoked a mixed response from security experts.
+Ilia Kolochenko, CEO of Web security firm High-Tech Bridge praised Prince’s effort to be transparent about what went down.
+"Even if we cannot verify the accuracy of all the numbers inside – for the moment, I don’t have a valid reason to question either its content, or conclusion," Kolochenko says.
+In fact, until someone can come up with a credible rebuttal of Cloudflare’s internal investigation, it’s inappropriate to compare what happened at the company to Heartbleed.
+"I’d say it’s inappropriate even to call this particular incident a 'Cloudbleed,'" he says.
+"In the Heartbleed case, almost every company in the world, many software vendors including cybersecurity companies, were seriously impacted by the vulnerability."
+Heartbleed also resulted in multiple breaches and many organizations continue to be exposed to the threat.
+Neither of those situations applies to the Cloudflare security lapse.
+"All avenues of Cloudflare’s vulnerability exploitation seems to be mitigated by now," he says.
+But Kunal Anand, CTO of application security vendor Prevoty, says the details Cloudflare has shared aren't exactly reassuring.
+If no sensitive information like credit numbers and Social Security Numbers were leaked and the leaked dataset itself was relatively small, there is no reason why Cloudflare shouldn't share it with a third-party for an unbiased review, he says.
+"CloudFlare needs to realize that HTTP headers, including cookies, contain sensitive information like session identifiers, authorization tokens and IP addresses," Anand says.
+"All of these data points should count as private data."
+CloudFlare has been working with various search engines to purge their caches, but in the process, any evidence of the data that was leaked is being deleted as well.
+That makes it hard to quantify the scope of the data breach outside of CloudFlare's own logs.
+"There's a lot of speculation if nation-state sponsored engines will actually purge the data or copy it for further analysis," Anand says.
+</text>

@@ -1,0 +1,15 @@
+<title> If at first you don't succeed, you may well be Cisco: WebEx patch needs its own patch </title>
+<source> https://www.theregister.co.uk/2018/11/27/cisco_webex_patch/ </source>
+<date> 2018_11_27 </date>
+<text>
+Update, Cisco will take a second crack at addressing a vulnerability in WebEx that can be exploited to execute malicious code on a vulnerable installation.
+Switchzilla has issued a new fix to address CVE-2018-15442, a command injection bug in its video conference software that allows a local attacker to their elevate privileges, and then execute code by injecting commands through the software update component of the WebEx Meetings Client.
+The bug was traced back to the failure by Webex Meetings to properly check arguments passed via its update service commands. Thus a miscreant could run an update command with specially crafted arguments to ultimately execute code with system privileges. This means rogue logged-in users or malware on a Windows system could leverage WebEx to completely hijack the machine.
+Cisco had hoped to plug the vulnerability in October with a patch that was thought to have resolved the flaw. However, software-breakers at SecureAuth found that Switchzilla failed to account for DLL preloading.
+By sticking the malicious commands inside a DLL file and then executing the update program with that library loaded, an attacker would be able to circumvent the patch and then exploit the flaw as before to execute commands with system-level clearance.
+"The vulnerability can be exploited by copying to an a local attacker controller folder, the ptUpdate.exe binary. Also, a malicious dll must be placed in the same folder, named wbxtrace.dll," SecureAuth explained in its disclosure today.
+"To gain privileges, the attacker must start the service with the command line:"
+Fortunately, the flaw was privately disclosed to Cisco, giving the teleconferencing vendor time to get out a fix prior to this bug going public. Those running Webex Meetings on their Windows machines should update as soon as possible.
+While the flaw isn't as severe as a remote code bug that could be exploited without any user interaction, the fact it has now been patched twice and has working proof-of-concept code public should make patching a priority.
+</text>
+

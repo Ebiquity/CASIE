@@ -1,0 +1,18 @@
+<title>InfoSec Handlers Diary Blog - Dynamite Phishing </title>
+<source> https://isc.sans.edu/diary/Dynamite+Phishing+/22121 </source>
+<date> 2017_02_27 </date>
+<text>
+Last week I ran across a very successful phishing campaign, what’s odd in most ways it was nothing special.
+The attacker was using this more like a worm, where stolen credentials would be used within the hour to start sending out a mass amount of more phishes.
+I've decided to call this "Dynamite Phishing" because there is nothing quiet about this at all.
+It seems about 40% of the credentials were used for more mailings, and the other account's credentials had not been used.
+The initial phishes came in from a K12 domain from several affected individuals.
+The email subject was  “You have an Incoming Document Share With You Via Google Docs”.
+The contents of the email were base64 encoded, while it appears to be common Content-Transfer-Encoding, it's not something I typically run into especially when looking at Phishes.
+The link in the document went to "hxxp://bit.ly/2kZJbW3" which went to hxxp://jamesrichardsquest.co.nf/lib
+The landing page was setup as a generic Outlook Web Access 2013 login page.
+It appears the EM_Client is a pretty popular email client, but it maybe something you can block on depending on your environment.
+user-agent: eM_Client/7.0.27943.0
+While most people have good protections from Emails coming from external entities into their email environment, many don’t push the same protections intra-domain.
+The volume of email sent from the Phished accounts to other Internal accounts is what made this so successful.
+</text>

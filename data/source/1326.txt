@@ -1,0 +1,19 @@
+<title>"Unique and Highly Sophisticated" Vulnerability Found in LastPass Manager</title>
+<source> https://www.hackread.com/lastpass-unique-highly-sophisticated-vulnerability/ </source>
+<date> 2017_03_28 </date>
+<text>
+Ormandy has reported several critical security flaws in the password manager during the past week, and this weekend he has managed to discover a new one.
+“I had an epiphany in the shower this morning and realized how to get codeexec in LastPass 4.1.43.
+Full report and exploit on the way,” he stated in his tweet.
+Ah-ha, I had an epiphany in the shower this morning and realized how to get codeexec in LastPass 4.1.43.
+pic.twitter.com/vQn20D9VCy
+— Tavis Ormandy (@taviso) March 25, 2017
+This member of Google’s Project Zero security team is already well known for his abilities to locate and report serious vulnerabilities in many widely used services, and even in the password manager that was supposed to be safe.
+The comment from LastPass states that the flaw is “unique and highly sophisticated”.
+So far, they have not shared any details that could be exploited before fixing is complete, but this is the second weekend in a row that LastPass security team is on a bug fixing duty.
+They thanked Tavis and others like him for reporting these sort of problems and helping them make online security even better for the rest of their users.
+Not everyone was happy about Ormandy’s newest twitter news.
+Some even called him on sharing the news about the latest bug problem, believing that his actions only cause fear and uncertainty.
+What they fail to realize is that all services have to face vulnerabilities from time to time, and all of them get patched up as soon as they are discovered.
+Most if not all online services have had their fair share of security issues, and most of them managed to get discovered and fixed by people like Ormandy.
+</text>

@@ -1,0 +1,17 @@
+<title> JobStreet confirms hit by Malaysia data leak - almost 3.9m   </title>
+<source> https://securitybrief.asia/story/jobstreet-confirms-hit-malaysia-data-leak-almost-39m-accounts-affected </source>
+<date> 2017_11_3 </date>
+<text>
+JobStreet is informing clients by email whether they were caught up in a Malaysia-based data breach that affected 19 different companies.
+“We are writing to notify you that we recently identified a post claiming that personal information from the databases of 19 corporations and associations had been made public, including ours,” the email says.
+According to website haveibeenpwned.com, 3,883,455 JobStreet accounts were affected by the breach. It says the information was freely downloadable on a Tor hidden service.
+The breach also affected more than 46 million Malaysian users and several telecommunications companies.
+Telecommunications providers caught by the breach include Altel, Celcom, DiGi, EnablingAsia, Friendi, Maxis, Merchantrade Asia, PLDT, Redtone, Tunetalk, Umobile and XoX, reports suggest.
+It also affected organisations such as the Academy of Medicine Malaysia, the Malaysian Dental Association, the Malaysian Medical Association, and the National Specialist Register of Malaysia. Reports speculate that more than 81,000 records were stolen from these organisations.
+“Our investigations established that some personal candidate information pertaining to accounts created before July 2012 has been exposed. To help protect our customers, the team is continuously enhancing our security measures for all user information stored with JobStreet.com,” JobStreet CEO Suresh Thiru says in an email.
+According to media reports, that personal information includes identity card numbers, addresses, login IDs, passwords, names, emails and phone numbers.
+Haveibeenpwned.com also notes that on JobStreet, dates of birth, genders, geographic locations, marital statuses, nationalities and usernames were also compromised.
+The Malaysian Communications and Multimedia Commission (MCMC) may have discovered the possible source of the data leaks, according to Malaysian Communications Minister Salleh Said Keruak.
+"We have identified several potential sources of the leak and we should be able to complete the probe soon," he announced.
+</text>
+

@@ -1,0 +1,11 @@
+<title> Latest Email Phishing Scam Targets Office 365 Users   </title>
+<source> https://www.millriverwealth.com/2018/05/01/latest-email-phishing-scam-targets-office365-users/ </source>
+<date> 2017_05_01 </date>
+<text>
+A recent phishing scam is targeting businesses and consumers who use Office 365 email services. Fraudsters are gaining access to Office 365 accounts by stealing login credentials obtained using convincing fake login screens.
+Fraudster email attacks are becoming increasingly sophisticated – often appearing to be sent from a business, organization, or individual the victim normally emails or does business with. The fictitious emails contain malicious links or attachments that redirect the victim to a fake login page asking for their email username and password. Once the information is entered, fraudsters then use the stolen credentials to log into Office 365 and send fraudulent emails to the victim’s contact list, perpetuating the scam.
+If you use Office 365 for email, we encourage you to be extra vigilant. Emails containing hyperlinks or attachments that require additional actions by you should be carefully vetted before proceeding. If you are unsure if an email you received is legitimate, do not click on any links, attachments, or provide any information.
+We also encourage you to contact any of your email contacts via phone or a safe email address to inform them that your email account has been compromised and to let them know they may receive fraudulent emails appearing to be sent by you.
+While Office 365 is the most recent phishing target, these types of scams regularly impact other email applications and platforms as well. Always be cautious when opening any emails that were not expected, are coming from someone you do not know, and contain links or attachments you were not expecting. Take advantage of added security measures that your email provider offers..
+If you ever feel information related to your financial accounts with us has been compromised, please notify us immediately so that we can assist you with protecting your accounts and notifying the appropriate authorities.
+</text>

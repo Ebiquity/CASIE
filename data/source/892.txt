@@ -1,0 +1,16 @@
+<title>Researchers Find 26 Security Flaws in 9 Popular Android Password Managers</title>
+<source> https://www.bleepingcomputer.com/news/security/researchers-find-26-security-flaws-in-9-popular-android-password-managers/ </source>
+<date> 2017_03_06 </date>
+<text>
+The list of tested apps includes MyPasswords,  Informaticore, LastPass, Keeper, F-Secure Key, Dashlane, Hide Pictures Keep Safe Vault, Avast Passwords, and 1Password.
+All tested apps were installed on at least 500,000 devices, with some apps having millions of users.
+The research team says these apps featured different kinds of security flaws, listed below:
+"The overall results were extremely worrying and revealed that password manager applications, despite their claims, do not provide enough protection mechanisms for the stored passwords and credentials," the research team concluded.
+"Instead, they abuse the users' confidence and expose them to high risks."
+In total, security researchers found 26 security bugs, ranging from low to critical-level issues.
+The research team went public with their findings at the start of the week.
+Initially, app makers fixed 23 of the 26 flaws, with Avast still lagging behind on three issues.
+Nevertheless, by March 1, Avast had also patched its product, and now users can update to the applications' latest versions to mitigate all issues discovered during the research.
+The research team's name is TeamSIK (Security Is Key), made up of several security professionals from the Fraunhofer Institute for Secure Information Technology in Darmstadt, Germany.
+Vulnerability reports for most of the found issues are available on TeamSIK's project homepage.
+</text>

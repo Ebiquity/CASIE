@@ -1,0 +1,19 @@
+<title>Hacker Leaks "Orange Is the New Black" Season 5 Episodes After Netflix Extortion Attempt Fails</title>
+<source> https://www.bleepingcomputer.com/news/security/hacker-leaks-orange-is-the-new-black-season-5-episodes-after-netflix-extortion-attempt-fails/ </source>
+<date> 2017_05_01 </date>
+<text>
+A hacker (or hacker group) known as The Dark Overlord (TDO) has leaked the first ten episodes of season 5 of the "Orange Is The New Black" show after two failed blackmail attempts, against Larson Studios and Netflix.
+TDO is one of the most well-known figures in today's dwindling hacker landscape. He first appeared on the scene in late 2015 and made a name for himself by hacking healthcare organizations, stealing their data, and trying to extract ransoms from victims by threatening to release sensitive data to the public.
+The hacker's online presence shrunk in the past few months, as many hoped he called it quits and moved on to other activities.
+Last night, at around 22:00 UTC (17:00 ET), your reporter noticed the hacker posting links on his Twitter profile that linked to a Pastebin page, GitHub profile, and a Pirate Bay torrent sharing episode 1 of season 5 of Netflix's "Orange Is The New Black" show.
+We didn't manage to get ahold of the Pastebin and GitHub links because they went down 20 minutes after they were posted, but we presume the links contained ransom demands. On the other hand, the Pirate Bay torrent file remained online, and users have downloaded and shared its content.
+Twelve hours later, TDO posted a new set of links on Twitter. These included a statement posted on Pastebin and a second torrent file, also hosted on The Pirate Bay, containing episodes 2 through 10 of the same season 5 of "Orange Is The New Black."
+In the Pastebin statement, TDO says he released the ten "Orange Is The New Black" episodes because Netflix didn't want to pay a ransom demand.
+While we weren't able to get in touch with TDO after numerous attempts, the hacker spoke with the administrator of DataBreaches.net, a reporter named Dissent.
+In their interview, TDO revealed he discovered "hundreds of GBs of unreleased and non-public media," on the servers of a Hollywood studio. The hacker didn't clarify if the server was exposed accidentally, or if he hacked it.
+DataBreaches.net identified the studio as Larson Studios, Inc., an audio post-production company, who later confirmed TDO's extortion attempt via email.
+TDO claims the studio initially agreed to pay a ransom of 50 Bitcoin ($67,000) by January 31, and the two parties even signed a contract, albeit TDO signed it using the name "Adolf Hitler."
+Something happened during the month of January, and the studio did not honor its word. At this point, the hacker turned from the studio to Netflix.
+According to TDO's statement, Netflix didn't want to pay his ransom demand either, and after two months he was forced to release the first ten episodes of season 5 of "Orange Is The New Black." According to Netflix's website, season 5 is supposed to have 13 episodes and is scheduled for release in June, this year.
+The release of these episodes is TDO's shot across the bow. The hacker claims to hold other unreleased shows and movies from several other studios.
+</text>

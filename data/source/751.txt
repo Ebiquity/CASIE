@@ -1,0 +1,10 @@
+<title>Bleeding clouds: Cloudflare server errors blamed for leaked customer data | CSO Online</title>
+<source> http://www.csoonline.com/article/3173639/security/bleeding-clouds-cloudflare-server-errors-blamed-for-leaked-customer-data.html </source>
+<date> 2017_02_27 </date>
+<text>
+While working on something completely unrelated, Google security researcher, Tavis Ormandy, recently discovered that Cloudflare was leaking a wide range of sensitive information, which could have included everything from cookies and tokens, to credentials.
+Cloudflare moved quickly to fix things, but their postmortem downplays the risk to customers, Ormandy said.
+The problem on Cloudflare's side, which impacted big brands like Uber, Fitbit, 1Password, and OKCupid, was a memory leak.
+The flaw resulted in the exposure of "HTTP cookies, authentication tokens, HTTP POST bodies, and other sensitive data," Cloudflare said.
+About an hour after being alerted by Ormandy, Cloudflare disabled three features on its platform; email obfuscation, Server-side Excludes and Automatic HTTPS Rewrites, as they were using the broken HTML parser chain determined to be the cause of the problem.
+</text>

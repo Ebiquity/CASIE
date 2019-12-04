@@ -1,0 +1,25 @@
+<title>Mysterious Girl at the Heart of Cyber-Espionage Campaign</title>
+<source> https://www.bleepingcomputer.com/news/security/mysterious-girl-at-the-heart-of-cyber-espionage-campaign/ </source>
+<date> 2017_02_15 </date>
+<text>
+Qatar is set to host the 2022 FIFA Soccer World Cup, and to do so, the country must build a number of stadiums.
+Additionally, Qatar's economy is also in full bloom, and many companies taking advantage of local tax-free zones are also driving a real-estate boom, with tens of buildings being built every year.
+At the heart of Qatar's roaring constructions sector are migrant workers, usually from East-Asian countries, such as India, Bangladesh, and most often Nepal.
+Loopholes in local legislation allow employers to withhold passports and force employees to work under appalling conditions, facing steep penalties, and even jail time if they try to leave the country before their contract expires.
+These conditions have attracted the attention of many activists, organizations, and journalists, that have published damning reports, even going as far as asking FIFA to revoke the rights to hold the 2022 World Cup until Qatar revises its labour laws.
+Claudio Guarnieri, a security researcher working for Amnesty International, has published a report today that reveals how an unknown person or group has created a fake persona named Saleena Malik, which they used to get close to journalists and activists.
+The primary goal was to become friends with potential victims, and after months of having private conversations, lure the target into accessing a phishing page disguised as a Google login, and collect their credentials.
+Malik's phishing attacks didn't happen right away, but always after the victim had time to get acquainted with her fake persona.
+In most cases, Malik posed as a person with similar interests in activism and Qatar's migrant labor laws.
+After months of private conversations via email, LinkedIn and/or Facebook, Malik would eventually invite a target to access a document or connect via Google Hangouts.
+In all cases, before accessing Malik's documents or Google Hangouts, the victim would first be prompted by a fake login page that collected their credentials.
+Guarnieri, who was alerted to Malik's actions by one of the targeted journalists, was able to identify where these phishing pages were hosted and where they sent data for storage.
+This is how the researcher tracked down at least 30 other victims of Malik's expert phishing attacks.
+Additionally, with collaboration from victims, Guarneri was also able to discover that the people behind the Malik persona had also accessed some of the phished Gmail accounts.
+The intruder's IP address belonged to a local Qatar Internet service provider.
+What the researchers wasn't able to find was who was behind the attacks.
+His guesses include the government of Qatar, another government wanting to make Qatar look bad, or a contractor hired by one of the construction firms or a government agency.
+In a statement for Amnesty International, a spokesperson for the government of Qatar denied any involvement.
+These particular set of attacks show a deep knowledge of social engineering, and especially phishing tactics.
+Whoever was behind this campaign had both the knowledge, skills and patience to wait for the seeds he planted to bear fruits many months later.
+</text>

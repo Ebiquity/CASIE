@@ -1,0 +1,16 @@
+<title>Radisson Rewards confirms data breach</title>
+<source> https://www.businesstraveller.com/business-travel/2018/10/31/radisson-rewards-confirms-data-breach/ </source>
+<date> 2018_10_31 </date>
+<text>
+Radisson Hotel Group has confirmed that it has suffered a data breach on affecting “a small percentage of our Radisson Rewards members”.
+Business Traveller was alerted to the incident by one of our readers, who had received an email from Radisson confirming that his details had been compromised.
+Radisson says that it identified the breach on October 1, although it’s not clear exactly when the incident occured.
+A statement on the group’s website states:
+“This data security incident did not compromise any credit card or password information. Our ongoing investigation has determined that the information accessed was restricted to member name, address (including country of residence), email address, and in some cases, company name, phone number, Radisson Rewards member number and any frequent flyer numbers on file.
+“Upon identifying this issue Radisson Rewards immediately revoked access to the unauthorized person(s). All impacted member accounts have been secured and flagged to monitor for any potential unauthorized behavior.
+“While the ongoing risk to your Radisson Rewards account is low, please monitor your account for any suspicious activity. You should also be aware that third parties may claim to be Radisson Rewards and attempt to gather personal information by deception (known as “phishing”), including through the use of links to fake websites. Radisson Rewards will not ask for your password or user information to be provided in an e-mail.
+“Radisson Rewards takes this incident very seriously and is conducting an ongoing extensive investigation into the incident to help prevent data privacy incidents from happening again in the future.”
+Radisson says that affected members will have receives an email notification from Radisson Rewards either yesterday (October 30) or today (October 31).
+In the FAQs Radisson stresses that credit card data was not exposed by the breach, nor were members’ passwords or travel histories / future stays.
+The hotel group is the latest in a line of travel companies to suffer data breaches, with British Airways and Cathay Pacific both admitting to compromised data in the last couple of months.
+</text>

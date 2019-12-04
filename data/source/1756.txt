@@ -1,0 +1,15 @@
+<title>Georgia voters' data at risk after equipment stolen in Cobb</title>
+<source> http://www.ajc.com/news/state--regional-govt--politics/breaking-voters-personal-data-risk-cobb-theft/FYDyqME5bqLG4ip4snYLwO/ </source>
+<date> 2017_04_19 </date>
+<text>
+State officials are investigating the theft last week of equipment from a Cobb County precinct manager’s car that could make every Georgia voters’ personal information vulnerable to theft. 
+The equipment, used to check-in voters at the polls, was stolen Saturday evening, Secretary of State Brian Kemp said Monday. 
+Cobb County elections director Janine Eveler said the stolen machine, known as an ExpressPoll unit, cannot be used to fraudulently vote in Tuesday’s election but that it does contain a copy of Georgia’s statewide voter file. 
+“We have managed that so that what’s stolen could not impact the election,” Eveler said. 
+While the file includes drivers’ license numbers, addresses and other data, it does not include Social Security numbers, Eveler said. 
+But, she said, “the poll book that was stolen did have a flash card with a voter list on it. But, it does require some knowledge or expertise to use machine to retrieve the information.”
+Cobb County Police and the State Election Board are investigating. 
+Kemp said it was “unacceptable” that Cobb officials waited two days to notify him of the theft. 
+“We have opened an investigation, and we are taking steps to ensure that it has no effect on the election tomorrow,” Kemp said in a statement. “I am confident that the results will not be compromised.”
+Nearly 55,000 votes were cast in early voting ahead of Tuesday’s election, the culmination of a campaign that brought national attention to the state.             
+</text>

@@ -1,0 +1,18 @@
+<title>This Ransomware Doesn't Want Cash, It Just Wants You to Play a Japanese Video Game  - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/this-ransomware-doesnt-want-cash-it-just-wants-you-to-play-a-japanese-video-game </source>
+<date> 2017_04_07 </date>
+<text>
+That's the question posed by a novel piece of ransomware that challenges victims to achieve a high score in a video game instead of demanding cash to unlock files.
+"Minamitsu 'The Captain' Murasa encrypted your precious data like documents, musics  [sic], pictures, and some kinda project files," a pop-up from the malware, called Resenware, reads.
+Research focused Twitter account MalwareHunterTeam tweeted screenshots of Resenware on Thursday.
+Victims allegedly have to obtain a certain high score on  Undefined Fantastic Object—a classic style, Japanese vertical shooter—on LUNATIC difficulty.
+Resenware's pop-up claims the malware will detect someone playing  Undefined Fantastic Object and their score automatically.
+MalwareHunterTeam confirmed in a Twitter direct message to Motherboard that the malware does indeed check that the game is running.
+But if someone did get infected by Resenware, they may want to quickly grab a copy—one Amazon listing only has three copies of Undefined Fantastic Object in stock.
+"Shmup enthusiasts who hunger for something new being brought to the table in terms of gameplay mechanics will be disappointed, but those enthusiasts seeking a challenge sure won't be!"
+a very enthusiastic fan wrote about a demo version of the game back in 2009.
+A YouTube clip allegedly shows someone playing a stage of the game on LUNATIC difficulty, and, well, it gets pretty intense.
+"DO NO TRY CHEATING OR TERMINATE THIS APPLICATION IF YOU DON'T WANT TO BLOW UP THE ENCRYPTION KEY," the pop-up continues.
+According to MalwareHunterTeam, there are no consequences from editing your score from within the game, a flaw that prompted the Resenware author to release a tool to remove the malware, along with an apology.
+"Ransomeware  [sic] is defentely kind of highly fatal malware, but I made it," the creator wrote, according to a screenshot posted by MalwareHunterTeam.
+</text>

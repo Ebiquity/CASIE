@@ -1,0 +1,18 @@
+<title>Second massive WannaCry-like cyber attack identified | Euronews</title>
+<source> http://www.euronews.com/2017/05/17/second-massive-wanncry-like-cyber-attack-identified </source>
+<date> 2017_05_18 </date>
+<text>
+Cyber security experts reveal they have found a second massive computer virus which has affected hundreds of thousands of computers world-wide, like the WannaCry cyber attack last week, has affected hundreds of thousands of computers world-wide and may have North Korean origins.
+This second global hack exploits the same Microsoft vulnerabilities as the WannaCry attack and it is estimated to have infected more than 200,000 computers. The full scale of this attack, however, is still being determined due to the fact the attack is on-going. 
+Preliminary analysis by California-based cyber security firm Proofpoint, which revealed the existence of this more subtle virus, suggests “that this attack may be larger in scale than WannaCry”, the company said in an online statement.
+Unlike last week’s attack which infected more than 300,000 computers since last Friday, this second cyber attack is thought to have begun either in late April or early May, but it had avoided being detected until recently, said Proofpoint researchers. 
+Computers infected by this second virus do not have their functions altered, nor are their files encrypted. Instead, they manufacture digital currency.
+Proofpoint said the virus installs the Adylkuzz currency “miner” – a sort of malware which hijacks a computer’s processing power to solve complex math problems and earn digital money.
+There exists several different kinds of online currencies, the most famous being Bitcoin. But this second attack is designed to generate a newer form of digital cash called Monero.
+Monero offers enhanced anonymity features and is the currency of darknet market place AlphaBay. Experts also believe the currency has been pursued by North Korea-linked hacker groups. 
+Proofpoint estimates this relatively unobtrusive computer virus generated more than a million euro – much more than what the WannaCry hackers extorted from their ransomware attack.   
+A North Korean hacker group called the Lazarus Group is thought to be behind last week’s massive ransomware attack and now it is thought a segment of this hacker group may be behind the currency mining attack.
+Kapersky Lab, a cyber security firm, said a segment of the Lazarus group had installed software on a European server in early April to mine Monero currency, said Reuters.
+Proofpoint executive Ryan Kalember, speaking to Reuters, said he believes these two attacks are “more than coincidence”. 
+“It’s a really strong overlap”, he told Reuters. “It’s not like you see Monero miners all over the world.”
+</text>

@@ -1,0 +1,19 @@
+<title>McShame: McDonald's API Leaks Data for 2.2 Million Users</title>
+<source> http://www.inforisktoday.in/blogs/mcshame-mcdonalds-api-leaks-data-for-22-million-users-p-2426 </source>
+<date> 2017_03_21 </date>
+<text>
+Things are getting messy at McDonald's in India, and that's not just for consumers of the Maharaja Mac - a double-stacked grilled chicken monstrosity with jalapenos and habanero sauce.
+The flaw, found by payments company Fallible, exposed names, email addresses, phone numbers, home addresses and sometimes the coordinates of those homes, as well as links to social media profiles.
+And Fallible contends that the leak still hasn't been properly fixed.
+I queried McDonald's to see if it has tried to seal the hole in the API and also whether it has notified customers or regulators, but I didn't get an immediate response.
+In a March 19 tweet, McDonald's didn't issue any clear answers, instead taking the well-trodden path of seeking to reassure users by highlighting what was not breached.
+McDonald's has dabbled in home delivery in many countries since the early 1990s, attracting budget diners willing to risk the short half-life of its sandwiches and fries versus the vagaries of home delivery.
+Fallible says it contacted McDonald's India on Feb 7, letting the fast-food chain know it could sequentially pull user information from the API using a curl request.
+"An unprotected publicly accessible API endpoint for getting user details coupled with serially enumerable integers as customer IDs can be used to obtain access to all users personal information," Fallible writes in a blog post.
+But the issue appeared to remain unfixed, so Fallible says McDonald's another email on March 7 asking for a status update.
+Ten days later, it sent another email and received no response.
+Fallible chose to go public with the issue in a March 18 blog post, prompting a public acknowledgement from McDonald's on Twitter the next day.
+Fallible contends the issue hasn't been fixed, and it's unclear from McDonald's tweet if it was.
+India doesn't have a specific law that requires mandatory reporting of data breaches.
+But there are regulations and laws that cover the disclosure of personal information.
+</text>

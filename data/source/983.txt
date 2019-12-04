@@ -1,0 +1,20 @@
+<title>Cisco and Apache issue warnings over Zero-Day flaw being targeted in the wild | CSO Online</title>
+<source> http://www.csoonline.com/article/3178744/security/cisco-and-apache-issue-warnings-over-zero-day-flaw-being-targeted-in-the-wild.html </source>
+<date> 2017_03_09 </date>
+<text>
+Cisco's Talos says they've observed active attacks against a Zero-Day vulnerability in Apache's Struts, a popular Java application framework.
+Cisco started investigating the vulnerability shortly after it was disclosed, and found a number of active attacks.
+In an advisory issued on Monday, Apache says the problem with Struts exists within the Jakarta Multipart parser.
+"It is possible to perform a RCE attack with a malicious Content-Type value.
+If the Content-Type value isn't valid an exception is thrown which is then used to display an error message to a user," the warning explained.
+"If you are using Jakarta based file upload Multipart parser, upgrade to Apache Struts version 2.3.32 or 2.5.10.1.
+You can also switch to a different implementation of the Multipart parser."
+The alternative is the Pell parser plugin, which uses Jason Pell's multipart parser instead of the Common-FileUpload library, Apache explains.
+In addition, administrators concerned about the issue could just apply the proper updates, which are currently available.
+In a blog post, Cisco said they discovered a number of attacks that seem to be leveraging a publicly released proof-of-concept to run various commands.
+Such commands include simple ones ('whoami') as well as more sophisticated ones, including pulling down malicious ELF executable and running it.
+An example of one attack, which attempts to copy the file to a harmless directory, ensure the executable runs, and that the firewall is disabled is boot-up, is below:
+Both Cisco and Apache urge administrators to take action, either by patching or ensuring their systems are not vulnerable.
+This isn't the first time the Struts platform has come under attack.
+In 2013, Chinese hackers were using an automated tool to exploit known vulnerabilities in order to install a backdoor.
+</text>

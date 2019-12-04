@@ -1,0 +1,18 @@
+<title>Critical flaw lets hackers take control of Samsung SmartCam cameras | CSO Online</title>
+<source> http://www.csoonline.com/article/3158468/security/critical-flaw-lets-hackers-take-control-of-samsung-smartcam-cameras.html </source>
+<date> 2017_01_17 </date>
+<text>
+The vulnerability was discovered by researchers from the hacking collective the Exploiteers (formerly GTVHacker), who have found vulnerabilities in the Samsung SmartCam devices in the past.
+The flaw allows for command injection through a web script, even though the vendor has disabled the local web-based management interface in these devices.
+The Samsung SmartCam is a series of cloud-enabled network security cameras that were originally developed by Samsung Techwin.
+Samsung sold this division to South Korean business conglomerate Hanwha Group in 2015 and the company was renamed Hanwha Techwin.
+In response to vulnerabilities reported in the web-based management interface of various SmartCam models over the past few years, Hanwha Techwin decided to completely disable the local administration panel and only allow users to access the cameras through the accompanying smartphone app and its My SmartCam cloud service.
+The Exploiteers researchers recently analyzed the Samsung SmartCam SNH-1011 and noticed that while accessing the web interface over the local network was no longer possible, the web server was still running on the device and hosted some PHP scripts related to a video monitoring system called iWatch.
+One of these scripts allows users to update the iWatch software by uploading a file, but has a vulnerability that stems from improper sanitization of the file name.
+The flaw can be exploited by unauthenticated attackers to inject shell commands that will then be executed by the web server running with root privileges.
+"The iWatch Install.php vulnerability can be exploited by crafting a special filename which is then stored within a tar command passed to a php system() call," the researchers explained in a blog post Saturday.
+"Because the web-server runs as root, the filename is user supplied, and the input is used without sanitization, we are able to inject our own commands within to achieve root remote command execution."
+While the flaw was found in the SNH-1011 model, the researchers believe that it affects the entire Samsung SmartCam series.
+Ironically the vulnerability can be exploited to turn on the disabled web management interface, whose removal was criticized by some users.
+The Exploiteers published a proof-of-concept exploit that does just that.
+</text>

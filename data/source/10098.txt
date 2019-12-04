@@ -1,0 +1,20 @@
+<title> U.S. Says North Korea 'Directly Responsible' For WannaCry Ransomware Attack  </title>
+<source> https://www.npr.org/sections/thetwo-way/2017/12/19/571854614/u-s-says-north-korea-directly-responsible-for-wannacry-ransomware-attack </source>
+<date> 2017_12_19 </date>
+<text>
+The White House has publicly blamed North Korea for a ransomware attack in May that locked more than 300,000 computers in 150 countries.
+"North Korea has acted especially badly, largely unchecked, for more than a decade," Homeland Security adviser Tom Bossert said at a White House briefing Tuesday morning.
+He called the WannaCry attack a reckless attack that caused "havoc and destruction" by locking vital information away from users, including hospital networks.
+"We believe now we have the evidence to support this assertion," Bossert said. "It's very difficult to do when you're looking for individual hackers. In this case, we found a concerted effort."
+In an opinion piece published in The Wall Street Journal on Monday, Bossert wrote that after careful investigation, Washington can say that Pyongyang is "directly responsible" for the WannaCry virus.
+Bossert called the attack in which victims received ransom demands to unlock their computers "cowardly, costly and careless."
+"The consequences and repercussions of WannaCry were beyond economic," he wrote. "The malicious software hit computers in the U.K.'s health-care sector particularly hard, compromising systems that perform critical work. These disruptions put lives at risk."
+Bossert is expected to brief reporters on Tuesday about the hacking.
+NPR's Elise Hu tells Morning Edition that "cyberattacks are a way for North Korea to punch above its weight" and that Pyongyang's hackers "have access to global networks and the Internet, and they have some real successes to count."
+Within days of the attack in May, North Korea fell under suspicion. As NPR's Bill Chappell reported at the time, WannaCry was found to have "lines of code that are identical to work by hackers known as the Lazarus Group, [which has] ... been linked to North Korea, raising suspicions that the nation could be responsible."
+And in October, Britain's Minister of State for Security Ben Wallace said his government was "as sure as possible" that Pyongyang launched the attack.
+Bossert said in the Journal that President Trump had "ordered the modernization of government information-technology to enhance the security of the systems we run on behalf of the American people."
+"We also indicted Russian hackers and a Canadian acting in concert with them. A few weeks ago, we charged three Chinese nationals for hacking, theft of trade secrets and identity theft. There will almost certainly be more indictments to come," he wrote.
+He said that the administration would continue to use its "maximum pressure strategy to curb Pyongyang's ability to mount attacks, cyber or otherwise."
+</text>
+

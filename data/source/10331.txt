@@ -1,0 +1,16 @@
+<title> Google releases November security patch (Update: OG Pixels patch is live)  </title>
+<source> https://www.androidauthority.com/android-november-2018-security-patch-921950/ </source>
+<date> 2018_11_19 </date>
+<text>
+If you own a Google Pixel or Google Pixel XL, you’re probably wondering where your November security patch update is. Although most Google devices — including older Nexus devices — received the patch at the beginning of the month as detailed below, the original Pixel lineup was left high and dry.
+Today, finally, the patch is here. You can wait for the OTA to hit your device, or you can use the links below to manually install.
+We’re not quite sure why this took so long, but hopefully, the December patch will be a bit more uniform.
+Right on schedule, Google has released Android’s October security patch. As it’s the first update to make its way to the Pixel 3 and Pixel 3 XL, it should include some bug fixes. Unfortunately, it won’t resolve the memory issues just yet.
+The November patch itself includes fixes for 17 security vulnerabilities. The most severe bugs included an issue in the media framework and the ability for a  remote attacker to execute arbitrary code through a crafted file. Fortunately, Google doesn’t believe that either of these were used to harm users.
+The November security patch includes several bug fixes and improvements specifically for Pixel devices. As Google notes, this update should help with notification stability on Pixel 2 and Pixel 3 handsets as well as improve picture-in-picture performance on the four handsets.
+Sadly, the November security patch will likely be the last update pushed to the Pixel C, Nexus 6P, and Nexus 5X. As Google only guarantees firmware upgrades for two years after a device is released and security patches for three, the search giant is no longer obligated to support the two phone or tablet.
+Of course, this doesn’t mean that your devices are no longer usable. Even if you no longer get official support from Google, there are large developer communities that build ROMs that brings the latest security patches and Android features to all of Google’s abandoned devices.
+If you don’t want to wait for the November security patch to make its way to your phone, you can download the latest factory image or OTA file from the links below. From there, you can either flash a fresh build to your phone or sideload the OTA update.
+The November security patch is also making its way to the Essential Phone. In addition to the resolved issues addressed above, this update brings support for the company’s Audio Adapter HD module. 
+</text>
+

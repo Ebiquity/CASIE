@@ -1,0 +1,20 @@
+<title>Spora Ransomware Sets Itself Apart with Top-Notch PR, Customer Support</title>
+<source> https://www.bleepingcomputer.com/news/security/spora-ransomware-sets-itself-apart-with-top-notch-pr-customer-support/ </source>
+<date> 2017_02_07 </date>
+<text>
+Discovered at the start of the year, Spora distinguishes itself from similar threats by a few features, such as the option to work offline, and a ransom payment portal that uses "credits" to manage Bitcoin fees.
+Another of those unique features is a real-time chat window where victims can get in contact with ransomware operators.
+By tweaking the ransomware infection ID, security researchers can access the ransom payment page of different Spora victims.
+This has allowed researchers to keep track of conversations between victims and Spora operators.
+As stated in our original article about Spora, the criminals behind this ransomware operation consider themselves "professionals" and appear to have considerable experience in running ransomware campaigns.
+The thing that stood out for us in the beginning, and is still valid even today, is that the Spora gang pays a lot of attention to customer support.
+They provide help in both English and Russian and are very attentive not to escalate conversations with angry victims, always providing appropriate and timely responses to any inquiries.
+Security researcher MalwareHunter has spotted a few interesting conversations in the Spora ransom payment portal in the past few days.
+First and foremost, Spora authors have been very lenient to victims that couldn't pay the ransom, often offering to extend or even disable the payment deadline altogether.
+Second, Spora authors had been offering discounts, free decryptions of important files and deadline extensions for people who were willing to leave a review of their support service on the Bleeping Computer Spora ransomware thread.
+At the time of writing, we haven't observed any users taking them on this offer and posting such reviews on our forum.
+The reason why the Spora crew asks customers for reviews is so other victims can read about their story and feel confident that if they pay, they'll receive their files back.
+This is a smart marketing move, since it builds trust in their service.
+Many times, other ransomware authors don't always provide a way for victims to recover files, and more and more people now know there's a high chance that paying the ransom won't always recover their files.
+MalwareHunter cites one case where the Spora gang has offered a 10% discount to a company that suffered Spora infections on more than 200 devices.
+</text>

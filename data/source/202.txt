@@ -1,0 +1,11 @@
+<title>Spammers Revive Hancitor Downloader Campaigns  | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/spammers-revive-hancitor-downloader-campaigns/123011/ </source>
+<date> 2017_01_13 </date>
+<text>
+A recent lull in the distribution of spam spreading information-stealing malware via the Hancitor downloader has been snapped.
+Researchers at the SANS Internet Storm Center are currently tracking an increase in spam purporting to be a forwarded parking ticket notification.
+The message prompts the recipient to click a link to pay a parking ticket; the hyperlink is to a Microsoft Word document.
+“The document contains a malicious VB macro described has Hancitor, Chanitor or Tordal,” wrote Brad Duncan, handler at the SANS Internet Storm Center in blog post warning of the spam campaign.
+“If you enable macros, the document retrieves a Pony downloader DLL.
+The Pony downloader then retrieves and installs Vawtrak malware”.
+</text>

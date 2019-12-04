@@ -1,0 +1,31 @@
+<title>Hacker Steals 900 GB of Cellebrite Data - Motherboard</title>
+<source> http://motherboard.vice.com/read/hacker-steals-900-gb-of-cellebrite-data </source>
+<date> 2017_01_13 </date>
+<text>
+This is part of an ongoing Motherboard series on the proliferation of phone cracking technology, the people behind it, and who is buying it.
+Motherboard has obtained 900 GB of data related to Cellebrite, one of the most popular companies in the mobile phone hacking industry.
+The cache includes customer information, databases, and a vast amount of technical data regarding Cellebrite's products.
+The breach is the latest chapter in a growing trend of hackers taking matters into their own hands, and stealing information from companies that specialize in surveillance or hacking technologies.
+Cellebrite is an Israeli company whose main product, a typically laptop-sized device called the Universal Forensic Extraction Device (UFED), can rip data from thousands of different models of mobile phones.
+That data can include SMS messages, emails, call logs, and much more, as long as the UFED user is in physical possession of the phone.
+Cellebrite is popular with US federal and state law enforcement, and, according to the hacked data, possibly also with authoritarian regimes such as Russia, the United Arab Emirates, and Turkey.
+The cache includes alleged usernames and passwords for logging into Cellebrite databases connected to the company's my.cellebrite domain.
+This section of the site is used by customers to, among other things, access new software versions.
+In the majority of cases, this was not possible because the email address was already in use.
+A customer included in the data confirmed some of their details.
+The dump also contains what appears to be evidence files from seized mobile phones, and logs from Cellebrite devices.
+According to the hacker, and judging by timestamps on some of the files, some of the data may have been pulled from Cellebrite servers last year.
+"Cellebrite recently experienced unauthorized access to an external web server," the company said in a statement on Thursday after Motherboard informed it of the breach.
+"The company is conducting an investigation to determine the extent of the breach.
+The impacted server included a legacy database backup of my.Cellebrite, the company's end user license management system.
+The company had previously migrated to a new user accounts system.
+Presently, it is known that the information accessed includes basic contact information of users registered for alerts or notifications on Cellebrite products and hashed passwords for users who have not yet migrated to the new system," the statement continues.
+Cellebrite advised customers to change their passwords as a precaution, and added that it is working with relevant authorities to assist in their investigation.
+Access to Cellebrite's systems has been traded among a select few in IRC chat rooms, according to the hacker.
+"To be honest, had it not been for the recent stance taken by Western governments no one would have known but us," the hacker told Motherboard.
+The hacker expressed disdain for recent changes in surveillance legislation.
+In 2014 a hacker calling themselves "PhineasFisher" publicly released 40GB of data from surveillance company Gamma International.
+Gamma makes intrusion software that can remotely switch on a target's webcam, siphon off their emails, and much more.
+The following year, PhineasFisher targeted Italian company Hacking Team, and published a trove of emails and other internal documents from the company.
+Although the terms of this Cellebrite breach are somewhat different—the hacker has not dumped the files online for anyone to download—similarities seem to remain, especially in the hacker's vigilante motivation.
+</text>

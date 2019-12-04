@@ -1,0 +1,15 @@
+<title> Microsoft's emergency Internet Explorer patch renders some Lenovo laptops unbootable </title>
+<source> https://betanews.com/2018/12/24/internet-explorer-patch-lenovo-laptops/ </source>
+<date> 2018_12_24 </date>
+<text>
+A few days ago, Microsoft issued an emergency patch for Internet Explorer to fix a zero-day vulnerability in the web browser.
+The problem affects versions of Internet Explorer from 9 to 11 across multiple versions of Windows, but it seems that the patch has been causing problems for many people. Specifically, people with some Lenovo laptops have found that after installing the KB4467691 patch they are unable to start Windows. 
+When the patch was released, it was known that there were a few issues with older versions of Windows 10 -- for example, problems with the .NET framework, and with web links in the Start menu.
+But since the initial release, Microsoft has updated the patch page to indicate a further potential problem with some Lenovo laptops:
+    After installing KB4467691, Windows may fail to startup on certain Lenovo laptops that have less than 8 GB of RAM.
+The company goes on to suggest a couple of possible workarounds for those running into issues:
+    Restart the affected machine using the Unified Extensible Firmware Interface (UEFI). Disable Secure Boot and then restart.
+    If BitLocker is enabled on your machine, you may have to go through BitLocker recovery after Secure Boot has been disabled.
+Microsoft says that it is "working with Lenovo and will provide an update in an upcoming release".
+</text>
+

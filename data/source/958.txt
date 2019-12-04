@@ -1,0 +1,27 @@
+<title>Satan ransomware: old name, new business model – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/03/07/satan-ransomware-old-name-new-business-model/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=508533175e-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-508533175e-455160889 </source>
+<date> 2017_03_08 </date>
+<text>
+Last month, we received a few queries asking about a strain of ransomware going by the name of Satan.
+Those queries were along the lines of, “What do you detect it as?”
+The simple answer is Troj/Ransom-ECZ, which is what we replied back then, but there’s a backstory to the Satan malware family that we thought was worth covering, too.
+Cybercriminals have long used themes like the devil, the occult and what you might rather loosely call “the dark arts” as inspiration for malware names: Dark Avenger, Necropolis, Mydoom, Natas (which is Satan backwards) and SatanBug are just a few examples
+But there’s one aspect of the Satan ransomware that isn’t old-school, and that’s what we’re looking at in this article: its business model.
+In its own words, the malware part of Satan is simply explained:
+Satan is a ransomware, a malicious software that once opened in a Windows system, encrypts all the files, and demands a ransom for the decryption tools.
+Satan has brazenly copied the business model of many legitimate online services such as iTunes and eBay: joining up is free, but you pay-as-you-go on a percentage basis when you put business through the site.
+The Satan service claims to:
+The service (we'll use that word without quotation marks, but you may infer them if you wish) even supports optional two-factor authentication based on a public-private key pair, just like SSH, and a CAPTCHA to make automatic mass signups more difficult.
+Once you have a login, you can begin to generate ransomware samples, tailored to your own price point.
+You can choose an initial ransom, starting at BTC 0.1 (about $125 on 2017-03-07), the number of days you want to keep the price at its starting point, and a "ramp up" factor by which the ransom will increase after the initial period:
+Once you've created a sample, you can not only download it to start attacking potential victims, but also generate a series of supporting files that will help you to use it in an attack.
+That way, the files you publish online for your victims to download won't look obviously like Windows programs (EXE files).
+Of course, once you have scrambled your ransomware files, you can't just send the files or links to your victims and expect them to work, because the files will arrive in scrambled form and won't run.
+The Satan service helps you over that step, too, by creating either an HTML page or a Microsoft Word macro to do the job of downloading, unscrambling and auto-launching the decoded malware.
+You then convert the HTML into CHM (compiled HTML) format or embed the generated Word macro into a Word document, thus creating a malware downloader file you can send as an email attachment and entice your victim to open it.
+If you do manage to infect a prospective victim, they’ll be instructed to pay the ransom you specified, but into a bitcoin wallet operated by the crooks:
+You’re then expected to trust the crooks to be honest about all the payments they receive, and to cough up 70% of every ransom payment into a bitcoin address you supply them.
+We shouldn’t have to say this, but the answer is dead simple: DON’T.
+Deliberately sending out malware in the hope of infecting victims is illegal in most jurisdicitions; actually infecting them just makes a bad thing worse; and demanding money with menaces after infecting them is worse still.
+If you try this and get caught, don’t expect too much sympathy from the court.
+</text>

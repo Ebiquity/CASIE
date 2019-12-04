@@ -1,0 +1,16 @@
+<title>Security Alert: Fake Delta Airlines Receipt Spreads Financial Malware</title>
+<source> https://heimdalsecurity.com/blog/hancitor-malware-delta-airlines/ </source>
+<date> 2017_04_21 </date>
+<text>
+Cyber crooks have come up with a new way to infect your computer with financial and banking malware.
+The process starts by randomly sending users spam emails disguised as a payment confirmation email from Delta Air.
+The choice to mask the email as coming from an airline wasn’t random, since many this time of year is when many consumers purchase flight tickets at discounted rates for the summer.
+However, no transaction actually took place! The email is designed to scare you into thinking someone bought an airplane ticket using your identity. You then panic and click on one of the links in the email in order to figure out how someone could do an unauthorized purchase with your credentials.
+The links then redirect you to several compromised websites, which host Word documents infected with the Hancitor malware.
+Hancitor is a versatile malware frequently used in phishing attacks that specializes initially infecting a PC, and then acting as a bridge for further malware downloads.
+If you download the malicious Word document and open it, then Hancitor will activate and infect legitimate system processes in your PC using a PowerShell code. Afterwards, your PC will connect to one or more malicious Command and Control (C&C) servers.
+These C&C servers will then download additional malware on your PC, which belong to the Pony family.
+Pony malware is specifically designed to steal sensitive information such as passwords and usernames from VPNs, web browsers, FTP, messaging apps and many more.
+On top of that, the C&C servers also download and spread another Pony-based malware called Zloader. Unlike Pony, Zloader is a banking malware designed to clean up your bank account and steal financial information.
+Once the information harvesting is complete, the malware connects to another set of C&C servers and sends them all of your credentials and financial information.
+</text>

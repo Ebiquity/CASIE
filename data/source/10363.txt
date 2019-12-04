@@ -1,0 +1,22 @@
+<title> Cloquet school district hit by second ransomware attack  </title>
+<source> https://www.pinejournal.com/news/education/4486912-cloquet-school-district-hit-second-ransomware-attack </source>
+<date> 2018_05_14 </date>
+<text>
+When Cloquet school officials realized staff were unable to access certain files the morning of Aug 3, there may have been a certain amount of negative "been there, done that" feeling involved.
+For the second time in three years, the school district is the target of a ransomware attack — a particularly virulent computer malware that spreads from computer to computer, locking up access to network servers and turning documents into gibberish before offering "help" in the form of a request for payment to provide a "key" to unlock the files.
+Last time, in March 2016, the district had to cancel school for a day to allow technology staff time to recover from the malware, which infected some of the district's servers and many of its more than 600 computers.
+This time, it happened over summer vacation, and the attack was not as devastating. According to the staff report from Cloquet School District Technology Director T.J.Smith, the virus encrypted files on all servers except one, including network shared drives. However, there is no indication that any information was "stolen," just that it had been encrypted, so users were unable to open the files.
+Smith explained to Cloquet School Board members Monday, Aug 13, that the district had two options, not including paying the ransom demand: either try to recover the data, which may not be successful and could be a waste of time and money, or figure out how to recreate the data and rebuild the affected servers.
+He advocated the second option, noting that the lost data was not "mission critical" and that insurance will pay to return the servers to their previous state.
+Board members voted unanimously for the second option of re-creating information and rebuilding the servers; they also voted to hire a company to do a "forensic" investigation to try and determine how the virus got in.
+The total cost to the school district for insurance deductibles, estimated at $15,000, will be covered by money already in the technology budget.
+Superintendent Michael Cary said the district determined that paying a ransom "is not in the best interest of our schools and the community we serve."
+Board Chairman Ted Lammi said he believes such payments to hackers should be illegal.
+"Some institutions have paid big bucks and that's why these guys do it," Lammi said.
+Board member Duane Buytaert, who works in technology for Carlton County, said it can also be a matter of making sure users know how to detect such attacks.
+"We all get those wacky emails," he said.
+Staff training should be a priority, board members agreed.
+On the positive side, Smith said technology staff were able to recover quite a bit of data already, and staff can recreate the data that was lost.
+The recovery process should not affect the start of school Sept 5.
+</text>
+

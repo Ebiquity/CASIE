@@ -1,0 +1,20 @@
+<title>Link seen between groups behind ransomware, RCBC cyber heist | Headlines, News, The Philippine Star | philstar.com</title>
+<source> http://www.philstar.com/headlines/2017/05/17/1700876/link-seen-between-groups-behind-ransomware-rcbc-cyber-heist </source>
+<date> 2017_05_18 </date>
+<text>
+A cybersecurity firm said that the recent WannaCry ransomware attacks may be connected to the group that orchestrated one of the biggest cyberheists in history that involved a Philippine bank.
+Kaspersky Lab, a cybersecurity and antivirus provider in Moscow, said in a statement that a security researcher at Google found an “artifact” on Twitter potentially linking the WannaCry ransomware attacks that hit organizations and individuals in several dozen countries and the Lazarus hacking group which was responsible for several devastating cyberattacks on government organizations, media firms and financial institutions in recent years.
+“On Monday, May 15, a security researcher from Google posted an artifact on Twitter potentially pointing at a connection between the WannaCry ransomware attacks that recently hit thousands of organizations and private users around the world, and the malware attributed to the infamous Lazarus hacking group, responsible for a series of devastating attacks against government organizations, media and financial institutions,” Kaspersky said.
+Late last week, a worm dubbed WannaCry locked up more than 200,000 computers in more than 150 countries, disrupting operations of car factories, hospitals, shops, schools and other institutions.
+The attack on late Friday was slowed down after a security researcher took control of a server linked to the attack, crippling its ability to rapidly spread across the world.
+The Lazarus group meanwhile has been linked to several large-scale operations such as the attacks against Sony Pictures in 2014 and a series of similar attacks that continued until 2017.
+One of the biggest attacks carried out by the Lazarus group was the Central Bank of Bangladesh heist in 2016, one of the biggest in history.
+In that operation, hackers sent fraudulent messages that were made to appear to be from the Bangladeshi central bank to transfer $1 billion from its account in the Federal Reserve of New York.
+Most of the transfers were blocked but about $81 million was sent to RCBC in the Philippines.
+The money was moved around to make it difficult to trace.
+Kaspersky said that the Google researcher pointed at a WannaCry malware sample which appeared in February 2017, weeks before the late Friday attack.
+Based on the analysis of Kaspersky researchers, it was confirmed that there was “clear code similarities” between the sample highlighted by the Google expert and the malware samples used by the Lazarus group in their 2015 attacks.
+Kaspersky however admitted that the similarities might be a false flag although another analysis of the February and WannaCry samples used in the recent operation showed that the code which could point at the Lazarus group was removed from the malware.
+Kasperksy said that this could be an attempt to cover the traces of the perpetrators of the WannaCry operations.
+“Although this similarity alone doesn't allow proof of a strong connection between the WannaCry ransomware and the Lazarus Group, it can potentially lead to new ones which would shed light on the WannaCry origin which to the moment remains a mystery,” Kaspersky said.
+</text>

@@ -1,0 +1,19 @@
+<title>China-Based Threat Actor APT10 Ramps Up Cyber ...</title>
+<source> http://www.darkreading.com/attacks-breaches/china-based-threat-actor-apt10-ramps-up-cyber-espionage-activity/d/d-id/1328584? </source>
+<date> 2017_04_07 </date>
+<text>
+An unknown number of managed service providers and their customers are victims of a massive, global cyber espionage campaign by a China-based threat actor that this week was also fingered in another attack against a U.S. group involved in lobbying around foreign trade policy.
+News of the campaigns coincides with Chinese President Xi Jinping’s first official visit to the U.S. to meet with President Trump.
+It suggests that cyber-enabled espionage out of China continues to be an issue, despite a September 2015 agreement between the U.S and Chinese governments not to support or engage in such activities.
+“Even as IP-focused cyber-espionage has reduced since the Xi Jinping-Obama agreement, big business will continue to be targeted, if nothing else than for the influence they hold over governments,” warns Hardik Modi, vice president of threat research at Fidelis Cybersecurity.
+Fidelis was one of the organizations that this week disclosed new cyber espionage activity by APT10, a well-known China-based advanced threat group that is also known as Stone Panda.
+The other warning about the APT10 group's resurgent activity, after a period of relative quiet, came from PwC UK and BAE Systems.
+According to Fidelis, its security researchers in February discovered a reconnaissance tool called "Scanbox," previously associated with China government-sponsored threat actors, embedded on specific pages of the NFTC site.
+Among the infected page were those that NFTC board members used to register for meetings.
+It’s unclear how the APT10 group initially breached the site in order to embed Scanbox on it.
+“Scanbox is a robust framework that can include a variety of reconnaissance modules,” Modi says.
+It can, for instance, be used to determine the software running on a target system, the type and version of antivirus on it, and other details.
+“In some instances, it has been known to serve up a JavaScript keylogger that can be used to grab credentials that the target enters on the page,” he says.
+NFTC members have been major contributors to the dialogue around the new U.S. trade policy framework being developed by the Trump Administration.
+It is highly likely the APT10 group will use data that Scanbox collected to craft targeted attacks against them.
+</text>

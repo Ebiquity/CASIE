@@ -1,0 +1,9 @@
+<title>Latest Microsoft Office Zero-day Served via Godzilla Botnet - Netskope</title>
+<source> https://resources.netskope.com/h/i/339100944-latest-microsoft-office-zero-day-served-via-godzilla-botnet </source>
+<date> 2017_04_12 </date>
+<text>
+Netskope Threat Research Labs has discovered that the latest Microsoft Office zero-day vulnerability is linked to the Godzilla botnet loader discussed in our recent blog. During our research, we observed the IPs related to the Godzilla Botnet loader serving payloads associated with exploits for the latest zero-day vulnerability in Microsoft Office. Microsoft has said that the vulnerability will be patched today. Netskope Threat Protection detects the known exploits for this new vulnerability as Backdoor.Explot.ANWK. The payload for the exploit are detected as Backdoor.Generckd.4818242 and Backdoor.Generckd.4818381.
+This vulnerability allows a malicious actor to execute a Visual Basic script, when the victim opens a document containing an embedded exploit. An excerpt of the VBScript code embedded in the document is shown in Figure 1.
+Figure 1: VBScript code in the malicious document
+We observed the domains btt5sxcx90.com, hyoeyeep.ws and rottastics36w.net also serving payloads associated with the latest Microsoft Office zero-day exploit. At this moment we cannot speculate that the spam campaign and zero-day are related. However, based on current observations, we believe that the same attack group is behind these attacks. Netskope recommends users to block all the IPs and domains mentioned in Figure 8 of our previous blog. Additionally, we suggest users ensure that Office Protected View is enabled to prevent exposure to this attack. 
+</text>

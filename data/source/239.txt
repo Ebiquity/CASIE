@@ -1,0 +1,26 @@
+<title>WhatsApp scams spread widely thanks to trust between friends – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/01/17/whatapps-scams-spread-widely-thanks-to-trust-between-friends/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=336f011c6c-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-336f011c6c-455160889 </source>
+<date> 2017_01_18 </date>
+<text>
+Earlier this year we wrote about a fast-spreading WhatsApp scam that promised free Wi-Fi access.
+That scam implied that WhatsApp itself was making the offer in order to keep you active on WhatsApp without using any airtime or data from your own mobile provider network.
+It was all a pack of lies, of course, as became obvious if you clicked through to the various links seen in the scam campaign.
+When we used an old-model iPhone, we were bait-and-switched to what was supposedly a lucky draw in which we could allegedly win a brand new iPhone – in return for forwarding the original scam to four of our friends and four groups of friends:
+We didn’t do that, of course, so we can’t tell you what we would have had to do next to qualify for entry into the “prize draw”, but most scams of this sort involve getting you to fill in one or more surveys, in which you hand over personal information such as email address, phone number and often your physical address.
+The excuse that “we need to know how to contact you and where to deliver the prize if you win” is sometimes used as an incentive to squeeze you into giving away information that you might otherwise refuse to reveal to strangers.
+Watch out for competitions that do this: if the only purpose of collecting the data is to deal with one winner out of all the entrants, why not wait until the winner is known and ask just that person?
+When we played along with the WhatsApp scam from an Android device, we had to forward the scam to 15 friends and install two apps:
+The suggestion to “Please Download Both Apps below to Enable Ultra Wifi” did no such thing: one app was the front-end for an Android software marketplace catering to users in India; the other was a shopping app for a popular Chinese web service.
+The apps were legitimate, and unconnected with the scam except that the crooks selected them as baits to try to rack up fraudulent pay-per-install affiliate fees.
+The “free Wi-Fi” never materialised, of course, because it was a fabrication from the start.
+Over the past weekend, several Naked Security readers in the UK alerted us to a similar sort of WhatsApp scam, this time stealing the brands of at least two major UK supermarket chains.
+Unsurprisingly, especially with the 6/6 vision that hindsight so often brings, the “free gift cards” in this latest scam campaign are as elusive as the “free Wi-Fi” in the earlier scam.
+We received numerous screenshots of the offending messages, targeting two different brands and referencing three different domain names in their clickable links.
+Fortunately, the hosting provider that services these three domains, all of which have their contact data shielded behind a domain privacy service based in The Bahamas, has pulled the plug on them.
+The links in the scams we’ve seen now terminate at a holding page that keeps potential victims away from the scammers:
+According to reports from people we talked to who were tricked into going through with the scam while the links were alive, the results were very much like those we observed in the “free Wi-Fi” scam above.
+One person was given a survey to complete; another was asked to install an app they wouldn’t otherwise have considered.
+The big difference between a typical WhatsApp scam and an email scam is that the messages you receive come from someone you know, because they’ve been tricked into forwarding the scam.
+Email spam campaigns usually rely heavily on malware-infected computers known as bots (short for “robots”) or zombies that can be remotely commanded to start sending unwanted messages secretly in the background.
+But WhatsApp scammers don’t need to mess around with malware to subvert your phone into sending unwanted messages, because they can use the goodwill and trust that typically exists between friends to convince people to spread their scams willingly.
+</text>

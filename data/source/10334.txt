@@ -1,0 +1,14 @@
+<title> Twitter phishing campaign targets customers of all major UK banks  </title>
+<source> https://www.zdnet.com/article/twitter-phishing-campaign-targets-customers-of-all-major-uk-banks/ </source>
+<date> 2018_10_26 </date>
+<text>
+A phishing campaign is targeting customers of every major UK bank, with cybercriminals posing as customer support staff on Twitter in an attempt to steal users' online banking credentials.
+Easy to carry out but difficult to defend against, phishing is an increasingly popular weapon of choice for hackers. That's because, with an authentic-looking fake website, they can just sit back and scoop up data as victims unwittingly hand over their usernames and passwords.
+Phishing often relies on cybercriminals sending tailored emails to potential victims in an effort to lure them into giving up credentials or installing malware. However, cybersecurity researchers at Proofpoint have uncovered an Angler phishing campaign which, rather than being tailored to specific users, takes advantage of how they can often be careless on social media -- specifically Twitter.
+In this instance, cybercriminals monitor Twitter for users approaching genuine support accounts for banks, and attempt to hijack the conversation with a fake support page.
+This sort of phishing attack is unlikely to provide cybercriminals with the big score they'd hit if they targeted a corporate network, but it does enable the easy theft of credentials and small amounts of money -- and repeated success could become lucrative, and also provide criminals with access to other types of data which can be used to commit fraud.
+"In many of the examples we've seen, the hacker is not just collecting banking credentials. They also look for information like ATM Pin, Credit/Debit card numbers, security questions and answers, and even social security numbers. With this information, they can circumvent some security measures, make purchases/withdrawals without online access, or create entirely new bogus accounts using the customer's information," says Celeste Kinswood at Proofpoint.
+Fortunately, there are some simple things users can do to ensure they don't become victims of this style of social media phishing attack. For starters, a real support account will be verified with a blue tick and won't directly ask for login credentials. A quick search for the real account should also demonstrate if the one contacting you is fake.
+Users may want to see their problems solved quickly, but taking ten seconds to verify who you're talking to will pay off in the long run.
+</text>
+

@@ -1,0 +1,19 @@
+<title>Scareware scammers target iOS users - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/28/ios-scareware/ </source>
+<date> 2017_03_28 </date>
+<text>
+A bug in the way that Mobile Safari handles pop-up dialogs has been abused to scare iOS users into paying a “fine” in the form of an iTunes pre-paid card.
+“This attack was initially reported to Lookout’s Support desk by one of our users running iOS 10.2.
+“The user provided a screenshot showing a ransomware message from pay-police[.
+]com, with an overlaid ‘Cannot Open Page’ dialog from Safari.
+Each time he tapped ‘OK’ he would be prompted to tap ‘OK’ again, effectively putting the browser into an infinite loop of dialog prompts that prevented him from using the browser”.
+The scammers have purchased a large number of different domains, and equipped them with obfuscated JavaScript code that would trigger the bug in Mobile Safari.
+The intended targets were mostly from English-speaking countries: the US, the UK, Ireland, Australia and New Zealand.
+The attack was contained within Safari’s sandbox, so the victims’ devices were not actually compromised.The attackers banked on users’ fear and shame to pull the scam off.
+Lookout notified Apple of the attack, and the iThings manufacturer fixed the abused flaw in iOS 10.3, which was released on Monday.
+“The pop-up window error dialog on newer versions of iOS is actually the result of Mobile Safari not being able to find a local URL lookup, so it fails, but keeps presenting the dialog message due to the infinite loop in the code,” the researchers explained.
+“The attack, based on its code, seems to have been developed for older versions of iOS, such as iOS 8.
+However, the abuse of pop-ups in Mobile Safari was still possible until iOS 10.3”.
+With the new iOS version, these pop-ups won’t be locking the entire browser, but just that one tab, which can be simply closed and the user can continue using the browser like nothing happened.
+Users are advised to update their iOS-running iThings to version 10.3 to close up this particular attack vector.
+</text>

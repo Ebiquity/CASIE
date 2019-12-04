@@ -1,0 +1,21 @@
+<title>Google 0-Day Hunters Find 'Crazy Bad' Windows RCE Flaw</title>
+<source> http://thehackernews.com/2017/05/windows-rce-exploit.html?utm_source=hs_email&utm_medium=email&utm_content=51694101&_hsenc=p2ANqtz-8taLJ8zUddIbBLjvugF613nc27qM-jZise5yppjSfvnSukTaO4CJuW430c6AJkU_1zCrLwmNbwUCL-srJ3cc8cPmJihQ&_hsmi=51694101 </source>
+<date> 2017_05_09 </date>
+<text>
+Microsoft has released an emergency security update to patch below-reported crazy bad remote code execution vulnerability in its Microsoft Malware Protection Engine (MMPE) that affects Windows 7, 8.1, RT and 10 computers, as well as Windows Server 2016 operating systems.
+Google Project Zero's security researchers have discovered another critical remote code execution (RCE) vulnerability in Microsoft’s Windows operating system, claiming that it is something truly bad.
+Tavis Ormandy announced during the weekend that he and another Project Zero researcher Natalie Silvanovich discovered "the worst Windows remote code [execution vulnerability] in recent memory. This is crazy bad. Report on the way."
+Ormandy did not provide any further details of the Windows RCE bug, as Google gives a 90-day security disclosure deadline to all software vendors to patch their products and disclose it to the public.
+This means the details of the new RCE vulnerability in Windows will likely be disclosed in 90 days from now even if Microsoft fails to patch the issue.
+However, Ormandy later revealed some details of the Windows RCE flaw, clarifying that:
+
+The vulnerability they claimed to have discovered works against default Windows installations.
+The attacker does not need to be on the same local area network (LAN) as the victim, which means vulnerable Windows computers can be hacked remotely.
+The attack is "wormable," capability to spread itself.
+
+Despite not even releasing any technical details on the RCE flaw, some IT professionals working for corporates have criticized the Google Project Zero researcher for making the existence of the vulnerability public, while Twitter's infosec community is happy with the work.
+"If a tweet is causing panic or confusion in your organization, the problem isn't the tweet, the problem is your organization," Project Zero researcher Natalie Silvanovich tweeted.
+This is not the first time when Google's security researchers have discovered flaws in Microsoft’s products. Most recently in February, Google researchers disclosed the details of an unpatched vulnerability impacting Microsoft's Edge and Internet Explorer browsers.
+Microsoft released a patch as part of its next Patch Tuesday but criticized Google for making all details public, exposing millions of its Windows users at risk of being hacked.
+Microsoft has not yet responded to the latest claims, but the company has its May 2017 Patch Tuesday scheduled tomorrow, May 9, so hopefully, it will include a security patch to resolve this issue.
+</text>

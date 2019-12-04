@@ -1,0 +1,31 @@
+<title>Cross-Site Request Forgery: What Happened to the Sleeping Giant? | Qualys Blog</title>
+<source> https://blog.qualys.com/webappsec/2017/01/26/cross-site-request-forgery-what-happened-to-the-sleeping-giant?utm_source=hs_email&utm_medium=email&utm_content=41461127&_hsenc=p2ANqtz-_Qn5IiQe3EOVNZzqIQmCYmKWtmM_wGHeXqIlyhACmkasYfrEgh-dQvcPqo8WB6rF9eZty0O1FDXvL-T8H7YcVP-eF-AA&_hsmi=41461127 </source>
+<date> 2017_01_27 </date>
+<text>
+A decade ago, cross-site request forgery (CSRF, often pronounced “c-surf”) was considered to be a sleeping giant, preparing to wake and inflict havoc on the Worldwide Web.
+But the doomsday scenario never materialized and you don’t even seem to hear much about it anymore.
+In this blog post, part 1 of 2, I will explore this idea and try to understand why the CSRF giant never awoke.
+First we’ll cover the overall threat landscape, trends, and some notable CSRF exploits throughout the years, including one from personal experience.
+As a quick review, CSRF exists because web applications trust the cookies sent by web browsers within an HTTP request.
+In a CSRF attack, the attacker causes a victim’s browser to make a request that results in a change or action which benefits the attacker (and/or harms the victim) in some way.
+Without a specific defense – like a random token in the request body that is validated on the server side – CSRF attacks are possible.
+After a bit of testing, my suspicions were confirmed.
+All requests that caused any sort of change could be exploited with CSRF.
+This included: I contacted the company to let them know about these security holes.
+Surprisingly, they didn’t seem to be aware there was such a thing as CSRF, but they thanked me anyway and rolled out a fix about a month later.
+There have been other notable instances of CSRF vulnerabilities with some of them being exploited in the wild.
+Drive-by pharming is an attack on the DNS settings of home routers and modems and often leverages CSRF as a key element.
+The web UIs on these devices are the culprit, because they allow users to edit configuration settings.
+In one attack from 2008, banking customers in Mexico who owned 2Wire DSL modems were targeted.
+Victims received an email with an embedded image tag with a CSRF attack that changed the DNS settings on their modem.
+In another instance, tens of thousands of Twitter users fell victim to a CSRF worm in 2010 when developers failed to implement anti-CSRF measures for tweets.
+The vulnerability was discovered and exploited in a rather distasteful but harmless way.
+When authenticated Twitter users visited the web page containing the exploit, they unknowingly posted two tweets – one with a link to the same page and another with a message about goats.
+Anyone who clicked on the link in the first tweet also posted the same two tweets.
+The worm spread like wildfire before it was fixed by Twitter.
+In 2012 Facebook’s App Center was vulnerable to CSRF and the security researcher who discovered the flaw was awarded $5000 as a bounty.
+Interestingly, in this case the HTTP request included an anti-CSRF token that appeared at first glance to provide protection, but the token was not being validated by the server-side application when the request was received.
+A Qualys researcher found other examples where anti-CSRF tokens were not properly validated.
+And similar to the Facebook issue mentioned above, PayPal in 2016 did not validate the anti-CSRF token in paypal.me.
+An attacker could only change a user’s profile photo in that case however.
+</text>

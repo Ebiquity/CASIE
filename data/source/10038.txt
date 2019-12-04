@@ -1,0 +1,12 @@
+<title> FBI Warns Healthcare Industry About Anonymous FTP Server Cyberattacks   </title>
+<source> https://www.hipaajournal.com/fbi-warns-healthcare-industry-about-anonymous-ftp-server-cyberattacks-8749/ </source>
+<date> 2017_03_29 </date>
+<text>
+The Federal Bureau of Investigation has issued a warning to healthcare organizations using File Transfer Protocol (FTP) servers. Medical and dental organizations have been advised to ensure FTP servers are configured to require users to be properly authenticated before access to stored data can be gained.
+Many FTP servers are configured to allow anonymous access using a common username such as ‘FTP’ or ‘anonymous’. In some cases, a generic password is required, although security researchers have discovered that in many cases, FTP servers can be accessed without a password.
+The FBI warning cites research conducted by the University of Michigan in 2015 that revealed more than 1 million FTP servers allowed anonymous access to stored data
+The FBI warns that hackers are targeting these anonymous FTP servers to gain access to the protected health information of patients. PHI carries a high value on the black market as it can be used for identity theft and fraud.
+Healthcare organizations could also be blackmailed if PHI is stolen. Last year, the hacker operating under the name TheDarkOverlord conducted a number of attacks on healthcare organizations. The protected health information of patients was stolen and organizations were threatened with the publication of data if a sizable ransom payment was not made. In some cases, patient data were published online when payment was not received.
+There are reasons why IT departments require FTP servers to accept anonymous requests; however, if that is the case, those servers should not be used to store any protected health information of patients. If PHI must be stored on the servers, they cannot be configured to run in anonymous mode.
+The FBI suggests all healthcare organizations should instruct their IT departments to check the configuration of their FTP servers to ensure they are not running in anonymous mode and to take immediate action to secure those servers and reduce risk if they are.
+</text>

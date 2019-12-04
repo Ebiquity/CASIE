@@ -1,0 +1,19 @@
+<title>Cisco Warns of High Severity Bug in NetFlow Appliance | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/cisco-warns-of-high-severity-bug-in-netflow-appliance/124053/ </source>
+<date> 2017_03_03 </date>
+<text>
+Warning the device is susceptible to denial of service attacks, Cisco Systems on Wednesday released a patch for its NetFlow Generation Appliance.
+The flaw traces back to the hardware’s Stream Control Transmission Protocol (SCTP) used by the appliance, according to a Cisco Security Advisory posted Wednesday.
+Cisco warns the vulnerability, “could allow an unauthenticated, remote attacker to cause the device to hang or unexpectedly reload, causing a denial of service (DoS) condition”.
+The bug (CVE-2017-3826) is due to incomplete validation of SCTP packets being monitored on the NGA data ports, Cisco wrote.
+It impacts Cisco NetFlow Generation Appliances NGA 3140, NGA 3240 and NGA 3340.
+NetFlow Generation Appliances are located within enterprise data centers and designed to monitor Gigabit Ethernet high-throughput networks.
+An attacker exploiting the vulnerability, “could exploit this vulnerability by sending malformed SCTP packets on a network that is monitored by an NGA data port.
+SCTP packets addressed to the IP address of the NGA itself will not trigger this vulnerability.
+An exploit could allow the attacker to cause the appliance to become unresponsive or reload, causing a DoS condition,” Cisco said.
+While there are no workarounds to fix the vulnerability, Cisco is urging users to apply an update that fixes the bug, Cisco NetFlow Generation Appliance Software release 1.1 (1a).
+The company added that the fix does not apply to NGA 3140 because that platform was sunsetted January 11, 2014.
+Last month, Cisco patched an authentication bypass vulnerability in its Cisco Prime Home hardware.
+In January, Cisco patched a flaw rated critical found in is WebEx Chrome Plugin, used by tens of millions for web conferencing in business environments, that exposed computers to remote code execution.
+Cisco Systems released a patch Monday to fix a critical security vulnerability, with a CVSS rating of 10, in its Secure Sockets Layer VPN solution called Adaptive Security Appliance.
+</text>

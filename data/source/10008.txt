@@ -1,0 +1,9 @@
+<title>Privacy Commissioner Expresses Serious Concern on Cathay Pacific Airways Data Breach Incident</title>
+<source> https://www.databreaches.net/page/3/?s=data+breach&searchsubmit/ </source>
+<date> 2018_10_26 </date>
+<text>
+The Privacy Commissioner for Personal Data, Hong Kong (Privacy Commissioner), Mr Stephen Kai-yi WONG, expressed serious concern over the Cathay Pacific Airways data breach incident, noting that the incident might involve a vast amount of personal data (such as name, date of birth, passport number, Hong Kong Identity Card number, credit card number, etc) of local and foreign citizens. The office of the Privacy Commissioner for Personal Data, Hong Kong (PCPD) would proactively contact the airline and initiate a compliance check. The Privacy Commissioner advised the airline to notify the affected clients as soon as possible, and take remedial steps with details explained immediately.
+Mr Wong said that organisations must take effective security measures to protect the personal data of its clients. If an external service provider is engaged as a data processor, the organisation must adopt contractual or other means to safeguard personal data from unauthorised or accidental access, processing or use.
+Mr Wong reminded members of the public that if they find any abnormalities with their personal accounts of the airline concerned or credit card accounts, they should contact the airline and the related financial institutions.  They should also change the account passwords and enable two-factor authentication to protect their personal data.
+Mr Wong stated that while reporting of data breach is voluntary, any organisation concerned is encouraged to notify the PCPD.  By doing so, the PCPD can work together with the organisation to minimise the potential damage to clients.
+</text>

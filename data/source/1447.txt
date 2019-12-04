@@ -1,0 +1,11 @@
+<title>Phishing alert: Appears to be from Microsoft  | Georgia College News and Events</title>
+<source> https://frontpage.gcsu.edu/announcement/phishing-alert-appears-be-microsoft </source>
+<date> 2017_04_04 </date>
+<text>
+Many people at GC are receiving one of the more popular phishing scam emails.
+It appears to be from Microsoft, a “Security Alert” wanting you to revalidate your account.
+If you did click on the email, please reset you Unify password (and subsequent email password) at password.gcsu.edu.­­­­­­­­­­­­
+We think that someone else might have accessed the Microsoft account ********@gcsu.edu.
+When this happens we require you to verify your identity with a security challenge and then change your password the next time you sign in.
+If someone else has access to your account, they have your password and might be trying to access your personal information or send junk email.
+</text>

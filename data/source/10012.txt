@@ -1,0 +1,11 @@
+<title>Officials: Ransom demanded in Licking County technology hack</title>
+<source> https://www.10tv.com/article/officials-ransom-demanded-licking-county-technology-hack </source>
+<date> 2017_02_01 </date>
+<text>
+LICKING COUNTY
+Officials in Licking County tell 10TV that ransom was demanded for an IT hack that impacted the county's phone and computer systems.
+A computer virus shut down more than a thousand computers inside the Licking county government center late Tuesday.
+A county commissioner says that the virus demanded a payment in Bitcoin for the county to regain control of their systems. Officials declined to specify the amount of money that was requested.
+The county said its IT department discovered the problem when some files wouldn't open. As a precaution, it shut the system down and that's when technicians discovered it was a virus known as ransomware.
+County business continues, despite the computer shut down, although county employees are having to do much of their work on paper.
+</text>

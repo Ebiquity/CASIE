@@ -1,0 +1,20 @@
+<title>Safaricom thwarts cyber attack attempts - Citizentv.co.ke</title>
+<source> https://citizentv.co.ke/business/safaricom-thwarts-cyber-attack-attempts-162930/ </source>
+<date> 2017_04_07 </date>
+<text>
+Listed telecom operator Safaricom has become the latest corporate institution to come under a cyber attack.
+According to Safaricom, the hackers attempted to gain access to its system with an intention of gaining access to customer funds on its mobile money transfer platform M-Pesa.
+The telecom termed the breach as an elaborate cyber crime fraud attempt.
+Safaricom chief executive officer Bob Collymore said the firm’s risk management unit detected the intrusion and immediately escalated the incident to the security agencies.
+The Safaricom boss however sought to assure customers that there was no cause for worry as no money had been lost.
+“This matter is being treated with the seriousness it deserves with the suspects due to be arraigned in court.
+I wish assure our customers that all their data is safe and we have no evidence of any money being removed from the system,” Mr Collymore said in a statement to newsrooms.
+One method used by the hackers to access customer information was through a SIM swap that gives the fraudster access to a customer’s SIM card.
+In the reported case, they managed to access Sh266,000 from one customer.
+Safaricom however says the funds were refunded once the breach was detected.
+M-Pesa is the largest mobile money transfer system in the country and has also been linked to several banks.
+Safaricom has partnered with the KCB Group and the Commercial Bank of Africa (CBA) to create mobile accounts that enable customers to deposit, transfer and request loans.
+In March, authorities discovered a cybercrime syndicated that had infiltrated the Kenya Revenue Authority (KRA) several blue chip companies as well as a supermarket chain.
+In the case of KRA, some Sh4 billion was said to be at risk from the cyber attack.
+Mr Collymore said the firm routinely and proactively implements preventative and detective controls around its information security on all its platforms.
+</text>

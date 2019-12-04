@@ -1,0 +1,47 @@
+<title>Hello Kitty database leaked to the web, 3.3 million fans affected | CSO Online</title>
+<source> http://www.csoonline.com/article/3155528/security/hello-kitty-database-leaked-to-the-web-3-3-million-fans-affected.html </source>
+<date> 2017_01_10 </date>
+<text>
+In a statement, Sanrio said they didn’t believe any data was stolen.
+Now, over a year later, the database has surfaced online.
+Its resurrection places 3.3 million Hello Kitty fans in the hot seat.
+On December 19, 2015, Salted Hash broke the news that a MongoDB installation for Sanrio, the company behind Hello Kitty, was exposed to the public.
+The database was discovered by security researcher Chris Vickery.
+Learn about top security certifications: Who they're for, what they cost, and which you need.
+At the time, Sanrio speculated the exposure was due to maintenance conducted several weeks prior, on November 20, 2015.
+The database contained just over 3.3 million records from sanriotown.com, including 186,261 records assigned to people under the age of 18.
+Three days after the story broke, on December 22, 2015, Sanrio said they investigated the problem and fixed it.
+“In addition, new security measures have been applied on the server(s); and we are conducting an internal investigation and security review into this incident.
+To the Company’s current knowledge, no data was stolen or exposed,” the statement concluded.
+Unfortunately, someone did copy the database before the configuration error was fixed.
+On Sunday, Salted Hash learned that the Sanrio database was added to the LeakedSource index.
+Examining the LeakedSource records and comparing the field names to the screenshots shared by Vickery in 2015, the data is a match.
+For example, both sets of data use the “_createdFrom” field, as well as “dateOfBirth”, “gender”, “firstName”, “lastName”, etc.
+In both databases, the records contain the account holder’s first and last name, birthday (encoded, but easily reversed), gender, country of origin, email addresses, user name, password (unsalted SHA-1 hash), password hint question, and the corresponding answer.
+However, there is a field in the LeakedSource records that is new to this story, “incomeRange” with values running from 0 to 150.
+It isn’t clear what these values represent, but not every record has them.
+As was the case previously, the fear is that the exposed database could cause problems for those registered, especially the children.
+It’s hard enough to deal with ID theft related issues as an adult.
+Such issues are only compounded for children, as the problems might not materialize for several years.
+This is true today as well, but there’s no telling who followed the advice.
+Also, there is no way to track who had access to this database, as it’s been circulating out of the public eye for a least a year before it was shared with LeakedSource.
+Salted Hash has reached out to Sanrio for comment.
+Anyone with concerns about the information exposed can checkout Consumer.gov for advice on recovering from identity theft.
+In it, they briefly recap the events from 2015, including their previous alert.
+The statement goes on to dismiss the latest news, despite sample records matching the previously exposed database.
+"Recently, reports have surfaced claiming that the 2015 data breach was not corrected.
+At this time, there is no evidence to support this claim.
+The original data breach from SanrioTown.com users in 2015 did not include credit card information or other payment information.
+Users’ passwords are encrypted with the cryptographic hash function SHA-1.
+"SanrioTown and Sanrio Digital notified users about the incident, advising them to change their passwords.
+It should be noted that this current Sanrio database currently circulating online doesn't have any financial data, and there have been no claims otherwise.
+Salted Hash has asked additional questions surrounding the sample data shared with Sanrio.
+After reviewing the sample data sets shared by Salted Hash, Sanrio has confirmed that the data indexed by LeakedSource "looks real" and likely originated from the exposed database in 2015.
+However, the company stopped short of confirming that LeakedSource's records and the records exposed two years ago are one in the same.
+“Sanrio Digital recently received evidence that a 2015 data breach of the SanrioTown web site involved some user data theft,” the company said in a statement.
+“At the time, we had no evidence of data theft, however we have now learned from reporter Steve Ragan of CSO Online that personal information of SanrioTown.com users was stolen during the 2015 data breach.
+According to Mr. Ragan, a database containing information of 3,345,168 SanrioTown users has been circulating since the time of the incident.
+“He received the sample records from LeakedSource containing information of 30 SanrioTown users.
+We have verified that these sample records appear to be real.
+We cannot, however, relate the source of such sample records to the 2015 data breach and we are unable to verify whether the database of LeakedSource contains information of 3,345,168 SanrioTown users stolen during the 2015 SanrioTown data breach”.
+</text>

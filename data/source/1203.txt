@@ -1,0 +1,17 @@
+<title>Study: Some Mobile Devices Can Be Hacked Using Sound Waves</title>
+<source> http://www.healthcareinfosecurity.com/interviews/study-some-mobile-devices-be-hacked-using-sound-waves-i-3538 </source>
+<date> 2017_03_21 </date>
+<text>
+Some medical devices, smartphones and internet of things gadgets contain certain types of sensors that are vulnerable to potential hacking using sound waves, says cybersecurity researcher Kevin Fu.
+"This is now a risk that all manufacturers should be aware of, and in their hazard analysis, it has to be a part of their cybersecurity risk management," says Fu, explaining findings of a recent research study conducted by the University of Michigan and the University of South Carolina.
+The microelectromechanical systems - or MEMS accelerometers - that the research team found to contain these vulnerabilities - are sensors used in various devices to measure acceleration or velocity, and then report those readings to a microprocessor.
+"What we looked at was the ability to trick these sensors into delivering false readings to the microprocessor by using sound waves," he says in an interview with Information Security Media Group.
+"What medical devices contain these sensors is still an open question.
+The main hazard of this sound wave vulnerability is the threat to the integrity and availability of the sensor, he explains.
+Prior studies by other researchers had found that sound waves can be used to disable these sensors.
+"What's new here is that it is now known that one can actually damage the integrity of the reading," he says.
+"If you were trusting this reading to do something automated, such as rate-adapt a pacemaker, perhaps based on changing activity of a patient, you now need a second way to verify the integrity of that reading."
+The study lists 20 accelerometers for which the researchers were able to change the output of the sensors using sound waves, Fu says.
+"In some devices, we found that there is a speaker built in right next to the sensor, which means there is a remote ability to cause these changes without an adversary being near the chip."
+Fu recommends that manufacturers assess the researchers' list of accelerometers that contain the sound wave vulnerability "and ask [suppliers] for specific parameters, including the resident frequencies, to understand the risks and mitigations."
+</text>

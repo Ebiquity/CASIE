@@ -1,0 +1,18 @@
+<title>Schools warned about cold-calling ransomware attacks – HOTforSecurity</title>
+<source> https://hotforsecurity.bitdefender.com/blog/schools-warned-about-cold-calling-ransomware-attacks-17479.html </source>
+<date> 2017_01_05 </date>
+<text>
+Schools and colleges are being warned to be on the lookout for ransomware attacks, after a wave of incidents where fraudsters attempted to trick educational establishments into opening dangerous email attachments.
+What makes the attacks unusual, however, is just how the attackers tricked users into clicking on the malware-infected attachments.
+As Action Fraud warns, confidence tricksters are phoning up schools and colleges pretending to be from the “Department of Education”.
+The fraudsters request the email or phone number of the institution’s head teacher or financial administrator claiming they need to send guidance forms to the individual directly, as they contain sensitive information.
+The emails, however, have a .ZIP file attached, which often contains a boobytrapped Word document or Excel spreadsheet which initiates the ransomware infection.
+According to reports, up to £8,000 can be demanded for the safe decryption of files on the victims’ computers.
+That is, of course, money that few schools can afford to spend.
+Similar scams have posed as being from telecoms providers claiming to need to speak to the head teacher about “internet systems” or the Department of Work and Pensions.
+In all cases the chances of the attack succeeding are increased by the fact that it is prefaced by a phone call.
+We’re all very used to receiving suspicious emails in our inbox, but may be caught off guard if it is accompanied by an official-sounding phone call.
+Action Fraud’s warning indicates that there are considerable amounts of money to be made by online criminals through ransomware attacks.
+If there weren’t, they wouldn’t be prepared to go to such extreme efforts (such as making bogus phone calls) to increase the likelihood that their poisoned email attachments will be opened.
+More money can typically be extorted from an organisation than an individual, with some corporations having paid out huge sums to blackmailers after having their data locked away through a ransomware attack.
+</text>

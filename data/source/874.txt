@@ -1,0 +1,16 @@
+<title>Cloudflare chief pledges third-party review of code – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/03/02/cloudflare-chief-pledges-third-party-review-of-code/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=cd410ebc90-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-cd410ebc90-455160889 </source>
+<date> 2017_03_03 </date>
+<text>
+Bad as Cloudbleed is, there’s no evidence attackers exploited it before the patch was deployed.
+But since the vulnerability was triggered more than 1.2m times from 6,500 sites, Cloudflare is taking no chances: the company has tapped an outside company, Veracode, to scour its code.
+CEO Matthew Prince pledged the external review as he set out a detailed update after 12 days of investigation.
+That update includes a synopsis of how the vulnerability was created and who faced the most risk.
+He said Cloudflare continues to work with Google and others to eliminate all leaked data from memory:
+We’ve successfully removed more than 80,000 unique cached pages.
+That underestimates the total number because we’ve requested search engines purge and re-crawl entire sites in some instances.
+Cloudbleed is a serious vulnerability in Cloudflare’s internet infrastructure that Google Project Zero researcher Tavis Ormandy discovered in mid-February.
+It turned out that a single character in Cloudflare’s code caused the problem.
+In its initial blog post on the matter, Cloudflare said the issue stemmed from its decision to use a new HTML parser called cf-html.
+In his update, Prince said Cloudbleed was triggered when a page with two characteristics was requested through Cloudflare’s network.
+</text>

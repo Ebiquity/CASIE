@@ -1,0 +1,24 @@
+<title>Vanilla Forums Open Source Software Vulnerable to RCE, Host Header Injection Vulnerability  | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/vanilla-forums-software-vulnerable-to-rce-host-header-injection-vulnerability/125615/?m=xla&utm_source=hs_email&utm_medium=email&utm_content=51862794&_hsenc=p2ANqtz--hlLoCVdDY3A-ISIFlA7g_7td0PiNK6NJour1WkXSvmj0Zk-cLrm2jgcjGXFXGO8GspPp3N5X6x4yqW1ptSOyxmBvXgw&_hsmi=51862794 </source>
+<date> 2017_05_12 </date>
+<text>
+Vanilla Forums open source software suffers from vulnerabilities that could let an attacker gain access to user accounts, carry out web-cache poisoning attacks, and in some instances, execute arbitrary code.
+Popular open source forum software suffers from vulnerabilities that could let an attacker gain access to user accounts, carry out web-cache poisoning attacks, and in some instances, execute arbitrary code.
+Legal Hackers‘ Dawid Golunski found the vulnerabilities, a host header injection and an unauthorized remote code execution vulnerability–in software which is developed by Vanilla Forums.
+Golunski reported the issues to Vanilla Forums in January and while a support team acknowledged his reports, he’s experienced five months of silence from the company since, something that prompted him to finally disclose the vulnerabilities Thursday via his ExploitBox.io service.
+The researcher confirmed the vulnerabilities exist in the most recent, stable version (2.3) of Vanilla Forums. He presumes older versions of the forum software are also vulnerable.
+When reached Thursday, Lincoln Russell, a senior developer at Vanilla Forums stressed the vulnerabilities, which are in the middle of being fixed, only affect the company’s free and open source product.
+Golunski says the most concerning vulnerability, the RCE (CVE-2016-10033) stems from a PHPMailer vulnerability he disclosed last December. An attacker could remotely exploit the same vulnerability in Vanilla Forums by sending a web request in which a payload is passed within the HOST header.
+Until a fix is pushed Golunski is encouraging users to preset the sender’s support email address to a static value to prevent the dynamic creation of an email address, or the use of the HOST header, as a temporary mitigation.
+Golunski says the second issue, the host header injection vulnerability (CVE-2016-10073) also affects version 2.3 of the software.
+The issue stems from the fact that the forum software uses user-supplied HTTP HOST header when sending emails from the host on which the forum was installed. That means an attacker could use HTTP HOST header to set the email domain to an arbitrary host.
+It would require user interaction but if exploited, it’s possible the bug could help an attacker intercept a password reset hash and gain access to a victim’s account.
+An attacker would have send the victim an email tricking them into clicking through a password reset link, he says.
+“The resulting email will have the sender’s address set to noreply@attackers_server. The password reset link will also contain the attacker’s server which could allow the attacker to intercept the hash if the victim user clicked on the malicious link,” Golunski wrote Thursday.
+It’s possible the vulnerability could also lead to web-cache poisoning if the HOST header is used to form links in web responses Golunski says.
+According to Russell, when Vanilla Forums responded to Golunski in January it told him the issue would take some time to fix due to the “complexity of unwinding the use of this server variable without breaking the myriad scenarios it can be used for in open source environments.”
+
+Golunski hinted at the vulnerabilities in Vanilla Forums back in December but didn’t name the software. When he disclosed the initial PHPMailer bug the researcher mentioned that he had developed an unauthenticated RCE exploit for “a popular open-source application (deployed on the Internet on more than a million servers) as a PoC for real-world exploitation.”
+Both the Vanilla Forums vulnerabilities and a similar RCE vulnerability in WordPress 4.6 Golunski disclosed last week both relate to PHPMailer and PHP mail() function injection.
+“The exploits and techniques prove that these type of vulnerabilities could be exploited by unauthenticated attackers via server headers such as HOST header that may be used internally by a vulnerable application to dynamically create a sender address,” Golunski told Threatpost Thursday, “This adds to the originally presented attack surface of contact forms that take user input including From/Sender address.”
+</text>

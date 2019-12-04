@@ -1,0 +1,16 @@
+<title>WhatsApp, Telegram ‘severe’ security flaw pinpointed following #Vault7 release — RT Viral</title>
+<source> https://www.rt.com/viral/381038-whatsapp-telegram-security-flaw/ </source>
+<date> 2017_03_20 </date>
+<text>
+A flaw in popular messenger apps WhatsApp and Telegram, which could allow hackers to gain access to hundreds of millions of accounts using the very encryption software designed to keep them out, has been discovered by cyber security firm Check Point.
+The Israeli multinational said it was concerned about vulnerabilities in the messaging apps, following WikiLeaks’ ‘Vault 7’ release of more than 8,500 CIA documents.
+“One of the most concerning revelations arising from the recent WikiLeaks publication is the possibility that government organizations can compromise WhatsApp, Telegram and other end-to-end encrypted chat applications,” the company said in a blog post.
+These online versions mirror all messages sent and received by a user’s mobile device, which deploys end-to-end encryption so that only those sending and receiving messages can view the content.
+Hackers could gain access to a user’s account, however, by booby-trapping a digital image with malicious code which would be activated once the image is viewed.
+The code could then spread like a virus by sending infected messages to a user's contacts.
+“This means that attackers could potentially download your photos and or post them online, send messages on your behalf, demand ransom, and even take over your friends’ accounts,” they added.
+Check Point said it alerted both companies to the problem last week and waited for the issues to be resolved before making it public.
+Both companies have said they’ve since patched the problem.
+“Thankfully, WhatsApp and Telegram responded quickly and responsibly to deploy the mitigation against exploitation of this issue in all web clients,” Check Point Head of Product Vulnerability Oded Vanunu said.
+The company has advised, however, that WhatsApp and Telegram web users should restart their browser to ensure they’re using the latest versions of the service.
+</text>

@@ -1,0 +1,13 @@
+<title>RawPOS malware has new data-grabbing capabilities - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/21/rawpos-new-data-grabbing-capabilities/ </source>
+<date> 2017_04_24 </date>
+<text>
+RawPOS continues to evolve, and has recently been equipped with the capability to steal data contained in the victims’ driver’s license’s 2-dimensional barcode.
+“Although the use of this barcode is less common than credit card swipes, it is not unheard of. Some people might experience getting their driver’s license barcode scanned in places like pharmacies, retail shops, bars, casinos and others establishments that require it,” Trend Micro researchers explained.
+“Traditionally, PoS threats look for credit card mag stripe data and use other components such as keyloggers and backdoors to get other valuable information. RawPOS attempts to gather both in one go, cleverly modifying the regex string to capture the needed data.” 
+This particular variant is geared towards collecting data from driver’s licenses issued in the US. 
+Thus, along with payment card data, criminals also get information such as the victims’ full name, date of birth, full address, gender, height, hair and eye color. 
+This additional info could definitely help criminals impersonate the card holder in many identity theft scenarios, as well as while effecting fraudulent card-not-present transactions.
+RawPOS is one of the oldest known Point-of-Sale RAM scraper malware families. It’s first incarnation was spotted all the way back in 2009.
+According to the researchers, it is mainly used by threat actors that focus on targeting businesses operating in the hospitality industry. 
+</text>

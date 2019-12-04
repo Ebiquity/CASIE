@@ -1,0 +1,17 @@
+<title> Flaw in Fiserv banking platform exposed personal data  </title>
+<source> https://www.itpro.co.uk/vulnerability/31797/flaw-in-fiserv-banking-platform-exposed-personal-data </source>
+<date> 2018_08_29 </date>
+<text>
+ The exploit, which has now been patched, affected customers banking with hundreds of financial institutions
+US-based financial services firm Fiserv has just fixed a flaw in its web platform that exposed the personal and financial details of a vast number of banking customers.
+With more than 12,000 clients across the world using the company's services, it is hard to establish how many customers' details were exposed in the 'information disclosure vulnerability' found by security researcher Kristian Erik Hermansen.
+When logging into his local bank, which uses Fiserv's platform, Hermansen learned email alerts for financial transactions were assigned an 'event number', which he successfully predicted were distributed in sequence, according to KrebsOnSecurity.
+Using this knowledge, the researcher was able to directly view alerts set up by another customer by rewriting the site's code in his browser and sending a request for an altered event number. He was able to view the customer's email address, phone number and bank account number - as well as view and edit alerts they had previously set up.
+"I shouldn't be able to see this data," he said. "Anytime you spend money that should be a private transaction between you and your bank, not available for everyone else to see." He added a criminal could have exploited the flaw to steal information from customers.
+ Together with KrebsOnSeceurity author Brian Krebs, Hermansen worked to verify whether or not the flaw was exclusive to his own bank's installation of the platform. They soon discovered hundreds of other Fiserv-affiliated banks may have been just as vulnerable as those they had tested.
+IT Pro approached Fiserv for comment, and to establish how many institutions in the UK may have been affected, if any, but the company did not respond at the time of writing. A spokesperson told Krebs that Fiserv had responded accordingly, and corrected the issue.
+"After receiving your email, we promptly engaged appropriate resources and worked around the clock to research and remediate the situation," the spokesperson said.
+"We developed a security patch within 24 hours of receiving notification and deployed the patch to clients that utilise a hosted version of the solution. We will be deploying the patch this evening to clients that utilise an in-house version of the solution."
+While information disclosure vulnerabilities are among the most common types of website security issues, according to Krebs, they are also the most preventable and easy to fix. But they can also cause just as much damage to a company's brand as more severe security risks. 
+</text>
+

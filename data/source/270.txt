@@ -1,0 +1,23 @@
+<title>Adobe Acrobat auto-installed a vulnerable Chrome extension on Windows PCs</title>
+<source> https://www.tripwire.com/state-of-security/featured/adobe-acrobat-chrome-extension/ </source>
+<date> 2017_01_19 </date>
+<text>
+Adobe is no stranger to finding itself in the security headlines for all the wrong reasons, and it seems that things may not be changing as we enter 2017.
+There was controversy earlier this month when news broke about how Adobe took the opportunity on Patch Tuesday of using its regular security updates to force Adobe Acrobat DC users into silently installing a Google Chrome extension.
+As Bleeping Computer reports, most people first found out about the extension, which offers the ability to easily convert webpages into PDF files, when they saw a prompt asking them to approve the following permissions:
+Of course, you could choose to remove the extension, but it’s the “Enable” option which is set by default – and it is probably what many people would click on without thinking of the possible consequences.
+Users expressed their outrage on social media about Adobe silently installing the Windows-only extension, leaving poor reviews in the Chrome web store:
+“How DARE Adobe install this extension automatically and silently as part of a ‘security’ update for Acrobat.
+Not only am I removing the extension from the browser, I am permanently removing Acrobat from ALL systems on my network and blocking any further installations.
+My school district will be Acrobat free AS SOON AS HUMANLY POSSIBLE.
+Further, I will recommend to the Department of Education a different solution for PDF viewing and editing.
+I will push and fight to get as many people as I can to stop using this disgusting trash”.
+What further upset some users was that the Adobe Acrobat Chrome extension sends “anonymous product usage data” back to Adobe, although the company stresses that it does not receive details of the URLs visited by users.
+It wasn’t long before headlines appeared comparing the sneakily-installed extension to “spyware”.
+Well, perhaps…
+Controversial Google security researcher Tavis Ormandy’s interest was piqued by all of the attention being given to the extension, so he made his own examination of its code and found that it was vulnerable to cross-site scripting (XSS) attacks.
+According to statistics displayed on the Chrome web store, the controversial extension has tens of millions of users – all of whom are potentially vulnerable because of the flaw in its code.
+Every time you add additional software to your computer, you are increasing your potential attack surface.
+And be wary of software that is installed without your permission or that vendors bundle with their software against your wishes.
+Adobe has responded to Ormandy’s report by saying it has now issued an update to the extension that fixes the security holes.
+</text>

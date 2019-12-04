@@ -1,0 +1,12 @@
+<title>Unusual cyber attack thwarted - Israel National News</title>
+<source> http://www.israelnationalnews.com/News/News.aspx/228648 </source>
+<date> 2017_04_27 </date>
+<text>
+Attacker forges security certificates, sends emails to government offices and private citizens.
+In the past few days, the National Authority for Cyber Security has seen evidence of planned cyber attacks on various targets in the Israeli marketplace.
+The Authority analyzed the evidence and uncovered the attacker's plan, as well as the different points of application he had used.
+Their analysis showed the attacker sent emails under the guise of a legitimate organization and attempted to attack 120 organizations, government offices, public institutions, and private citizens.
+He also forged security certificates, masquerading as a safe company.
+The National Authority for Cyber Security is continuing its efforts to block the threat, and is working to publish guidelines and suggestions to help the Israeli marketplace avoid future attacks of the same type.
+The guidelines will be published on the Authority's website.
+</text>

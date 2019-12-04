@@ -1,0 +1,24 @@
+<title> Hackers held patient data ransom, so Indiana hospital system paid $50,000  </title>
+<source> https://www.usatoday.com/story/tech/nation-now/2018/01/17/hackers-held-patient-data-ransom-so-indiana-hospital-system-paid-50-000/1042266001/ </source>
+<date> 2018_01_17 </date>
+<text>
+INDIANAPOLIS — An Indiana hospital said it paid a $50,000 ransom to hackers who hijacked patient data.
+The ransomware attack accessed the computers of Hancock Health in Greenfield through an outside vendor's account Thursday. It quickly infected the system by locking out data and changing the names of more than 1,400 files to "I'm sorry."
+The virus demanded four bitcoins in exchange for unlocking the data, which included patient medical records and company emails. The hospital paid the amount, about $50,000 at the time, early Saturday morning, said Rob Matt, senior vice president and chief strategy officer.
+"It wasn't an easy decision," Matt said. "When you weigh the cost of delivering high-quality care ... versus not paying and bearing the consequences of a new system."
+The data started unlocking soon after the money was transferred, Matt said.
+"The amount of the ransom was reasonable in respect to the cost of continuing down time and not being able to care for patients," Matt said.
+Hancock Health includes about two dozen health care facilities, including Hancock Regional Hospital in Greenfield, about 15 miles east of Indianapolis.
+The health system said in a news release that patient data was not compromised. Life support and other critical hospital services were not affected, and patient safety was never at risk.
+Ransomware is a growing digital extortion technique that affected tens of thousands of Americans in 2016, USA TODAY reported. 
+Criminals use various phishing methods through emails or bogus links to infect victims with malicious software.
+The virus infects the computer network by encrypting files or locking down the entire system. Victims log on and receive a message telling them the files have been hijacked and to get the files back they will have to pay.
+Hospitals are a frequent target of these attacks. In May, a ransomware virus affected more than 200,000 victims in 150 countries, including more than 20% of hospitals in the United Kingdom. That attack was later traced to North Korea.
+Hancock Health said it worked with the FBI and hired an Indianapolis cybersecurity expert for advice on how to respond to the attack.
+The systems were back Monday after paying the ransom.
+“We were in a very precarious situation at the time of the attack," Hancock Health CEO Steve Long said in a statement.
+"With the ice and snowstorm at hand, coupled with the one of the worst flu seasons in memory, we wanted to recover our systems in the quickest way possible."
+Hospital officials could have retrieved back up files, but Long said they feared restoring the hijacked data would take too long.
+"We made the deliberate decision,” Long said, "to pay the ransom to expedite our return to full operations."
+</text>
+

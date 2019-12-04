@@ -1,0 +1,14 @@
+<title>Three's website exposes mobile phone customers' details to strangers</title>
+<source> https://www.grahamcluley.com/threes-website-exposes-mobile-phone-customers-details-strangers/ </source>
+<date> 2017_03_21 </date>
+<text>
+Three appears to have made a blunder, after customers logging into the British mobile phone company’s website found themselves looking at other customers’ accounts - including the names, addresses, call histories and data usage of complete strangers.
+The Guardian describes how one customer, Andy Fidler, found the Three app on his mobile phone wasn’t working - and so he decided to log into Three’s website instead:
+“I managed to successfully download a complete stranger’s phone bill. All I did was click on the link to bring up my bill. It included the name, address, how much they were paying, the phone numbers they had rung and texted.”
+Fortunately, bank details were not accessible.
+He wasn’t the only one to stumble across the problem - which appears to be more of a technical screw-up than a malicious hack - as posts on Three’s official Facebook page reveal.
+A Three spokesperson says that they are aware of the problem and are investigating.
+But one has to wonder how many customers could have been put at risk of having their private data exposed, and for how long the problem has been present.
+The Information Commissioner’s Office has confirmed it will be “looking into this potential incident involving Three”, and if they find the company has been sloppy with its securing customer details it is unlikely to be impressed.
+Last November, in what appears to be an unconnected incident, Three revealed that its upgrade database had been breached, exposing the names, phone numbers, addresses and dates of birth of over 130,000 customers.
+</text>

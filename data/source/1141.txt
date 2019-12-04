@@ -1,0 +1,27 @@
+<title>Statement from ABTA CEO, Mark Tanzer, relating to Data Security Incident  - ABTA</title>
+<source> https://abta.com/news-and-views/news/data-security-incident-march-2017 </source>
+<date> 2017_03_17 </date>
+<text>
+We recently became aware of unauthorised access to the web server supporting abta.com by an external infiltrator exploiting a vulnerability.
+Specialist technical consultants subsequently confirmed that the web server had been accessed.
+We are not aware of any information being shared beyond the infiltrator.
+We are actively monitoring the situation, but as a precautionary measure we are taking steps to warn both customers of ABTA Members and ABTA Members who have the potential to be affected.
+We are today contacting these people and providing them with information and guidance to help keep them safe from identity theft or online fraud.
+We have also alerted the relevant authorities, including the Information Commissioner and the Police.
+I would personally like to apologise for the anxiety and concern that this incident may cause to any customer of ABTA or ABTA Member who may be affected.
+It is extremely disappointing that our web server, managed for ABTA through a third party web developer and hosting company, was compromised, and we are taking every step we can to help those affected.
+I will personally be working with the team to look at what we can learn from this situation.
+Outlined below, we have answered further questions, which include some guidance for customers of ABTA and ABTA Members.
+We recently became aware of unauthorised access to the abta.com web server by an external infiltrator.
+This was possible due to a system vulnerability that the infiltrator exploited to access some data provided by some customers of ABTA Members and by ABTA Members themselves.
+On immediate investigation, we identified that although ABTA’s own IT systems remained secure, there was a vulnerability to the web server for abta.com, which is managed for ABTA through a third-party web developer and hosting company.
+As a precautionary measure we have taken steps to warn Members and customers of ABTA Members who have the potential to be affected.
+We have contacted those people and provided them with information and guidance to help keep them safe from identity theft or online fraud.
+These steps include two dedicated helplines, for customers of ABTA Members and for ABTA Members, and free access to an identity theft protection service offered by Experian.
+We have also alerted the relevant authorities, including the Information Commissioner and the Police.
+The unauthorised access may have affected approximately 43,000 individuals.
+Around 1,000 of these are files that may include personal identity information of customers of ABTA Members (in support of their complaint about an ABTA Member), uploaded since 11 January 2017; around 650 may include personal identity information of ABTA Members.
+The vast majority of the 43,000 relate to people who have registered on abta.com, with email addresses and encrypted passwords, or have filled in an online form with basic contact details which are types of data at a very low exposure risk to identity theft or online fraud.
+We have provided specific guidance information, including contact details for a dedicated helpline to assist with any further questions.
+If you think you have been a victim of fraud, report it to Action Fraud online at www.actionfraud.police.uk or call 0300 123 2040.
+</text>

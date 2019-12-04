@@ -1,0 +1,15 @@
+<title>Cyber-Espionage Group Uses Microphones and Dropbox to Spy on Ukrainian Targets</title>
+<source> https://www.bleepingcomputer.com/news/security/cyber-espionage-group-uses-microphones-and-dropbox-to-spy-on-ukrainian-targets/ </source>
+<date> 2017_02_23 </date>
+<text>
+Researchers identified over 70 organizations targeted in these attacks, with most located in Ukraine, and especially in the self-declared separatist states of Donetsk and Luhansk, near the Russian border.
+The target list includes editors of Ukrainian newspapers, a scientific research institute; a company that designs remote monitoring systems for oil & gas pipeline infrastructures; an international organization that monitors human rights, counter-terrorism and cyberattacks on critical infrastructure in Ukraine; and an engineering company that designs electrical substations, gas distribution pipelines, and water supply plants; among many others.
+According to CyberX security experts, attacks are mostly driven by spear-phishing emails that spread Word documents that contain malicious macros.
+Attacks lure victims into allowing the macros in these documents to execute by telling them the document was created in a newer version of Word, and enabling macros allows them to view their content.
+Enabling macros downloads several malware families in multiple stages.
+The downloaded malware doesn't include destructive features and uses several mechanisms to remain hidden, an important clue pointing to the fact its authors are using it for reconnaissance only.
+Using Dropbox instead of a custom web server for collecting data is yet another sign that hackers are trying to stay hidden as long as possible.
+This is because it would be much easier to detect malicious traffic sent to a remote web server compared to Dropbox, an application whitelisted by firewalls and other security products.
+CyberX researchers named this particular campaign BugDrop because crooks used the PC's microphone's to bug victims, and Dropbox to exfiltrate data.
+After they analyzed the malware deployed in this campaign, CyberX security experts claim the malware and techniques used in the BugDrop operation are similar to Groundbait, another cyber-espionage campaign discovered in May 2016 by ESET researchers.
+</text>

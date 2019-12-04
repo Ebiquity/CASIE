@@ -1,0 +1,30 @@
+<title>Hundreds of Thousands of Netgear Routers Vulnerable to Password Bypass | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/hundreds-of-thousands-of-netgear-routers-vulnerable-to-password-bypass/123462/ </source>
+<date> 2017_01_31 </date>
+<text>
+Hundreds of thousands–potentially more than one million–Netgear routers are susceptible to a pair of vulnerabilities that can lead to password disclosure.
+Researchers said that while anyone who has physical access to a router can exploit the vulnerabilities locally, the real threat is that the flaw can also be exploited remotely.
+According to Simon Kenin, a security researcher with Trustwave’s Spiderlabs team, who discovered the flaw and disclosed it Monday, the vulnerabilities can be remotely exploited if the router’s remote management option is enabled.
+While Netgear claims remote management is turned off on routers by default, Kenin said there are “hundreds of thousands, if not over a million” devices left remotely accessible.
+Kenin claims that all he had to do was send a simple request to the router’s web management server to retrieve a router’s password.
+After determining a number that corresponds to a password recovery token, he found he could pair it with a call to the router’s passwordrecovered.cgi script.
+Kenin claims he made his discovery by leveraging two exploits disclosed in 2014 on some Netgear routers he had hanging around.
+It wasn’t until after Kenin pieced together a python script designed to diagnose the scope of the issue that he determined he could still retrieve the router’s credentials even if he didn’t send the correct password recovery token.
+“After few trials and errors trying to reproduce the issue, I found that the very first call to passwordrecovered.cgi will give out the credentials no matter what the parameter you send.
+This is totally new bug that I haven’t seen anywhere else.
+When I tested both bugs on different NETGEAR models, I found that my second bug works on a much wider range of models,” Kenin wrote Monday.
+Kenin’s employer, Trustwave, divulged details around both vulnerabilities in a lengthy blog post Monday, putting the wraps on a nearly year-long odyssey with the vendor.
+The firm first disclosed the vulnerability to Netgear in April 2016, initially it listing 18 vulnerable models, before listing 25 vulnerable models in a subsequent advisory.
+After repeated requests for an update on a fix for the vulnerability, Netgear finally obliged in July and provided firmware updates for a fraction of the affected routers.
+It wasn’t until this weekend that Netgear acknowledged the issues again, posting an updated version of the article on its support page, instructing users to find and download the appropriate firmware fixes.
+The most recent version of the advisory claims there are 31 vulnerable models, 18 of which are patched.
+The company is encouraging users of some devices in which firmware is not available to implement a workaround.
+According to Netgear, users of 12 different models would be best served to manually enable password recovery and disable remote management on their devices.
+“The potential for password exposure remains if you do not complete both steps.
+NETGEAR is not responsible for any consequences that could have been avoided by following the recommendations in this notification,” the company writes.
+It’s the first critical vulnerability to affect Netgear routers this year but the second in the last two months.
+In December, it was discovered that a handful of the company’s Nighthawk line of routers were vulnerable to a flaw that could have given an attacker root access on the device and allowed them to run remote code.
+The company was quick to release beta firmware updates to address the vulnerability but simultaneously confirmed that more routers than originally reported were vulnerable.
+When reached Wednesday, a Netgear spokesperson said it was aware of the vulnerability and that it was appreciative of the research Trustwave carried out.
+Trustwave discloses an unpatched vulnerability in Brother printers with the Debut embedded webserver after numerous attempts to contact the vendor failed.
+</text>

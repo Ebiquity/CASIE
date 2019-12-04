@@ -1,0 +1,20 @@
+<title> Ransomware hackers demand £120,000  </title>
+<source> https://www.bournemouthecho.co.uk/news/16289805.ransomware-hackers-demand-120000/ </source>
+<date> 2018_06_14 </date>
+<text>
+ The engineering firm refused to meet the hackers’ demands and the Daily Echo understands it lost access to vital data including personal information about its staff, who number around 100.
+Businesses have been warned that such ‘ransomware’ attacks are on the rise and that companies need to train all staff to be vigilant.
+Police said an East Dorset company – which the Echo is not naming – had reported on June 1 that it was the victim of computer fraud. 
+ “It was reported that their computer was hacked and a demand was made for £120,000,” a Dorset Police spokeswoman said.
+“The victim was referred to Action Fraud to report.”
+Ian Girling, chief executive of Dorset Chamber of Commerce and Industry, said: “Cyber crime is on the increase and all companies are vulnerable to attack.
+“What’s really important is that staff are trained because it’s quite often staff opening emails and dealing with stuff. Responsibility doesn’t just lie with IT departments. All staff need to be aware of the potential threat to the business.
+“There are lots of good companies in Dorset to help businesses with this.”
+The incident echoes the WannaCry ransomware attack which infected an estimated 200,000 computers globally last year, including up to 70,000 in the NHS.
+Matt Horan, security director of C3IA Solutions in Poole – one of the first companies to be certified by the government’s National Cyber Security Centre – said: “You should never pay a ransom because there is no guarantee you will get your data back. During an attack the data doesn’t go anywhere, it is just encrypted and you need a decryption key or algorithm to unlock it and get it back.
+“If you pay a criminal to return your data there is a good chance that he or she will take the money and not decrypt the data – or even ask for more money.
+ “It’s important to back up all data and to ensure it’s backed up without the virus or ransomware in it. Therefore all backups should be virus checked prior to storage off-site.“You do not want to clean your system of the malware only to re-introduce the same problem from your back-up. It’s also important to regularly check the back-up to ensure data can be recovered from it.”
+General Sir Chris Deverell, commander of the UK’s Joint Forces Command, warned yesterday of cyber threats from abroad, which could target infrastructure such as power stations and air traffic control. “We must make sure our cyber security is constantly improving,” he said.
+“It’s a very important thing and every sector of society is very focused on it.”  
+</text>
+

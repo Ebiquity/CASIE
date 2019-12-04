@@ -1,0 +1,25 @@
+<title>Security Researcher Finds 40 Zero-Day Vulnerabilities in Samsung's Tizen OS</title>
+<source> https://www.xda-developers.com/security-researcher-finds-40-zero-day-vulnerabilities-in-samsungs-open-source-tizen-os/ </source>
+<date> 2017_04_04 </date>
+<text>
+Samsung, being a large multinational company, makes a lot of products spread across various spheres of life and marketed to diverse segments in a multitude of countries.
+Over here on XDA-Developers, Samsung is famously known for their Android smartphones and tablets, given they are some of the top contenders for their respective product categories.
+Samsung also makes many more interesting electronics, including a few “smart” ones that run on its own open-source OS, Tizen OS.
+Tizen powers Samsung products like smart TVs, smartwatches like the Gear series and even mobile phones like the Samsung Galaxy Z lineup.
+Samsung is seeking to expand the Tizen offerings to more products and more markets, as is evident from the expansion of the Galaxy Z smartphones and the Gear smartwatches.
+As security researcher Amihai Neiderman of Equus Software mentioned to Motherboard, Samsung’s Tizen OS has as many as 40 zero-day vulnerabilities still active and posing threat to the security of the operating system.
+These vulnerabilities allow someone to remotely hack “millions” of newer Samsung smart TVs, smartwatches and mobile phones, both already on the market as well as ones slated for future release as Samsung does not know and has not fixed these vulnerabilities (hence, “zero day”).
+You can see that nobody with any understanding of security looked at this code or wrote it.
+It’s like taking an undergraduate and letting him program your software”.
+All of the vulnerabilities allow remote code execution on a Samsung device.
+One of these vulnerabilities even exploits a flaw in the design of Samsung’s TizenStore app to hijack the software and deliver malicious code to a Samsung TV.
+Worse, the TizenStore app operates with the highest privileges on a Tizen device, so such a vulnerability is an even bigger cause of worry as Mr. Neiderman says that you can update a Tizen system with any malicious code the hacker wants.
+The TizenStore does use authentication for making sure only authorized Samsung software gets installed, but a heap-overflow vulnerability allows for gaining control before the authentication kicks in.
+The researcher mentions that a lot of the Tizen code base is old and borrows from previous projects like Bada.
+But most of the vulnerabilities he found were in new code specifically written for Tizen within the last two years.
+The vulnerabilities are described as “mistakes programmers were making twenty years ago” to indicate that Samsung lacked basic code development and review practices for Tizen.
+When contacted, Samsung sent the researcher an automated email in response.
+Samsung’s current smartphone lineup is heavily dependent on Android, so these news shouldn’t necessarily impact your opinion of their Android smartphones in particular.
+But Samsung’s other avenues that involve Tizen are likely to invite hackers to explore and find more of such zero-day vulnerabilities.
+There needs to be a higher priority on Tizen’s security if Samsung ever wants Tizen to bean OS for the internet of things.
+</text>

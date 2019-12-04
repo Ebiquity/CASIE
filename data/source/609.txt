@@ -1,0 +1,13 @@
+<title>Islamic State supporters hit by Android malware on Telegram - CyberScoop</title>
+<source> https://www.cyberscoop.com/isis-malware-telegram-android/ </source>
+<date> 2017_02_13 </date>
+<text>
+Islamic State supporters are warning one another of malware targeting the militant group through the chat app Telegram.
+One member on a popular ISIS forum alerted users to plus_gram.apk, a trojanized RAT (a remote access tool disguised as harmless software) that allows an attacker to spy on and take full control of the target’s Android device.
+The ISIS supporter used malware analysis at NVISIO, a popular free platform to test Android software for malicious code.
+The warning was first spotted and described by @switch_d, a veteran ISIS watcher.
+This attack arrives as a phishing link disguised as an invitation to a video chat, according to the warning, a tactic ISIS supporters have fallen victim to in the past.
+The responses to the warning include a thanks and common sense guidance to “only accept files from brothers you know”.
+This malware runs in multiple stages, Khalil Sehnaoui, a Middle East-based cybersecurity specialist and founder of Krypton Security, told CyberScoop.
+“The exploit code is usually small and after successful exploitation it runs a dropper code which will in turn download new applications/malware in order to get more control of the system by escalating privileges”.
+</text>

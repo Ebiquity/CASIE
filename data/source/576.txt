@@ -1,0 +1,15 @@
+<title> Triada Replaces Hummingbad as No 1 Mobile Threat </title>
+<source> https://www.infosecurity-magazine.com/news/triada-replaces-hummingbad-as-no-1/ </source>
+<date> 2017_02_08 </date>
+<text>
+Hummingbad has been replaced as the top mobile malware threat. It has been usurped by Triada, a modular backdoor for Android.
+According to Check Point Security, Triada grants super-user privileges to downloaded malware, helping it to be embedded into system processes. It has also been seen spoofing URLs loaded in the browser. And in January, based on data from the World Cyber Threat Map, Triada edged past Hummingbad, ending that baddie’s year-long reign.
+Hummingbad is an Android malware that establishes a persistent rootkit on the device, installs fraudulent applications, and with slight modifications, could enable additional malicious activity such as installing a key-logger, stealing credentials and bypassing encrypted email containers used by enterprises. It’s still in second place in terms of prevalence.
+Over the summer, Check Point said that it was found to control 85 million devices globally, generating an estimated $300,000 per month in fraudulent ad revenue for the criminals behind it, i.e., Yingmob, a group of Chinese cyber-criminals. Yingmob also happens to operate a legitimate ad network.
+The No 3 mobile malware threat is Hiddad—an Android malware which repackages legitimate apps and then releases them to a third-party store. Its main function is displaying ads; however, it is also able to gain access to key security details built into the OS, allowing an attacker to obtain sensitive user data.
+In total, mobile malware accounted for 9% of all recognized malware attacks by Check Point.
+On the non-mobile front, the Index ranked Kelihos, a botnet used in bitcoin theft and spamming, as the most prevalent malware family overall, with 5% of organizations globally is impacted by it. It utilizes peer-to-peer communications, enabling each individual node to act as a Command & Control server.
+It’s followed by HackerDefender and Cryptowall in second and third place respectively, with both impacting 4.5% of companies.
+Overall, the top 3 malware families revealed that hackers were using a wide range of attack vectors and tactics to target businesses. These threats impact all steps of the infection chain, including spam emails which are spread by botnets, and contain downloaders that place ransomware or a Trojan on the victim’s machine. 
+</text>
+

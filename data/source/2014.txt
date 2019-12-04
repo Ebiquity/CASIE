@@ -1,0 +1,16 @@
+<title>Hacker Leaks Episodes From Netflix Show and Threatens Other Networks - The New York Times</title>
+<source> https://www.nytimes.com/2017/04/29/business/media/netflix-hack-orange-is-the-new-black.html </source>
+<date> 2017_05_02 </date>
+<text>
+A hacker who claims to have stolen unreleased television shows from several major networks shared the coming season of the Netflix series “Orange Is the New Black” on Saturday after the person said the streaming service failed to meet its ransom requests.
+The breach appears to have occurred at the postproduction company Larson Studios, a popular digital-mixing service in Los Angeles for television networks and movie studios. The hacker or hackers, who go by the name “thedarkoverlord,” also claim to have stolen unreleased content from ABC, Fox, National Geographic and IFC. The Federal Bureau of Investigation learned of the episode at Larson Studios in January but did not start notifying the content companies until a month ago.
+A message to Larson Studios was not immediately returned.
+On Twitter, thedarkoverlord suggested that other networks would have their shows released next. “Oh, what fun we’re all going to have,” the hacker said. “We’re not playing any games anymore.”
+Netflix had announced this year that Season 5 of “Orange Is the New Black” would be released June 9, and it was not immediately clear whether it planned to move up the release date.
+In a statement, Netflix said: “We are aware of the situation. A production vendor used by several major TV studios had its security compromised and the appropriate law enforcement authorities are involved.”
+This specific breach highlights a risk posed by the weak security practices in the postproduction studios that manage the release of proprietary entertainment content. While companies like Netflix and Fox might invest in state-of-the-art cybersecurity defense technology, they must also rely on an ecosystem of postproduction vendors, ranging from mom-and-pop shops to more sophisticated outfits like Dolby and Technicolor, which may not deploy the same level of cybersecurity and threat intelligence.
+In a message posted Saturday, thedarkoverlord criticized Netflix for not meeting its blackmail requests. “It didn’t have to be this way, Netflix,” the message said. “You’re going to lose a lot more money in all of this than what our modest offer was.”
+The statement continued: “We’re quite ashamed to breathe the same air as you. We figured a pragmatic business such as yourselves would see and understand the benefits of cooperating with a reasonable and merciful entity like ourselves.”
+The hacker threatened to release content from other studios on Saturday if its demands were not met. ABC, Fox and IFC declined to comment, and a message to National Geographic was not immediately returned.
+The alias thedarkoverlord has popped up in other recent attacks, including one last January on a small charity in Muncie, Ind., the Little Red Door Cancer Services of East Central Indiana. In that case, the hackers wiped the organization’s servers and backup servers, and demanded 50 bitcoins — valued at $43,000 — to restore the data. The organization did not pay.
+</text>

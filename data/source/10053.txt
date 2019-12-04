@@ -1,0 +1,23 @@
+<title> UK firms targeted by China-based 'systematic' global hacking operation  </title>
+<source> https://www.telegraph.co.uk/news/2017/04/04/uk-firms-targeted-china-based-systematic-global-hacking-operation/ </source>
+<date> 2017_04_04 </date>
+<text>
+A China-based cyber gang has compromised UK firms as part of a "systematic" global hacking operation, a new report has revealed.
+The attacks were found to have breached a wide variety of secret data ranging from personal data to intellectual property, in what the report described as "one of the largest ever sustained global cyber espionage campaigns".
+The group behind the attacks, named APT10, was found to have used custom malware and "spear phishing" techniques to target managed outsourced IT service companies as stepping stones into the systems of an "unprecedented web" of victims according to the report's authors.
+The report's authors included the National Cyber Security Centre (NCSC) and cyber units at defence group BAE systems and accountancy firm PwC.
+The gang were found to have used the companies as a way into their customers' systems from 2016 onwards, although there is evidence to suggest they had first employed the tactics from as early 2014.
+PwC cyber security Partner Richard Horne told the Press Association the extent of the malicious campaign was still unclear.
+He said: "The reason we've gone public with this is because we can see so much and we have seen so much in several managed IT service providers (MSPs) and other companies compromised through it, but we don't know how far this has gone.
+"Us, together with the NCSC and BAE Systems are very keen to get this information out there so we can promote a mass response to this."
+The report behind the unmasking operation, codenamed Cloud Hopper, highlights targeted attacks against Japanese commercial firms and public bodies, but indicates further widespread operations against companies in 14 other countries including the UK, France and the United States.
+The report's authors state APT10 is "highly likely" to be based in China, demonstrating a pattern of work in line with China Standard Time (UTC+8) and the targeting of specific commercial enterprises "closely aligned with strategic Chinese interests".
+Mr Horne said the data collected in individual attacks spanned a plethora of sensitive categorisations.
+He said: "We've seen a number of different companies targeted for different reasons, but essentially it's all around sensitive information they hold, whether that's intellectual property, or personal information on people or a whole realm of other areas.
+"It's a very large-scale espionage operation." Spear phishing emails with bespoke malware were first sent to staff in targeted companies, and once the attackers had successfully infiltrated their systems they were free to seek out a raft of sensitive data within.
+Dr Adrian Nish, head of threat intelligence at BAE, told the BBC such MSPs were crucial to the nature of the campaign's success.
+He said: "Organisations large and small rely on these providers for management of core systems and as such they can have deep access to sensitive data".
+"It is impossible to say how many organisations might be impacted altogether at this point."
+The organisations behind operation Cloud Hopper are expected to release a further report this week into the detailed methods that ATP10 has used in its campaign in a bid to encourage firms to take a proactive approach into checking if their systems have been targeted.
+
+</text>

@@ -1,0 +1,16 @@
+<title>Java and Python Contain Security Flaws That Allow Attackers to Bypass Firewalls</title>
+<source> https://www.bleepingcomputer.com/news/security/java-and-python-contain-security-flaws-that-allow-attackers-to-bypass-firewalls/ </source>
+<date> 2017_02_22 </date>
+<text>
+The problems arise from the way Java and Python (through the urllib2 library in Python 2 and urllib library in Python 3) handle FTP links, which allow the attacker to inject newline (CRLF) characters inside the URL, making the Java and Python code think some parts of the URL are new commands.
+This leads to a flaw that security researchers call "protocol injection."
+The FTP protocol injection issue was first detailed by Russian security lab ONsec in 2014, but never got the public attention it needed.
+Two recent reports have raised the profile of this flaw, describing two new exploitation scenarios.
+Security researcher Alexander Klink detailed on his blog how the FTP protocol injection flaw could be used to send emails using Java's FTP URL handler.
+Two days later, Timothy Morgan of Blindspot Security came forward and presented a more ominious exploitation scenario where the FTP URL handlers in Java and Python could be used to bypass firewalls.
+Morgan also revealed that his company informed both the Python team (in January 2016) and Oracle (in November 2016) about the FTP protocol injection flaw, but neither have issued updates to address the reported problem.
+At the heart of the FTP protocol injection attack resides an older issue in the FTP protocol itself, which is classic mode FTP.
+The classic mode FTP is an older mechanism that governs how FTP clients and servers interact, which was proved to be insecure in issue #60 of the Phrack hacking magazine and later detailed in more depth by Florian Weimer.
+Classic mode FTP has been replaced by a more secure method of client-server FTP interactions known as passive mode FTP.
+Nevertheless, most firewall products support classic mode FTP connections.
+</text>

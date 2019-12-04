@@ -1,0 +1,26 @@
+<title>Sneaky Gmail phishing attack fools with fake Google Docs app | CSO Online</title>
+<source> http://www.csoonline.com/article/3194331/security/sneaky-gmail-phishing-attack-fools-with-fake-google-docs-app.html </source>
+<date> 2017_05_04 </date>
+<text>
+Google Docs was pulled into a sneaky email phishing attack on Tuesday that was designed to trick users into giving up access to their Gmail accounts.
+The phishing emails, which circulated for about three hours before Google stopped them, invited the recipient to open what appeared to be a Google Doc. The teaser was a blue box that said, “Open in Docs.”
+In reality, the link led to a dummy app that asked users for permission to access their Gmail account.
+An example of the phishing email that circulated on Tuesday.
+Users might easily have been fooled, because the dummy app was actually named “Google Docs.” It also asked for access to Gmail through Google’s actual login service.
+The hackers were able to pull off the attack by abusing the OAuth protocol, a way for internet accounts at Google, Twitter, Facebook and other services to connect with third-party apps.  
+The OAuth protocol doesn’t transfer any password information, but instead uses special access tokens that can open account access.
+However, OAuth can be dangerous in the wrong hands. The hackers behind Tuesday’s attack appear to have built an actual third-party app that leveraged Google processes to gain account access.
+The dummy app will try to ask for account permission. 
+Last month, Trend Micro said a Russian hacking group known as Fancy Bear was using a similar email attack method that abused the OAuth protocol to phish victims.
+However, security experts said Tuesday's phishing attack probably wasn't from Fancy Bear, a shadowy group that many experts suspect works for the Russian government.
+"I don't believe they are behind this ... because this is way too widespread," Jaime Blasco, chief scientist at security provider AlienVault, said in an email. 
+On Tuesday, many users on Twitter, including journalists, posted screen shots of the phishing emails, prompting speculation that the hackers were harvesting victims' contact lists to target more users.
+The attack was also sent through an email address at "hhhhhhhhhhhhhhhh@mailinator.com." Mailinator, a provider of a free email service, denied any involvement. 
+Fortunately, Google moved quickly to stop the phishing attacks, after a user on Reddit posted about them.
+“We’ve removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again,” Google said in a statement.
+Security experts and Google recommend affected users check what third-party apps have permission to access their account and revoke any suspicious access. Users can do so by visiting this address, or performing a Google security check-up.
+
+Tuesday's phishing scheme will probably push Google to adopt an even stricter stance on apps that use OAuth, said Robert Graham, CEO of research company Errata Security.
+However, the internet giant has to strike a balance between ensuring security and fostering a flourishing app ecosystem. 
+"The more vetting you do, the more you stop innovation," Graham said. "It's a trade-off."
+</text>

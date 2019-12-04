@@ -1,0 +1,19 @@
+<title> No Patch Available Yet for New Major Vulnerability in Ghostscript Interpreter  </title>
+<source> https://www.bleepingcomputer.com/news/security/no-patch-available-yet-for-new-major-vulnerability-in-ghostscript-interpreter/ </source>
+<date> 2018_08_22 </date>
+<text>
+Tavis Ormandy, a Google Project Zero security researcher, has revealed details about a new major vulnerability discovered in Ghostscript, an interpreter for Adobe's PostScript and PDF page description languages.
+Ghostscript is by far the most widely used solution of its kind. The Ghostscript interpreter is embedded in hundreds of software suites and coding libraries that allow desktop software and web servers to handle PostScript and PDF-based documents.
+
+Exploiting the bug Ormandy discovered requires that an attacker sends a malformed PostScript, PDF, EPS, or XPS file to a victim. Once the file reaches the Ghostscript interpreter, the malicious code contained within will execute an attacker's desired on that machine.
+The vulnerability, which has not received a CVE identifier just yet, allows an attacker to take over applications and servers that use vulnerable versions of Ghostscript.
+At the time of writing, there is no fix available.
+By far, the most affected projects are the ImageMagick image processing library, but also many Linux distros where this library ships by default. RedHat and Ubuntu have already confirmed they are affected, according to a CERT/CC security advisory released today.
+"I *strongly* suggest that [Linux] distributions start disabling PS, EPS, PDF and XPS coders in [ImageMagick's] policy.xml by default," Ormandy said.
+
+Because of Ghostscript's broad adoption in the web dev and software dev communities, Ormandy has had his eyes set on Ghostscript for the past few years.
+He discovered similar high severity issues affecting Ghostscript in 2016 and again in 2017.
+The vulnerability he found in 2017 —CVE-2017-8291— was adopted by North Korean hackers, who used it to break into South Korean cryptocurrency exchanges, steal funds, and later plant false flags in an attempt to pin the hacks on Chinese-speaking threat actors.
+Because of Ghostscript's wide adoption, any bugs, and especially those that lead to remote code execution, are highly sought-after by any threat actor.
+</text>
+

@@ -1,0 +1,26 @@
+<title> Hospital hit by ransomware: Attackers demand Bitcoin to release control of system  </title>
+<source> http://www.greenfieldreporter.com/2018/01/13/01132018dr_hancock_network_hack/ </source>
+<date> 2018_01_30 </date>
+<text>
+GREENFIELD — Hancock Health fell victim to a cyber attack Thursday, with a hacker demanding Bitcoin to relinquish control of part of the hospital’s computer system.
+Employees knew something was wrong Thursday night, when the network began running more slowly than normal, senior vice president/chief strategy and innovation officer Rob Matt said.
+A short time later, a message flashed on a hospital computer screen, stating parts of the system would be held hostage until a ransom is paid. The hacker asked for Bitcoin — a virtual currency used to make anonymous transactions that is nearly impossible to trace.
+The hospital’s IT team opted to immediately shut down the network to isolate the problem. The attack affected Hancock Health’s entire health network, including its physician offices and wellness centers.
+Friday afternoon, Hancock Health CEO Steve Long confirmed the network was targeted by a ransomware attack from an unnamed hacker who “attempted to shut down (Hancock Health’s) operations.”
+Hospital leaders don’t believe any personal medical information has been compromised, Long said.
+Long declined to disclose details of the attack, including how much ransom has been requested. The attack amounts to a “digital padlock,” restricting personnel access to parts of the health network’s computer systems, he said.
+The attack was not the result of an employee opening a malware-infected email, a common tactic used to hack computer systems, he said.
+The attack was sophisticated, he said, adding FBI officials are familiar with this method of security breach.
+“This was not a 15-year-old kid sitting in his mother’s basement,” Long said.
+Protecting patients
+Notices posted Friday at entrances to Hancock Regional Hospital alerted visitors to a “system-wide outage” and asked any hospital employee or office using a HRH network to ensure all computers were turned off.
+Doctors and nurses have reverted to using pen and paper for now to keep patients’ medical charts updated. Long said he wasn’t aware of any appointments or procedures that were canceled directly related to the incident, adding Friday’s snowy weather contributed to many cancellations.
+Most patients likely didn’t notice there was a problem, nor did the attack significantly impact patient care, Long said.
+Hospital staff members worked with the FBI and a national IT security company overnight and throughout the day Friday to resolve the issue. Long said law enforcement has been acting in an “advisory capacity,” and declined to release details about the plan going forward, including whether the hospital is considering paying the ransom.
+Long commended his staff, especially IT workers, who quickly identified the problem Thursday evening.
+“If I was going through this with anybody, this is the team I would want to go through this with because I know what the outcome is going to be,” he said.
+Leaders updated hospital employees, totaling about 1,200 people, throughout the day Friday and took steps to be accommodate both patients and staff, including offering free food in the hospital cafeteria all day, Long said.
+Long said if there is any suggestion private patient information has been compromised, hospital officials will reach out to those affected, though he doesn’t expect that to become an issue.
+“We anticipate questions,” he said. “This is not a small deal.”
+</text>
+

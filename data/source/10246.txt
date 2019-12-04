@@ -1,0 +1,17 @@
+<title> Cyber attack on CDOT computers estimated to cost up to $1.5 million so far  </title>
+<source> https://www.denverpost.com/2018/04/05/samsam-ransomware-cdot-cost/ </source>
+<date> 2018_04_06 </date>
+<text>
+Six weeks after ransomware forced Colorado Department of Transportation’s back-end operations offline, the agency is back to 80 percent functionality — at an estimated cost of up to $1.5 million, according to the state.
+Colorado officials said they never caved to the attacker’s demands to pay bitcoin in order to recover encrypted computer files. But clearing each computer took time and additional resources — including the Colorado National Guard — to investigate, contain and recover.
+“We were able to recover from the SamSam attack relatively quickly due to our robust backup plan and our segmentation strategies,” Brandi Simmons, a spokesperson for Colorado’s Office of Information Technology, said in an email. “We are still capturing costs associated with the incident, but our estimate is between $1M and $1.5M.”
+What started with a core team of 25 IT employees, Simmons said, ballooned to 150  “during the peak of the incident” — March 2-9. She added that others included CDOT, the FBI, state emergency operations and private companies. The million-dollar estimate includes only overtime pay and other unexpected costs. The state’s new backup system prevented data loss, but personal data on employees’ computers may not be recovered.
+The cyberattack started around Feb 21 when a variant of the SamSam ransomware hijacked CDOT computer files. CDOT shut down more than 2,000 computers. Its employees had to use personal devices to check email. The state did not share the value of bitcoin that attackers demanded.
+Elsewhere, SamSam attacked the city of Atlanta, debilitating computer systems that residents used to pay traffic tickets, report potholes and access Wi-Fi at the airport. The city hasn’t issued a public update since March 30, and a city spokesman said Thursday there is nothing new to share.
+Attackers demanded $51,000 worth of bitcoin. Asked whether Atlanta has paid the ransom, spokeswoman Anne Torres said: “Unfortunately, we cannot comment further on the ransom.”
+The rise of ransomware attacks has caused some to wonder whether it’s worth paying to avoid business outages — Hancock Health in Indiana paid $55,000 to get its files back. Dan Likarish, a computer professor at Denver’s Regis University, said there’s still a good reason not to do it.
+“If you pay the ransom, you’re supporting the criminal,” said Likarish, adding there’s also no guarantee the attacker will return computer files intact. “The weasel answer? It’s a risk mitigation. That’s the way we label ourselves. We talk to upper management, present the business case that we’ve identified the problem, let’s just pay. That’s what a lot of hospitals have done. It’s not unusual to pay for the key and go about your business. It depends on how sophisticated your security staff is. If you don’t have it, what do you do? You’ve got to keep things running.”
+Likarish said he was able to help with efforts to contain the CDOT attack and was in awe at how the state’s IT office swooped in and took command. While IT staff had already updated its own computer operations, not every state agency is on the same system, including CDOT.
+“People are listening to them now,” Likarish said.
+</text>
+

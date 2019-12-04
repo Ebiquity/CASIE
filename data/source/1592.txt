@@ -1,0 +1,15 @@
+<title>Epic Fail: TP-Link 3G Router Spews Admin Password via SMS</title>
+<source> https://www.bleepingcomputer.com/news/security/epic-fail-tp-link-3g-router-spews-admin-password-via-sms/ </source>
+<date> 2017_04_11 </date>
+<text>
+A particular TP-Link router model will spew out its admin password in cleatext to anyone that sends an SMS message to the router's SIM card with a particular script inside, according to German security researcher Jan Hörsch, who shared his findings with German newspaper Heise.de.
+The vulnerability affects TP-Link model M5350, a 3G mobile Wi-Fi router, often distributed by mobile telco providers to their customers, along with a SIM card they insert in the router.
+This SIM card allows the router to connect to the mobile operator's network, and just like any SIM card, has its own telephone number.
+In an online conversation with Bleeping Computer, Hörsch, who's a researcher for German cyber-security firm Securai, says that after he analyzed the router's firmware, he discovered a vulnerability in the feature that handles incoming SMS messages.
+By sending the following SMS, the router would answer back with the admin account password, the Wi-Fi network SSID, and the Wi-Fi network's password.
+The issue isn't as dangerous as it sounds, mainly because the attacker needs to know the router SIM card's phone number in order to exploit it, Hörsch told Bleeping Computer.
+This issue is one of many the researcher discovered in recent months in various devices. His findings were summarized and presented in a talk at the recently concluded Kaspersky Security Analyst Summit (SAS), held last week.
+In the same talk, Hörsch also presented several other vulnerabilities that allowed him to obtain root access to Hootoo Travelmate and Trendnet TEW714TRU routers and Vstarcam webcams.
+Other vulnerabilities the researcher discovered and presented at SAS include the presence of a hardcoded Telnet password in Startech modems, and a very simple to exploit authentication bypass for Panasonic BM ET200 retina scanners, which allowed anyone access to the admin panel just by deleting a few parameters in an URL.
+His presentation also detailed several flaws in Western Digital MyCloud NAS hard drives, some of which were made public at the start of March by another researcher who disclosed the bugs.
+</text>

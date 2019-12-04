@@ -1,0 +1,11 @@
+<title> HMRC “Review your Last Fiscal Activity” Tax Refund Phishing Scam  </title>
+<source> https://content.govdelivery.com/accounts/UKCOVENTRY/bulletins/18ee546#link_1402481520159 </source>
+<date> 2017_03_24 </date>
+<text>
+A local resident has reported receiving an email claiming to be from HMRC that claims that the agency has recalculated their last fiscal activity and determined that they are eligible to receive a tax refund of £684.97.
+Similar to the above warning, the fake HMRC email advises that you have to click on a link to complete and submit the refund form. This will take you to a fraudulent website that asks you to supply your name, address, and contact details along with other identifying information. The fake HMRC site also asks you to supply your credit card numbers. Supposedly, all of this information is required to allow the processing of your refund claim.
+In reality, the information you supply will be collected by scammers and used to commit fraud and steal your identity.
+If you have received an HMRC related phishing/bogus email, please forward it to: phishing@hmrc.gsi.gov.uk and then delete it.
+Do not visit the website contained within the email or disclose any personal or payment information.
+Our advice is to delete this or any other similar messages. 
+</text>

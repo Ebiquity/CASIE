@@ -1,0 +1,11 @@
+<title>Unit 42 Uncovers New Google Android Malware, Bit.ly And ‘Fake News’ Strategies - Information Security Buzz</title>
+<source> https://www.informationsecuritybuzz.com/news/unit-42-uncovers-new-google-android-malware-bit-ly-fake-news-strategies/ </source>
+<date> 2017_04_10 </date>
+<text>
+Unit 42, Palo Alto Networks’ threat intelligence research arm, has uncovered evidence of links between attacks using two new malware families and two families of Google Android malware.
+This has been discovered as part of work on preventing and detecting targeted attacks in the Middle East.
+The attackers favour using URL shortening services to disguise the true links they are sending in spear phishing emails.
+A number of samples analysed were linked via the URL shortening service “bit.ly”.
+The URL shortening service then redirects users to the malicious payload hosted on attacker controlled pages.
+Another method favoured by the attackers was the setting up of fake news sites.
+</text>

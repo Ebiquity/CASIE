@@ -1,0 +1,26 @@
+<title>Security flaws in Pentagon systems 'easily' exploited by hackers | ZDNet</title>
+<source> http://www.zdnet.com/article/pentagon-system-flaws-likely-under-attack-by-foreign-hackers/ </source>
+<date> 2017_02_06 </date>
+<text>
+Hackers are likely exploiting the easy-to-find vulnerabilities, according to the security researcher who warned the Pentagon of the flaws months ago.
+The vulnerable systems could allow hackers or foreign actors to launch cyberattacks through the department's systems to make it look as though it originated from US networks.
+Dan Tentler, founder of cybersecurity firm Phobos Group, who discovered the vulnerable hosts, warned the flaws are so easy to find that he believes he was probably not the first person to find them.
+"It's very likely that these servers are being exploited in the wild," he told me on the phone.
+While the Pentagon is said to be aware of the vulnerable servers, it has yet to implement any fixes -- more than eight months after the department was alerted.
+It's a unique case that casts doubts on the effectiveness of the Trump administration's anticipated executive order on cybersecurity, which aims to review all federal systems of security issues and vulnerabilities over a 60-day period.
+The draft order was leaked last week, but it was abruptly pulled minutes before it was expected to be signed on Tuesday.
+Tentler, a critic of the plans, argued that the draft plans are "just not feasible."
+"It's laughable that an order like this was drafted in the first place because it demonstrates a complete lack of understanding what the existing problems are," he said.
+"The order will effectively demand a vulnerability assessment on the entire government, and they want it in 60 days?
+It's been months -- and they still haven't fixed it," he said.
+In the past year, the Pentagon became the first government department to ease up on computer hacking laws by allowing researchers to find and report bugs and flaws in systems in exchange for financial rewards.
+Trump aides' use of encrypted messaging may violate records law
+Using disappearing messages in government could be a "recipe for corruption," says one expert.
+Researchers must limit their testing to two domains -- "defense.gov" (and its subdomains) and any ".mil" subdomain.
+In an effort to pare down the list of hosts from "all public Department of Defense hosts" to "only the ones in scope," Tentler was able to identify several hosts that answered to the domain names in scope.
+"There were hosts that were discovered that had serious technical misconfiguration problems that could be easily abused by an attacker inside or outside of the country, who could want to implicate the US as culprits in hacking attacks if they so desire," he told me.
+"The flaw could allow politically motivated attacks that could implicate the US," he added.
+In other words, a foreign hacker or nation-state attacker could launch a cyberattack and make it look like it came from the Pentagon's systems.
+Tentler argued that the hosts were covered by the scope of the wildcard domains.
+A Pentagon spokesperson confirmed Tuesday that the vulnerabilities had been fixed, and encouraged researchers to continue to submit bugs and vulnerabilities, which are covered under the Pentagon's vulnerability disclosure policy.
+</text>

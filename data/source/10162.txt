@@ -1,0 +1,16 @@
+<title> VirtualBox Zero-Day Vulnerability Details and Exploit Are Publicly Available </title>
+<source> https://www.bleepingcomputer.com/news/security/virtualbox-zero-day-vulnerability-details-and-exploit-are-publicly-available/ </source>
+<date> 2018_11_06 </date>
+<text>
+A Russian vulnerability researcher and exploit developer has published detailed information about a zero-day vulnerability in VirtualBox. His explanations include step-by-step instructions for exploiting the bug.
+According to the initial details in the disclosure, the issue is present in a shared code base of the virtualization software, available on all supported operating systems.
+Exploiting the vulnerability allows an attacker to escape the virtual environment of the guest machine and reach the Ring 3 privilege layer, used for running code from most user programs, with the least privileges.
+Turning one "overflow" into another
+Sergey Zelenyuk found that the security bug can be leveraged on virtual machines configured with the Intel PRO/1000 MT Desktop (82540EM) network adapter in Network Address Translation (NAT) mode, the default setup that allows the guest system to access external networks.
+"The [Intel PRO/1000 MT Desktop (82540EM)] has a vulnerability allowing an attacker with root/administrator privileges in a guest to escape to a host ring3. Then the attacker can use existing techniques to escalate privileges to ring 0 via /dev/vboxdrv," Zelenyuk writes in a technical write-up on Tuesday.
+Zelenyuk says that an important aspect in getting how the vulnerability works is to understand that context descriptors are processed before data descriptors.
+The researcher describes the mechanics behind the security flaw in detail, showing how to trigger the necessary conditions to obtain a buffer overflow that could be abused to escape the confinements of the virtual operating system.
+First, he caused an integer underflow condition using packet descriptors - data segments that allow the network adapter to track network packet data in the system memory.
+This state was then leveraged to read data from the guest OS to into a heap buffer and cause an overflow condition that could lead to overwriting function pointers; or to cause a stack overflow condition.
+</text>
+

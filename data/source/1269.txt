@@ -1,0 +1,30 @@
+<title>‘Turkish’ hackers threaten to reset millions of iCloud accounts – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/03/23/turkish-hackers-threaten-to-reset-millions-of-icloud-accounts/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=d29d3de181-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-d29d3de181-455160889 </source>
+<date> 2017_03_24 </date>
+<text>
+A new band of hackers, styling itself the “Turkish Crime Family”, is claiming it has secured the details of some 200m iCloud accounts and that if Apple doesn’t pay a whopping $75,000 bitcoin or ethereum ransom (or $100,000 in iTunes gift cards) it will wipe the lot.
+First, Apple says its systems haven’t been breached.
+The company told Naked Security:
+There have not been any breaches in any of Apple’s systems including iCloud and Apple ID.
+The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services.
+So 200m accounts obtained from previously compromised third party services is OK?
+Obviously not, but there’s no suggestion that Apple itself is responsible for any compromised security.
+The Turkish Crime Family itself appears to be new on the security scene, believed to have started life in Istanbul but now resident in Green Lanes, north London, according to one report.
+Helpfully, the organisation has a Twitter account.
+Another curious facet of the alleged breach is that asking for payment in extremely traceable iTunes vouchers seems more than slightly curious; why would you not ask for something with a less clean audit trail?
+The group itself disputes the amount that’s been reported and blames a media relations operative (presumably the same one who put an email address for media inquiries on the Twitter profile):
+This sum of $75,000 is incorrect, this was submitted by one of our old media guys that is not a part of our group.
+The sum is a lot higher
+The organisation has posted what it claims is video evidence to the Motherboard site.
+David Kennerley, director of threat research at Webroot, is among the first to wonder whether the threat is actually real.
+There are a lot of questions that need to be answered such as, do these hackers really have access to the data they claim?
+How did they get hold of such a large amount of data?
+Finally, there are still people who believe their Apple hardware is completely safe from malware just because it’s Apple.
+It’s great kit and it works beautifully but nobody is safe 
+Logging into and erasing 200 million accounts would take some time.
+If it started happening, Apple could easily block the attack.
+Also, they’d have to have some sort of server or admin-level access to be able to wipe or delete accounts, or even a single server’s-worth of accounts.
+The Turkish Crime Family having that level of access would either entail an incredibly serious, hitherto unknown breach in Apple’s defenses (improbable), or the help of someone on the inside (more likely, but still doubtful).
+If an Apple user wasn’t backing up their entire device to the Apple Cloud, a device that was wiped wouldn’t have everything for Apple to restore.
+I suspect there are quite a few users that don’t do Cloud backups, or only back up a portion of their data.
+</text>

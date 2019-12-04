@@ -1,0 +1,19 @@
+<title>XMR Squad Is Charging German Companies €250 for "DDoS Tests"</title>
+<source> https://www.bleepingcomputer.com/news/security/xmr-squad-is-charging-german-companies-250-for-ddos-tests-/ </source>
+<date> 2017_04_27 </date>
+<text>
+A group calling itself XMR Squad has spent all last week launching DDoS attacks against German businesses and then contacting the same companies to inform them they had to pay €250 ($275) for "testing their DDoS protection systems."
+German DDoS protection firm Link11 reported attacks against DHL, Hermes, AldiTalk, Freenet, Snipes.com, the State Bureau of Investigation Lower Saxony, and the website of the state of North Rhine-Westphalia.
+The attack against DHL Germany was particularly effective as it shut down the company's business customer portal and all APIs, prompting eBay Germany to issue an alert regarding possible issues with packages sent via DHL.
+"They seem to know what to hit," said Daniel Smith, security researcher for Radware, and one of the persons currently keeping tabs of the attacks.
+The group sent emails to all the companies it targeted. In the emails, they didn't ask for a ransom to stop the attacks, but a fee for having already carried out what they called a DDoS protection test.
+Usually, these types of groups launch DDoS attacks and then send emails to their victims requesting for payments to stop the attacks. XMR Squad's emails looked like invoices for unrequested DDoS tests.
+Furthermore, the ransom note didn't include payment instructions, which is weird, to say the least. DDoS ransoms are usually handled in Bitcoin or another anonymous cryptocurrency. It was strange to see the group ask for payment in Euros, as the group's name included the term XMR, the shortname for Monero, an anonymous cryptocurrency.
+While the group advertised on Twitter that their location was in Russia, a German reporter who spoke with the group via telephone said "the caller had a slight accent, but spoke perfect German."
+To the same reporter, the group also claimed they carried out the attacks only to get public attention. The attention they got wasn't the one they expected, as their hosting provider took down their website, located at xmr-squad.biz.
+Germany, in particular, has been the target of several DDoS blackmailers in the past year. In January and February, a group calling itself Stealth Ravens launched DDoS-for-Bitcoin ransom attacks.
+Link11, who tracked those attacks, claimed the group used a DDoS botnet built with the Mirai IoT malware and asked for 5 Bitcoin ($6,000) to stop attacks.
+Last year in June, another group named Kadyrovtsy also targeted German businesses, launching attacks of up to 50 Gbps. This group began DDoS ransom attacks a month earlier by first targeting Polish banks.
+All these groups are following the same modus operandi perfected by groups like DD4BC and Armada Collective. These two groups appeared in the summer and autumn of 2015 and targeted companies worldwide. In January 2016, Europol arrested suspects believed to be DD4BC members in Bosnia and Herzegovina. Following the arrests, both groups became inactive.
+After the demise of these two main groups, there was a wave of copycats [1, 2, 3, 4, 5] that used their respective reputation to extort payments from companies, in many cases without even possessing any DDoS capabilities.
+</text>

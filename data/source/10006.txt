@@ -1,0 +1,16 @@
+<title>Legco set to act on massive data breach at Cathay </title>
+<source> http://www.ejinsight.com/20181030-legco-set-to-act-on-massive-data-breach-at-cathay/ </source>
+<date> 2018_10_30 </date>
+<text>
+The Legislative Council has decided to take action on the massive data breach at Cathay Pacific Airways, which has affected the personal information of as many as 9.4 million customers.
+Amid calls for more stringent regulations on personal data protection, lawmaker Horace Cheung Kwok-kwan from the Democratic Alliance for the Betterment and Progress of Hong Kong said Legco will hold a special meeting on Nov 14 to thoroughly discuss how to prevent similar incidents from happening again through regulatory approaches.
+According to Cheung, the meeting will be attended by members of the Legco Panel on Constitutional Affairs, which he chairs, Panel on Security and Panel on Information Technology and Broadcasting, as well as representatives from the airline, the Hong Kong Economic Journal reported.
+Secretary for Constitutional and Mainland Affairs Patrick Nip Tak-kuen and Privacy Commissioner for Personal Data Stephen Wong Kai-yi have also agreed to join the discussions, he added.
+Cheung said quite a number of his colleagues have expressed concerns about the fact that the existing regulations on online privacy have failed to advance with the time, and want to know the view of the authorities on reforming them.
+Cathay revealed on Oct 23 that it discovered suspicious activity on its computer network in early March and confirmed in early May that personal data of its customers were accessed with no authorization.
+The data included passenger name, nationality, date of birth, phone number, email, physical addresses, passport number, identity card number, frequent flyer program membership number, customer service remarks, and historical travel information, along with the numbers of hundreds of credit cards.
+On Monday morning, eight officers from the police’s Cyber Security and Technology Crime Bureau went to Cathay City, the airline’s headquarters at the Hong Kong International Airport in Chek Lap Kok, to conduct an investigation.
+With the presence of a Cathay-appointed lawyer, the officers examined some servers before they left about two hours later without taking away any items as evidence.
+It is understood that the police force has instructed all of its districts to pay attention to cases that may be connected to the data breach or those resulting in material losses.
+Meanwhile, Wong told a radio program on Monday that his office, the next day after the airline unveiled it, sent an initial questionnaire, asking Cathay for an explanation within 10 days.
+</text>

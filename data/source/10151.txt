@@ -1,0 +1,17 @@
+<title> Microsoft Working on a Fix for Windows 10 Meltdown Patch Bypass  </title>
+<source> https://www.bleepingcomputer.com/news/security/microsoft-working-on-a-fix-for-windows-10-meltdown-patch-bypass/ </source>
+<date> 2018_05_02 </date>
+<text>
+Microsoft's patches for the Meltdown vulnerability have had a fatal flaw all these past months, according to Alex Ionescu, a security researcher with cyber-security firm Crowdstrike.
+Only patches for Windows 10 versions were affected, the researcher wrote today in a tweet. Microsoft quietly fixed the issue on Windows 10 Redstone 4 (v1803), also known as the April 2018 Update, released on Monday.
+"Welp, it turns out the Meltdown patches for Windows 10 had a fatal flaw: calling NtCallEnclave returned back to user space with the full kernel page table directory, completely undermining the mitigation," Ionescu wrote.
+
+Microsoft issued today an security update, but it wasn't to backport the "fixed" Meltdown patches for older Windows 10 versions.
+Instead, the emergency update fixed a vulnerability in the Windows Host Compute Service Shim (hcsshim) library (CVE-2018-8115) that allows an attacker to remotely execute code on vulnerable systems. Microsoft classified CVE-2018-8115 as a "critical" issues. A patched hcsshim file is available for download from GitHub.
+
+"We are aware and are working to provide customers with an update," a Microsoft spokesperson told Bleeping Computer today in an email.
+It may be that if Microsoft doesn't bundle these fixes in an out-of-band update, they will most likely arrive in Microsoft's May 2018 Patch Tuesday, but this is only our speculation.
+Microsoft released its Meltdown and Spectre patches on January 4, a day after security researchers disclosed the two flaws, vulnerabilities that allow attackers to retrieve data from protected areas of modern CPUs.
+The Redmond-based OS maker has had a hard time patching the two flaws, and the company recently issued additional security updates to fix the original Spectre mitigations, and also deliver Intel CPU microcode updates, as a favor to Intel.
+</text>
+

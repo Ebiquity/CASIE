@@ -1,0 +1,16 @@
+<title>Beware the latest tax-season spear-phishing scam – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/02/08/beware-the-latest-tax-season-spear-phishing-scam/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=baf57aed8b-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-baf57aed8b-455160889 </source>
+<date> 2017_02_09 </date>
+<text>
+You may have heard of the CEO scam: that’s where spear-phishers impersonate a CEO to hit up a company for sensitive information.
+That’s what happened to Snapchat, when an email came in to its payroll department, masked as an email from CEO Evan Spiegel and asking for employee payroll information.
+Here’s a turn of that same type of screw: the Internal Revenue Service (IRS) last week sent out an urgent warning about a new tax season scam that wraps the CEO fraud in with a W-2 scam, then adds a dollop of wire fraud on top.
+A W-2 is a US federal tax form, issued by employers, that has a wealth of personal financial information, including taxpayer ID and how much an employee was paid in a year.
+This new and nasty dual-phishing scam has moved beyond the corporate world to target nonprofits such as school districts, healthcare organizations, chain restaurants, temporary staffing agencies and tribal organizations.
+As with earlier CEO spoofing scams, the crooks are doctoring emails to make the messages look like they’re coming from an organization’s executive.
+Sending the phishing messages to employees in payroll or human resources departments, the criminals request a list of all employees and their W-2 forms.
+The scam, sometimes referred to as business email compromise (BEC) or business email spoofing (BES), first appeared last year.
+This year, it’s not only being sent to a broader set of intended victims; it’s also being sent out earlier in the tax season than last year.
+In a new twist, this year’s spam scamwich also features a followup email from that “executive”, sent to payroll or the comptroller, asking for a wire transfer to a certain account.
+Some companies have been swindled twice: they’ve lost both employees’ W-2s and thousands of dollars sent out via the wire transfers.
+</text>

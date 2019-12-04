@@ -1,0 +1,29 @@
+<title>New GhostAdmin Malware Used for Data Theft and Exfiltration</title>
+<source> https://www.bleepingcomputer.com/news/security/new-ghostadmin-malware-used-for-data-theft-and-exfiltration/ </source>
+<date> 2017_01_19 </date>
+<text>
+Named GhostAdmin, this threat is part of the "botnet malware" category.
+According to current information, the malware is already distributed and deployed in live attacks, being used to possibly target at least two companies and steal hundreds of GBs of information.
+According to MalwareHunterTeam and other researchers that have looked at the malware's source code, GhostAdmin seems to be a reworked version of CrimeScene, another botnet malware family that was active around 3-4 years ago.
+Under the hood, GhostAdmin is written in C# and is already at version 2.0.
+The malware works by infecting computers, gaining boot persistence, and establishing a communications channel with its command and control (C&C) server, which is an IRC channel.
+GhostAdmin's authors access to this IRC channel and issue commands that will be picked up by all connected bots (infected computers).
+The malware can interact with the victim's filesystem, browse to specific URLs, download and execute new files, take screenshots, record audio, enable remote desktop connections, exfiltrate data, delete log files, interact with local databases, wipe browsing history and more.
+A full list of available commands is available via the image below:
+The malware's features revolve around the ability to collect data from infected computers and silently send it to a remote server.
+GhostAdmin operates based on a configuration file.
+Among the settings stored in this file, there are FTP and email credentials.
+The FTP credentials are for the server where all the stolen information is uploaded, such as screenshots, audio recordings, keystrokes and more.
+On the other hand, the email credentials are used to send an email to the GhostAdmin author every time a victim executes his malware, and also send error reports.
+MalwareHunterTeam says that the GhostAdmin version he analyzed was compiled by a user that used the nickname "Jarad."
+Like almost all malware authors before him, Jarad managed to infect his own computer.
+Using the FTP credentials found in the malware's configuration file, MalwareHunterTeam found screenshots of GhostAdmin creator's desktop on the FTP server.
+Furthermore, the researcher also found on the same server files that appeared to be stolen from GhostAdmin victims.
+The possible victims include a lottery company and an Internet cafe.
+Just from the Internet cafe, the crook has apparently collected 368GB of data alone.
+From the lottery company, the GhostAdmin botmaster appears to have stolen a database holding information such as names, dates of births, phone numbers, emails, addresses, employer information, and more.
+At the time of writing, according to MalwareHunterTeam, the botnet's IRC channel includes only around ten bots, an approximate victims headcount.
+Compared to other botnet malware families such as Necurs or Andromeda, which have millions of bots, GhostAdmin is just making its first victims.
+In its current form, GhostAdmin and its botmaster seem to be focused on data theft and exfiltration.
+At the time of writing, GhostAdmin detection rate on VirusTotal was only 6 out of 55 (sample here).
+</text>

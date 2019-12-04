@@ -1,0 +1,13 @@
+<title> Atlanta Works to Break Ransomware Hold   </title>
+<source> https://www.technewsworld.com/story/85238.html </source>
+<date> 2018_03_30 </date>
+<text>
+Nearly a week after it became the target of one of the largest ransomware attacks to date, the City of Atlanta has made progress toward recovery, but it is still far from business as usual. Hackers encrypted many of the city government's vital data and computer systems.
+The ransomware attack, which Mayor Keisha Lance Bottoms characterized as "a hostage situation," forced the city to shut down municipal courts and even prevented residents from paying bills online. The city has been unable to issue warrants, and in many cases city employees have had to fill out forms and reports by hand.
+The hackers demanded that officials pay a ransom of US$51,000 to be sent to a bitcoin wallet.
+Threat researchers from Dell-owned Secureworks, which is based in Atlanta, have been working to help the city recover from the attack.
+The security firm identified the assailants as the SamSam hacking group, The New York Times reported on Thursday. That organization has been known for similar ransomware attacks; it typically makes ransom demands of $50,000 or more, usually payable only with bitcoin.
+Secureworks has been working with the city's incident response team as well as the FBI, the Department of Homeland Security and the U.S. Secret Service. In addition, a number of independent experts, including researchers from Georgia Tech, have been called in to determine how the attack occurred and help strategize to prevent another such attack.
+As of Thursday, the city's Department of Information Management, which first discovered the attack on March 21, said that it had found no evidence that customer or employee data was compromised. It nevertheless encouraged everyone to take precautionary measures, including the monitoring of personal accounts and protecting personal information.
+</text>
+

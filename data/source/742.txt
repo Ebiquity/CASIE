@@ -1,0 +1,20 @@
+<title>Charging Smartphone in Public Ports Leads to Data Hack --- So Let's Stop</title>
+<source> https://www.hackread.com/public-charging-ports-smartphone-data-hack/ </source>
+<date> 2017_02_24 </date>
+<text>
+In such scenario, finding a USB port installed somewhere or charging facility at public outlets seems to be a blessing.
+Public charging ports are installed almost everywhere for the users and vicitors convenience such as at airports, conference centers, cafes, parks and planes, etc.
+All you need to do is plug in your cell phone and feel relaxed and relieved.
+However, Drew Paik from IT security security firm Authentic8 told CNN that this is a very dangerous thing to do because the outlet might be hacked and all the data present in your phone could easily be transferred to a hacker.
+Authentic8 is the developer of Silo web browser that facilitates anonymous web surfing.
+The revelation from Paik is surprising and concerning as he states that simply through plugging in your phone into a hacked charger or power strip would lead to getting your device infected at once and all your data will also be compromised.
+The reason is that the cord used to plug in your mobile phone is also used for sending data to and from the device.
+For example, if you connect your iPhone to your Mac device using the same charging cord, you can easily transfer images and music from your mobile to your Mac.
+Hence, through compromising this particular cord, a hacker can extract all sorts of data from your mobile including pictures, emails, contact numbers, SMS messages, etc., without your knowledge obviously.
+The company installed a charging station at its stall and offered to charge cords to visitors so that they could charge their devices.
+Then the security firm ran a social experiment to analyze the number of people who used this charging service, which turned out to be quite overwhelming with over 80% of the audience using the charging facility provided by Authentic8.
+Paik noted that none of these visitors seemed to care about the security aspect of charging mobiles from a public station despite the fact that they were attending a security conference.
+The repercussions are various and diverse, which is why Paik recommends that instead of putting their data in danger, users must carry their chargers or invest in portable USB battery pack.
+They may also buy USB cords of their own and connect the chargers using their ports.
+The bottom line is that, if you are concerned about the security of your phone’s data, it is better to stop using public ports at all.
+</text>

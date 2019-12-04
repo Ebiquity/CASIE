@@ -1,0 +1,14 @@
+<title> Adobe December 2018 Security Update Fixes Reader, Acrobat </title>
+<source> https://threatpost.com/adobe-december-2018-patch-tuesday/139792/ </source>
+<date> 2018_12_11 </date>
+<text>
+Adobe has patched 87 vulnerabilities for Acrobat and Reader in its December Patch Tuesday update, including a slew of critical flaws that would allow arbitrary code-execution.
+The scheduled update comes less than a week after Adobe released several out-of-band fixes for Flash Player, including a critical vulnerability (CVE-2018-15982) that it said is being exploited in the wild. That’s a use-after-free flaw enabling arbitrary code-execution in Flash.
+
+The addressed critical vulnerabilities are myriad this month. The arbitrary code-execution problems include: two buffer errors; two untrusted pointer dereference glitches; three heap-overflow issues, five out-of-bounds write flaws, 24 use-after-free bugs. Adobe also patched three other critical-rated issues that could lead to privilege escalation; these are all security bypass problems.
+
+In addition to the critical bugs, Adobe also patched 43 out-of-bounds read flaws, four integer overflow problems and two security bypass issues, all of which could allow information disclosure.
+Adobe has characterized all of the flaws, both critical and important, as “priority two” for patching, which means that the software giant deems them to be unlikely to be imminently exploited in the wild, but patching within 30 days is recommended.
+The flaws are far-reaching and affect various implementations of Acrobat DC, Acrobat Reader DC, Acrobat 2017 and Acrobat Reader 2017 for macOS and Windows, in classic 2015, classic 2017 and continuous-track versions. All can be mitigated by updating to the most current versions of the software.
+</text>
+

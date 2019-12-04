@@ -1,0 +1,16 @@
+<title> Callisto Group hackers targeted Foreign Office data in phishing scam, cybersecurity firm says   </title>
+<source> https://www.independent.co.uk/news/uk/home-news/hacking-foreign-office-data-callisto-group-phishing-scam-cyber-security-a7684296.html </source>
+<date> 2017_04_15 </date>
+<text>
+F-Secure says it cannot prove which country was behind the hack but the group had links to 'entities' in China, Russia and Ukraine
+The UK Foreign Office was targeted by a group of determined and well-funded hackers over several months last year. 
+Research published by cybersecurity firm F-Secure suggested the attack was a “spear-phishing” campaign in which people are sent targeted emails with a link to a false login page to trick users into giving up their username and password. 
+The hackers created websites that looked like legitimate Foreign Office websites, including those for accessing an internal email account online.
+The scam is believed to have been perpetrated by hackers who call themselves the Callisto Group. 
+F-Secure said it did not know whether the attack was successful and the National Cyber Security Centre did not say whether data had been stolen.
+It was discovered after the spy agency analysed a successful attack on the French broadcaster TV5Monde in 2015.
+The group forced the channel’s scheduled programming off air for 18 hours and replaced them with a screen showing the terror group’s flag. 
+The inference with the UK’s government follows on from an ongoing probe into the Kremlin’s influence on the US elections last year. 
+Hacking groups such as DC Leaks, Fancy Bears and Guccifer 2.0 who were responsible for the leaking of damaging information about the Democrat party.
+The most significant attack, the leaking of thousands of private emails between senior members of the DNC to Wikileaks by Fancy Bears, lead to the resignation of DNC Chair Debbie Wasserman-Schultz.  
+</text>

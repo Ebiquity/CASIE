@@ -1,0 +1,16 @@
+<title>Australian Shipbuilder Hacked, Refuses to Pay Ransom</title>
+<source> https://www.govinfosecurity.com/australian-shipbuilder-hacked-refuses-to-pay-ransom-a-11662 </source>
+<date> 2018_11_02 </date>
+<text>
+Austal, which is based in Henderson, Western Australia, is one of the country's largest shipbuilders; it has built vessels for the U.S. Navy.
+The company, which is listed on Australia's ASX stock exchange, announced the breach late Thursday. The announcement came just a day after a security researcher in France posted screenshots on Twitter of the purported stolen data.
+Austal says the material is neither sensitive nor classified and that it has taken steps to secure its data systems. 
+"The data breach has had no impact on Austal's ongoing operations," the company says.  Austal's business in the United States is unaffected by this issue, as the computer systems are not linked.
+A spokesman for Austal contacted on Friday says he couldn't offer further information on the incident. The breach exposed ship design drawings that are distributed to customers, fabrication subcontractors and suppliers, Austal says. It also exposed "some staff email addresses and mobile phone numbers." Those individuals have been informed as well as a "small number" of other stakeholders directly impacted by the breach, the company reports.
+Austal has contacted the Australian Cyber Security Center and the Australian Federal Police. The Office of the Australian Information Commissioner, which enforces the country's data protection regulations "will be involved as required," Austal says. 
+Companies are increasingly being subjected to ransoms by hackers after their networks have been breached. Ransoms put companies in tough positions: risk public exposure of potentially embarrassing data, or risk paying a ransom and still face a chance the data could be released anyway.
+Security experts and law enforcement generally advise against paying ransoms, even after incidents of file-encrypting malware. But some companies have viewed the situation as either a cost of doing business or a shorter route to recovery.
+Late last month in the U.S, the city of West Haven, Connecticut, paid $2,000 to unlock 23 servers that had been infected with ransomware (see: Connecticut City Pays Ransom After Crypto-Locking Attack).
+The city's attorney, Lee Tiernan, was quoted by the Associated Press as saying "research showed it was the best course of action."
+If the city didn't have a backup file, it may have had little choice. 
+</text>

@@ -1,0 +1,17 @@
+<title>SecurityBrief NZ - Phishing scammers target PayPal in very well crafted attack, Proofpoint finds </title>
+<source> https://securitybrief.co.nz/story/phishing-scammers-target-paypal-very-well-crafted-attack-proofpoint-finds/ </source>
+<date> 2017_02_07 </date>
+<text>
+Where there’s a will, there’s a way, and scammers are finding increasingly cunning ways to capitalise on the reach and popularity of the world’s global brands.
+This time PayPal is the target, according to Proofpoint.
+The company recently discovered a phishing email message which looked like a benign PayPal login, but in reality it was a “very well crafted” phishing webpage.
+The page is available in multiple languages, which makes it seem all the more legitimate and across many different regions.
+Behind the scenes, the phishing attack turned out to be complex and sophisticated, and Proofpoint says those are the real innovations.
+The phishing attempts feature embedded URLs that direct users to the fake PayPal login.
+This is done using a decommissioned PayPal service that allows a person to buy a gift card from a user.
+The phishing attack then starts with a ‘reassuring welcome page’, Proofpoint says.
+Users are then asked to confirm the credit card information.
+After the phishing kit validates the card, it asks users to enter security information about the card, the link to their bank account and details and identification.
+Proofpoint says that the particular phishing kit shows how ‘crimeware as a service’ is rapidly advancing, and will become a more common technique.
+Proofpoint says it has notified PayPal of the phishing campaign and the findings.
+</text>

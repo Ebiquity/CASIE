@@ -1,0 +1,20 @@
+<title>Security products endanger customers through poor TLS interception - Security - iTnews</title>
+<source> https://www.itnews.com.au/news/security-products-endanger-customers-through-poor-tls-interception-450351 </source>
+<date> 2017_02_08 </date>
+<text>
+Popular security products such as anti-viruses and middleboxes put customers at risk through poor transport layer security (TLS) interception implementations, researchers have found.
+A group of researchers from United States universities as well as tech companies Google, Mozilla, and Cloudflare tested middleboxes - which act as network proxies for traffic analysis and content filtering - from A10, Blue Coat, Barracuda, CheckPoint, Cisco, Fortinet, Juniper, Microsoft, Sophos, Untangle, and WebTitan.
+All but the BlueCoat device weakened connection security and introduced TLS vulnerabilities such as Logjam, weak export and RC4 ciphers, or didn't validate digital certificates properly.
+The researchers also tested [pdf] 29 anti-viruses, and found 13 would intercept TLS connections.
+Only Avast versions 10 and 11 for Windows did not reduce TLS connection security.
+Interception of TLS connections involves security products injecting their own certificates in web browsers or devices in organisation networks.
+This alllows them to terminate TLS connections, decrypt the traffic so as to look for malicious or disallowed content, and then re-initiate the TLS connection after analysis is complete.
+Such interception is increasingly prevalent, the researchers said, meaning the security community is working at cross purposes - the attempts to detect and block harmful traffic dramatically reduces connection security, the researchers said.
+"Many of the vulnerabilities we find in anti-virus products and corporate middleboxes — such as failing to validate certificates and advertising broken ciphers — are negligent and another data point in a worrying trend of security products worsening security rather than improving it," they wrote.
+Compounding the problem, the researchers noted that while it was possible to adjust middlebox settings in many cases to avoid them degrading TLS security, their configuration was "confusing, oftentimes with little or no documentation".
+"We note that the installation process for many of these proxies is convoluted, crash-prone, and at times, non-deterministic," they said.
+Testing middleboxes with services such as Qualys SSL Labs, How's My SSL, and Bad SSL is a must for administrators, the researchers said.
+There is no good reason for anti-virus vendors to intercept TLS since their software operates locally and already has access to the file system, browser memory, and any content loaded over HTTPS, they claimed.
+The researchers disclosed the vulnerabilities in the security products to vendors, but said the reception to the reports varied greatly.
+"In many cases, we received no response and in other cases, we were unable to convince manufacturers that TLS vulnerabilities such as Logjam required patching," they wrote.
+</text>

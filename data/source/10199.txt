@@ -1,0 +1,14 @@
+<title> Microsoft’s Windows 7 Meltdown patch created ‘worse’ flaw </title>
+<source> https://nakedsecurity.sophos.com/2018/03/29/microsofts-windows-7-meltdown-patch-created-worse-flaw/ </source>
+<date> 2018_03_29 </date>
+<text>
+Microsoft’s updates for the Meltdown microprocessor mega-flaw inadvertently left users running Windows 7 64-bit systems open to a “way worse” flaw, a researcher has claimed.
+To recap, Meltdown (aka F**CKWIT or CVE-2017-5754) is a proof-of-concept hardware vulnerability uncovered almost simultaneously by several groups of researchers through which an attacker could access the contents of kernel memory (passwords, encryption keys, say) from the part used by ordinary applications.
+An extremely inviting target for any attacker, which is why Microsoft sprang into action to mitigate the vulnerability (in addition to BIOS updates from vendors) across different Windows versions in two rounds of updates in January and February.
+But according to Ulf Frisk, something went awry starting with the January update when applied to Windows 7 and Windows Server 2008 R2, which miss-set controlling permissions for something called the Page Map Level 4 (PML4).
+This is a table used by Intel microprocessors to “translate the virtual addresses of a process into physical memory addresses in RAM.”
+Set correctly, only the kernel should be able to access this table. The result of the issue is that an attacker aware of the flaw would have the ability to break out of the application space and take over a system.
+All this from a simple software mistake:
+    No fancy exploits were needed. Windows 7 already did the hard work of mapping in the required memory into every running process. Exploitation was just a matter of read and write to already mapped in-process virtual memory. No fancy APIs or syscalls required – just standard read and write!
+</text>
+

@@ -1,0 +1,23 @@
+<title>WannaCry could spark lawsuits, but Microsoft not to blame - Software - Security - CRN Australia</title>
+<source> https://www.crn.com.au/news/wannacry-could-spark-lawsuits-but-microsoft-not-to-blame-461896?eid=4&edate=20170516&utm_source=20170516&utm_medium=newsletter&utm_campaign=daily_newsletter </source>
+<date> 2017_05_16 </date>
+<text>
+Businesses that failed to update Windows-based computer systems that were hit by a massive cyber attack over the weekend could be sued over their lax cyber security, but Microsoft itself enjoys strong protection from lawsuits, legal experts said.
+The WannaCry worm has affected more than 200,000 Windows computers around the world since Friday, disrupting car factories, global shipper FedEx Corp and Britain's National Health Service, among others. The hacking tool spreads silently between computers, shutting them down by encrypting data and then demanding a ransom of US$300 to unlock them.
+According to Microsoft, computers affected by the ransomware did not have security patches for various Windows versions installed or were running Windows XP, which the company no longer supports.
+"Using outdated versions of Windows that are no longer supported raises a lot of questions," said Christopher Dore, a lawyer specializing in digital privacy law at Edelson PC. "It would arguably be knowingly negligent to let those systems stay in place.”
+Businesses could face legal claims if they failed to deliver services because of the attack, said Edward McAndrew, a data privacy lawyer at Ballard Spahr. "There is this stream of liability that flows from the ransomware attack," he said  "That's liability to individuals, consumers and patients,"
+WannaCry exploits a vulnerability in older versions of Windows, including Windows 7 and Windows XP. Microsoft issued a security update in March that stops WannaCry and other malware in Windows 7. Over the weekend the company took the unusual step of releasing a similar patch for Windows XP, which the company announced in 2014 it would no longer support.
+Dore said companies that faced disruptions because they did not run the Microsoft update or because they were using older versions of Windows could face lawsuits if they publicly touted their cyber security. His law firm sued LinkedIn after a 2012 data breach, alleging individuals paid for premium accounts because the company falsely stated it had top-quality cyber security measures. LinkedIn settled for US$1.25 million in 2014.
+But Scott Vernick, a data security lawyer at Fox Rothschild that represents companies, said he was sceptical that WannaCry would produce a flood of consumer lawsuits. He noted there was no indication the cyber attack had resulted in widespread disclosure of personal data.
+"It isn’t clear that there has been a harm to consumers," he said.
+Vernick said businesses that failed to update their software could face scrutiny from the US Federal Trade Commission, which has previously sued companies for misrepresenting their data privacy measures.
+Microsoft itself is unlikely to face legal trouble over the flaw in Windows being exploited by WannaCry, according to legal experts.
+When Microsoft sells software it does so through a licensing agreement that states the company is not liable for any security breaches, said Michael Scott, a professor at Southwestern Law School. Courts have consistently upheld those agreements, he said.
+Alex Abdo, a staff attorney at the Knight First Amendment Institute at Columbia University, said Microsoft and other software companies have strategically settled lawsuits that could lead to court rulings weakening their licensing agreements.
+"This area of law has been stunted in its growth," he said. "It is very difficult to hold software manufacturers accountable for flaws in their products."
+Also enjoying strong protection from liability over the cyber attack is the US National Security Agency, whose stolen hacking tool is believed to be the basis for WannaCry. The NSA did not immediately return a request for comment.
+Jonathan Zittrain, a professor specializing in internet law at Harvard Law School, said courts have frequently dismissed lawsuits against the agency on the grounds they might result in the disclosure of top secret information.
+On top of that, the NSA would likely be able to claim that it is shielded from liability under the doctrine of sovereign immunity, which says that the government cannot be sued over carrying out its official duties.
+"I doubt there can be any liability that stems back to the NSA," Dore said.
+</text>

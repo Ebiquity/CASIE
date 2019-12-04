@@ -1,0 +1,17 @@
+<title> Ransomware attack sends City of Del Rio back to the days of pen and paper </title>
+<source> https://www.zdnet.com/article/ransomware-attack-sends-city-of-del-rio-back-to-the-days-of-pen-and-paper/ </source>
+<date> 2019_01_26 </date>
+<text>
+Officials based at the City of Del Rio, in Texas, were forced to abandon electronic services and switch to pen and paper after a ransomware attack effectively closed down City Hall servers.
+City representatives disclosed the cyberattack last week. The city was struck by the ransomware on Thursday, leading to all servers being disabled to prevent further spread.
+Del Rio's Management Information Services (MIS) department then attempted to isolate the malware by turning off all Internet connections for other city departments.
+In turn, this prevented any members of staff from logging into government systems.
+As a result, employees of each department were forced to use pen and paper in their work and go back to manual entry for transactions taking place -- as and when they could considering there was no access to historical records -- while the ransomware was contained.
+City officials have informed the FBI of the cyberattack and the Secret Service has now become involved in attempts to find out who is responsible.
+It is not known at present who is behind the ransomware, what kind of malware is at fault, or whether or not any personal data has been compromised.
+The Texan city has also not revealed how much the ransomware demanded in payment, as is usually the case with this particular form of malware. Ransoms are usually requested in return for a decryption key -- which may or may not work -- in order to unlock encrypted systems and restore access.
+However, a Del Rio City Hall spokeswoman did reveal that the malware is somewhat unusual, as the ransom note posted to roughly 30 - 45 PCs contained a phone number to be used to pay the blackmail fee.
+Most of the time, a note will be posted on a landing page containing instructions for paying ransom in cryptocurrency and victims will be given a wallet address, rather than a means to directly call the malware's operator.
+"The City is diligently working on finding the best solution to resolve this situation and restore the system," an official statement reads. "We ask the public to be patient with us as we may be slower in processing requests at this time."
+</text>
+

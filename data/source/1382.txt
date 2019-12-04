@@ -1,0 +1,12 @@
+<title>Microsoft Zero Day to Stay Unpatched «  isssource.com</title>
+<source> http://www.isssource.com/microsoft-zero-day-to-stay-unpatched/?utm_source=hs_email&utm_medium=email&utm_content=49650864&_hsenc=p2ANqtz-9oIrhLRJ8BZRuDephJB5_6augF5PA-R1I4_J03R6Uzalt_tstiDokZwWc8xtZ7QXYjhFkPBsKKTWw74zBEf_r5j5czqA&_hsmi=49650864 </source>
+<date> 2017_03_31 </date>
+<text>
+Microsoft Internet Information Services (IIS) 6.0 has a Zero Day vulnerability attackers leveraged last summer and is likely undergoing exploitation now, researchers said.
+The vulnerability is a buffer overflow in a function in the WebDAV service in IIS 6.0 in Microsoft Windows Server 2003 R2, and can end up triggered by attackers sending an overlong IF header in a PROPFIND request, said researchers at Trend Micro.
+Unfortunately, Microsoft won’t patch the flaw because they stopped supporting Windows Server 2003 a few years ago (IIS 6.0 was in the OS).
+There are a little over 600,000 publicly accessible IIS 6.0 servers on the Internet, and most of them are probably running on Windows Server 2003, according to a search of Shodan.
+The risk of exploitation can end up mitigated by disabling the WebDAV service on the vulnerable IIS 6.0 installation, but not all administrators will want to do it.
+There is a fix out there from Mitja Kolsek, chief executive of Acros Security and co-founder at 0patch.
+The patch is free and its source code is open for inspection.
+</text>

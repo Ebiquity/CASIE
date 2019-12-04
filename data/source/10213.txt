@@ -1,0 +1,13 @@
+<title> jQuery? More like preyQuery: File upload tool can be exploited to hijack at-risk websites </title>
+<source> https://www.theregister.co.uk/2018/10/22/jquery_file_flaw/ </source>
+<date> 2018_10_22 </date>
+<text>
+A serious vulnerability in a widely used, and widely forked, jQuery file upload plugin may have been exploited for years by hackers to seize control of websites – and is only now patched.
+Larry Cashdollar, a bug-hunter at Akamai, explained late last week how the security shortcoming, designated CVE-2018-9206, allows a miscreant to upload and execute arbitrary code as root on a website that uses the vulnerable code with the Apache web server. This would potentially allow an attacker to, among other things, upload and run a webshell to execute commands on the target machine to steal data, change files, distribute malware, and so on.
+Cashdollar – real name, he swears – was able to track the flaw down to Sebastian Tschan's open-source jQuery File Upload tool, and got the developer to fix it in version 9.22.1.
+The flaw stems from a change to the Apache web server, from version 2.3.9 and onwards, that disabled support for .htaccess security configuration files, which left projects like jQuery File Upload open to exploitation.
+Additionally, Cashdollar noted, it is almost certain he was not the first person to come across this simple vulnerability. Demonstration videos on YouTube suggest similar flaws are known to miscreants, and have been targeted in some circles for years.
+"The internet relies on many security controls every day in order to keep our systems, data, and transactions safe and secure," Cashdollar said. "If one of these controls suddenly doesn't exist it may put security at risk unknowingly to the users and software developers relying on them."
+So, it's believed hackers have been quietly exploiting the bug for several years as the flaw itself is fairly trivial and also eight years old. Now that details of the vulnerability are public, exploit code has been produced, for example, here, and may be handy if you wish to test whether or not your website is vulnerable to CVE-2018-9206. In any case, loads of people now know about it, so that means more miscreants menacing and hijacking vulnerable websites.
+</text>
+

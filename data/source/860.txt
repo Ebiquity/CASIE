@@ -1,0 +1,20 @@
+<title>Multiple security flaws found in mainstream robotic technologies - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/02/robotic-technologies-security/ </source>
+<date> 2017_03_02 </date>
+<text>
+IOActive exposed numerous vulnerabilities found in multiple home, business, and industrial robots available on the market today.
+The array of vulnerabilities identified in the systems evaluated included many graded as high or critical risk, leaving the robots highly susceptible to attack.
+Attackers could employ the issues found to maliciously spy via the robot’s microphone and camera, leak personal or business data, and in extreme cases, cause serious physical harm or damage to people and property in the vicinity of a hacked robot.
+“There’s no doubt that robots and the application of Artificial Intelligence have become the new norm and the way of the future,” said Cesar Cerrudo, CTO at IOActive.
+“Robots will soon be everywhere – from toys to personal assistants to manufacturing workers – the list is endless.
+Given this proliferation, focusing on cybersecurity is vital in ensuring these robots are safe and don’t present serious cyber or physical threats to the people and organisations they’re intended to serve”.
+During the past six months, IOActive’s researchers tested mobile applications, robot operating systems, firmware images, and other software in order to identify the flaws in several robots from vendors, including:
+“In this research, we focused on home, business, and industrial robots, in addition to robot control software used by several robot vendors,” said Lucas Apa, Senior Security Consultant at IOActive.
+“Given the huge attack surface, we found nearly 50 cybersecurity vulnerabilities in our initial research alone, ranging from insecure communications and authentication issues, to weak cryptography, memory corruption, and privacy problems, just to name a few”.
+According to Cerrudo and Apa, once a vulnerability has been exploited, a hacker could potentially gain control of the robot for cyber espionage, turn a robot into an insider threat, use a robot to expose private information, or cause a robot to perform unwanted actions when interacting with people, business operations, or other robots.
+In the most extreme cases, robots could be used to cause serious physical damage and harm to people and property.
+As robots become smarter, threats will also increase.
+Hacked robots could start fires in a kitchen by tampering with electricity, or potentially poison family members and pets by mixing toxic substances in with food or drinks.
+Family members and pets could be in further peril if a hacked robot was able to grab and manipulate sharp objects.
+“We have already begun to see incidents involving malfunctioning robots doing serious damage to their surroundings, from simple property damage to loss of human life, and the situation will only worsen as the industry evolves and robot adoption continues to grow,” continued Cerrudo.
+</text>

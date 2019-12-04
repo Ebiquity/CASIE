@@ -1,0 +1,16 @@
+<title>WordPress kept users and hackers in the dark while secretly fixing critical zero-day - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/02/02/wordpress-critical-zero-day-fixed/ </source>
+<date> 2017_02_02 </date>
+<text>
+Last week WordPress released the newest version (4.7.2) of the popular CMS, ostensibly fixing three security issues affecting versions 4.7.1 and earlier.
+What the WordPress team didn’t share at that time is that the update also secretly fixes a bug that allows unauthenticated users to modify the content of any post or page within a WordPress site.
+The vulnerability was discovered by Sucuri researcher Marc-Alexandre Montpas and responsibly disclosed to the WordPress security team on January 20.
+A fix was soon created, tested, and included in the security update pushed out on January 26.
+The team reached out to makers of web application firewalls (WAFs) like SiteLock, Cloudflare, and Incapsula to help them create rules that would block exploitation attempts.
+WordPress hosts have also been privately told of the flaw, and they quietly moved to protect their users.
+“By Wednesday afternoon, most of the hosts we worked with had protections in place.
+Data from all four WAFs [this includes Sucuri’s] and WordPress hosts showed no indication that the vulnerability had been exploited in the wild,” the WP security team disclosed on Wednesday.
+“As a result, we made the decision to delay disclosure of this particular issue to give time for automatic updates to run and ensure as many users as possible were protected before the issue was made public”.
+Within a couple of hours of the release of the update, WordPress users who have opted for the automatic WP update option had the WP 4.7.2 installed and were protected.
+The unauthenticated privilege escalation vulnerability in question affects the REST API, which was added and enabled by default on WordPress 4.7.0.
+</text>

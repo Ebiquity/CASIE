@@ -1,0 +1,19 @@
+<title>Hacker Steals Millions of Accounts from Yu-Gi-Oh Fan Project ‘Dueling Network’ - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/hacker-steals-millions-of-accounts-from-yu-gi-oh-fan-project-dueling-network </source>
+<date> 2017_03_29 </date>
+<text>
+A hacker has stolen millions of accounts from Dueling Network, a now-defunct Flash game based on the Yu-Gi-Oh trading card game.
+Although Dueling Network itself shut down in 2016 in response to a cease-and-desist order, the site's forum continued running until recently.
+The message currently displayed on the Dueling Network forum.
+"Only our forum site was still up as a way for our users to communicate with each other (login used DN [Dueling Network] credentials).
+Now that is down and warns users to change passwords on any other sites they may have used the same password on," Black Luster Soldier, a Dueling Network administrator, told Motherboard in an email.
+The hacker appears to have stolen at least 6.5 million accounts, although Black Luster Soldier cautioned that not all of those necessarily correspond to individual players.
+"At the moment, the claim that information has been breached for 6.5 DN million accounts appears to be accurate.
+Note that many accounts are duplicates owned by the same user or were never actually logged in, so this number is inflated," they said.
+The data includes user email addresses and passwords hashed with the notoriously weak MD5 algorithm, meaning hackers will likely be able to obtain a number of users' plaintext passwords as well.
+Paid breach notification service LeakBase provided Motherboard with a small sample of accounts for verification purposes.
+Motherboard attempted to contact over 50 alleged victims, but has not received a reply at the time of writing.
+Black Luster Soldier's working theory is that the hacker used a vulnerability in MySQL to obtain the data.
+The lesson: As Black Luster Soldier advised, users should change their passwords on any other services with the same credentials as Dueling Network.
+Even if data from the breached site isn't all that valuable in and of itself, if someone has used the same password on another site, hackers can easily try to access other more serious accounts too.
+</text>

@@ -1,0 +1,20 @@
+<title>Honeywell SCADA Controllers Exposed Passwords in Clear Text | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/honeywell-scada-controllers-exposed-passwords-in-clear-text/123562/ </source>
+<date> 2017_02_06 </date>
+<text>
+A series of remotely exploitable vulnerabilities exist in a popular web-based SCADA system made by Honeywell that make it easy to expose passwords and in turn, give attackers a foothold into the vulnerable network.
+The flaws exist in some versions of Honeywell’s XL Web II controllers, systems deployed across the critical infrastructure sector, including wastewater, energy, and manufacturing companies.
+An advisory from the Department of Homeland Security’s Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) warned about the vulnerabilities Thursday.
+The company has developed a fix, version 3.04.05.05, to address the issues but users have to call their local Honeywell Building Solutions branch to receive the update, according to the company.
+The controllers suffer from five vulnerabilities in total but the scariest one might be the fact that passwords for the controllers are stored in clear text.
+Furthermore, if attackers wanted to, they could disclose that password simply by accessing a particular URL.
+An attacker could also carry out a path traversal attack by accessing a specific URL, open and change some parameters by accessing a particular URL, or establish a new user session.
+The problem with starting a new user session is that the controllers didn’t invalidate any existing session identifier, something that could have made it easier for an attacker to steal any active authenticated sessions.
+Maxim Rupp, an independent security researcher based in Germany, dug up the bugs and teased them on Twitter at the beginning of January.
+Rupp has identified bugs in Honeywell equipment before.
+Two years ago he discovered a pair of vulnerabilities in Tuxedo Touch, a home automation controller made by the company, that could have let an attacker unlock a house’s doors or modify its climate controls.
+It’s unclear how widespread the usage of Honeywell’s XL Web II controllers is.
+While Honeywell is a US-based company, according to ICS-CERT’s advisory the majority of the affected products are used in Europe and the Middle East.
+When reached on Friday, a spokesperson for Honeywell confirmed that the affected controllers are used in Europe and the Middle East.
+The company also stressed that the vulnerabilities were patched in September 2016 after they were reported in August.
+</text>

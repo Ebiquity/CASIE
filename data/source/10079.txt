@@ -1,0 +1,21 @@
+<title> Ohio County Government Totally Shut Down by Ransomware  </title>
+<source> https://sputniknews.com/science/201702041050334504-ohio-country-government-virus-lockdown/ </source>
+<date> 2017_04_02 </date>
+<text>
+A malware virus has paralyzed the computers of Licking County, Ohio, including the county’s police force. Hackers are seeking a whole lot of money to return control of the network to its rightful owners.
+The importance of great network security cannot be overstated. Officials in Licking County have learned this lesson the hard way, as hackers have installed a computer virus, known as ‘ransomware,' that has locked up the local government's entire network, including that of the police force. Emergency services are still working, however.
+"You lose your computers, the world changes a little bit," remarked Licking County commissioner Tim Bubb.
+Apparently, someone in the office downloaded the malware by clicking on a link in a phishing email, or just downloaded the virus from some malicious website.
+Ransomware is a type of computer virus that encrypts data on a user's computer, making it inaccessible. The ransomware then displays a message onscreen, ordinarily demanding money and providing a sole text input field in which a user must enter an unlock code provided by the malefactor, after the money is paid.
+"All county offices remain open, but online access and landline telephones are not available for those on the county system. The shutdown is expected to continue at least the rest of the week," according to the Newark Advocate news website.
+According to Bubb, the 911 office, due to budget restrictions, had not shifted to an online-accessible network, and so was working in normal capacity.
+"Because they're working manually, they have made the staff a little more robust," he said.
+He underscored that people can call 911, and that every emergency call is answered and responded to, using paper, printed maps, dry-erase boards and was dispatching first responders with old-fashioned radios.
+"People of Licking County, we believe, are protected as they always are with 911," he added, according to WCMH-TV.
+The amount of ransom demanded by the hackers remains undisclosed, as well as whether the ransom will be paid.
+"We're dealing with a criminal element. It's a crime against the people of Licking County and its government." Bubb said, adding that the county government currently is seeking the assistance of cybersecurity experts.
+According to Sean Grady, director of the Licking County Emergency Management Agency and Regional 911 Center, resolving the situation will take time.
+"It's going to be awhile," Grady said. "Until they identify what it was, they don't know how to fix it."
+Maybe Licking County officials should turn toward cybersecurity experts in Russia. Dr. Web, a Russia-based antivirus developer and cyber security service provider, has been particularly effective in dealing with ransomware since early versions appeared in Russia some five years ago. The company has a web page dedicated to ransomware observing that using brute force to break modern ransomware encryption would take 107,902,838,054,224,993,544,152,335,601 years, at current processor speeds, and the average ransom sum can reach up to 1500 bitcoins ($49,500 currently).
+"Things can even get rather peculiar. In one situation, a user paid a ransom to their attackers, but their attackers could not decipher the files encrypted by their own Trojan.Encoder (Cryptolocker), and advised the user to seek help… from Doctor Web's technical support service," the webpage reads.
+</text>

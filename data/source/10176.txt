@@ -1,0 +1,16 @@
+<title> Smart city systems are riddled with critical security vulnerabilities </title>
+<source> https://www.zdnet.com/article/smart-cities-are-riddled-with-critical-security-vulnerabilities/ </source>
+<date> 2018_08_08 </date>
+<text>
+IBM has discovered 17 zero-day vulnerabilities in smart city systems which could debilitate core services.
+At the Black Hat conference in Las Vegas on Monday, the cybersecurity firm's X-Force Red team of penetration testers and hackers demonstrated how old-school threats are placing the cities of the future at risk in the present day.
+Smart city technology spending is predicted to hit $80 billion this year and become as high as $135 billion by 2021. Water and filtration systems, smart lighting, traffic controllers, utilities, and more all become intertwined in smart cities, which aim to make urban living more energy efficient, eco-friendly, and manageable.
+However, connecting all of these critical elements can have devastating effects should something go wrong -- such as a successful cyberattack.
+We've already seen the damage which can be caused when threat actors target core country systems, such as in the case of Ukraine's power grid, and unless security is considered every step of the way, every future city will be placed at similar levels of risk.
+Together with researchers from Threatcare, IBM X-Force Red discovered that smart city systems developed by Libelium, Echelon and Battelle were vulnerable to attack.
+Libelium is a wireless sensor network hardware manufacturer, while Echelon specializes in industrial IoT, and non-profit Battelle develops and commercializes related technologies.
+According to IBM X-Force Red researcher Daniel Crowley, out of the 17 previously-unknown vulnerabilities discovered in systems used in four smart cities, eight are deemed critical in severity.
+Unfortunately, many of the bugs were due to poor, lax security practices -- such as the use of default passwords, authentication bypass, and SQL injections.
+In total, the researchers uncovered four instances of critical pre-authentication shell injection flaws in Libelium's wireless sensor network, Meshlium.
+</text>
+

@@ -1,0 +1,25 @@
+<title> Ashley Madison’s new security head seeks redemption  </title>
+<source> https://www.itworldcanada.com/article/ashley-madisons-new-security-head-seeks-redemption/398056 </source>
+<date> 2017_10_26 </date>
+<text>
+Most CISOs like a challenge. Matthew Maglieri faced more than a challenge when he agreed to become the chief information security officer for Ruby Life Inc., parent of the Toronto-based Ashley Madison and other dating sites which in 2015 saw hackers release records of some 36 million members, plus application code and corporate email.
+Even Maglieri says the company suffered a “tremendous loss of consumer trust,” and “users relied on discretion using the service, and that discretion was violated.”
+When he tried recruiting security staff this year a number balked when hearing who their employer would be.
+In fact, he admitted Wednesday at the monthly meeting of the Toronto Area Security Klatch (TASK), a group of infosec pros and students, that a headhunter he consulted flatly told him to decline the offer.
+“Absolutely not, your personal brand is at stake,” he recalled being told.
+And that’s why he said yes.
+“I thought about it ‘If I don’t do this there isn’t going to be anybody fighting for the users,” he said. “I wanted to dive in and take on the challenge.”
+Now the company is recovering, Maglieri says, because it is signing up 550,000 users a month. He didn’t say if the overall number of users is down from the breach, which captured headlines around the world. The Ashley Madison site claims over 56 million members have joined since 2002.
+Maglieri explained over some 60 minutes how Ruby Life has tried to build a leading data privacy and information security program to regain trust.
+That includes having a full-time red team for penetration testing, building a “hypersegmented network,” extensive use of multi-factor authentication on the corporate servers to limit outside access by stolen credentials, decentralized and segmented directory services for employee login, controls to prevent lateral movement through the network, advanced threat detection and an around-the-clock security operations centre run by a consulting firm.
+Former federal interim privacy commissioner Chantal Bernier was hired at the end of 2016 as special privacy advisor to guide the privacy remediation program “to the next level.”
+It also includes a mission statement Maglieri drafted, saying his goal is “to build a leading intelligence-led threat-based program capable of defending against the most advanced threats.”
+Asked in an interview if after nine months that has been achieved, he replied, “The thing about mission statements is they’re objectives, and as a security professional [would say], it’s a journey. It’s about risk management and I think we’re doing some things we’re proud of, we’re making significant progress, and we’re continuously pushing forward.”
+Attackers come up with new techniques, he added, and his team has to get better as defenders. “It’s a constant process.”
+While he wants a resilient secure environment “to prevent something like this happening again,”
+he admitted that as a company that runs several dating sites, we “will remain a very high profile target.”
+The company wants to take privacy “to the next level,” Maglieri says. While there is no obligation for users to register with their real names or occupations he did describe the alleged occupations of users and why the company will continue to be a target, particularly for nation states looking for evidence for blackmail.
+”The Ashley Madison user base spans a cross-section of society – there’s police, military, government, research, medical, corporate, education — you name it, those people are in there. These are people that could be targets, and data that could be used to target those individuals.”
+As a result, he said, the company now has “zero risk tolerance” for security and privacy problems.
+</text>
+

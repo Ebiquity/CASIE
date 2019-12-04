@@ -1,0 +1,20 @@
+<title>Cyber crooks' latest tricks for targeting Chrome users - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/02/22/tricks-targeting-chrome-users/ </source>
+<date> 2017_02_24 </date>
+<text>
+Chrome users have lately been targeted with a few unusual malware delivery and scam attempts.
+The first one comes from compromised WordPress sites that have been modified to include JavaScript that changes the text rendering.
+A visitor sees the page as an unreadable mish-mash of symbols, and is prompted to update “Chrome’s language pack” so that the text is rendered correctly and he or she is able to read it:
+“The usage of a a clean, well-formatted dialog to present the message with the correct Chrome logo – and, more importantly, – the correct shade of blue for the update button.
+The shape of the update button seems correct, and the spelling and grammar are definitely good enough to get a pass,” NeoSmart Technologies’ Mahmoud Al-Qudsi noted.
+wrong version numbers) during the download and installation process, but not all will.
+The bad news is that Windows Defender or Chrome don’t flag the file as malware and, at the time of the initial discovery, very few AV engines detected it as malicious (the situation is much better now).
+Chrome will tell users that “this file isn’t downloaded very often” as a warning of its potential malicious nature, but that’s unlikely to stop users who are accustomed to click through security warnings.
+The second threat comes in the form of a malicious Chrome extension that is pushed onto visitors of compromised sites.
+The potential victims are redirected to such sites mostly through malvertising schemes, and they are faced with the request to install the extension in order to be able to leave the site – no other option is given, and the browser is stuck in a never ending loop of fullscreen modes.
+The extension aims to redirect victims to unwanted software, get-rich-quick schemes, and various scams.
+“This extension ensures it stays in hiding by using a 1×1 pixel image as its logo and by hooking chrome://extensions and chrome://settings such that any attempt to access those is automatically redirected to chrome://apps.
+That makes it much more difficult for the average user to see what extensions they have, let alone uninstalling one of them,” Malwarebytes’ Jérôme Segura explains.
+Victims will have to use a security solution to do it, and likely another browser to search for it and install it.
+Malwarebytes detects this extension as Rogue.ForcedExtension.
+</text>

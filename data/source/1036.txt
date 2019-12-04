@@ -1,0 +1,12 @@
+<title>Cyber Expert: Haven't Seen CIA Hacking Tools on Black Market Yet - NBC News</title>
+<source> http://www.nbcnews.com/card/cyber-expert-havent-seen-cia-hacking-tools-black-market-yet-n731186 </source>
+<date> 2017_03_13 </date>
+<text>
+ Julian Assange claimed Thursday during a press conference about the WikiLeaks release of alleged CIA hacking documents that the CIA is trying to cover up the loss of its hacking tools, and that the tools may now "also be in the black market or used by American hackers who cross both sides of the fence."
+But cyber expert Andrew Komarov, chief intelligence officer of the security firm InfoArmor, said he hadn't seen them for sale yet.
+"We have never seen the authentic tools from Vault 7 leak on the 'black market,' and I assume that the leak is organized from one of the subcontractors or civilian employees working for CIA in specific areas."
+However, he said some of the "components for the tools" had already been available on the black market.
+Komarov said his firm had looked at all the documents released by WIkiLeaks and said they didn't contain any of the tools, just "their descriptions and tutorials how to use them.
+"  
+ WikiLeaks has released more than 8,000 documents that it says come from a cache of CIA hacking documents, but has not released the hacking software itself.
+</text>

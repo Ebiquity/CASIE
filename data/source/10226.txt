@@ -1,0 +1,16 @@
+<title> Vulnerability Affects All OpenSSH Versions Released in the Past Two Decades </title>
+<source> https://www.bleepingcomputer.com/news/security/vulnerability-affects-all-openssh-versions-released-in-the-past-two-decades/ </source>
+<date> 2018_08_22 </date>
+<text>
+A vulnerability affects all versions of the OpenSSH client released in the past two decades, ever since the application was released in 1999.
+The security bug received a patch this week, but since the OpenSSH client is embedded in a multitude of software applications and hardware devices, it will take months, if not years, for the fix to trickle down to all affected systems.
+This particular bug was analyzed last week by security researchers from Qualys who spotted a commit in OpenBSD's OpenSSH source code for a bug report submitted by Darek Tytko from securitum.pl.
+After analyzing the commit, researchers realized that the code inadvertently fixed a security bug lying dormant in the OpenSSH client since its creation.
+This bug allows a remote attacker to guess the usernames registered on an OpenSSH server. Since OpenSSH is used with a bunch of technologies ranging from cloud hosting servers to mandate IoT equipment, billions of devices are affected.
+As researchers explain, the attack scenario relies on an attacker trying to authenticate on an OpenSSH endpoint via a malformed authentication request (for example, via a truncated packet).
+A vulnerable OpenSSH server would react in two very different ways when this happens. If the username included in the malformed authentication request does not exist, the server responds with authentication failure reply. If the user does exist, the server closes the connection without a reply.
+This small behavioral detail allows an attacker to guess valid usernames registered on a SSH server. Knowing the exact username may not pose an immediate danger, but it exposes that username to brute-force or dictionary attacks that can also guess its password.
+Because of OpenSSH's huge install base, the bug is ideal for both attacks on high-value targets, but also in mass-exploitation scenarios.
+The bug —tracked as CVE-2018-15473— has been patched in the stable version of OpenSSH —1:6.7p1-1 and 1:7.7p1-1— and the 1:7.7p1-4 unstable branch. Patches have also trickled down to Debian, and most likely other Linux distros.
+</text>
+

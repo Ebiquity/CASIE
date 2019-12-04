@@ -1,0 +1,12 @@
+<title>Holiday Inn, Crowne Plaza Part of 1,200 InterContinental Hotels Cyber Attack | Fox Business</title>
+<source> http://www.foxbusiness.com/features/2017/04/19/holiday-inn-crowne-plaza-part-1200-intercontinental-hotels-cyber-attack.html </source>
+<date> 2017_04_21 </date>
+<text>
+TORONTO, April 19 (Reuters) - Global hotel chain InterContinental Hotels Group Plc said 1,200 of its franchised hotels in the United States, including Holiday Inn and Crowne Plaza, were victims of a three-month cyber attack that sought to steal customer payment card data.
+The company declined to say how many payment cards were stolen in the attack, the latest in a hacking spree on prominent hospitality companies including Hyatt Hotels Corp, Hilton, and Starwood Hotels, now owned by Marriott International Inc.
+The breach lasted from September 29 to December 29, InterContinental spokesman Neil Hirsch said on Wednesday. He declined to say if losses were covered by insurance or what financial impact the hacking might have on the hotels that were compromised, which also included Hotel Indigo, Candlewood Suites and Staybridge Suites properties.
+The malware searched for track data stored on magnetic stripes, which includes name, card number, expiration date and internal verification code, the company said.
+Hotel operators have become popular targets because they are easier to breach than other businesses that store credit card numbers as they have limited knowledge in defending themselves against hackers, said Itay Glick, chief executive of Israeli cyber-security company Votiro. "They don't have massive data centers like banks which have very secure systems to protect themselves," said Glick.
+InterContinental declined to say how many franchised properties it has in the United States, which is part of its business unit in the Americas with 3,633 such properties.
+In February, InterContinental said it had been victim of a cyber attack, but at that time said that only 12 of its 286 managed properties in the Americas were infected with malware.
+</text>

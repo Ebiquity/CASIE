@@ -1,0 +1,17 @@
+<title> Oracle Patches 334 Flaws in July Critical Patch Update </title>
+<source> https://www.eweek.com/security/oracle-patches-334-flaws-in-july-critical-patch-update </source>
+<date> 2018_07_18 </date>
+<text>
+Oracle released its latest Critical Patch Update on July 18, fixing 334 vulnerabilities across the company's product portfolio. The company rated 61 of the vulnerabilities as having critical impact.
+Among the products patched by Oracle are Oracle Database Server, Oracle Global Lifecycle Management, Oracle Fusion Middleware, Oracle E-Business Suite, Oracle PeopleSoft, Oracle Siebel CRM, Oracle Industry Applications, Oracle Java SE, Oracle Virtualization, Oracle MySQL and Oracle Sun Systems Products Suite. While there are issues of varying severity in the update, Oracle is blaming third-party components as being the cause of the majority of the critical issues.
+"It is fair to note that bugs in third-party components make up a disproportionate amount of severe vulnerabilities in this Critical Patch Update," Eric Maurice, director of security assurance at Oracle, wrote in a blog post. "90 percent of the critical vulnerabilities addressed in this Critical Patch Update are for non-Oracle CVEs." 
+Of the 334 issues fixed in the July Critical Patch Update, 37 percent were for third-party components included in Oracle product distributions.
+While many flaws were from third-party libraries, there were also flaws in Oracle's own development efforts. Oracle's namesake database was patched for three issues, one of which is remotely exploitable without user authentication.
+Oracle's Financial Services application received the highest total number of patches at 56, with 21 identified as being remotely exploitable without user authentication. Oracle's Fusion Middleware, on the other hand, got 44 new security fixes, with 38 of them rated as being critical. Oracle Enterprise Manager Products were patched for 16 issues, all of which are remotely exploitable without authentication.
+Looking at flaws in Java, Oracle's July CPU provides eight security fixes, though organizations likely need to be cautious when applying the patches, as certain functionality has been removed.
+"Several actions taken to fix Java SE vulnerabilities in the July CPU are likely to break the functionality of certain applications," security firm Waratek warned in an advisory. "Application owners who apply binary patches should be extremely cautious and thoroughly test their applications before putting patches into production."
+The reason why the Oracle fixes could break application functionality is because Oracle has decided to remove multiple vulnerable components from its Java Development Kit (JDK).
+At 334 fixed flaws, the July update is larger than last Critical Patch Update released on Jan 15, which provided patches for 237 flaws. While the number of patches issues has grown, Matias Mevied, Oracle security researcher at Onapsis, commented that Oracle is working in the right way, fixing the reported vulnerabilities and is getting faster every year.
+"Unfortunately, based in our experience, the missing part is that the companies still don't implement the patches as soon as they should be," Mevied told eWEEK.
+</text>
+

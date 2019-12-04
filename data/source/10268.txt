@@ -1,0 +1,15 @@
+<title> Google releases September security patch, rolling out now for Pixel, Nexus, and Essential devices </title>
+<source> https://www.androidauthority.com/android-september-2018-security-patch-901726/ </source>
+<date> 2018_09_04 </date>
+<text>
+It’s a new month which means another security patch from Google has been released and it’s currently rolling out to Pixel and select Nexus devices. The September 5, 2018 patch includes fixes for almost 60 vulnerabilities that were found in the AOSP repository. The update also includes in-car Bluetooth performance improvements for Pixel devices.
+Google resolved 24 problems on September 1, 2018, and patched an additional 35 on September 5, 2018. Before the patch, a remote attacker could execute arbitrary code using a “specially crafted file … within the context of a privileged process.”
+Fortunately, just like with most issues that’re fixed through security patches, Google states that it has not received a single report of an attacker using this vulnerability to harm a customer. 
+In addition to the security fixes, Google has listed some of the improvements this update brings to its handsets:
+    Improve battery charge in Retail Mode (Pixel 2, Pixel 2 XL)
+    Improve SW Version reporting (Pixel, Pixel XL, Pixel 2, Pixel 2 XL)
+    Improve audio quality over car speakers (Pixel, Pixel XL, Pixel 2, Pixel 2 XL)
+If you don’t want to wait for the September security patch to make its way to your phone, you can download the latest factory image or OTA file from the links below. From there, you can either flash a fresh build to your phone or sideload the OTA update.
+And in usual Essential fashion, the company has begun rolling out the September security patch to the Essential Phone within hours of it becoming available for Google’s hardware. On top of the fixed vulnerabilities, Essential states that the update includes various audio and accessibility fixes.
+</text>
+

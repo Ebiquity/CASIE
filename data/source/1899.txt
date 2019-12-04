@@ -1,0 +1,20 @@
+<title>Point-of-Sale Malware Steals Driver's License Information</title>
+<source> https://www.bleepingcomputer.com/news/security/point-of-sale-malware-steals-drivers-license-information/ </source>
+<date> 2017_04_26 </date>
+<text>
+Malware specialized in infecting Point of Sale (PoS) software has gained the ability to search and steal driver's license information, according to a report published by US cyber-security firm Trend Micro.
+The collection of driver's license information surprised researchers, who haven't spotted such behavior in a PoS malware family until now.
+Even more surprising was that this new data collection system was spotted in an ancient PoS malware family, and not in one of the newer players.
+The name of this malware is RawPOS, a malware family that appeared way back in 2008. Typically, financial malware lives a few years, then it fizzles out and dies, as security firms learn to detect and stop it.
+In spite of its old age, RawPOS stuck around, and its operators continued to update and deploy it in attacks over the years.
+Like all other POS malware families, RawPOS is built to target and infect computers that run PoS software. On these PCs, the malware lies in hiding and keeps an eye on the data flowing through the computer's RAM. Using a simple regex string pattern, RawPOS scrapes the RAM until it finds data that fits the pattern.
+This pattern is specifically designed to detect payment card data, such as card numbers. Across the years, the different RawPOS versions have featured different versions of this regex string pattern.
+In total, security researchers have observed five different RawPOS patterns (versions). Earlier this year, Trend Micro discovered the sixth, which featured an expanded regex filter.
+Besides keeping an eye on credit card data, this expanded filter scraped the infected computer's RAM for the term "driver's license" and "ANSI 636."
+While not directly evident for most, ANSI 636 is a barcode format used for the 2D barcode found on US drivers' licenses.
+Pharmacies, retail shops, bars, casinos and others establishments usually scan a customer's driver's license as authorization before making particular transactions, such as when buying drugs and alcohol.
+This data, just like payment card data, is handled and collected by some PoS software solutions, so it makes sense seeing this new regex string pattern inside RawPOS.
+Researchers believe crooks behind this malware are gathering this information to create more complete victim profiles, in order to aid various fraud operations, such as identity theft.
+Even if they don't use the stolen data themselves, the breadth of data encoded in a driver's license barcode is valuable enough to sell on underground markets.
+Taking into account the copycat nature of the malware scene, this new trick of collecting driver's license information will most likely spread to other PoS malware families.
+</text>

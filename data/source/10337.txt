@@ -1,0 +1,22 @@
+<title> Russian Banks Under Phishing Attack  </title>
+<source> https://www.bleepingcomputer.com/news/security/russian-banks-under-phishing-attack/ </source>
+<date> 2018_11_16 </date>
+<text>
+Banks in Russia today were the target of a massive phishing campaign that aimed to deliver a tool used by the Silence group of hackers. The group is believed to have a background in legitimate infosec activities and access to documentation specific to the financial sector.
+The fraudulent emails purported to come from the Central Bank of Russia (CBR) and contained a malicious attachment. The message body lured the recipients to open the attachment in order to check the latest details on the "standardization of the format of CBR's electronic communications."
+Email authentication mechanism saves the day
+International cybersecurity company Group-IB investigated the attack and noticed that the style and format of the fake communication were very similar to the official CBR correspondence. This supports the theory that the attackers had access to legitimate emails from CBR.
+If Silence hackers have any ties with the legal side of reverse engineering and penetration testing, it is very likely that they are familiar with the documentation used by financial institutions and with how banking systems work.
+In a report published today, Group-IB says that the attackers spoofed the sender's email address but the messages did not pass the DKIM (DomainKeys Identified Mail) validation. DKIM is a solution specifically designed to prevent forged email addresses by adding to the message a signature that confirms its authenticity.
+Banks see more spear-phishing from a different group
+The Silence hackers are not the only ones trying their spear-phishing game on Russian banks. On October 23, another notorious group, MoneyTaker, ran a similar campaign against the same type of targets.
+Their message spoofed an email address from the Financial Sector Computer Emergency Response Team (FinCERT) and contained five attachments disguised as documents from CBR.
+"Three out of five files were empty decoy documents, but two contained a download for the Meterpreter Stager. To carry out the attack, hackers used self-signed SSL certificates," says Rustam Mirkasymov, Group-IB Head of Dynamic Analysis of malware department and threat intelligence expert.
+These clues, along with server infrastructure associated with the MoneyTaker group, allowed the security experts to identify the perpetrator.
+As in the case of Silence, this attacker is also thought to have had access to CBR documents, most likely from compromised inboxes of Russian banks employees. This allowed them to craft messages that would pass even eyes trained in spotting fraudulent emails.
+Silence and MoneyTaker are the most dangerous threats to banks
+According to Group-IB, multiple groups use the Central Bank of Russia in spear-phishing operations, and for good reason, since the organization dictates regulations to financial institutions in the country and maintains a constant communication flow with them.
+Mirkasymov says that Silence and MoneyTaker are the most dangerous of all groups that threaten financial organizations. Referring to the latter, the expert says that its repertoire also includes drive-by attacks and testing the network for vulnerabilities. The goal is to access the internal nodes that enable them to withdraw money from ATMs, process cards or interbank transfers.
+Although Silence uses mainly phishing, they are more careful about crafting the message, paying attention to both content and design, adds Group-IB's threat intelligence expert.
+</text>
+

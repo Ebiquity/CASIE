@@ -1,0 +1,18 @@
+<title> Zoom patches conference software after Tenable discovers security vulnerability  </title>
+<source> https://technical.ly/baltimore/2018/11/29/tenable-zoom-conference-security/ </source>
+<date> 2018_11_29 </date>
+<text>
+Tenable was behind one software update to fix security flaws that’s circulating this week.
+The research arm of the Columbia-based cybersecurity company discovered a vulnerability in Zoom’s conferencing platform that would allow attackers to take control of a user’s desktop remotely during a meeting.
+After being alerted, Tenable said that Zoom quickly updated the software.
+According to Tenable, the security flaw, if exploited, would allow attackers to do the following:
+    Hijack control of a screen, allowing them to download and execute malware.
+    Impersonate others in the meeting through chat messages.
+    Kick out other attendees of the meeting.
+A blog post from the company states the vulnerability was discovered by Tenable’s David Wells.
+“This impacts both one-on-one (P2P) meetings as well as group meetings streamed through Zoom servers,” the blog post states, adding that the vulnerability could also be exploited over Wide Area Network (WAN).
+The vulnerability could’ve put 750,000 companies that use Zoom at risk.
+To fix the vulnerability, Zoom patched servers and released new versions of the software. The company is urging users to ensure their software is up-to-date.
+This vulnerability is the perfect example of the cyber attack surface that is expanded by seemingly innocuous services, like Zoom,” Tenable CTO Renaud Deraison said in a statement.
+</text>
+

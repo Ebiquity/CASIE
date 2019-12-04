@@ -1,0 +1,37 @@
+<title>Smart teddy bears involved in a contentious data breach | CSO Online</title>
+<source> http://www.csoonline.com/article/3175075/security/smart-teddy-bears-involved-in-a-contentious-data-breach.html </source>
+<date> 2017_02_28 </date>
+<text>
+The toys -- which can receive and send voice messages from children and parents -- have been involved in a data breach dealing with more than 800,000 user accounts.
+The breach, which grabbed headlines on Monday, is drawing concerns from security researchers because it may have given hackers access to voice recordings from the toy's customers.
+But the company behind the products, Spiral Toys, is denying that any customers were hacked.
+Absolutely not," said Mark Meyers, CEO of the company.
+Security researcher Troy Hunt, who tracks data breaches, brought the incident to light on Monday.
+Hackers appear to have accessed an exposed CloudPets' database, which contained email addresses and hashed passwords, and they even sought to ransom the information back in January, he said in a blog post.
+The incident underscores the danger with connected devices, including toys, and how data passing through them can be exposed, he added.
+In the case of CloudPets, the brand allegedly made the mistake of storing the customer information in a publicly exposed online MongoDB database that required no authentication to access.
+That allowed anyone, including hackers, to view and steal the data.
+On the plus side, the passwords exposed in the breach are hashed with the bcrypt algorithm, making them difficult to crack.
+Unfortunately, CloudPets placed no requirement on password strength, meaning that even a single character such as letter "a" was acceptable, according to Hunt, who was given a copy of the stolen data last week.
+As a result, Hunt was able to decipher a large number of the passwords, by simply checking them against common terms such as qwerty, 123456, and cloudpets.
+"Anyone with the data could crack a large number of passwords, log on to accounts and pull down the voice recordings," Hunt said in his blog post.
+Security researcher Victor Gevers from the GDI Foundation said he also discovered the exposed database from CloudPets and tried to contact the toy maker in late December.
+However, both Gevers and Hunt said the company never responded to their repeated warnings.
+On Monday, California-based Spiral Toys, which operates the CloudPets brand, claimed the company never received the warnings.
+"The headlines that say 2 million messages were leaked on the internet are completely false," Meyers said.
+His company only became aware of the issue after a reporter from Vice Media contacted them last week.
+"We looked at it and thought it was a very minimal issue," he said.
+A malicious actor would only be able to access a customer's voice recording if they managed to guess the password, he said.
+"We have to find a balance," Meyers said, when he addressed the toy maker's lack of password strength requirements.
+He also said that Spiral Toys had outsourced its server management to a third-party vendor.
+In January, the company implemented changes MongoDB requested to increase the server's security.
+Spiral Toys hasn’t been the only company targeted.
+In recent months, several hacking groups have been attacking thousands of publicly exposed MongoDB databases.
+They’ve done so by erasing the data, and then saying they can restore it, but only if victims pay a ransom fee.
+In the CloudPets incident, different hackers appear to have deleted the original databases, but left ransom notes on the exposed systems, Hunt said.
+Although the CloudPets’ databases are no longer publicly accessible, it appears that the toy maker hasn’t notified customers about the breach, Hunt said.
+The danger is that hackers might be using the stolen information to break into customer accounts registered with the toys.
+But Meyers said the company found no evidence that any hackers broke into customer accounts.
+To protect its users, the company is planning on a password reset for all users.
+"Maybe our solution is to put more complex passwords," he said.
+</text>

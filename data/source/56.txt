@@ -1,0 +1,13 @@
+<title>Hacker: Lol, I pwned FBI.gov! Web devs: Nuh-uh, no you didn't • The Register    </title>
+<source> http://www.theregister.co.uk/2017/01/05/hacker_claims_fbi_cms_zero_day_hack_dumps_155_purported_logins/ </source>
+<date> 2017_01_05 </date>
+<text>
+A miscreant using the handle @cyberzeist claims to have infiltrated Plone CMS used by FBI.gov, using a zero day flaw allegedly for sale on an unnamed dark web site.
+The Register has contacted the FBI to confirm the allegations.
+The agency was not immediately available for comment – although a staffer said they were aware of the alleged break-in.
+Cyberzeist claims to have conducted the hack last month and has posted to Twitter what they claim are screen captures showing the FBI patching against the vulnerability, which appeared to permit public access.
+The hacker dumped the 155 purported stolen credentials to online clipboard pastebin, claiming a vulnerability resides in a Plone Python module.
+Cyberzeist also claimed the FBI contacted the hacker requesting a copy of the stolen credentials, which they declined to provide.
+The hacker reckoned the CMS was hosted on a virtual machine running a custom FreeBSD.
+They said they will tweet the zero day flaw once it is no longer for sale.
+</text>

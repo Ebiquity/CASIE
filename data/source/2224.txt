@@ -1,0 +1,15 @@
+<title>SLocker: Android ransomware threat returns in undetectable form | Computing</title>
+<source> http://www.computing.co.uk/ctg/news/3009918/android-ransomware-slocker-is-back-with-a-vengeance?utm_medium=email&utm_campaign=CTG.Daily_RL.EU.A.U&utm_source=CTG.DCM.Editors_Updates&im_edp=prattstreetmedia.com&im_company= </source>
+<date> 2017_05_12 </date>
+<text>
+A ransomware threat called SLocker, which accounted for one-fifth of Android malware attacks in 2015, is back with avengeance, according to security firm Wandera. 
+SLocker encrypts images, documents and videos on Android devices and demands a ransom to decrypt the files. Once the malware is executed, it runs in the background of a user's device without their knowledge or consent.
+Once it has encrypted files on the phone, the malware hijacks the device, blocking the user's access, and attempts to intimidate them into paying a ransom to unlock it.
+Last year, security company Bitdefender said that ransomware was the largest malware risk to Android users in the second half of 2015 - with SLocker accounting for 22 per cent of Android malware threats in the UK in that period.
+The malware also topped the ransomware charts in Germany and Australia, and Bitdefender claimed that 44 per cent of Android users it asked had already paid out a ransom in order to regain access to their devices.
+The malware continued to cause problems and, in mid-2016, its attacks were estimated to have resulted in tens of millions of dollars in ransoms paid. Weeks after the initial wave of attacks, security companies patched the issue for their enterprise customers, devices were updated and the threat disappeared.
+That is until now. Mobile security firm Wandera said that its mobile intelligence engine MI:RIAM had detected more than 400 variants of the same malware. It said that these strains were targeting businesses' mobile fleets through easily accessible third-party app stores and websites where security checks are not as rigorous as they ought to be.
+According to Wandera, the variants have been redesigned and repackaged to avoid all known detection techniques.
+"They utilise a wide variety of disguises including altered icons, package names, resources and executable files in order to evade signature-based detection," the company said.
+Third-party app stores and unknown vendors should be avoided by Android users, while corporate administrators should be wary of SLocker returning and put in place security measures to monitor devices accordingly. 
+</text>

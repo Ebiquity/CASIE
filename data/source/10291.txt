@@ -1,0 +1,17 @@
+<title> Second time lucky: Cisco pushes fix for failed Webex vulnerability patch </title>
+<source> https://www.zdnet.com/article/cisco-pushes-new-patch-to-fix-failed-fix-for-severe-webex-vulnerability/ </source>
+<date> 2018_11_28 </date>
+<text>
+Cisco has released a new patch designed to fix a failed update which has not prevented the exploit of a severe Webex vulnerability.
+The original security flaw, CVE-2018-15442, is present in the Cisco Webex Meetings Desktop App for Windows and is described as a bug which "could allow an authenticated, local attacker to execute arbitrary commands as a privileged user."
+Cisco's original security update was published in October in order to remedy the flaw, in which a lack of validation for user-supplied parameters in the app could be harnessed to exploit the bug.
+If an attacker is successful in utilizing the vulnerability, they can force the app to run arbitrary commands with user privileges.
+"While the CVSS Attack Vector metric denotes the requirement for an attacker to have local access, administrators should be aware that in Active Directory deployments, the vulnerability could be exploited remotely by leveraging the operating system remote management tools," the company added.
+Software releases prior to 33.6.4 -- alongside Cisco Webex Productivity Tools Releases 32.6.0 and later prior to 33.0.6 -- are impacted on Windows systems.
+It was not long after the release of the first patch that researchers from SecureAuth deemed the original fix incomplete.
+The original patch only forced the service to run files signed by Webex, but failed to account for DLL-based attacks, according to the team.
+"The vulnerability can be exploited by copying to a local attacker controller folder, the ptUpdate.exe binary," the researchers said in an advisory. "Also, a malicious dll must be placed in the same folder, named wbxtrace.dll. To gain privileges, the attacker must start the service with the command line: sc start webexservice install software-update 1 "attacker-controlled-path" (if the parameter 1 doesn't work, then 2 should be used)."
+These findings were sent to Cisco, which acknowledged the DLL attack method. A new patch was then issued roughly a week after being informed of the issue.
+"After an additional attack method was reported to Cisco, the previous fix for this vulnerability was determined to be insufficient," Cisco says. "A new fix was developed, and the advisory was updated on November 27, 2018, to reflect which software releases include the complete fix."
+</text>
+

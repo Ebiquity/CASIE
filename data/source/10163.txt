@@ -1,0 +1,18 @@
+<title> Samba releases patch to fix two critical vulnerabilities </title>
+<source> https://www.techrepublic.com/article/samba-releases-patch-to-fix-two-critical-vulnerabilities/ </source>
+<date> 2018_03_14 </date>
+<text>
+Samba has released security updates addressing a possible avenue for DoS attacks and attackers changing administrator passwords. Samba 4 users should update now.
+Open source server platform Samba has issued patches for two critical vulnerabilities that could be used to launch denial-of-service attacks or allow anyone to change user and administrator passwords.
+Samba is a free, open source interoperability suite that extends Windows file and print services to Unix and Linux machines. Businesses that run Unix/Linux and Windows side by side frequently use Samba to link the two operating systems together, making any risk to the security and stability of Samba a serious risk.
+The vulnerabilities in question, CVE-2018-1050 and CVE-2018-1057, are both serious risks for anyone using Samba. If your business has a Samba implementation it's highly recommended that you install the applicable security updates.
+
+What the Samba vulnerabilities can do
+The first vulnerability, 1050, affects all Samba instances version 4.0.0 and up. More specifically, it only affects version 4.0.0 and up Samba installations that are also running their Remote Procedure Call (RPC) Spool Subsystem Service (spoolss) as an external daemon (RPC spoolss is configured to internal by default).
+If the RPC spoolss misses an input sanitization check it can cause the print spooler to crash, effectively killing the ability for anyone using Samba to send files to a printer.
+The second vulnerability, 1057, is a far greater risk to Samba security. Like 1050, it affects all Samba installations version 4.0.0 and up and allows users to change the passwords of other users, including those with admin rights.
+1057's problem stems from a problem with how Samba Active Directory domain controllers handle permission validations using the lightweight directory access protocol (LDAP). "The LDAP server incorrectly validates certain LDAP password modifications against the 'Change Password' privilege, but then performs a password reset operation," Samba said.
+This vulnerability only affects Samba installations being used as Active Directory domain controllers, so those using Samba in non-domain control roles don't need to be concerned.
+If you are using Samba as an AD DC and can't install the security patch yet, there is a workaround Samba says you can put in place as a temporary protection measure: revoking password change permissions for "the world" group.
+</text>
+

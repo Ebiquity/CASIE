@@ -1,0 +1,19 @@
+<title> Critical remote code execution flaw in Apache Struts exposes the enterprise to attack </title>
+<source> https://www.zdnet.com/article/critical-remote-code-execution-flaw-in-apache-struts-exposes-the-enterprise-to-attack/ </source>
+<date> 2018_08_22 </date>
+<text>
+The bug was found in the core infrastructure of Apache Struts 2. 
+The Apache Software Foundation has patched a critical security vulnerability which affects all versions of Apache Struts 2.
+Uncovered by researchers from cybersecurity firm Semmle, the security flaw is caused by the insufficient validation of untrusted user data in the core Struts framework.
+When Apache Struts uses results with no namespace and in the same time, upper actions have no wild namespace. The same opportunity for exploit exists when the URL tag is in use and there is no value or action set.
+As the bug, CVE-2018-11776, has been discovered in the Struts core, the team says there are multiple attack vectors threat actors could use to exploit the vulnerability.
+If the alwaysSelectFullNamespace flag is set to true in the Struts configuration, which is automatically the case when the Struts Convention plugin is in use, or if a user's Struts configuration file contains a tag that does not specify the optional namespace attribute or specifies a wildcard namespace.
+Man Yue Mo from the Semmle Security Research Team first reported the flaw.
+"This vulnerability affects commonly-used endpoints of Struts, which are likely to be exposed, opening up an attack vector to malicious hackers," Mo says. "On top of that, the weakness is related to the Struts OGNL language, which hackers are very familiar with, and are known to have been exploited in the past."
+The vulnerability affects all versions of Apache Struts 2.
+Companies which use the popular open-source framework are urged to update their builds immediately. Users of Struts 2.3 are advised to upgrade to 2.3.35; users of Struts 2.5 need to upgrade to 2.5.17.
+As the latest releases only contain fixes for the vulnerability, Apache does not expect users to experience any backward compatibility issues.
+"Previous disclosures of similarly critical vulnerabilities have resulted in exploits being published within a day, putting critical infrastructure and customer data at risk," Semmle says. "All applications that use Struts are potentially vulnerable, even when no additional plugins have been enabled."
+Mo first reported the findings in April. By June, the Apache Struts team published the code which resolved the problem, leading to the release of official patches on August 22. 
+</text>
+

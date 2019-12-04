@@ -1,0 +1,13 @@
+<title>91% of phishing attacks are display name spoofs - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/02/01/phishing-display-name-spoofs/ </source>
+<date> 2017_02_01 </date>
+<text>
+GreatHorn analyzed more than 56 million emails from 91,500 corporate mailboxes from March to November 2016.
+The data found that display name spoofs are the clear phishing weapon of choice for cybercriminals.
+Attackers are increasingly relying on highly targeted, non-payload attacks that exploit trust and leverage pressure tactics to trick users into taking action that will put their organizations at risk.
+Of the more than 537,000 phishing threats GreatHorn detected in its research, 91 percent (490,557) contained characteristics of display name spoofs.
+Display name spoofs impersonate a person familiar to a business user in order to fool the recipient into thinking that the message came from a trusted source.
+It’s an extremely effective tactic against a workforce deluged with incoming communications all day, every day.
+Direct spoofs were the second most popular attack type (8 percent), and domain lookalikes made up less than 1 percent of phishing attacks.
+“Stopping spear phishing attacks isn’t as simple as pushing a button; the sheer volume of these attacks, coupled with the size of the attacks surface and security resource constraints, makes it impossible to mitigate risk solely via human intervention, no matter how much you try to train your end users,” said GreatHorn CEO Kevin O’Brien.
+</text>

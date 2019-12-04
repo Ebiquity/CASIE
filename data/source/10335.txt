@@ -1,0 +1,17 @@
+<title> Cryptocurrency scams are now targeting Facebook  </title>
+<source> https://www.komando.com/happening-now/513879/cryptocurrency-scams-are-now-targeting-facebook </source>
+<date> 2018_11_29 </date>
+<text>
+Last week, we reported about these alarming cryptocurrency scams spreading via Twitter. These weren't your garden-variety spam posts either, but rather, fraudsters were hacking into the verified accounts of celebrities and brands in an attempt to lure unsuspecting victims.
+But it looks like these crypto-scammers are moving on and are now targeting other social media platforms, as well. This time, they're gaming Facebook's official sponsored ad system to fool eager people who are looking to make a quick profit. Read on and see what this new scheme is all about. Cybercriminals are relentlessly coming up with new tactics all the time, and it's always good to be aware of their latest schemes.
+This new ploy is a classic phishing scam that's meant to steal your personal information like your name, email and credit card numbers.
+And similar to other elaborate phishing scams, these cybercriminals created a bunch of fake websites, news articles and ads for that purpose. 
+The whole ploy starts with a fake Facebook sponsored ad promoting an easy "wealth building" scheme. Accompanying the post is an embedded report that appears to originate from the news site CNBC.
+If you take the bait and click through the ad, the ruse gets more obvious. First, the link's web address doesn't belong to any CNBC domain.
+However, the fraudsters mimicked the look and feel of the real CNBC site so there's a chance an unsuspecting eye might get duped. But yes sir, the entire news article is completely fraudulent, the fakest of fake news.
+Basically, it states that Singapore has officially adopted a certain cryptocurrency and has anointed a firm, dubbed the CashlessPay Group, to market and purchase it. Nevermind that CashlessPay sounds just like another third-rate pyramid scheme, but let's go along for the ride, shall we?
+You probably know by now that there are tons of bogus information going on in Facebook at any given time. The social media giant is trying to clean up its act, though.
+If you can recall, Facebook banned blockchain and cryptocurrency ads earlier this year but softened its stance by allowing pre-approved cryptocurrency advertisers to post sponsored ads. (Can't resist the revenue, eh?)
+But as always, scammers have found a way to exploit this loophole to spread their scams.
+</text>
+

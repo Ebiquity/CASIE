@@ -1,0 +1,17 @@
+<title>Ex-Chicago Public Schools worker accused of stealing info on 80,000 people in latest data breach</title>
+<source> https://chicago.suntimes.com/news/cps-data-breach-personal-information-former-employee-chicago-public-schools/ </source>
+<date> 2018_11_02 </date>
+<text>
+A former Chicago Public Schools worker faces several felony charges after officials allege the worker stole personal information on about 80,000 employees, volunteers and vendors from a CPS database.
+The former worker, Kristi Sims, was arrested Thursday; officers recovered the stolen files after executing search warrants, according to CPS and Chicago police officials. Sims, 28, is a former contractor who handled administrative tasks for the Office of Safety and Security.
+Sims was ordered released on her own recognizance at a bond hearing Friday at the Leighton Criminal Court Building by Judge Sophia Atcherson; Sims also was ordered not to access to the internet while the case continues.
+In a letter to employees Thursday evening, CPS Chief Operating Officer Arnie Rivera said the district learned of the massive data breach Wednesday, the day after the information was stolen.
+Among the data stolen were names, employee ID numbers, phone numbers, addresses, dates of birth, criminal arrest histories and DCFS findings. Social Security numbers were not taken, Rivera said.
+“There was no indication that the information, which was in the individual’s possession for approximately 24 hours, was used or disseminated to anyone in any way,” Rivera added.
+A CPS spokesman referred questions about the criminal charges to Chicago police, but Rivera said “CPS will work to ensure the individual is prosecuted to the fullest extent of the law.”
+CPD spokesman Anthony Guglielmi said Sims is also suspected of deleting the targeted files from the CPS database after they were stolen.
+The digital equipment seized in the warrant is being analyzed, and a search warrant is underway for Sims’s email account, Guglielmi said. Though police say they don’t believe anyone other than Sims was in possession of the data, they hope to learn more about what might have been done with the information.
+This latest CPS data breach comes only a few months after the school district mistakenly sent a mass email that linked to the private information of thousands of students and families.
+The email invited families to submit supplemental applications to selective enrollment schools. Attached at the bottom of the email was a link to a spreadsheet with the personal data of more than 3,700 students and families.
+In that incident, CPS apologized for the “unacceptable breach of both student information and your trust” and asked recipients of the email to delete the sensitive information. The data included children’s names, home and cellphone numbers, email addresses and ID numbers. 
+</text>

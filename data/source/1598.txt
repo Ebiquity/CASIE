@@ -1,0 +1,10 @@
+<title>Hospitals put your data at risk, study finds | MSUToday | Michigan State University</title>
+<source> http://msutoday.msu.edu/news/2017/hospitals-put-your-data-at-risk-study-finds/ </source>
+<date> 2017_04_11 </date>
+
+<text>
+Lying in a hospital bed, the last thing you should have to worry about is a personal data breach. Yet recent research co-authored by a Michigan State University business scholar found nearly 1,800 occurrences of large data breaches in patient information over a seven-year period.
+The study, by Xuefeng “John” Jiang, MSU associate professor of accounting, and colleagues from Johns Hopkins and Ball State universities, is published in JAMA Internal Medicine. The data breaches occurred in health care facilities ranging from UC Davis Medical Center in California to Henry Ford Hospital in Michigan.
+“Our findings underscore the critical need for increased data protection in the health care industry,” Jiang said. “While the law requires health care professionals and systems to cross-share patient data, the more people who can access data, the less secure it is.”
+The researchers examined Department of Health and Human Services data for the period October 2009-December 2016. By law, hospitals covered by the Health Insurance Portability and Accountability Act, or HIPAA, must notify HHS of any breach affecting 500 or more individuals within 60 days from the discovery of the breach.
+</text>

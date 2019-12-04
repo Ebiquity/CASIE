@@ -1,0 +1,17 @@
+<title>Stealthy Mac malware spies on encrypted browser traffic | CSO Online</title>
+<source> http://www.csoonline.com/article/3193331/security/stealthy-mac-malware-spies-on-encrypted-browser-traffic.html </source>
+<date> 2017_05_01 </date>
+<text>
+A new malware program that targets macOS users is capable of spying on encrypted browser traffic to steal sensitive information.
+The new program, dubbed OSX/Dok by researchers from Check Point Software Technologies, was distributed via email phishing campaigns to users in Europe.
+One of the rogue emails was crafted to look as if it was sent by a Swiss government agency warning recipients about apparent errors in their tax returns. The malware was attached to the email as a file called Dokument.zip.
+Once installed on a Mac, OSX/Dok displays a fake and persistent notification about a system security update that needs to be installed. Users who agree to install the update will be prompted for their administrator password.
+Once the malware obtains elevated privileges, it will make the active user a permanent administrator so the OS will never ask for the password again when the malware executes privileged commands in the background.
+Dok will also modify the system's network settings to route web traffic through a proxy server controlled by the attackers and located on the Tor anonymity network. In order for this to work, it also installs a Tor client that's started automatically.
+The reason why web traffic is routed through a proxy server is to perform a man-in-the-middle (MitM) attack and decrypt secure HTTPS connections. This is achieved by installing a rogue root certificate on the system that is then used to decrypt and re-encrypt HTTPS connections when they pass through the proxy.
+With this method, users will continue to see the SSL visual indicator in their browser when they access HTTPS websites and the browser will not complain about untrusted certificates.
+The ability to snoop on HTTPS traffic allows attackers to steal sensitive information like passwords for email; social media and online banking accounts; credit card details entered on shopping websites; personal and financial information entered into web forms; and more.
+With more than half of all web traffic in an average user's browser now encrypted, it's not surprising that attackers are resorting to man-in-the-middle techniques to capture sensitive data.
+This and other capabilities make Dok one of the most sophisticated malware programs targeting macOS to date, not counting spy programs created or used by nation states and law enforcement agencies.
+"We have been and still are in direct contact with Apple [employees] who are very helpful and responsive," Yaniv Balmas, Check Point's malware research team leader, said via email. "With Apple’s cooperation, we believe this specific campaign is now futile and does no longer pose any threat to Mac users."
+</text>

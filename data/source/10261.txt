@@ -1,0 +1,18 @@
+<title> Adobe fixes critical code execution flaws in latest patch update  </title>
+<source> https://www.zdnet.com/article/adobe-fixes-critical-code-execution-flaws-in-latest-patch-update/ </source>
+<date> 2017_08_15 </date>
+<text>
+Adobe has resolved 11 security flaws in this month's patch update on the heels of a far larger security round last month in which over a hundred bugs were squashed.
+The patch release impacts Adobe Flash, Acrobat and Reader, Experience Manager, and Creative Cloud. Two of the vulnerabilities disclosed in the release are described as critical and affect Acrobat and Reader.
+In July, Adobe issued a security update which patched a total of 112 vulnerabilities. The majority of bugs were uncovered in Adobe Acrobat, but a critical code execution flaw was also resolved in Adobe Flash.
+The critical bugs in this release impact Adobe Acrobat 2017, Acrobat DC, and Acrobat Reader DC on Windows and macOS machines. The tech giant says that exploitation of the security flaws, an out of bounds write issue (CVE-2018-12808) and an untrusted pointer dereference problem (CVE-2018-12799) can lead to arbitrary code execution.
+The vulnerabilities resolved include five bugs in Adobe Flash. An out of bounds read flaw (CVE-2018-12824), a security bypass error (CVE-2018-12825), two information disclosure vulnerabilities (CVE-2018-12826, CVE-2018-12827), and a privilege escalation flaw (CVE-2018-12828) have all been patched.
+A reflected cross-site scripting flaw (CVE-2018-12806), input validation bypass (CVE-2018-12807), and cross-site scripting (XSS) bug (CVE-2018-5005) have been patched in Adobe Experience Manager versions 6.0 -- 6.4 on all platforms.
+If exploited, the security flaws can facilitate sensitive information disclosure and data modification.
+In addition, a single bug in Adobe Creative Cloud Desktop affecting versions 4.5.0.324 and earlier versions on Windows systems has been resolved.
+The DLL hijacking vulnerability (CVE-2018-5003) can be exploited in order for an attacker to escalate privileges on an account.
+Adobe recommends that users update their software as quickly as possible. Researchers from Trend Micro's Zero Day Initiative, Palo Alto Networks, Google Project Zero, TenCent, and Cognizant Technology Solutions, among others, were thanked for reporting the bugs.
+On Tuesday, Microsoft's latest round of patches tackled a total of 60 vulnerabilities, 19 of which were deemed critical.
+Two severe security flaws resolved in the update are zero-day vulnerabilities which are being actively exploited in the wild.
+</text>
+

@@ -1,0 +1,22 @@
+<title> Equifax data hack which hit 148million Americans 'was the work of a foreign state trying to recruit U.S. spies', experts conclude after no trace of stolen details is found online </title>
+<source> https://www.dailymail.co.uk/news/article-6704225/Equifax-data-theft-hit-143million-people-work-foreign-state.html </source>
+<date> 2019_02_14 </date>
+<text>
+The Equifax data breach in which millions of Americans had their personal details stolen may have been carried out by a foreign government in a bid to recruit U.S. spies, experts believe. 
+Hackers took addresses, dates of birth, Social Security details and credit card numbers from 148million people when they targeted the credit ratings giant Equifax in 2017. 
+But the stolen data has not appeared on any 'dark web' sites which sell personal information for sinister use, analysts have said. 
+The data's apparent disappearance has led some experts to conclude that it is in the hands of a foreign government, CNBC reported.
+One analyst told the channel: 'We are all working to be able to consistently determine whether this data is out there and whether it has ever been out there.
+And at this time there has been absolutely no indication, whatsoever, that the data has been disclosed, that it has been used or that it has been offered for sale.
+Another ex-intelligence worker said personal data could be used by foreign governments to identify powerful people who were having financial problems.
+Those people would be prime targets for a bribe or might be attracted by a job offer, he said. 
+It has also been suggested that the criminals who stole the data feared detection if they sold it online and have kept it to themselves to avoid capture.   
+Equifax, one of America's three leading consumer reporting agencies, announced the huge data hack in September 2017 and its CEO Richard Smith resigned later that month.
+They initially said 143million people had been affected but the number eventually grew to 148million, equivalent to nearly half the U.S. population. 
+The hackers targeted the company for 76 days until the attack was spotted, according to a congressional report.  
+Hackers gained access to 48 databases between May 13 and July 29 when Equifax noticed the intrusion, the report said.   
+Last year the firm admitted that passport images and information had also been stolen. 
+The U.S. House committee which investigated the breach said the firm had 'failed to fully appreciate and mitigate its cybersecurity risks'. 
+'Had the company taken action to address its observable security issues prior to this cyberattack, the data breach could have been prevented,' the committee's report said.   
+</text>
+

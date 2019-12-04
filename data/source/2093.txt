@@ -1,0 +1,18 @@
+<title>1 Million Gmail Users Impacted by Google Docs Phishing Attack | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/1-million-gmail-users-impacted-by-google-docs-phishing-attack/125436/ </source>
+<date> 2017_05_05 </date>
+<text>
+Researchers said good social engineering and users’ trust in the convenience afforded by the OAUTH mechanism guaranteed Wednesday’s Google Docs phishing attacks would spread quickly.
+Google said that up to 1 million Gmail users were victimized by yesterday’s Google Docs phishing scam that spread quickly for a short period of time.
+In a statement, Google said that fewer than 0.1 percent of Gmail users were affected; as of last February, Google said it had one billion active Gmail users.
+Google took measures to protect its users by disabling offending accounts, and removing phony pages and malicious applications involved in the attacks. Other security measures were pushed out in updates to Gmail, Safe Browsing and other in-house systems.
+“We were able to stop the campaign within approximately one hour,” a Google spokesperson said in a statement. “While contact information was accessed and used by the campaign, our investigations show that no other data was exposed. There’s no further action users need to take regarding this event.”
+The messages were a convincing mix of social engineering and abuse of users’ trust in the convenience of mechanisms that share account access with third parties.
+Many of the phishing messages came from contacts known to victims since part of the attack includes gaining access to contact lists. The messages claimed that someone wanted to share a Google Doc with the victim, and once the “Open in Docs” button in the email is clicked, the victim is redirected to a legitimate Google OAUTH consent screen where the attacker’s application, called “Google Docs” asks for access to victim’s Gmail and contacts through Google’s OAUTH2 service implementation.
+While the ruse was convincing in its simplicity, there were a number of red flags, including the fact that a Google service was asking for access to Gmail, and that the “To” address field was to an odd Mailinator account.
+Google also quickly updated Safe Browsing and Gmail with warnings about the phishing emails and attempts to steal personal information.
+The phishing emails spread quickly on Wednesday and likely started with journalists and public relations professionals, each of whom are likely to have lengthy contact lists ensuring the messages would continue to spread in an old-school worm-like fashion.
+
+OAUTH’s open nature allows anyone to develop similar apps. The nature of the standard and interaction involved makes it difficult to safely ask for permission without giving the users a lot of information to validate whether an app is malicious, said Duo’s Sokley.
+“There are many pitfalls in implementing OAUTH 2.0, for example cross site request forgery protection (XSRF). Imagine if the user doesn’t have to click on the approve button, but if the exploit would have done this for you,” said SANS’ Ullrich. “OAUTH 2.0 also inherits all the security issues that come with running anything in a web browser. A user may have multiple windows open at a time, the URL bar isn’t always very visible and browser give applications a lot of leeway in styling the user interface to confuse the user.”
+</text>

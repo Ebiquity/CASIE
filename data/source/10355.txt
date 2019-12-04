@@ -1,0 +1,14 @@
+<title> Not So Pretty: What You Need to Know About E-Fail and the PGP Flaw  </title>
+<source> https://www.eff.org/deeplinks/2018/05/not-so-pretty-what-you-need-know-about-e-fail-and-pgp-flaw-0 </source>
+<date> 2018_05_14 </date>
+<text>
+Enigmail and GPG Tools have been patched for EFAIL. For more up-to-date information, please see EFF's Surveillance Self-Defense guides.
+Don’t panic! But you should stop using PGP for encrypted email and switch to a different secure communications method for now.
+A group of researchers released a paper today that describes a new class of serious vulnerabilities in PGP (including GPG), the most popular email encryption standard. The new paper includes a proof-of-concept exploit that can allow an attacker to use the victim’s own email client to decrypt previously acquired messages and return the decrypted content to the attacker without alerting the victim. The proof of concept is only one implementation of this new type of attack, and variants may follow in the coming days.
+Because of the straightforward nature of the proof of concept, the severity of these security vulnerabilities, the range of email clients and plugins affected, and the high level of protection that PGP users need and expect, EFF is advising PGP users to pause in their use of the tool and seek other modes of secure end-to-end communication for now.
+Because we are awaiting the response from the security community of the flaws highlighted in the paper, we recommend that for now you uninstall or disable your PGP email plug-in. These steps are intended as a temporary, conservative stopgap until the immediate risk of the exploit has passed and been mitigated against by the wider community. There may be simpler mitigations available soon, as vendors and commentators develop narrower solutions, but this is the safest stance to take for now. Because sending PGP-encrypted emails to an unpatched client will create adverse ecosystem incentives to open incoming emails, any of which could be maliciously crafted to expose ciphertext to attackers.
+While you may not be directly affected, the other participants in your encrypted conversations are likely to be. For this attack, it isn’t important whether the sender or the receiver of the original secret message is targeted. This is because a PGP message is encrypted to both of their keys.
+At EFF, we have relied on PGP extensively both internally and to secure much of our external-facing email communications. Because of the severity of the vulnerabilities disclosed today, we are temporarily dialing down our use of PGP for both internal and external email.
+Our recommendations may change as new information becomes available, and we will update this post when that happens.
+</text>
+

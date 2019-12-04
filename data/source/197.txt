@@ -1,0 +1,11 @@
+<title>Brother and sister arrested for spying on Italian politicians for years - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/12/spying-italian-politicians/ </source>
+<date> 2017_01_13 </date>
+<text>
+Two Italian siblings have been arrested on Monday and stand accused of having spied on Italian politicians, state institutions and law enforcement agencies, businesses and businesspeople, law firms, leaders of Italian masonic lodges, and Vatican officials for years.
+45-year-old Giulio Occhionero and 49-year-old Francesca Maria Occhionero, both from Rome but currently residing in London, have allegedly used specially crafted malware (dubbed “EyePyramid”) to compromise the targets’ computers and exfiltrate all kinds of documents, as well as log keystrokes and steal login credentials for sensitive accounts.
+According to court documents (in Italian), the investigation began a few months after a security professional employed by ENAV, an Italian company responsible for the provision of air traffic services (ATS) and other air navigation services in Italy, flagged and reported a malicious attachment he received via email.
+The spear-phishing email was purportedly sent by an Italian attorney, but the infosec pro became suspicious and sent the attachment to security company Mentat Solutions for analysis.
+The attachment was found to contain the EyePyramid malware.
+After the authorities got involved, the investigation revealed that the email was, indeed, sent from the attorney’s email account, but that it was sent by someone who had compromised the account and accessed it via TOR.
+</text>

@@ -1,0 +1,17 @@
+<title> U.K. cybersecurity agency mounts transparency push </title>
+<source> https://www.nbcnews.com/tech/security/u-k-cybersecurity-agency-mounts-transparency-push-n941211 </source>
+<date> 2018_11_28 </date>
+<text>
+LONDON — The U.K. agency tasked with fighting cyberthreats on Thursday announced a new process for the public disclosure of potentially sensitive software flaws, introducing a new level of transparency to its work.
+The National Cyber Security Centre laid out its new procedure, called the "Equities Process" in a blog post that details how it makes decisions on whether to make public the discovery of new flaws.
+National security operations sometimes hold back from announcing the discovery of security flaws in part because the bugs can be used to gather intelligence.
+“There’s got to be a good reason not to disclose,” said Ian Levy, technical director at the NCSC.
+The default position, the NCSC said, is to disclose those vulnerabilities to the public after fixes have been made. The government will only keep them confidential in rare instances, such as if there’s an overriding intelligence reason. Levy said withholding release of a bug will require high-level government sign-off.
+The goal is to prevent cyberattacks like “WannaCry,” which paralyzed computer systems around the world in May 2017. The attack, which the U.S. has blamed on North Korea, wrought havoc within the U.K.’s National Health Service (NHS) by exploiting vulnerabilities in an outdated version of Microsoft Windows. WannaCry underscored the dangers of not patching or updating software.
+
+The NCSC’s disclosure policy follows one implemented by the White House in 2017. The National Security Agency (NSA) had come under intense pressure from transparency advocates to disclose more about its work in the wake of WannaCry.
+“The best defense against a cyberattack, whether it’s by criminals or nation states, is to keep your box up to date,” said Levy. “If you patch your software, a lot of the stuff that we’ve found goes away.”
+The vast majority of attacks are carried out by exploiting vulnerabilities already known to the vendors of the technology in question, Levy said. Such was the case when Russian cyberoperatives hacked into British telecoms companies in 2017.
+Levy said the primary goal of more transparency is to “bang the drum” about basic cybersecurity, like patching and secure network setups.
+</text>
+

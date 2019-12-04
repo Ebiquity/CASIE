@@ -1,0 +1,22 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/yahoo-execs-security-team-over/ </source>
+<date> 2017_03_02 </date>
+<text>
+Yahoo’s board has blamed unnamed senior executives and its legal team for failing to properly investigate a 2014 security incident which saw 500 million user accounts stolen by state-sponsored attackers.
+In a lengthy SEC filing, the board claimed that in late 2014 the firm’s security team notified of targeted attacks against 26 users, who were subsequently informed, and law enforcement consulted.
+It continued:
+“While significant additional security measures were implemented in response to those incidents, it appears certain senior executives did not properly comprehend or investigate, and therefore failed to act sufficiently upon, the full extent of knowledge known internally by the Company’s information security team.
+Specifically, as of December 2014, the information security team understood that the attacker had exfiltrated copies of user database backup files containing the personal data of Yahoo users but it is unclear whether and to what extent such evidence of exfiltration was effectively communicated and understood outside the information security team”.
+Subsequent cookie forging activity by the same state actor in 2015 and 2016 was also not investigated.
+That activity is now said to have exposed the accounts of 32 million users.
+The revelations would seem to indicate a massive disconnect between IT security and the business at Yahoo – perhaps one of the reasons why former CISO Alex Stamos left for Facebook in 2015.
+It should be a cautionary tale for businesses everywhere, as the fallout continues.
+General counsel and secretary, Ronald Bell, will leave the company as a result of the investigation with no severance pay, and CEO Marissa Meyer will not receive a cash bonus for 2016.
+She has also agreed not to receive her 2017 annual equity award – which is said to be more than $10m.
+The firm revealed it has already recorded $16m in losses related to the 2013 and 2014 breaches – “of which $5 million was associated with the ongoing forensic investigation and remediation activities and $11 million was associated with nonrecurring legal costs”.
+Also, it is expecting to incur further “investigation, remediation, legal, and other expenses” going forward.
+A large portion of this could come from the 43 consumer class action lawsuits which have since been instigated against the firm, with possibly more to come.
+However, frustratingly, there was no more information on the 2013 breach of one billion user accounts, with the filing only saying the following:
+“We have not been able to identify the intrusion associated with this theft, and we believe this incident is likely distinct from the 2014 Security Incident”.
+The internet pioneer last week agreed a $350m cut in its asking price with Verizon, which will look to wrap up its M&A deal soon.
+</text>

@@ -1,0 +1,22 @@
+<title> Jenkins releases patch for critical pipeline security flaws </title>
+<source> https://portswigger.net/daily-swig/jenkins-releases-patch-for-critical-pipeline-security-flaws </source>
+<date> 2018_12_13 </date>
+<text>
+A critical vulnerability in open source automation tool Jenkins could allow permission checks to be bypassed through the use of specially-crafted URLs.
+Jenkins uses the Stapler web framework for HTTP request handling, which uses reflection to dispatch incoming web requests to controller code.
+This means that any public methods that start with get and include string and integer parameters are exposed to the web server.
+Because this is a common naming convention, this has led to multiple internal Jenkins methods being inadvertently exposed.
+The precise impact of this isn’t clear. The advisory notes that code execution could be a possible outcome – though on closer inspection, this seems to be a worst-case scenario.
+“To clarify, the vulnerability we addressed had nothing to do with arbitrary code execution, but was rather an issue discovered by the Jenkins security team that allowed a small subset of existing Jenkins code to be invoked by a remote client,” Daniel Beck, Jenkins security officer, told The Daily Swig in an email.
+“While the known impact is pretty limited, we felt that the layer at which the vulnerability existed, and its potential warranted a higher score.”
+These potential attacks include unauthenticated users being able to invalidate sessions when running with the built-in server, and users with overall/read permissions being able to create new user objects in memory.
+The advisory reads: “Given the vast potential attack surface, we fully expect other attacks, that we are not currently aware of, to be possible on Jenkins releases that do not have this fix applied.
+“This is reflected in the high score we assigned to this issue, rather than limiting the score to the impact through known issues.”
+Beck added: “Jenkins users should always keep their instances up to date. In this case, we released updates for two LTS lines simultaneously for the first time, so admins could apply the update without having to go through a major version jump.
+“We strive to fix all security vulnerabilities in Jenkins and plugins in a timely manner.”
+Reflection is also used by Apache Struts, via the OGNL library.
+Struts has suffered a number of serious security flaws in recent years. In 2017, a vulnerability in the framework was exploited to expose the details of up to 148 million Equifax customers.
+Another flaw, revealed in August 2018, could lead to remote code execution.
+These issues underline the dangers of using reflection with untrusted data, and application architects would do well to avoid this unsafe practice.
+</text>
+

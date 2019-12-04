@@ -1,0 +1,14 @@
+<title>Ransomware hits Pennsylvania's Democratic state senators - AIVAnet</title>
+<source> https://www.aivanet.com/2017/03/ransomware-hits-pennsylvanias-democratic-state-senators/?utm_source=hs_email&utm_medium=email&utm_content=43866212&_hsenc=p2ANqtz--yjaHTjswCU7P0Ga1WEiNsKgnBob0oneXl_nDsrwzMIR8cnZ61oZtAgRy0q69VPf2LBGa3EV2utqLSPvirE-IP0K1BYA&_hsmi=43866212 </source>
+<date> 2017_03_06 </date>
+<text>
+Democrats in Pennsylvania’s state Senate were locked out of their computer network early Friday morning due to a ransomware attack, NBC News reports.
+According to an unidentified state official who spoke with NBC, the Democratic senators in Harrisburg use their own computer network and “there is no indication that other state agencies of the Republicans have been affected”.
+As of about 5 p.m. Friday, both law enforcement agencies and Microsoft were working with the state Democrats to free their network.
+In a statement sent to reporters via text message and obtained by The Hill, state party officials said, “there is currently no indication that the caucus system was targeted or that any data has been compromised”.
+Recently, ransomware attacks have struck everywhere from hospitals and universities to San Francisco’s transit system.
+Last summer, the congressional IT desk warned representatives in Washington DC to be careful of potential ransomware and phishing threats, but the hacks on the DNC were unrelated.
+In many cases, the payment demanded is only in the tens of thousands of dollars, and occasionally ransomware can be spammed without a specific target, but the affected computer systems are encrypted and inaccessible until the hackers release a key.
+If a network’s data is backed up offsite, the target can occasionally circumvent the ransom altogether — albeit with some increased security.
+A spokesperson for the Pennsylvania Democrats declined to say to NBC News whether that was possible in this case, or whether the attackers had revealed any motives.
+</text>

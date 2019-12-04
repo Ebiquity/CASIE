@@ -1,0 +1,12 @@
+<title> IRS warns of fraudulent tax transcript email scheme </title>
+<source> https://www.staradvertiser.com/2018/11/26/breaking-news/irs-warns-of-fraudulent-tax-transcript-email-scheme/ </source>
+<date> 2018_11_26 </date>
+<text>
+The Internal Revenue Service today warned the public of a tax transcript scheme via a surge of fraudulent emails impersonating the IRS. The emails offer tax transcripts, or the summary of a tax return, as bait to entice users to open documents containing malware.
+The scam email carries an attachment labeled “Tax Account Transcript” or something similar, and the subject line uses some variation of the phrase “tax transcript.” The IRS said the scam is especially problematic for businesses whose employees might open the malware because it can spread throughout the network and potentially take months to successfully remove.
+Known as Emotet, the well-known malware generally poses as specific banks and financial institutions in its effort to trick people into opening infected documents. However, in the past few weeks, the scam has been masquerading as the IRS, pretending to be from “IRS Online.”
+The United States Computer Emergency Readiness Team (US-CERT) issued a warning in July about earlier versions of the Emotet in Alert (TA18-201A) Emotet Malware. US-CERT has labeled the Emotet Malware “among the most costly and destructive malware affecting state, local, tribal, and territorial (SLTT) governments, and the private and public sectors.”
+The IRS reminds taxpayers it does not send unsolicited emails to the public, nor would it email a sensitive document such as a tax transcript.
+Taxpayers should not open the email or the attachment. If using a personal computer, delete or forward the scam email to phishing@irs.gov. If seen while using an employer’s computer, notify the company’s technology professionals.
+</text>
+

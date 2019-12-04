@@ -1,0 +1,10 @@
+<title> Safari Scareware Used to Extort Money from Porn Viewers  </title>
+<source> https://www.webtitan.com/blog/safari-scareware/ </source>
+<date> 2017_03_28 </date>
+<text>
+A flaw in the mobile Safari browser has been exploited by cybercriminals and used to extort money from individuals who have previously used their mobile device to view pornography or other illegal content. The Safari scareware prevents the user from accessing the Internet on their device by loading a series of pop-up messages.
+A popup is displayed advising the user that Safari cannot open the requested page. Clicking on OK to close the message triggers another popup warning. Safari is then locked in an endless loop of popup messages that cannot be closed.
+A message is displayed in the background claiming the device has been locked because the user has been discovered to have viewed illegal web content. Some users have reported messages containing Interpol banners, which are intended to make the user think the lock has been put on their phone by law enforcement. The only way of unlocking the device, according to the messages, is to pay a fine.
+One of the domains used by the attackers is police-pay.com; however, few users would likely be fooled into thinking the browser lock was implemented by a police department as the fine had to be paid in the form of an iTunes gift card.
+Other messages threaten the user with police action if payment is not made. The attackers claim they will send the user’s browsing history and downloaded files to the Metropolitan Police if the ransom is not paid.
+</text>

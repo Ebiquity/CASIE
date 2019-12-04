@@ -1,0 +1,17 @@
+<title>Someone Left USB Keyloggers on Computers Across a University Campus in Canada - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/someone-left-usb-keyloggers-on-computers-across-a-university-campus-in-canada </source>
+<date> 2017_03_29 </date>
+<text>
+ If any students or teachers logged on to social media or opened their email inbox using certain computers at Carleton University in Canada's capital city of Ottawa recently, their every keystroke was likely recorded by an unknown hacker.
+According to an emailed statement, the university discovered USB sticks loaded with what's known as "keylogger" software on computers in six classrooms during a routine inspection.
+Keylogger software intercepts the commands a keyboard sends to your computer, logging the keystrokes that make up your passwords and messages.
+A university spokesperson wouldn't clarify when the discovery was made.
+According to the university, the USB keyloggers in question would have required someone to physically pick them up in order to access any data they recorded, and there's no evidence that someone ever came by.
+"These computers are used solely for instructional purposes in classrooms and do not store any university, personal or confidential information," an emailed statement from Carleton University stated.
+"We have no evidence that any information was retrieved from these devices or that any university data were compromised."
+Even so, it's a concerning state of affairs for students and teachers, who may use instructional computers for personal correspondence or professional obligations at the school.
+Carleton was the victim of a ransomware attack in November of last year, which locked down dozens of computers that would only unlock if the university paid a ransom in bitcoin.
+"I don't think at this point there's been any formal link between these two events," said Steven Reid, a university spokesperson, in an interview.
+"An investigation is ongoing into the keylogger incident, but nothing specific related to anything in the past."
+Even though there's no evidence that the hacker got a chance to come collect the goods, it's probably a great idea for any Carleton students to change their passwords right about now.
+</text>

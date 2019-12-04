@@ -1,0 +1,16 @@
+<title> Lock-Screen Bypass Bug Quietly Patched in Handsets </title>
+<source> https://threatpost.com/lock-screen-bypass-bug-quietly-patched-in-handsets/139141/ </source>
+<date> 2018_11_16 </date>
+<text>
+A design flaw affecting all in-display fingerprint sensors – that left over a half-dozen cellphone models vulnerable to a trivial lock-screen bypass attack – has been quietly patched. The flaw was tied to a bug in the popular in-display fingerprint reader technology used for user authentication.
+In-display fingerprint reader technology is widely considered an up-and-coming feature to be used in a number of flagship model phones introduced in 2019 by top OEM phone makers, according to Tencent’s Xuanwu Lab which is credited for first identifying the flaw earlier this year.
+“During our research on this, we found all the in-display fingerprint sensor module suffer the same problem no matter where it was manufactured by whatever vendors,” said Yang Yu, a researcher at Xuanwu Lab. “This vulnerability is a design fault of in-display fingerprint sensors.”
+Impacted are all phones tested in the first half of 2018 that had in-display fingerprint sensors, said Yu.
+That includes current models of Huawei Technologies’ Porsche Design Mate RS and Mate 20 Pro model phones. Yu said that many more cellphone manufacturers are impacted by the issue.
+However, Yu would not specify other impacted vendors or models: “Vendors differ greatly in the attitude to security issues, someone have open attitudes, like Huawei, and in contrast, some vendors strongly hope us to keep the voice down on this,” he told Threatpost. He noted Huawei has been forthcoming, issuing patches to address the issue.
+Other phones that use the feature include Vivo Communication Technology’s V11 Pro, X21 and Nex ; and OnePlus’ 6T and Xiaomi Mi 8 Explorer Edition phones. Vivo, OnePlus and Xiaomi did not respond to requests for comment from Threatpost.
+In-display fingerprint readers based on optical fingerprint imaging, experts believe, will soon replace conventional authentication based on capacitance-sensor fingerprint scanners. In-display readers allow for a user to place a finger on the screen of a smartphone where a scanner from behind the display can verify a fingerprint, authenticate the user and unlock the phone.
+Design-wise the feature allows phones to be sleeker and less cluttered, supporting infinity displays. Usability advantages include the ability to unlock the phone simply by placing your finger on the phone’s screen at any angle, whether it’s sitting on a table or in a car mount.
+The vulnerability, which Huawei issued a patch (CVE-2018-7929) for in September, can be exploited in a matter of seconds, researchers said. In an exclusive interview with Threatpost on the flaw Yu said all an attacker needs to carry out the attack is an opaque reflective material such as aluminum foil. By placing the reflective material over a residual fingerprint on the phone’s display the capacitance fingerprint imaging mechanism can be tricked into authenticating a fingerprint.
+</text>
+

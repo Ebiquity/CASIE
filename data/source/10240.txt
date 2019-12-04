@@ -1,0 +1,21 @@
+<title> Fraud risk: 'Got an email from Amazon or Paypal? Delete it'  </title>
+<source> https://www.telegraph.co.uk/money/consumer-affairs/fraud-risk-got-email-amazon-paypal-delete/ </source>
+<date> 2017_02_12 </date>
+<text>
+Consumers are being left vulnerable to increasingly sophisticated cybercriminals because major companies are not taking measures to protect them from plagues of fake emails, a leading cyber-crime expert has claimed.
+Billions of “phishing” emails purporting to be from companies we trust such as Apple and Amazon, or banks, charities and even government departments, are reaching consumers’ inboxes.
+Their intention is to trick recipients into visiting a website – specially created to mirror a legitimate business’s site – and entering personal details such as email addresses and passwords.
+These can be used by criminals in a number of ways, including accessing bank accounts, making payments or applying for credit or other services.
+Phishing emails are cleverly designed to mimic the firm’s real emails. They are increasingly well-written. Worryingly, as fraudsters invest more in their processes, the emails are also more likely to bypass spam filters.
+To add to the convincing effect, criminals are buying domain names similar to the companies they are impersonating, so recipients are more likely to think the emails real.
+Since January Action Fraud, the national cybercrime reporting service, has issued alerts about scams involving fake correspondence from HMRC, Amazon, and the Department of Education, among others.
+But now the proliferation of these emails is causing some to question whether the real businesses are doing enough to protect their customers.
+Chris Underhill, chief technical officer at Cyber Security Partners, a consultancy, said firms that communicate by email have a “corporate responsibility” to prevent fraudsters impersonating them online.
+He said many firms were failing to take the basic – and inexpensive – precaution of buying up domain names similar to their own.
+He said: “The technology is there for little cost but sadly the adoption rate is low.
+“The responsibility is now placed on the consumer to check the sender of the emails is real.”
+Telegraph Money found it was possible, for example, to buy domain names such as amazonuk.org, amazon.eu.co.uk or amazonuk.tech for as little as £5.99 per year.
+Andrew Goodwill, of The Goodwill Group, a fraud-prevention consultancy, said consumers should “be incredibly sceptical” about any unsolicited digital communication even from familiar companies. If they contained links or asked for personal information they were “more than likely to be fake”, he said.
+He added: “It’s a difficult situation. Why wouldn’t you expect to receive an email from a service you use?
+</text>
+

@@ -1,0 +1,20 @@
+<title>Three UK's mobile customers experience new data breach | Business | The Guardian</title>
+<source> https://www.theguardian.com/business/2017/mar/20/three-mobile-possible-data-breach-data-usage-call-history </source>
+<date> 2017_03_22 </date>
+<text>
+The mobile phone company Three has experienced a fresh data breach after some customers logging into their accounts were presented with the names, addresses, phone numbers and call histories of strangers.
+Three said it was investigating a technical issue with its systems and urged those affected to contact its customer service department.
+One customer, Andy Fidler, told the Guardian he was presented with the data usage and full call and text history of another named customer when he logged in on Sunday night.
+Another, Mark Thompson, said on Facebook he received a call from a complete stranger who said she had logged on to her account and was shown his details.
+Thompson said it was a “shocking breach of data privacy”.
+He wrote on Three UK’s Facebook page: “Care to explain just how my details have been shared, how many people have had access to my personal information, for how long, and how many of your other customers have had their details leaked by yourselves to other members of the public as well?”
+Other customers also wanted to know why they were being presented with other people’s information when they logged in.
+Three UK, which is owned by the telecoms giant Hutchinson and has 9 million customers in Britain, said it was investigating.
+“We are aware of a small number of customers who may have been able to view the mobile account details of other Three users using My3,” a spokesman said.
+“No financial details were viewable during this time and we are investigating the matter”.
+The Information Commissioner’s Office said it “will be looking into this potential incident involving Three”.
+A spokeswoman for the regulator said: “Data protection law requires organisations to keep any personal information they hold secure.
+It’s our job to act on behalf of consumers to see whether that’s happened and take appropriate action if it has not”.
+The problem comes four months after three men were arrested after fraudsters accessed personal data of thousands of Three customers, including names and addresses, by using authorised logins to its database of customers eligible for an upgraded handset.
+Customer information from more than 133,000 users was compromised in the incident.
+</text>

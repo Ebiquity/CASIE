@@ -1,0 +1,15 @@
+<title>Dark Web Suffers After Anonymous Hacked Firm Hosting Child Porn Sites</title>
+<source> https://www.hackread.com/dark-web-suffering-after-anonymous-hacking/ </source>
+<date> 2017_03_09 </date>
+<text>
+Anonymous also leaked a majority of data from Freedom Hosting II, which included over 380,000 user records.
+Now we have learned that after the abovementioned cyber-attack, the number of hidden services on the Dark Web has lowered significantly.
+This revelation was made after an analysis was carried out using OnionScan.
+According to the OnionScan report, out of over 30,000 Tor-based hidden services, only 4,400 are active on the Dark Web currently.
+It is much lower in comparison to previous such scans, stated the OnionScan project operator Sarah Jamie Lewis.
+This is why, noted Lewis, the number of hidden services has reduced so much including the secure email platform Sigaint, which went offline unannounced in mid-February.
+Apart from the absence of such a huge number of hidden services, the scan report also detected 4,000 HTTP services, 250 TLS services, 270 SSH services, 100 SMTP services, 220 Bitcoin nodes and some FTP and VNC services too on the Dark Web.
+Here the question arises, why Tor-based services have been removed?
+The reason could be that a majority of users have started to perceive Dark Web as a platform dedicated to criminality oriented or illegal activities.
+Furthermore, it is a fact that just like maintaining anonymity on Tor is difficult in the same manner hosting a hidden service on the Dark Web is daunting as it required high-level skills and technical abilities.
+</text>

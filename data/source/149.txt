@@ -1,0 +1,10 @@
+<title>Hancitor/Pony/Vawtrak malspam - SANS Internet Storm Center </title>
+<source> https://isc.sans.edu/forums/diary/HancitorPonyVawtrak+malspam/21919/ </source>
+<date> 2017_01_11 </date>
+<text>
+Introduction
+Until recently, I hadn't personally seen much malicious spam (malspam) using Microsoft office documents with Hancitor-based Visual Basic (VB) macros to send Pony and Vawtrak.
+Occasionally, I'll find a report like this one from 2016-12-19, where Hancitor/Pony/Vawtrak malspam was disguised as a LogMeIn account notification, but I rarely come across an example on my own.
+And apparently, there's been a recent lull in Hancitor/Pony/Vawtrak malspam until yesterday.
+
+</text>

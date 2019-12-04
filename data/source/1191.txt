@@ -1,0 +1,16 @@
+<title>ISP customer data breach could turn into supercharged tech support scams – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/03/20/isp-customer-data-breach-could-turn-into-supercharged-tech-support-scams/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=2332c4c1f8-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-2332c4c1f8-455160889 </source>
+<date> 2017_03_21 </date>
+<text>
+As many attest, they just won’t leave TalkTalk customers alone, cold-calling them on a scale the BBC recently described as “industrial”.
+The caller claims to be a TalkTalk engineer and to have detected a router or malware issue on the user’s computer that requires immediate intervention.
+The customer is persuaded to turn on their computer and run the Windows Event Viewer to perform bogus diagnostics before being asked to install one of a range of remote desktop support tools.
+This type of application gives the scammers complete remote control over the victim’s PC, at which point they are free to steal data, install malware and, in some cases, engineer the user into logging into online banking or transferring money.
+A popular choice with the fraudsters since at least 2015 has been TeamViewer, so much so that on March 8, TalkTalk abruptly started blocking the application from functioning on its network in a desperate effort to stem a tide of abuse customers had started complaining about.
+TeamViewer’s block was removed on Thursday after complaints by the company, but that didn’t stop TalkTalk  from quietly blocking equivalents such as AnyDesk, whose users started noticing unexpected connection issues around the same time.
+Tech support fraud, or “vishing”, has been around for years, so is there much new to be worried about here?
+The unsettling aspect of the TalkTalk attacks is that the fraudsters allegedly accessed stolen data, which means they immediately sounded more convincing to their victims.
+If confirmed, this means that fraudsters have been able to synthesise old-fashioned tech support social engineering with data breach cybercrime to create something novel and perhaps unstoppable.
+It also seems to be easy to abuse remote support applications, which have flourished on the back of untraceable freemium accounts.
+It’s not clear how these companies detect misuse but clearly more needs to be done.
+</text>

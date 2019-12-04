@@ -1,0 +1,16 @@
+<title> Microsoft fixes 62 security flaws on Patch Tuesday and re-releases Windows 10 version 1809 and Windows Server 2019  </title>
+<source> https://hub.packtpub.com/microsoft-fixes-62-security-flaws-on-patch-tuesday-and-re-releases-windows-10-version-1809-and-windows-server-2019/ </source>
+<date> 2018_11_14 </date>
+<text>
+Yesterday, on Microsoft’s Patch Tuesday the company released its monthly security patches that fixed 62 security flaws. These fixes also included a fix for a zero-day vulnerability that was under active exploitation before these patches were made available. Microsoft also announced the re-release of its Windows 10 version 1809 and Windows Server 2019.
+Microsoft credited Kaspersky Lab researchers for discovering this zero-day, which is also known as CVE-2018-8589 and impacts the Windows Win32k component. A Kaspersky spokesperson told ZDNet, “they discovered the zero-day being exploited by multiple cyber-espionage groups (APTs).” The zero-day had been used to elevate privileges on 32-bit Windows 7 versions.
+This is the second Windows elevation of privilege zero-day patched by Microsoft discovered by Kaspersky researchers. Last month, Microsoft patched CVE-2018-8453, another zero-day that had been used by a state-backed cyber-espionage group known as FruityArmor.
+However, in this month’s Patch Tuesday, Microsoft has not patched a zero-day that is affecting the Windows Data Sharing Service (dssvc.dll). This zero-day was disclosed on Twitter at the end of October.
+According to ZDNet, “Microsoft has published this month a security advisory to instruct users on how to properly configure BitLocker when used together with solid-state drives (SSDs).”
+As reported by Microsoft, the Windows 10 October 2018 update caused user’s data loss post updating. Due to this, the company decided to pause the update. However, yesterday, Microsoft announced that it is re-releasing Windows 10 version 1809.
+John Cable, the director of Program Management for Windows Servicing and Delivery at Microsoft said, “the data-destroying bug that triggered that unprecedented decision, as well as other quality issues that emerged during the unscheduled hiatus, have been thoroughly investigated and resolved.”
+Microsoft also announced the re-release of Windows Server 2019, which was affected by the same issue. According to ZDNet, “The first step in the re-release is to restore the installation files to its Windows 10 Download page so that “seekers” (the Microsoft term for advanced users who go out of their way to install a new Windows version) can use the ISO files to upgrade PCs running older Windows 10 versions.”
+Michael Fortin, Windows Corporate Vice President, in a blog post, offered some context behind the recent issues and announced changes to the way the company approaches communications and also the transparency around their process. Per Fortin, “We obsess over these metrics as we strive to improve product quality, comparing current quality levels across a variety of metrics to historical trends and digging into any anomaly.”
+To know more about this in detail, visit Microsoft’s official blog post. 
+</text>
+

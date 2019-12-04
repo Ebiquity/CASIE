@@ -1,0 +1,7 @@
+<title>Rapid7 Finds Security Vulnerability In Ecommerce Plugin, Yopify - Information Security Buzz</title>
+<source> http://www.informationsecuritybuzz.com/news/rapid7-finds-security-vulnerability-ecommerce-plugin-yopify/ </source>
+<date> 2017_06_02 </date>
+<text>
+Rapid7 disclosed a found vulnerability in Yopify, an ecommerce notification plugin utilised by a number of websites including Shopify, that indirectly leaks the first name, last initial, city and purchase data of recent online shoppers – all without user authorisation. The various plugin sites show over 300 reviews of Yopify, which suggests that the number of exploitable sites is at least in the hundreds, and perhaps thousands.
+While seemingly harmless at first glance, this personal shopper data can be used by hackers to infer parts of customers’ identities making them vulnerable to personal information breaches, blackmail and even violence.
+</text>

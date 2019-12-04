@@ -1,0 +1,14 @@
+<title> Two vulnerabilities patched in iOS 12.1.4 were exploited by hackers, Google researcher says  </title>
+<source> https://appleinsider.com/articles/19/02/07/two-vulnerabilities-patched-in-ios-1214-were-exploited-by-hackers-google-researcher-says </source>
+<date> 2019_02_07 </date>
+<text>
+A pair of iOS bugs identified as resolved by Apple in its latest iOS 12.1.4 release were successfully exploited by hackers, according to a Google researcher who shared details of the zero-day vulnerabilities on Thursday.
+Apple's latest iOS 12.1.4 release, issued earlier today, contains fixes for Foundation and IOKit flaws that, according to security researcher Ben Hawkes, were used to hack devices in the wild.
+As noted by ZDNet, Hawkes, leader of Google's Project Zero security team, shared the revelation on Twitter late Thursday, saying the iOS bugs were leveraged as zero-day vulnerabilities.
+How, exactly, the vulnerabilities were exploited and by whom is unknown.
+Both bugs were detailed in Apple documentation detailing security changes delivered with the iOS 12.1.4 package.
+Logged with the identifier CVE-2019-7286, the Foundation flaw involves a memory corruption issue that could allow an app to gain elevated privileges in iPhone 5s and later, iPad Air and later, and iPod touch 6th generation. An anonymous researcher, Clement Lecigne of Google Threat Analysis Group, Ian Beer of Google Project Zero and Samuel Grob of Google Project Zero were credited with finding the flaw.
+The second bug, identified as CVE-2019-7287, also involves a memory corruption, but instead of granting elevated privileges it allows an app to executive code with kernel privileges on iPhone 5s and later, iPad Air and later, and iPod touch 6th generation. The same researchers were credited with the find.
+Apple released iOS 12.1.4 alongside a supplemental update to macOS Mojave to address the widely publicized FaceTime flaw that allowed interlopers to eavesdrop on Group FaceTime calls. The update also patched a Live Photos in FaceTime bug that was discovered after Apple conducted a "thorough security audit" of the service. Details of the Live Photos vulnerability have yet to be made public. 
+</text>
+

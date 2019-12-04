@@ -1,0 +1,27 @@
+<title>What You Need To Know About The iMessage Security Flaw</title>
+<source> http://www.pandasecurity.com/mediacenter/technology/need-know-imessage-security-flaw/ </source>
+<date> 2017_01_23 </date>
+<text>
+With everything that’s gone down in 2016 it’s easy to forget Tim Cook’s and Apple’s battle with the FBI over data encryption laws.
+Apple took a strong stance though, and other tech giants followed suite leading to a victory of sorts for (the little guy in) online privacy.
+In this era of web exposure, it was a step in the right direction for those who feel our online identities are increasingly vulnerable on the web.
+All of this stands for little though when a security flaw in your operating system allows carefully encrypted messages to be effectively decrypted offline.
+That’s what happened to Apple with its iOS 9.2 operating system.
+Though the patches that ensued largely fixed the problem, the whole issue has understandably left iOS users with questions.
+What really happened and are we at immediate risk?
+A paper released in March by researchers at John Hopkins University exposed weaknesses in Apple’s iMessage encryption protocol.
+It was found that a determined hacker could intercept the encrypted messages between two iPhones and reveal the 64-digit key used to decrypt the messages.
+As iMessage doesn’t use a Message Authentication Code (MAC) or authenticated encryption scheme, it’s possible for the raw encryption stream, or “ciphertext” to be tampered with.
+iMessage instead, uses an ECDSA signature which simulates the functionality.
+It’s still no easy feat exploiting the security flaw detailed by the researchers.
+The attacker would ultimately have to predict or know parts of the message they are decrypting in order to substitute these parts in the ciphertext.
+Knowing whether the substitution has been successful though, is a whole other process which may only be possible with attachment messages.
+The full details of the security flaw, and the complex way it can be exploited are detailed in the John Hopkins paper.
+The paper includes the recommendation that, in the long run, “Apple should replace the entirety of iMessage with a messaging system that has been properly designed and formally verified”.
+One thing that should be made clear is that these weaknesses were exposed as a result of months of investigation by an expert team of cryptologists.
+The type of hacker that would take advantage of these weaknesses would undeniably be a sophisticated attacker.
+That of course doesn’t mean that Apple shouldn’t take great measures to eradicate this vulnerability in their system.
+Your messages, though, are not immediately at risk of being decrypted, and much less if you’ve installed the patches that came with iOS 9.3 and OS X 10.11.4 (though they don’t completely fix the problem).
+Tellingly, the flaws can’t be used to exploit numerous devices at the same time.
+As already mentioned, the process that was exposed by the John Hopskins paper is incredibly complex and relies on various steps that are by no means easy to complete successfully.
+</text>

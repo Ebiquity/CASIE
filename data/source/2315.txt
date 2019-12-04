@@ -1,0 +1,11 @@
+<title>WCry ransomware worm’s Bitcoin take tops $70k as its spread continues | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/05/wcry-ransomware-worms-bitcoin-take-tops-70k-as-its-spread-continues/ </source>
+<date> 2017_05_17 </date>
+<text>
+WCry, the National Security Agency exploit-powered ransomware worm that began spreading worldwide on Friday, had reportedly affected hundreds of thousands of computers before the weekend, but the malware had only brought in about $20,000 in ransom payments. However, as the world returned to the office on Monday, those payments have been rapidly mounting, based on tracking data for the three Bitcoin wallets tied by researchers to the malware. As of noon Eastern Time on Monday, payments had reached an estimated $71,000 since May 12. So far, 263 payments have been made to the three wallets linked to the code in the malware.
+The payment history for each wallet shows individual transactions ranging mostly between 0.16 and 0.34 Bitcoin (approximately $300 and $600, respectively), with the number of larger payments increasing over time. Different ransom amounts have been presented to victims, and the price of Bitcoin has climbed dramatically over the past week, causing some variation in the payment sizes.
+According to researchers at Symantec Security Response, tracking ransom transactions would have been much more difficult if not for a bug in code that was supposed to create an individual bitcoin wallet for each victim:
+#WannaCry has code to provide unique bitcoin address for each victim but defaults to hardcoded addresses as a result of race condition bug
+— Security Response (@threatintel) May 16, 2017
+Because the code failed, it defaulted over the three preset wallets. This, along with the "killswitch" code that was left in the initial wave of WCry malware, may be an indication that the malware wasn't yet fully tested when it was launched.
+</text>

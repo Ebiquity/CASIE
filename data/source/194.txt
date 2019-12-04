@@ -1,0 +1,14 @@
+<title>Why the "WhatsApp-backdoor" is not a WhatsApp-backdoor - slashcrypto's page</title>
+<source> https://slashcrypto.org/2017/01/13/WhatsApp_backdoor/ </source>
+<date> 2017_01_13 </date>
+<text>
+A researcher discovered, that WhatsApp (or Facebook) could force the WhatsApp mobile client to generate new encryption keys.
+Due to this, WhatsApp would be able to intercept the key exchange and - of course - would be able to intercept the messages.
+This is how a man-in-the-middle attack works and it only works when both parties - which are communicating with each other - do not verify the fingerprints of the exchanged keys.
+Signal and WhatsApp are using a concept called “TOFU” or “Trust on first use”.
+This means, that when a key is exchanged, this key is trusted as long as the key does not change.
+Signal and WhatsApp have different default settings what happens, when the key-material of a contact changes:
+WhatsApp just notifies the user when key material changes.
+Signal blocks outgoing messages and does not send new messages to a user where the key material has changed.
+A Signal user has to manually verify the new key by default (in this case, a user should verify the key material in person by scanning the QR code of the fingerprint).
+</text>

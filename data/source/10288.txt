@@ -1,0 +1,25 @@
+<title> Severe vulnerability exposes WordPress websites to attack </title>
+<source> https://www.zdnet.com/article/wordpress-vulnerability-affects-a-third-of-most-popular-websites-online/ </source>
+<date> 2018_10_18 </date>
+<text>
+A severe WordPress vulnerability which has been left a year without being patched has the potential to disrupt countless websites running the CMS, researchers claim.
+At the BSides technical cybersecurity conference in Manchester on Thursday, Secarma researcher Sam Thomas said the bug permits attackers to exploit the WordPress PHP framework, resulting in a full system compromise.
+If the domain permits the upload of files, such as image formats, attackers can upload a crafted thumbnail file in order to trigger a file operation through the "phar://" stream wrapper.
+In turn, the exploit triggers eXternal Entity (XXE -- XML) and Server Side Request Forgery (SSRF) flaws which cause unserialization in the platform's code. While these flaws may only originally result in information disclosure and may be low risk, they can act as a pathway to a more serious remote code execution attack.
+The security researcher says the core vulnerability, which is yet to receive a CVE number, is within the wp_get_attachment_thumb_file function in /wpincludes/post.php and when attackers gain control of a parameter used in the "file_exists" call," the bug can be triggered.
+Unserialization occurs when serialized variables are converted back into PHP values. When autoloading is in place, this can result in code being loaded and executed, an avenue attackers may exploit in order to compromise PHP-based frameworks.
+"Unserialization of attacker-controlled data is a known critical vulnerability, potentially resulting in the execution of malicious code," the company says.
+The issue of unserialization was first uncovered back in 2009, and since then, vulnerabilities have been recognized in which the integrity of PHP systems can be compromised, such as CVE-2017-12934, CVE-2017-12933, and CVE-2017- 12932.
+The WordPress content management system (CMS) is used by millions of webmasters to manage domains, which means the vulnerability potentially has a vast victim pool should the flaw being exploited in the wild.
+"I've highlighted that the unserialization is exposed to a lot of vulnerabilities that might have previously been considered quite low-risk," Thomas explainde. "Issues which they might have thought were fixed with a configuration change or had been considered quite minor previously might need to be reevaluated in the light of the attacks I demonstrated."
+According to Secarma, the CMS provider was made aware of the security issue in February 2017, but "is yet to take action."
+TechRepublic: The need for speed: Why you should optimize your CMS
+Technical details have been provided in a white paper (.PDF).
+"This research continues a worrying recent trend, in demonstrating that object (un)serialization is an integral part of several modern languages," Thomas said. "We must constantly be aware of the security impact of such mechanisms being exposed to attackers."
+No reports have been received which suggest the exploit is being actively used in the wild.
+The vulnerability was originally reported through the WordPress HackerOne bug bounty program last year. The issue was confirmed after several days and Thomas was credited for his findings.
+However, a Secarma spokesperson told ZDNet that while there was "some attempt to fix the issue" in May 2017, this did not address the problem.
+"Communication then went dead for a number of months and has only recently begun again," the spokesperson added.
+ZDNet has reached out to WordPress and will update if we hear back.
+</text>
+

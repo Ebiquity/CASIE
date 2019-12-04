@@ -1,0 +1,14 @@
+<title>Ugly Password Gaffe Plagues Cryptkeeper Encryption App  | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/ugly-password-gaffe-plagues-cryptkeeper-encryption-app/123485/ </source>
+<date> 2017_02_01 </date>
+<text>
+A longtime Debian developer has recommended that the Cryptkeeper Linux encryption app be removed from the distribution.
+The advice came after the disclosure of a bug where the app sets the universal password “p” to decrypt any directory created with the program.
+Simon McVittie, a programmer at Collabora, confirmed the findings of researcher Kirill Tkhai, who disclosed the bug Jan. 26.
+McVittie said he was able to reproduce the bug in the Stretch version (Debian 9, in testing), but not in the Jessie version (Debian 8).
+“I have recommended that the release team remove this package from stretch: it currently gives a false sense of security that is worse than not encrypting at all,” McVittie said in response to the original bug report.
+Francesco Namuri, another Debian developer, agreed the Cryptkeeper packages should be yanked from Debian.
+Tkhai’s advisory said Cryptkeeper version 0.9.5-5.1 is affected.
+The problem appears when Cryptkeeper calls encfs, a command line interface for the encrypted file system.
+Encfs simulates a ‘p’ keystroke but the uses it instead as a universal password.
+</text>

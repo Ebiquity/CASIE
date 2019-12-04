@@ -1,0 +1,16 @@
+<title> Thunderbird gets its EFAIL patch  </title>
+<source> https://www.theregister.co.uk/2018/07/05/thunderbird_52_9_fixes_efail_crytpo_bug/ </source>
+<date> 2018_07_05 </date>
+<text>
+Thunderbird has pushed code with fixes for a dozen security vulnerabilities – including the EFAIL encryption mess that emerged in May.
+The EFAIL-specific fixes address two errors in Thunderbird's handling of encrypted messages: CVE-2018-12372, in which an attacker can build S/MIME and PGP decryption oracles in HTML messages; and CVE-2018-12373, in which S/MIME plaintext can be leaked if a message is forwarded.
+EFAIL was announced with a much-criticised process. The discoverers emphasised the issue's exploitability to read messages encrypted with PGP and S/MIME – but the vulnerabilities were specific to client implementations.
+Thunderbird users will therefore welcome news that the client has joined the list of EFAIL-safe email tools.
+Thunderbird 52.9 also includes some critical-rated fixes. CVE-2018-12359 was a buffer overflow leading to a potentially exploitable crash: “A buffer overflow can occur when rendering canvas content while adjusting the height and width of the <canvas> element dynamically, causing data to be written outside of the currently computed boundaries.”
+The other, CVE-2018-12360, is a use-after-free, also with a potentially exploitable crash: “A use-after-free vulnerability can occur when deleting an input element during a mutation event handler triggered by focusing that element.”
+Security researcher Matt Nelson noticed that under Windows 10, users weren't getting warned when they were opening executable SettingContent-ms files (CVE-2018-12368).
+That bug meant “unsuspecting users unfamiliar with this new file type might run an unwanted executable. This also allows a WebExtension with the limited downloads.open permission to execute arbitrary code without user interaction on Windows 10 systems”.
+Thunderbird also inherited some memory safety bugs from the Firefox code base.
+The program's developers noted that many of the bugs aren't directly exploitable in the e-mail client (scripting is disabled when you're reading messages), but “are potentially risks in browser or browser-like contexts”.
+</text>
+

@@ -1,0 +1,17 @@
+<title> Big-game phishing: Lithuanian scammed US$100m from two big internet firms with fake email invoices, prosecutors say  </title>
+<source> https://www.scmp.com/news/world/united-states-canada/article/2081135/big-game-phishing-lithuanian-scammed-us100m-two-big </source>
+<date> 2017_03_22 </date>
+<text>
+US prosecutors have charged a Lithuanian man with engaging in an email fraud scheme in which he bilked two US-based companies out of more than US$100 million by posing as an Asian hardware vendor.
+Evaldas Rimasauskas, 48, was arrested late last week by Lithuanian authorities, Manhattan federal prosecutors said on Tuesday. Rimasauskas does not yet have legal counsel, a spokesman for the prosecutors said.
+The alleged scheme is an example of a growing type of fraud called “business email compromise”, in which fraudsters ask for money using emails targeted at companies that work with foreign suppliers or regularly make wire transfers. It is a variation on the common “phishing” scam, but on a massive scale.
+The FBI said last June that since October 2013, US and foreign victims have made 22,143 complaints about business email compromise scams involving requests for almost US$3.1 billion in transfers.
+In an indictment unsealed on Tuesday, prosecutors said that to carry out his scheme, which they said began around 2013 or earlier, Rimasauskas registered a company in Latvia with the same name as an Asian computer hardware manufacturer.
+He then sent emails to employees of the two unnamed victim companies, described as multinational internet firms, asking them to wire money that they actually owed to the Asian company to the sham Latvian company’s accounts, prosecutors said.
+The victim companies are described as a multinational technology company and a multinational social media company.
+After they wired money to Rimasauskas’s Latvian company, Rimasauskas quickly transferred the funds to different accounts around the world, including in Latvia, Cyprus, Slovakia, Lithuania, Hungary and Hong Kong, prosecutors said.
+In order to conceal his fraud from banks that handled the transfers, Rimasauskas forged invoices, contracts and letters purportedly signed by executives at the two victim companies, according to prosecutors.
+Rimasauskas is charged with wire fraud and money laundering, which each carry a maximum prison sentence of 20 years, and identify theft, which carries a mandatory minimum sentence of two years.
+Acting US Attorney Joon H. Kim said: “From half a world away, Evaldas Rimasauskas allegedly targeted multinational internet companies and tricked their agents and employees into wiring over US$100 million to overseas bank accounts under his control.
+“This case should serve as a wake-up call to all companies – even the most sophisticated – that they too can be victims of phishing attacks by cyber criminals.”
+</text>

@@ -1,0 +1,26 @@
+<title>Suspected NSA tool hackers dump more cyberweapons in farewell | CSO Online</title>
+<source> http://www.csoonline.com/article/3157454/security/suspected-nsa-tool-hackers-dump-more-cyberweapons-in-farewell.html </source>
+<date> 2017_01_13 </date>
+<text>
+On Thursday, the Shadow Brokers dumped them online after an attempt to sell these and other supposedly Windows and Unix hacking tools for bitcoin.
+The Shadow Brokers made news back in August when they dumped hacking tools for routers and firewall products that they claimed came from the Equation Group, a top cyberespionage team that some suspect works for the NSA.
+Those tools contained several previously unknown and valuable exploits, lending credibility to the hacking group's claims, according to security researchers.
+The Shadow Brokers' latest dump includes 61 files, many of which have never been seen by security firms before, said Jake Williams, founder of Rendition InfoSec, a security provider.
+He’s been examining the tools, and said it’ll take time to verify their capabilities.
+His initial view is that they’re designed for detection evasion.
+For instance, one of the tools is built to edit Windows event logs.
+Potentially, a hacker could use the tool to selectively delete notifications and alerts in the event logs, preventing the victim from realizing they’ve been breached, he said.
+“If you simply remove a record or two, then even an organization that is following the best security practices, presumably, wouldn’t notice the change,” he said.
+On Thursday, the Shadow Brokers said they released the Windows hacking tools for free because a Kaspersky Lab’s antivirus product could already flag them as harmful.
+The clandestine group previously tried to auction off a whole set of hacking tools for 1 million bitcoins or what was at the time US$584 million.
+But after several months, that auction only managed to generate 10 bitcoins.
+“Despite theories, it always being about bitcoins for TheShadowBrokers,” the group said in broken English in their supposed final message.
+However, Williams believes the Shadow Brokers are likely spies working for the Russian government.
+This latest dump was a message to the U.S, he said.
+In recent weeks, U.S. intelligence agencies have been claiming the Kremlin tried to influence the U.S. election.
+Based on those findings, President Barack Obama has already ordered sanctions against Russia and vowed covert action.
+“If they are Russian, this is a shot across the bow,” Williams said.
+It’s unclear how the Shadow Brokers managed to steal the hacking tools.
+The group has said their arsenal of supposed Linux and Windows-based hacking tools is still up for sale at 10,000 bitcoins.
+On Thursday, Microsoft said it's investigating this latest batch of hacking tools that have been released.
+</text>

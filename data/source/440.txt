@@ -1,0 +1,17 @@
+<title>The overlooked security threat in your office: printers - Security - iTnews</title>
+<source> https://www.itnews.com.au/news/the-overlooked-security-threat-in-your-office-printers-449280 </source>
+<date> 2017_01_31 </date>
+<text>
+Commonly used office printers and multi-function devices can be exploited to leak information and execute code, presenting multiple attack vectors that are often overlooked, a security researcher has found.
+Jens Müller from the Ruhr-Universität Bochum in Germany published multiple advisories on vulnerabilities that he had discovered as part of his Master's degree thesis on the security of printers.
+The vulnerabilites stem from vendors not separating page description languages such as PostScript and PJL/PCL used to generate the output from printer control.
+"Potentially harmful commands can be executed by anyone who has the right to print," Müller said.
+Müller outlined multiple attacks on his Hacking Printers wiki, ranging from accessing print jobs to credentials disclosure and bypassing device security, and included proofs of concept.
+HP LaserJet 1200, 4200N and 4250N as well as Dell 3130cn and Samsung Multipress 6345N have a vulnerable line printer daemon (LPD) service that cannot handle usernames with 150 or more characters.
+Sending a long username to the LPD service on the above devices crashes the printer, requiring manual restart to bring it back up.
+Müller said with correct shellcode and return address, the vulnerability could be used for remote code execution.
+More printers than the above are likely to be vulnerable, he said.
+It is even possible to launch denial of service attacks against printers that support PJL, and permanently damage the non-volatile random access memory (NVRAM) that is used to persistently store settings for the devices, Müller found.
+He tested the NVRAM destruction attack on printers from Brother, Konica Minolta, Lexmark, Dell and HP, and verified that they are vulnerable.
+Printers can be attacked via networks or USB interfaces.
+</text>

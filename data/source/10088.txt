@@ -1,0 +1,19 @@
+<title> With Ransomware, It’s Pay and Embolden Perpetrators, or Lose Precious Data  </title>
+<source> https://www.nytimes.com/2017/05/17/technology/bitcoin-ransomware-pay-lose-data.html </source>
+<date> 2017_05_17 </date>
+<text>
+Robert Gren was working from home on Friday when, all of a sudden, his laptop stopped working.
+What he initially thought was just a kink in his computer’s software was in fact part of a global ransomware attack that has affected more than 200,000 computers and caused untold havoc from China to Britain.
+Now, Mr. Gren and the thousands of other victims worldwide face an agonizing choice: either hand over the ransom — a figure that has climbed to $600 for each affected machine — by a deadline this Friday, or potentially lose their digital information, including personal photos, hospital patient records and other priceless data, forever.
+“I’m pretty devastated,” said Mr. Gren, 32, a manager of an online entertainment business in Krakow, Poland, who has spent almost all of his waking hours since Friday looking for ways to reclaim his digital data. “I’ve lost private files that I have no other way of recovering. For me, the damage has been huge.”
+That decision has become even more difficult as cybersecurity experts and law enforcement officials have repeatedly warned people against paying the ransom ahead of this week’s deadline.
+Aside from dissuading victims from handing over money that may help fund further such attacks, they caution that it is not guaranteed the attackers will return control of people’s computers even if they pay the assailants in bitcoin, a digital currency favored in such ransomware attacks that can be difficult to trace.
+Officials also note that the attackers, who have yet to been named, have provided only three bitcoin addresses — similar to a traditional bank routing number — for all global victims to deposit the ransom, so it may prove difficult to know who has paid the digital fees.
+This haphazard planning has led many victims to hold off paying, at least until they can guarantee they will get their data back.
+So far, roughly $80,000 has been deposited into the bitcoin addresses linked to the attack, according to Elliptic, a company that tracks online financial transactions involving virtual currencies.
+F-Secure, a Finnish cybersecurity firm, has confirmed that some of the 200 individuals that it had identified, who had paid the ransom, had successfully had their files decrypted. Yet that represented a small fraction of those affected, and the company said it still remained unlikely that people would regain control of their computers if they paid the online fee.
+The tally of ransom payments may rise ahead of Friday’s deadline, but cybersecurity experts say the current numbers — both total ransom money paid and machines decrypted — are far short of early estimates forecasting that the digital attack may eventually cost victims hundreds of millions of dollars in combined ransom fees.
+“I predict this may be an epic failure,” said Kim Peretti, a former senior litigator in the Department of Justice’s computer crime and intellectual property division who now is co-chairwoman of the cybersecurity preparedness and response team at Alston & Bird, an international law firm. “Because of the publicity of this attack and the public’s awareness of people potentially not getting their files back, the figures aren’t as high as people had first thought.”
+For victims of such attacks, the potential loss of personal or business files can be traumatic. In typical ransomware cases, including the most recent hack, assailants send an encrypted email to potential targets. The message includes a malware attachment that takes over their machines if opened. The attackers then demand payment before returning control of the computers, often through money paid into bitcoin or other largely untraceable online currencies.
+</text>
+

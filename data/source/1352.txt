@@ -1,0 +1,9 @@
+<title>Phishers offer WoW players free in-game pets - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/29/wow-phishing-email/ </source>
+<date> 2017_03_29 </date>
+<text>
+Avid World of Warcraft players are being targeted with phishing emails seemingly coming from Blizzard Entertainment, the video game developer behind the popular multiplayer role-playing game, warns Malwarebytes’ Chris Boyd.
+The email is supposedly a notification that a friend has purchased an in-game pet for the email recipient, and the latter can claim said pet by logging into Battle.net, Blizzards online gaming platform.
+The (long) URL of the blocked phishing site mentions Battle.net, “password verify”, “login”, and “account support”, in the attempt to convince potential victims of the site’s legitimacy.
+Still, it’s a piece of cake for the scammers to set up a new one and simply change the link in the phishing email, so the threat is still there, and gamers should be wary.
+</text>

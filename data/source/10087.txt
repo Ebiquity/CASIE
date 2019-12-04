@@ -1,0 +1,18 @@
+<title> Ransomware demands now average about $1,000 because so many victims decide to pay up  </title>
+<source> https://www.cyberscoop.com/ransomware-demands-now-average-1077-many-people-deciding-pay/ </source>
+<date> 2017_04_26 </date>
+<text>
+The average ransomware attack yielded $1,077 last year, new research shows, representing a 266 percent spike from a year earlier.
+The reason for the landmark year for hackers? Many ransomware victims readily pay the price.
+The number of attacks, varieties of distinct malware and money lost ballooned as ransomware became one of the top tactics of attackers, according to new research from the security firm Symantec.
+Some of the most high-profile ransomware incidents of the last year include San Francisco’s Muni getting hit, Washington D.C.’s police department being breached just before inauguration and a Los Angeles college paying a $28,000 ransom.
+Hoping to turn the tide against the billion-dollar ransomware industry, last year the FBI urged businesses to alert authorities and not pay up. Instead, most keep attacks a secret, paying off hackers 70 percent of the time. That behavior only increases the sweet spot for demands, as criminals seek the highest possible ransom while trying to avoid the attention of law enforcement.
+Economists say hackers who apply more sophisticated pricing techniques “could lead to dramatic increases in profits at relatively little costs.”
+The highest demand seen in public during the last was $28,730 from MIRCOP ransomware. It’s not clear if anyone actually paid off those specific hackers.
+In private, however, higher ransoms are finding success when hackers successfully target the right companies. An IBM Security study from December 2016 found that over half of the businesses they surveyed said they had already paid over $10,000 in ransom while 20 percent said they’d paid over $40,000.
+Globally, 34 percent of victims end up paying ransom. American victims, however, pay at a rate of 64 percent, according to Norton.
+“That’s a phenomenal number,” Symantec’s Kevin Haley told CyberScoop. “I always compare it to direct mail where if you get a 1 percent rate you’re doing really good. These guys get a 34 percent return rate. Extortion really pays.”
+The twist of the knife comes when only 47 percent of victims who pay the ransom actually recover any files.
+“If so many people are willing to pay the ransom, there’s no reason for the price to come down,” Haley said. “In fact, it’s only going to go up. We may see that average go even higher until that price ceiling is discovered when so many people aren’t willing to pay that much. But we haven’t hit it yet.”
+</text>
+

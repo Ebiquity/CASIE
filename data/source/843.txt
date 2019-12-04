@@ -1,0 +1,17 @@
+<title>Smart teddy bear maker faces scrutiny over data breach response | CSO Online</title>
+<source> http://www.csoonline.com/article/3176024/security/smart-teddy-bear-maker-faces-scrutiny-over-data-breach-response.html </source>
+<date> 2017_03_01 </date>
+<text>
+That’s a key question swirling around Spiral Toys, a company behind a line of smart stuffed animals that security researchers worry can be easily hacked.
+On Tuesday, Spiral Toys said the breach, which affects 800,000 user accounts, only came to its attention last week on Feb 22.
+One researcher named Victor Gevers began contacting the toymaker about the problem in late December, when he noticed that a company MongoDB database storing customer information was publicly exposed.
+Gevers has even documented his efforts to contact Spiral Toys, which involved email, sending a message to its CEO over a LinkedIn invite, and working with a journalist from Vice Media to try and warn the company about the breach.
+Despite those attempts, he never received a response.
+The breach only managed to grab headlines on Monday when another security researcher named Troy Hunt blogged about it.
+The toys in question, which are sold under the CloudPets brand, can allow parents and their children to send voice messages through the stuffed animals over the internet.
+However, Hunt found evidence that hackers looted the exposed MongoDB database that stored the toys' customer login information.
+“Anyone with the data could crack a large number of passwords, log on to accounts and pull down the voice recordings,” he said.
+Its CEO Mark Meyers said on Tuesday that the company has checked its email inboxes, but didn’t find any messages from security researchers warning about the breach.
+It appears that several hackers have looted the exposed database from Spiral Toys, according to Hunt.
+Although the passwords exposed in the breach are hashed, cracking them can be easy, because many of them were created with guessable terms such as 123456, qwerty and cloudpets, he said.
+</text>

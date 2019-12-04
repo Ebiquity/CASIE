@@ -1,0 +1,43 @@
+<title>WhatsApp Says 'Backdoor' Claim Bogus | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/whatsapp-says-backdoor-claim-bogus/123072/ </source>
+<date> 2017_01_17 </date>
+<text>
+Claims of a backdoor in WhatsApp that could be used for third-party snooping were shot down by WhatsApp, which called the allegations false.
+On Friday, news outlet The Guardian reported that a cryptography researcher had discovered a backdoor in WhatsApp’s messaging service that could “allow Facebook and others to intercept and read encrypted messages”.
+In a short statement, WhatsApp said the claim was false:
+“WhatsApp does not give governments a ‘backdoor’ into its systems and would fight any government request to create a backdoor.
+The design decision referenced in The Guardian story prevents millions of messages from being lost, and WhatsApp offers people security notifications to alert them to potential security risks.
+WhatsApp published a technical white paper on its encryption design, and has been transparent about the government requests it receives, publishing data about those requests in the Facebook Government Requests Report”.
+The Guardian report cited research by Tobias Boelter, a cryptography and security researcher at the University of California, Berkeley.
+Last April, Boelter disclosed his findings to WhatsApp and published a report on what he posited could be either a backdoor or a flaw in WhatsApp’s messaging platform.
+Boelter later told The Guardian the “backdoor” gave WhatsApp the ability to read messages because of the way the company had implemented its end-to-end encryption protocol.
+Reporters quoted Kirstie Ball, co-director and founder of the Centre for Research into Information, Surveillance and Privacy who verified Boelter’s research and stated the “backdoor” made WhatsApp an “an extremely insecure platform”.
+The Guardian explains Boelter’s alleged backdoor like this:
+WhatsApp’s end-to-end encryption relies on the generation of unique security keys, using the acclaimed Signal protocol, developed by Open Whisper Systems, that are traded and verified between users to guarantee communications are secure and cannot be intercepted by a middleman.
+However, WhatsApp has the ability to force the generation of new encryption keys for offline users, unbeknown to the sender and recipient of the messages, and to make the sender re-encrypt messages with new keys and send them again for any messages that have not been marked as delivered.
+The recipient is not made aware of this change in encryption, while the sender is only notified if they have opted-in to encryption warnings in settings, and only after the messages have been re-sent.
+This re-encryption and rebroadcasting effectively allows WhatsApp to intercept and read users’ messages.
+WhatsApp, acquired by Facebook in 2014, supports end-to-end encryption and is considered a secure messaging platform based on the highly regarded Signal protocol, developed by Open Whisper Systems.
+The app boasts one billion users and has been endorsed by the likes of Edward Snowden for keeping private messages private.
+Claims of a WhatsApp backdoor have been staunchly dismissed by a number security researchers and cryptography experts.
+Moxie Marlinspike, the founder of Open Whisper Systems also agrees with WhatsApp telling Threatpost, “The Guardian reporting is inaccurate, there is no ‘backdoor’ in WhatsApp encryption.
+Unfortunately it appears that they did not speak with any cryptography experts in order to verify their claims”.
+Marlinspike also posted a more technical explanation behind what Boelter found.
+In a nutshell, he explains what Boelter says is a backdoor is actually something all public key cryptography system have to deal with.
+“WhatsApp gives users the option to be notified when those changes occur,” he wrote.
+Frederic Jacobs, a key developer of the private messaging app Signal, called the claims of a backdoor “ridiculous”.
+In a tweet he said “It’s ridiculous that this is presented as a backdoor.
+If you don’t verify keys, authenticity of keys is not guaranteed.
+It's ridiculous that this is presented as a backdoor.
+If you don't verify keys, authenticity of keys is not guaranteed.
+— Frederic Jacobs (@FredericJacobs) January 13, 2017
+Jacobs and other security researchers explain the “backdoor” is a feature designed to allow WhatsApp users who obtain a new phone to reinstall the WhatsApp app and continue a preexisting conversation thread.
+There is a renegotiation of encryption keys allows for the continuity of WhatsApp conversations.
+The WhatsApp sender is only notified of the change in encryption if they have opted-in to an encryption warning setting within settings.
+Marlinspike and other security experts say snooping on WhatsApp’s re-encrypting of messages by Facebook or any other agency would be extremely difficult and improbable.
+In post to his personal site Friday he doubled-down on his assertion that what he found was a flaw.
+“WhatsApp has stated recently that this is not a bug, it is a feature.
+Because now senders don’t have to press an extra ‘OK’ button in the rare case they sent a message, the receiver is offline and has a new phone when coming back online,” he said.
+I agree that it’s a flaw, but calling it a backdoor is hyperbole.
+Remember, Moxie removed SMS encryption from his previous app TextSecure because of the same reasons that the current flaw exists: it is difficult to have secure conversations with people wtih changing phones, changing apps, etc.
+</text>

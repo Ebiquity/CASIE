@@ -1,0 +1,18 @@
+<title> Ransomware Recap: Tougher Tactics and Evasion Techniques </title>
+<source> https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-recap-tougher-tactics-and-evasion-techniques?utm_source=trendlabs-social&utm_medium=socal&utm_campaign=04-2017-ransomware-recap-tougher-tactics </source>
+<date> 2017_04_11 </date>
+<text>
+Ransomware authors are nothing if not persistent. They continue to try new evasion techniques, new programming languages, new naming conventions, and even more forceful demand tactics to pressure victims into paying.
+One new technique involves packaging ransomware in RarSFX executable files. Last week we talked about a multi-component variant of Cerber (detected as RANSOM_CERBER) found packaged in a SFX file, a feature that helps it evade machine learning. This week, we saw CrptXXX (detected by Trend Micro as RANSOM_CRPTX.A) also in a SFX package—most likely for the same reason. This particular ransomware cannot execute fully without the correct parameters and other components inside its package.
+If CrptXXX successfully infects a system, the victim receives a relatively straightforward ransom note. They are instructed to go to a specific .onion site and input their unique ID, then follow the payment instructions.
+
+French Locker (detected by Trend Micro as RANSOM_LELEOCK.A) is a typical ransomware made by developers who want to get paid quickly. This ransomware displays a 10 minute timer and deletes one of the victim's encrypted files for every 10 minutes that passes.
+It arrives through malicious sites or is dropped by other malware, and victims can choose between English or a French version. Initially, the ransomware will install an autostart registry for its dropped copy, which triggers its encryption routine once the machine reboots. Encrypted files are appended with the .lelele extension.
+
+SAMSAM has been updated with a new variant (detected by Trend Micro as RANSOM_SAMAS.I).The previous version made waves in 2016 after it targeted vulnerable hospital servers. Traditionally, ransomware spreads through social engineering, malvertisments, or spam—SAMSAM set itself apart when it targeted the network infrastructure of certain healthcare facilities. The threat actors behind this ransomware gain access to the administrative rights of a network and pinpoint specific target hosts. They deploy to a sizeable portion of the victim’s network, causing essential systems and services to shut down, leaving the target facility little choice but to pay the ransom.
+This is one of the latest variants of SAMSAM, though this ransomware family constantly changes its behavior when its threat indicators or IOCs are made public.
+
+The first ransomware to be written in Google’s Go programming language was detected late last year, and now we have another to add to the list. Apart from the programming language used, BrainCrypt (detected by Trend Micro as RANSOM_BRAINCRYPT) is a relatively standard ransomware. There are no specific details in the ransom note, just simple instructions explaining the situation and telling the victim to email the threat actors.
+The continuing evolution of ransomware shows how cybercriminals quick to adopt the latest technology and techniques to make their malware more effective. Because of this, all users should stay vigilant and updated on the latest threat developments.
+</text>
+

@@ -1,0 +1,27 @@
+<title>Google Docs phishing attack underscores OAuth security risks | ITworld</title>
+<source> http://www.itworld.com/article/3194815/security/google-docs-phishing-attack-underscores-oauth-security-risks.html </source>
+<date> 2017_05_05 </date>
+<text>
+Google has stopped Wednesday’s clever email phishing scheme, but the attack may very well make a comeback.
+One security researcher has already managed to replicate it, even as Google is trying to protect users from such attacks.
+“It looks exactly like the original spoof,” said Matt Austin, director of security research at Contrast Security.
+The phishing scheme -- which may have circulated to 1 million Gmail users -- is particularly effective because it fooled users with a dummy app that looked like Google Docs.
+Recipients who received the email were invited to click a blue box that said “Open in Docs.” Those who did were brought to an actual Google account page that asks them to handover Gmail access to the dummy app.
+While fooling users with spoofed emails is nothing new, Wednesday’s attack involved an actual third-party app made with real Google processes. The company’s developer platform can enable anyone to create web-based apps.
+In this case, the culprit chose to name the app “Google Docs” in an effort to trick users.
+The search company has shut down the attack by removing the app. It’s also barred other developers from using “Google” in naming their third-party apps.
+More traditional phishing email schemes can strike by tricking users into giving up their login credentials. However, Wednesday’s attack takes a different approach and abuses what’s known as the OAuth protocol, a convenient way for internet accounts to link with third-party applications.
+Through OAuth, users don’t have to hand over any password information. They instead grant permission so that one third-party app can connect to their internet account, at say, Google, Facebook or Twitter.
+But like any technology, OAuth can be exploited. Back in 2011, one developer even warned that the protocol could be used in a phishing attack with apps that impersonate Google services.
+Nevertheless, OAuth has become a popular standard used across IT. CloudLock has found that over 276,000 apps use the protocol through services like Google, Facebook and Microsoft Office 365.
+For instance, the dummy Google Docs app was registered to a developer at eugene.pupov@gmail.com -- a red flag that the product wasn’t real.
+However, the dummy app still managed to fool users because Google’s own account permission page never plainly listed the developer’s information, unless the user clicks the page to find out, Parecki said.
+“I was surprised Google didn’t show much identifying information with these apps,” he said. “It’s a great example of what can go wrong.”
+Rather than hide those details, all of it should be shown to users, Parecki said.  
+Austin agreed, and said apps that ask for permission to Gmail should include a more blatant warning over what the user is handing over.
+“I’m not on the OAuth hate bandwagon yet. I do see it as valuable,” Austin said. “But there are some risks with it.”
+Fortunately, Google was able to quickly foil Wednesday’s attack, and is introducing “anti-abuse systems” to prevent it from happening again. Users who might have been affected can do a Google security checkup to review what apps are connected to their accounts.
+The company’s Gmail Android app is also introducing a new security feature to warn users about possible phishing attempts.  
+It's tempting to install apps and assume they're safe. But users and businesses need to be careful when linking accounts to third-party apps, which might be asking for more access than they need, Cloudlock's Kaya said. 
+"Hackers have a headstart exploiting this attack," she said. "All companies need to be thinking about this."
+</text>

@@ -1,0 +1,16 @@
+<title> Microsoft patches patch for Meltdown bug patch: Windows 7, Server 2008 rushed an emergency fix  </title>
+<source> https://www.theregister.co.uk/2018/03/29/microsoft_meltdown_out_of_band_patch/ </source>
+<date> 2018_03_29 </date>
+<text>
+Microsoft today issued an emergency security update to correct a security update it issued earlier this month to correct a security update it issued in January and February.
+In January and February, Redmond emitted fixes for Windows 7 and Server 2008 R2 machines to counter the Meltdown chip-level vulnerability in modern Intel x64 processors. Unfortunately, those patches blew a gaping hole in the operating systems: normal applications and logged-in users could now access and modify any part of physical RAM, and gain complete control over a box, with the updates installed.
+Rather than stop programs and non-administrators from exploiting Meltdown to extract passwords and other secrets from protected kernel memory, the fixes on Windows 7 and Server 2008 R2 instead granted full read-write privileges to system RAM.
+Roll on March, and Microsoft pushed out fixes on Patch Tuesday to correct those January and February updates to close the security vulnerability it accidentally opened.
+Except that March update didn't fully seal the deal: the bug remained in the kernel, and was exploitable by malicious software and users.
+
+ Total Meltdown
+Now, if you're using Windows 7 or Server 2008 R2 and have applied Microsoft's Meltdown patches, you'll want to grab and install today's out-of-band update for CVE-2018-1038.
+Swedish researcher Ulf Frisk discovered the January and February Meltdown mitigations for Win7 and Server 2008 R2 were broken, and went public with his findings once the March Patch Tuesday had kicked off. As it turns out, this month's updates did not fully fix things, and Microsoft has had to scramble to remedy what was now a zero-day vulnerability in Windows 7 and Server 2008.
+In other words, Microsoft has just had to put out a patch for a patch for a patch. Hardly inspiring stuff, but we suppose the old Microsoft adage remains true – never trust a Redmond product until version three at the earliest. On the other hand, writing kernel-level memory management code is an absolute bastard at times, so you have to afford the devs some sympathy.
+</text>
+

@@ -1,0 +1,28 @@
+<title>Danes targeted by malware spread through Dropbox | CSO Online</title>
+<source> http://www.csoonline.com/article/3179466/security/danes-targeted-by-malware-spread-through-dropbox.html </source>
+<date> 2017_03_10 </date>
+<text>
+According to a research report by AppRiver, the attack hit Denmark, Germany, and several surrounding Scandinavian countries on Wednesday morning.
+The attack was unusual in that it narrowly targeted a specific audience, said Troy Gill, security analyst at AppRiver.
+"Somehow, they found this language-based list of email addresses," he said.
+Dropbox is an attractive avenue for malware because it is a popular service, and because email providers are increasingly putting stringent limits on the kinds of files that can be sent as attachments.
+Each of the links in the malware was unique, and generated randomly, suggesting that the attackers used an automated script to create the Dropbox file shares.
+"There's a weakness there that they're exploiting," Gill said.
+"There's always a trade-off of convenience versus usability."
+The messages claimed to provide shipping details, and a fake invoice.
+But the file was actually a .zip archive that contained a JavaScript file which contained a Trojan dropper.
+The attackers continued to send out the emails for about 12 hours.
+However, Gill gave Dropbox credit for responding quickly.
+"I would say that after about an hour, we saw a lot of the links disabled," he said.
+"After two hours, I was hard press to find a link that wasn't disabled."
+Altogether, Gill estimated that the attackers had sent out hundreds of thousands, and possibly millions of messages.
+And since the messages arrived right at the start of the workday in Europe, it wouldn't have taken long for potential victims to open the emails and click on the links.
+The attackers just need a small window of opportunity, he said.
+In addition to using spam filters, anti-virus, and training employees to identify malicious emails, there are other things enterprises can do to protect against this particular threat vector.
+For example, Gill said, companies could decide not to allow Dropbox in their environment.
+"If you wanted to be aggressive, you could ban inbound Dropbox content links," he said.
+"And if you decided that your organization wasn't going to use it, you could easily make a change to your spam filter or your web filter to block access to Dropbox entirely."
+Dropbox does pose other potential security risks for enterprises as well, he added.
+"Giving your employees freedom to use it is a risky thing," he said.
+"Who knows what they'll put in it, either on purpose or by accident."
+</text>

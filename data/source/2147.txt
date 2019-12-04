@@ -1,0 +1,16 @@
+<title>Anti Public Combo List with Billions of Accounts Leaked</title>
+<source> https://www.hackread.com/anti-public-combo-list-with-billions-of-accounts-leaked/ </source>
+<date> 2017_05_08 </date>
+<text>
+There are so many data breaches these days that it’s almost impossible to keep a track of them. From billions of Yahoo accounts to millions of LinkedIn and MySpace accounts the whole thing is out of control.
+But then there are people dedicating time to track large-scale breaches. One of them is Troy Hunt from Australia whose running Have I been pwned (HIBP) platform and has recently discovered two different “combo lists” containing 593,427,119 and 457,962,538 = 1,051,389,657 user login credentials.
+According to Hunt blog post,
+While discussing the second list Hunt said that: 
+For now, Hunt has uploaded over 1 billion breached accounts on HIBP containing collections of email addresses and passwords from around the world, the authentication of which has been confirmed by Hunt himself. Although unconfirmed yet, it seems like the hackers, scammers, and cybercriminals developed these lists from various systems and previous large-scale data breaches including VerticalScope, MySpace, LinkedIn, Twitter, Dropbox, Yahoo, Tumblr and Adobe Systems etc.
+Hunt has also revealed, “75.78% of the leaked addresses were already in HIBP database.” This means the lists were defiantly developed with the help of previous data breaches. As a security journalist, I can confirm my personal email account is also on the list.
+1 billion new records in @haveibeenpwned from different unknown sources.Lot of people will be notified they're pwned https://t.co/qDkz7t3IbR
+— John Opdenakker (@j_opdenakker) May 5, 2017
+Meanwhile, we highly recommend visiting Hunt’s post here and his Have I been pwned (HIBP) platform to check whether your email is on the list. If it is, change its password right now and also use a password manager to get hold of a strong password. Furthermore, make sure you are not using the same password on other sites but if you are; make sure to change all passwords before it’s too late. 
+Remember, hackers, scammers, and cyber criminals can conduct identity theft scams, social engineering attacks and even steal your banking details using your personal data. 
+DDoS attacks are increasing, calculate the cost and probability of a DDoS attack on your business with this DDoS Downtime Cost Calculator.
+</text>

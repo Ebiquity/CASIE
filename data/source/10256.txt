@@ -1,0 +1,11 @@
+<title> New Git Submodule Vulnerability Patched  </title>
+<source>www.infoq.com/news/2018/10/git-submodule-vulnerability</source>
+<date> 2018_10_10 </date>
+<text>
+The Git community has disclosed a security vulnerability affecting the clone and submodule commands that could enable remote code execution when vulnerable machines access malicious repositories. The vulnerability, which has been assigned CVE–2018–17456 by Mitre, has been fixed in Git 2.19.1.
+To trigger the vulnerability, a malicious repository could forge a .gitmodules containing an URL starting with a dash. This would affect both git clone --recurse-submodules and git submodule update --recursive in that they would recursively pass the URL starting with a dash to a git clone or git submodule subprocess that would interpret the URL as a command option. This could lead to executing an arbitrary command on the local machine. This vulnerability is similar to CVE–2017–1000117, which also enabled an option-injection attack by forging ssh URLs starting with a dash that would be interpreted as an option by the ssh subprocess executed by git. No exploits are known at the moment.
+    We were also able to use the time to scan all repositories on GitHub for evidence of the attack being used in the wild.
+As shown in the PR fixing the vulnerability, submitted by @joernchen, the fix is quite trivial in itself. Yet, this discovery provided the opportunity for an overall audit of .gitmodules, which led to implementing stricter checks on both paths and URLs found inside of it.
+As mentioned, the fix for this vulnerability is included in Git 2.19.1. Additionally, it has been backported to versions 2.14.5, 2.15.3, 2.16.5, 2.17.2, and 2.18.1. Since git is integrated in GitHub projects such as GitHub Desktop and Atom, those have been patched as well, so you will be better off upgrading them as soon as possible.
+</text>
+

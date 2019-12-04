@@ -1,0 +1,18 @@
+<title> myGov scam offering tax refund out to steal credit card details and passwords </title>
+<source> https://www.abc.net.au/news/2018-07-18/mygov-scam-email-offers-tax-refund-steal-credit-cards/10008668 </source>
+<date> 2018_07_18 </date>
+<text>
+Scammers taking advantage of tax time are trying to trick Australians into handing over their personal details with the promise of a tax refund through a fake myGov form.
+Stay Safe Online issued a high alert for the latest scam on Wednesday.
+"It's tax time and the common scam email informing that you're eligible for a tax refund is doing the rounds again," the warning said.
+"Scammers have long used the promise of a tax refund to trick people into sharing their personal information or to download malware."
+The phishing email claims to come from myGov and has the subject line, "Important information regarding your account", as well as the myGov logo.
+It asks you to click on a link to claim your refund.
+The link leads to a fake tax refund claim form, asking for personal details such as email, password, and credit card details.
+"After you supply this information and click the continue button, you'll be automatically redirected to the myGov website. By then it's too late and the scammer has your details."
+Stay Safe Online said scammers can use that information to commit credit card fraud and identity theft.
+"The ATO and myGov will never send an email or SMS asking you to click on a link and provide login, personal or financial information, download a file or open an attachment."
+Earlier this month scammers used a cloned version of myGov website in an attempt to lure in victims with a phishing email.
+Australian Taxation Office assistant commissioner Kath Anderson said tax time was a popular time for scammers to prey on unsuspecting Australians, busily preparing their tax returns or even waiting on a refund.  
+</text>
+

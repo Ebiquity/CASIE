@@ -1,0 +1,17 @@
+<title>Lloyds cyber-attack details emerge - BBC News</title>
+<source> http://www.bbc.com/news/business-38715909 </source>
+<date> 2017_01_26 </date>
+<text>
+It is particularly worrying for banks that the disruption lasted three days.
+Lloyds revealed little at the time, despite a flood of Twitter complaints.
+But it has emerged that the National Cyber Security Centre is working with the bank on the attack.
+Despite speculation that a number of banks may have been targeted, it appears that the internet gang concentrated its fire on Lloyds.
+In the past, denial of service attacks have been perpetrated by customers with a grudge or by blackmailers, but there is no indication from Lloyds that a ransom demand was received.
+At the time, the bank was adamant that the "vast majority" of users were able to gain access to their accounts and move money around as normal.
+It's likely that systems engineers blocked all internet traffic from overseas locations where the attacks seemed to be coming from, halting the disruption at least temporarily before the attackers switched their activity elsewhere.
+In contrast to the hacking of Tesco Bank in November, in which £2.5m was taken, there is no indication that criminals got their hands on cash in Lloyds bank accounts.
+However, the new National Cyber Security Centre, part of GCHQ and the UK's authority on cyber-security, is understood to be working with Lloyds on security after the attack.
+Lloyds Banking Group issued the following statement: "We experienced intermittent service issues with internet banking between Wednesday morning and Friday afternoon the week before last and are sorry for any inconvenience caused.
+"We had a normal service in place for the vast majority of this period and only a small number of customers experienced problems.
+We will not speculate on the cause of these intermittent issues."
+</text>

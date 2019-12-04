@@ -1,0 +1,21 @@
+<title>Three Medical Data Breaches Expose 242,600 Patients' PHI </title>
+<source> http://www.esecurityplanet.com/network-security/three-medical-data-breaches-expose-242600-patients-phi.html </source>
+<date> 2017_01_24 </date>
+<text>
+The exposed data includes names, Social Security numbers, birthdates, contact details, medical record numbers and/or clinical information.
+On December 21, 2016, Children's Hospital Los Angeles learned that an unencrypted laptop containing patient data was stolen from the locked vehicle of a Children's Hospital Los Angeles Medical Group physician on October 18, 2016.
+The laptop may have held approximately 3,600 patients' names, birthdates, addresses, medical record numbers and some clinical information, SC Magazine reports.
+"We are taking action to prevent this type of thing in the future by enhancing the encryption levels of all laptops that physicians use in the provision of care for patients," the hospital stated in a notification letter [PDF] to those affected.
+Separately, Delaware Insurance Commissioner Trinidad Navarro recently announced that a security breach impacted Summit Reinsurance Services and BCS Financial Corporation, both of which are subcontractors of Highmark Blue Cross Blue Shield of Delaware (h/t Internet Health Management).
+On August 8, 2016, Summit discovered that a server containing customer data, including names, Social Security numbers, health insurance information, provider names and/or diagnosis and clinical information, was infected with ransomware.
+An investigation determined that the server was first accessed on March 12, 2016.
+The breach affects approximately 19,000 Highmark Blue Cross Blue Shield members.
+"I would like to ensure Delaware consumers that the Department of Insurance takes this matter seriously and is currently investigating how this occurred," Navarro said in a statement.
+While Summit sent notification letters to those affected, Navarro noted that many customers may have discarded the letter assuming it was a sales pitch, since they were customers of Highmark Blue Cross Blue Shield, not Summit.
+And CoPilot Provider Support Services recently announced that one of its databases used by healthcare professionals to determine whether treatments will be covered by insurance was accessed in October 2015, potentially exposing approximately 220,000 patients' names, genders, birthdates, addresses, phone numbers, health insurers, and in some cases Social Security numbers.
+It's not clear why it took the company more than a year to notify those affected.
+"We are taking steps to address the situation and to further protect against a similar incident in the future, including utilizing enhanced verification, enhanced encryption and implementing increased security audit activity," CoPilot said in a notification letter [PDF] to those affected.
+Last spring, a Ponemon Institute survey found that 79 percent of healthcare organizations experienced two or more data breaches in the past two years, and 45 percent experienced five or more breaches.
+Over the past two years, the survey found, the average cost of a data breach to a healthcare organization was more than $2.2 million.
+"In the last six years of conducting this study, it's clear that efforts to safeguard patient data are not improving," Ponemon Institute chairman and founder Dr. Larry Ponemon said at the time.
+</text>

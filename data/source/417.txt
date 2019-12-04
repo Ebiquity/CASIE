@@ -1,0 +1,21 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/ransomware-dc-cameras-offline-trump/ </source>
+<date> 2017_01_30 </date>
+<text>
+Two-thirds of police internet-connected CCTV cameras in Washington DC were forced offline in January ahead of the presidential inauguration after a ransomware attack.
+Officials told the Washington Post that 123 out of a network of 187 cameras were affected.
+The devices are apparently used run by the police to monitor public spaces.
+The attack targeted 70% of the storage systems on which camera data is recorded, leaving them out of action from 12 to 15 January, the report claimed.
+However, the issue was resolved by removing each device’s software and reinstalling at each site.
+There are said to have been at least two forms of ransomware on the system, although local officials have played down the seriousness of the attack.
+The ransomware was isolated to the CCTV network and didn’t affect police investigations or put public safety in jeopardy, according to the report.
+In related news, police in Texas have lost nearly eight years’ worth of digital evidence after refusing to pay a ransomware fine.
+The Cockerell Hill Police Department in south Dallas decided after speaking to the FBI not to pay the near $4000 ransom after discovering the malware in mid-December.
+The ransomware was introduced to the network via a spam email spoofed to imitate a department-issued address.
+A statement published by WFAA last week has the following:
+“This virus affected all Microsoft Office Suite documents, such as Word documents and Excel files.
+In addition, all body camera video, some in-car video, some in-house surveillance video, and some photographs that were stored on the server were corrupted and were lost.
+No information contained in any of those documents, videos, or photographs was extracted or transmitted outside of the Police Department”.
+The files affected date all the way back to 2009, although the police tried to play down the impact on investigations, claiming that hard copies of all documents and “the vast majority” of videos and photographs are still kept on CD/DVD.
+“It is unknown at this time how many total digital copies of documents were lost, as it is also unknown how many videos or photographs that could have assisted newer cases will not be available, although the number of affected prosecutions should remain relatively small,” it noted.
+</text>

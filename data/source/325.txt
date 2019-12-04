@@ -1,0 +1,20 @@
+<title>Researchers find link between cyber espionage group and Saudi hacking campaign - CyberScoop</title>
+<source> https://www.cyberscoop.com/shamoon-greenbug-symantec-hacking-campaign/ </source>
+<date> 2017_01_24 </date>
+<text>
+Security researchers are closely investigating a spate of newly discovered data breaches in the Middle East, in which each case involved the deployment of an advanced, disk-wiping malware variant.
+Reports from Symantec suggest that a series of recent intrusions share some similarities with an infamous 2012 hacking operation that disrupted multiple Saudi energy companies.
+The mysterious perpetrators behind the destructive 2012 cyberattacks were dubbed Shamoon, a loosely defined hacking group with advanced capabilities.
+The malware once used by the enigmatic group — W32.Disttrack and W32.Disttrack.B — first showed up in the 2012 incident but was then again found by digital forensic experts as recently as Nov. 2016.
+When successfully installed, Disttrack can corrupt files and overwrite a system’s master boot record, rendering the device unusable.
+“Threats with such destructive payloads are unusual and are not typical of targeted attacks,” security researchers wrote in a blog post shortly after the originally Saudi energy breach.
+On Monday, Symantec published what it believes are ties between Shamoon and another cyber espionage group, named Greenbug.
+Greenbug relies on a unique, custom information-stealing remote access trojan, or RAT, known as Trojan.Ismdoor, in addition to a suite of commoditized credentials stealing hacking tools.
+Greenbug tends to use phishing emails to infect victims.
+The group typically targets Middle Eastern aviation, government, investment and education organizations, Symantec’s research team said.
+Between June and November 2016, Trojan.Ismdoor was used against multiple organizations based in the Middle East.
+“The use and purpose [of Trojan.Ismdoor] do fit that of malware used by nation state attackers.
+Additionally, the information gathering conducted once the attacker is on the network also supports the types of operations seen by nation state attackers,” Symantec senior threat intelligence analyst Jon DiMaggio told CyberScoop.
+Researchers say there is at least one case in which the two hacking groups — Shamoon and Greenbug — may have been simultaneously active inside a victim’s computer network.
+In this context, it is possible that Greenbug — acting as the espionage arm for Shamoon — collects the necessary information needed to conduct the disk-wiping attack.
+</text>

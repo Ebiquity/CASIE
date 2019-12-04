@@ -1,0 +1,12 @@
+<title>Law firms warned by regulator of new cyber-crime threat - The Global Legal Post</title>
+<source> http://www.globallegalpost.com/global-view/law-firms-warned-by-regulator-of-new-cyber-crime-threat-18811043/ </source>
+<date> 2017_03_13 </date>
+<text>
+Law firms have been put on high alert as the Solicitors Regulation Authority (SRA) warns of new threats impacting hundreds of firms.
+Benoit Daoust
+	In an update, the regulator said it has experienced an increase in the number of reports of attempted cyber-crime and that some 500 firms may have been targeted in a cunning new scam.
+It also warned solicitors to take care that they did not fall victim to the attempted infiltration of IT systems.
+It said that firms were sent emails requesting their services and once they reply they are sent attachments or links – both of which could contain malware which would allow the perpetrators to obtain passwords or financial details, copy or modify data on the system, and allow hackers to get into the firm’s network.
+Other advice from the regulator includes using cloud-based computing for storing, accessing and processing information as well as keeping software up to date, using anti-virus systems and encryption on mobile devices.
+It also recommends that files are backed up regularly and firms should ensure at least one back-up that is not directly and regularly connected to the main systems.
+</text>

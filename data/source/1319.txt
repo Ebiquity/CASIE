@@ -1,0 +1,14 @@
+<title>FBI Warns Healthcare Industry of FTP Attacks | SecurityWeek.Com</title>
+<source> http://www.securityweek.com/fbi-warns-healthcare-industry-ftp-attacks </source>
+<date> 2017_03_28 </date>
+<text>
+The Cyber Division of the U.S. Federal Bureau of Investigation (FBI) has issued an alert to warn the healthcare industry that malicious actors are actively targeting File Transfer Protocol (FTP) servers that allow anonymous access.
+According to the law enforcement agency, attackers have targeted the FTP servers of medical and dental facilities in an effort to obtain access to protected health information (PHI) and personally identifiable information (PII), and use it to intimidate, blackmail and harass business owners.
+“The FBI recommends medical and dental healthcare entities request their respective IT services personnel to check networks for FTP servers running in anonymous mode.
+If businesses have a legitimate use for operating a FTP server in anonymous mode, administrators should ensure sensitive PHI or PII is not stored on the server,” the FBI said.
+These servers allow users to authenticate with only a username, such as “anonymous” or “ftp,” and either a generic password or no password at all.
+The FBI pointed out that vulnerable FTP servers can also be abused to store malicious tools or to launch cyberattacks.
+In 2015, IBM named healthcare as the most attacked industry, with more than 100 million records compromised, after in the previous year this sector did not even make it to the top five.
+An IBM report for 2016 showed that the volume of compromised records was smaller, but the number of data breaches increased, causing operational, reputational and financial damage to healthcare organizations.
+A report published recently by Fortinet showed the top threats targeting healthcare companies in the last quarter of 2016, including malware, ransomware, IPS events, exploit kits and botnets.
+</text>

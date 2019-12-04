@@ -1,0 +1,27 @@
+<title>Why Is Ransomware The Deadliest Of All Online Threats? - CXOtoday.com</title>
+<source> http://www.cxotoday.com/story/why-is-ransomware-the-deadliest-online-threat/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20cxotoday%20%28CXOtoday%29 </source>
+<date> 2017_04_07 </date>
+<text>
+Now, more than ever, a recent report suggests that India ranks second in ransomware attacks, this does not come as a surprise to many, especially the industry experts, considering that the country’s current state of digital security isn’t geared up to handle the emerging threats.
+It’s very likely that India tops the list soon, considering the rapid growth of ransomware.
+To compound it, the growth in “Internet of Things” (IoT) industry and the vulnerability towards cyber infections will further fuel new types of malware threats.
+We had reported earlier in our findings that over 180 Indian companies were victims of Ransomware online extortion schemes in the first six months of the year 2016, causing a loss of whopping $3 billion.
+However, the latest industry reports show a rather grim picture around Ransomware - the findings indicate that businesses in India are most at risk to cyber security attacks globally, with organizations in the country experiencing the highest number of weekly security incidents of all Asian countries surveyed (14.8 per cent).
+At the heart of it, Ransomware is a class of malware that’s designed for moneymaking with clear criminal intent.
+The puzzling part about Ransomware is that, no matter what the situation is, even if the ransom is paid, there is no guarantee that computer users will be able to fully access their systems ever again.
+The criminal may flee with the money and the files- both!
+While some hackers instruct victims to pay through Bitcoin, MoneyPak or other online methods, attackers could also demand credit card data, adding another level of financial loss altogether.
+Cryptolocker, Petya and Dogspectus are three of the major ransomware making their presence felt strongly.
+Just like kidnapping for ransom, it’s a virtual kidnapping of data where information is kept as a hostage and money is demanded in exchange of freeing the hostage.
+We all know how much damage a data breach can cost- monetarily as well as reputation wise.
+Once a ransomware attack strikes, clicking of files yield no results.
+The malware has corrupted the files and converted them into foreign MP3 files or an encrypted RSA format.
+And then, the victim gets a note in a text file or HTML file: “Help_Decrypt_Your_Files”.
+In a majority of the cases, once ransomware enters a system, there is no way a user can remove it without losing some files or data, even if one pay the ransom.
+Of late, ransomware has even left behind advanced persistent threat (APT) network attacks to grab the numero uno spot in the list of deadliest cyber crimes.
+Ransomware is fast evolving in form and increasing in number as well, thereby making it more difficult to protect against it.
+Each version has some properties that are unique to that version alone.
+This is scary because what is means is, if someone finds a solution to block or erase one version of a malware, that same solution may not work for the newer versions.
+However, a vast number of ransomware variants are still utilizing the same type of encryption technologies to infect systems.
+And what’s more, these encryption technologies are not just limited to common ones like Tor or I2P communication, but beyond.
+</text>

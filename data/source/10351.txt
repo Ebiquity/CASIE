@@ -1,0 +1,23 @@
+<title> Verizon Suffers Cloud Data Leak Exposing Data on Millions of Customers  </title>
+<source> https://www.darkreading.com/cloud/verizon-suffers-cloud-data-leak-exposing-data-on-millions-of-customers/d/d-id/1329344 </source>
+<date> 2017_07_12 </date>
+<text>
+Six million of Verizon's US customers had their personal and account information exposed, including PIN numbers.
+Verizon Communications suffered a major data leak due to a misconfigured cloud server that exposed data on 6 million of its customers.
+The leak was the result of its third-party provider NICE Systems incorrectly configuring Verizon's cloud-based file repository housed in an Amazon Web Services S3 bucket on NICE's cloud server, according to UpGuard, which issued a report on the breach today. Verizon customer names, addresses, account information, including account personal identification numbers (PINs), were compromised.
+UpGuard in its data estimated that up to 14 million customer records were exposed, but Verizon stated that data on 6 million of its users was affected.
+In one file alone, there were 6,000 PINs that were publicly exposed, according to Dan O'Sullivan, a cyber resilience analyst for UpGuard. 
+What's unique about this leak is that it was not just personal data that was publicly exposed but also PINs, according to O'Sullivan. "The PINs are used to identify a customer to a customer care person," O'Sullivan says, noting that an attacker could impersonate the user by using the PIN and then gain access to that individual's account.
+Verizon issued a statement acknowledging the public exposure of its customer data, but stressed that no loss or theft of Verizon or Verizon customer information occurred. The telecom giant also noted: "To the extent PINs were included in the data set, the PINs are used to authenticate a customer calling our wireline call center, but do not provide online access to customer accounts," Verizon stated.
+"An employee of one of our vendors put information into a cloud storage area and incorrectly set the storage to allow external access," Verizon said.
+How it Went Down
+NICE was hired to help Verizon improve its residential and small business wireline self-service call center portal, according to Verizon's statement. As part of this project, NICE needed certain data that included a limited amount of personal and cell phone number information. None of the information stored for the project included social security numbers, according to Verizon.
+Meanwhile, on June 8, UpGuard's cyber risk research director Chris Vickery came across the AWS S3 data repository and its subdomain "verizon-sftp." The repository held six folders with titles spanning "Jan-2017" to "June-2017" and a number of other files with a .zip format. Vickery was able to fully download the repository because it was configured to be publicly accessible to anyone entering the S3 URL.
+Following the discovery, UpGuard contacted Verizon on June 13 to inform the telecom giant of the data leakage and then on June 22 the exposure was sealed up, according to UpGuard's report.
+"There was a fairly long duration of time before it was fixed, which is troubling," O'Sullivan says.
+Verizon is not the first company to encounter data leakage as a result of permissions set to public rather than private on Amazon's S3 bucket. Earlier this year, UpGuard also discovered a similar situation that involved the Republican National Committee (RNC), which left millions of voter records exposed on the cloud account.
+As in the Verizon case, the RNC relied on a third party vendor to handle its cloud storage needs and it too used Amazon's AWS S3. That third-party also improperly set the database to public rather than private.
+"The number one thing to keep in mind if you are a CISO is evaluating your third-party vendors. You can have the best security in the world and the best visibility into your systems, but if you pass it onto a third-party vendor without checking out how well they handle their security, then you have done that all in vain," O'Sullivan says. "Verizon did not own the server that was involved here, but it will own the consequences."
+Rich Campagna, CEO of Bitglass, stressed the importance of security teams ensuring services used are configured securely. "This massive data leak could have been avoided by using specific data-centric security tools, which can ensure appropriate configuration of cloud services, deny unauthorized access, and encrypt sensitive data at rest," Campagna said in a statement.
+</text>
+

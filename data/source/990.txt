@@ -1,0 +1,25 @@
+<title>185,000+ vulnerable Wi-Fi cameras just waiting to be hijacked - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/09/vulnerable-wi-fi-cameras/ </source>
+<date> 2017_03_09 </date>
+<text>
+A generic wireless camera manufactured by a Chinese company and sold around the world under different names and brands can be easily hijacked and/or roped into a botnet.
+The flaw that allows this to happen is found in a custom version of GoAhead, a lightweight embedded web server that has been fitted into the devices.
+This and other vulnerabilities have been found by security researcher Pierre Kim, who tested one of the branded cameras – the Wireless IP Camera (P2P) WIFICAM.
+The extensive list of devices affected by the flaw in the custom embedded web server can be found here, and includes 1250+ camera models from over 300 vendors, including D-Link, Foscam, Logitech, Netcam, and Polaroid.
+“This vulnerability allows an attacker to steal credentials, ftp accounts and smtp accounts (email),” Kim noted.
+He also shared a PoC exploit that leverages the flaw to allow an attacker to achieve root shell on the device.
+Other vulnerabilities present include a  RTSP server running on the camera’s TCP 10554 port, which can be accessed without authentication, allowing attackers to watch what the camera streams.
+There is also a “cloud” functionality that is on by default, through which the camera can be managed via a mobile Android app.
+The connection between the two is established through UDP, and will be automatically established to any app that “asks” if a particular camera is online.
+Effectively, the attacker just needs to know the serial number of the device.
+The established UDP tunnel can also be used by the attacker to dump the camera’s configuration file in cleartext, or to bruteforce credentials.
+“The UDP tunnel between the attacker and the camera is established even if the attacker doesn’t know the credentials,” Kim noted.
+“It’s useful to note the tunnel bypasses NAT and firewall, allowing the attacker to reach internal cameras (if they are connected to the Internet) and to bruteforce credentials.
+Then, the attacker can just try to bruteforce credentials of the camera”.
+Kim advises owners of these devices to disconnect them from the Internet.
+A simple search with Shodan revealed that there are 185,000+ vulnerable cameras out there, ready to be hijacked.
+The vulnerabilities are not in GoAhead, but the custom version of the web server developed by the Chinese OEM vendor, so EmbedThis – the company that develops GoAhead – can do nothing to fix this.
+Interestingly enough, SecuriTeam revealed today the existence of an arbitrary file content disclosure vulnerability affecting older versions of the GoAhead web server.
+Discovered by independent security researcher Istvan Toth, the vulnerability can be triggered by sending a malformed request to the web server, and it will disclose device credentials to the attacker in clear text.
+“The GoAhead web server is present on multiple embedded devices, from IP cameras to printers and other embedded devices,” SecuriTeam explained, and urged owners to remove the device from the network, “or at the very least not allow access to the web interface to anyone beside a very strict IP address range”.
+</text>

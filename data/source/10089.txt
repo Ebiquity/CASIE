@@ -1,0 +1,19 @@
+<title> WannaCry ransomware: Hackers behind global cyberattack finally cash out bitcoin windfall  </title>
+<source> https://www.zdnet.com/article/wannacry-ransomware-hackers-behind-global-cyberattack-finally-cash-out-bitcoin-windfall/ </source>
+<date> 2017_08_03 </date>
+<text>
+Three months on from the global WannaCry cyberattack, someone has withdrawn funds acquired when victims paid ransoms.
+Almost three months on from the WannaCry ransomware outbreak, those behind the global cyberattack have finally cashed out their ransom payments.
+The WannaCry epidemic hit organisations around the world in May, with the file-encrypting malware -- which used a leaked NSA exploit -- attacking Windows systems. It infected over 300,000 PCs and crippling systems across the Americas, Europe, Russia, and China.
+ The UK's National Health Service was particularly badly hit by the attack, with hospitals and doctor's surgeries knocked offline, and some services not restored until days after the ransomware hit.
+WannaCry continued to claim victims even after the initial outbreak: June saw Honda forced to shut down a factory due to an infection and speed cameras in Victoria, Australia also fell victim to the ransomware.
+While the attack was certainly high profile, mistakes in the code meant many victims of WannaCry were able to successfully unlock systems without giving into the demands of hackers. A bot tracking ransom payments says only 338 victims paid the $300 bitcoin ransom demand - not exactly a large haul for an attack which infected hundreds of thousands of computers.
+In the months since the attack, the bitcoin wallets containing the money extorted by WannaCry were left untouched, but August 3 saw them suddenly start to be emptied.
+At the time of withdrawal, the value of the wallets totalled $140,000 thanks to changes in the valuation of bitcoin.
+Three separate withdrawals between 7.3 bitcoin ($20,055) and 9.67 bitcoin ($26,435) were made in the space of a minute at 4:10am BST, accounting for around half of the total value of the extorted funds.
+Five minutes later, three more withdrawals of between seven bitcoin ($19.318) and 10 Bitcoin ($27,514) were made in the space of another 60 seconds. Ten minutes later, a final withdrawal was made, emptying the remaining bitcoin from the WannaCry wallets.
+There's no official confirmation of who carried out the attack, but both private cybersecurity firms and investigating government agencies have pointed to North Korea as the culprit.
+A month after WannaCry, companies around the world found themselves being hit by another fast-spreading cyberattack in the form of Petya, which like WannaCry is still causing issues for some of those affected.
+Unfortunately, the success of WannaCry and Petya infection rates means many cybercriminal groups are attempting to copy the worm-like features of these viruses for their own ends.
+</text>
+

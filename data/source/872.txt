@@ -1,0 +1,30 @@
+<title>Cloudbleed Triggered 1.2M Times, Damage Kept to Minimum | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/cloudbleed-triggered-1-2m-times-damage-kept-to-minimum/124023/ </source>
+<date> 2017_03_03 </date>
+<text>
+Having had more than a week to digest Cloudbleed’s causes and impact, Cloudflare CEO Matthew Prince assessed the damage yesterday in a lengthy post-mortem as relatively low.
+Prince said there is no evidence the vulnerability, which leaked customer data from memory, was exploited by attackers.
+The bug, however, was triggered more than 1.2 million times from 6,500 sites that met the criteria under which it could be exploited.
+In the meantime, Cloudflare continues to work with Google and other search engine providers to scrub cached sites that could contain any leaked data from memory.
+“We’ve successfully removed more than 80,000 unique cached pages.
+That underestimates the total number because we’ve requested search engines purge and recrawl entire sites in some instances,” Prince said.
+Prince said leaks have included internal Cloudflare headers and customer cookies, but no evidence of passwords, encryption keys, payment card data or health records among the leaks.
+The vulnerability was privately disclosed Feb 17 by Google Project Zero researcher Tavis Ormandy, who reported that he did see crypto keys, passwords, POST data and HTTPS requests for other Cloudflare-hosted sites among data from other requests.
+Ormandy initially said in a tweet that Cloudflare was leaking customer HTTPS sessions for Uber, FitBit, OKCupid and others, all of which said the impact of Cloudbleed on their data was minimal.
+“While the bug was very bad and had the potential to be much worse,” Prince said.
+Prince explained that the bug was triggered only when a webpage moving through the Cloudflare network contained HTML ending with an un-terminated attribute, and if a number of Cloudflare features were turned on.
+Those features hand in hand with a Cloudflare stream parser used to scan and modify content in real time such as rewriting HTTP links to HTTPS—a feature called Automatic HTTPS Rewrites—or hiding email addresses on a page from spammers—a feature called Email Address Obfuscation.
+The need to end with an un-terminated attribute was key.
+“When a page for a particular customer is being parsed it is stored in memory on one of the servers that is a part of our infrastructure.
+Contents of the other customers’ requests are also in adjacent portions of memory on Cloudflare’s servers,” Prince said.
+“The bug caused the parser, when it encountered un-terminated attribute at the end of a page, to not stop when it reached the end of the portion of memory for the particular page being parsed.
+Instead, the parser continued to read from adjacent memory, which contained data from other customers’ requests.
+The contents of that adjacent memory were then dumped onto the page with the flawed HTML”.
+Anyone accessing one of those pages would see the memory dump, looking a lot like random text, below, Prince said.
+An attacker would need to pound one of those sites with numerous requests to trigger the bug and then record the results, getting a mix of useless data and sensitive information, Prince said.
+“The nightmare scenario we have been worried about is if a hacker had been aware of the bug and had been quietly mining data before we were notified by Google’s Project Zero team and were able to patch it,” Prince said.
+“For the last 12 days we’ve been reviewing our logs to see if there’s any evidence to indicate that a hacker was exploiting the bug before it was patched.
+We’ve found nothing so far to indicate that was the case”.
+Prince said Cloudflare customers who find any leaked cached data can send a link to the caches to parserbug@cloudflare[.]com.
+Over 2,000 WordPress sites are infected as part of a keylogger campaign that leverages an old malicious script.
+</text>

@@ -1,0 +1,29 @@
+<title>Security Firms See Potential North Korea Link to Ransomware Attack</title>
+<source> http://www.voanews.com/a/global-cyberattacks-appear-to-ease-except-in-asia-/3851797.html?utm_source=Sailthru&utm_medium=email&utm_campaign=EBB%2005.16.2017&utm_term=Editorial%20-%20Early%20Bird%20Brief </source>
+<date> 2017_05_16 </date>
+<text>
+Cyber security researchers on Monday pointed to code in a "ransomware" attack that could indicate a link to North Korea.
+Symantec and Kaspersky Lab each cited code that was previously used by a hacker collective known as the Lazarus Group, which was behind the high-profile 2014 hack of Sony that was also blamed on North Korea.
+But the security firms cautioned that it is too early to make any definitive conclusions, in part because the code could have been merely copied by someone else for use in the current event.
+The effects of the ransomware attack appeared to ease Monday, although thousands more computers, mostly in Asia, were hit as people signed in at work for the first time since the infections spread to 150 countries late last week.
+Health officials in Britain, where surgeries and doctors' appointments in its national health care system had been severely impacted Friday, were still having problems Monday. But health minister Jeremy Hunt said it was "encouraging" that a second wave of attacks had not materialized.
+He said "the level of criminal activity is at the lower end of the range that we had anticipated."
+In the United States, Tom Bossert, a homeland security adviser to President Donald Trump, told the ABC television network the global cybersecurity attack is something that "for right now, we've got under control."
+He told reporters at the White House that "less than $70,000" has been paid as ransom to those carrying out the attacks. He urged all computer users to make sure they install software patches to protect themselves against further cyberattacks.
+In the television interview, Bossert described the malware that paralyzed 200,000 computers running factories, banks, government agencies, hospitals and transportation systems across the globe as an "extremely serious threat."
+Cybersecurity experts say the hackers behind the "WannaCry" ransomware, who demanded $300 payments to decrypt files locked by the malware, used a vulnerability that came from U.S. government documents leaked online. The attacks exploited known vulnerabilities in older Microsoft computer operating systems.
+During the weekend, Microsoft president Brad Smith said the clandestine U.S. National Security Agency had developed the code used in the attack.
+Bossert said "criminals," not the U.S. government, are responsible for the attacks. Like Bossert, experts believe Microsoft's security patch released in March should protect networks if companies and individual users install it.
+Russian President Vladimir Putin said his country had nothing to do with the attack and cited the Microsoft statement blaming the NSA for causing the worldwide cyberattack.
+"A genie let out of a bottle of this kind, especially created by secret services, can then cause damage to its authors and creators," Putin said while attending an international summit in Beijing. He said that while there was "no significant damage" to Russian institutions from the cyberattack, the incident was "worrisome."
+"There is nothing good in this and calls for concern," he said.
+Even though there appeared to be a diminished number of attacks Monday, computer outages still affected segments of life across the globe, especially in Asia, where Friday's attacks occurred after business hours.
+China 
+China said 29,000 institutions had been affected, along with hundreds of thousands of devices. Japan's computer emergency response team said 2,000 computers at 600 locations were affected there.
+Universities and other educational institutions appeared to be the hardest hit in China. China's Xinhua News Agency said railway stations, mail delivery, gas stations, hospitals, office buildings, shopping malls and government services also were affected.
+Elsewhere, Britain said seven of the 47 trusts that run its national health care system were still affected, with some surgeries and outpatient appointments canceled as a result. In France, auto manufacturer Renault said one of its plants that employs 3,500 workers stayed shut Monday as technicians dealt with the aftermath of the Friday attacks.
+Security patches 
+Computer security experts have assured individual computer users who have kept their operating systems updated that they are relatively safe, but urged companies and governments to make sure they apply security patches or upgrade to newer systems.
+They advised those whose networks have been effectively shut down by the ransomware attack not to make the payment demanded, the equivalent of $300, paid in the digital currency bitcoin. 
+However, the authors of the "WannaCry" ransomware attack told their victims the amount they must pay will double if they do not comply within three days of the original infection, by Monday in most cases. The hackers warned that they will delete all files on infected systems if no payment is received within seven days.
+</text>

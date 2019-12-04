@@ -1,0 +1,11 @@
+<title>The Google-phish-that-was-also-a-worm – what happened and what to do – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/05/05/google-phish-thats-a-worm-what-happened-and-what-to-do/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=11069381cb-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-11069381cb-455160889 </source>
+<date> 2017_05_08 </date>
+<text>
+Yesterday we wrote about a “Google Docs” phishing campaign that aimed to trick you into authorising a malicious third-party Gmail app so that it could take over your email account and your contact list for its own ends.
+One of those ends seems to have been to spam out another wave of those same fraudulent emails to your friends and colleagues, in the hope of getting them to authorise the imposter app, and thus to send out another wave of emails, and another, and so on.
+Technically, that made it more than just a “phish”, which we’ll define very loosely here as an email that aims to trick, coerce or cajole you into performing an authentication task, or giving away personal data, that you later wish you hadn’t.
+ The classic old-school example of a phish is an email that tells you that you have lost money to fraud, or gained money from a tax refund, so please use this web link to login to your bank account to sort this out. These days, however, the word phishing is generally understood much more broadly, describing any sort of misdirection that gets you to authorise or to give away something you should have kept private. Many users have learned to avoid login links in emails, so the crooks have broadened the range of threats and incentives by which they phish for access to your online life.
+This week’s so-called “Google Docs” attack could spread all by itself, helped on by users giving it the permission it needed along the way, just like the infamous Love Bug virus from 2000, or the pernicious FriendGreetings adware from 2002.
+Technically, then, that makes the “Google Docs” attack a virus, or more specifically a worm, which is a special sort of virus that spreads by itself, without needing pre-existing host files to hook onto.
+</text>

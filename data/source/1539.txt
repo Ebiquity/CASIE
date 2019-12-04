@@ -1,0 +1,14 @@
+<title>Shadow Brokers Publish the Password for the Rest the Stolen NSA Hacking Tools</title>
+<source> https://www.bleepingcomputer.com/news/security/shadow-brokers-publish-the-password-for-the-rest-the-stolen-nsa-hacking-tools/ </source>
+<date> 2017_04_10 </date>
+<text>
+TSB is a mysterious group that appeared in the summer of 2016 when they dumped on GitHub and other sites a trove of files they claim to have stolen from the Equation Group, a codename given to a cyber-espionage group many cyber-security experts believe to be the NSA.
+In their original announcement, the group dumped a collection of free files so that cyber-security experts can validate the veracity of their claims.
+In addition, the group also released a second set of files, which were encrypted with a password the group promised to provide to the winner of online bidding war.
+As no one stepped forward, the group started selling some of these tools individually last December but eventually called it quits in January, announcing their retirement just ahead of President Trump's inauguration.
+Now, the group is back, and the reason why, according to a post published on their Medium blog, is because of Trump's political moves, which appear to have angered the group.
+The reasons, as listed by the Shadow Brokers, are below, in original:
+The politically-charged message ends with the password for the rest of the supposed NSA hacking tools they group released last summer.
+The first cache of NSA hacking tools contained quite a lot of material, such as zero-day exploits and tools to bypass firewalls (Cisco, Fortinet, Juniper, and TOPSEC), a toolkit to extract VPN keys, backdoors for Linux systems, and several Windows exploits.
+This second cache is quite fresh, and security researchers haven't had the time to search it in its entirety.
+</text>

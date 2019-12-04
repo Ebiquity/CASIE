@@ -1,0 +1,17 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/scareware-malvertising-campaign/ </source>
+<date> 2017_04_10 </date>
+<text>
+A scareware campaign has been uncovered that pushes a ‘free’ VPN app called MyMobileSecure to iOS users via rogue ads on popular torrent sites.
+The VPN app itself appears to be real—but researchers say its privacy policies are dubious, at best.
+The first interesting thing is the malvertising campaign that’s pushing the app.
+When using iPhone to visit certain sites, a pop-up page plays an ear-piercing beeping sound and claims the device is infected with viruses.
+Tapping on ‘Remove Virus’ button opens up the App Store to download the app.
+“Such alerts on mobile devices are not new and sadly commonplace via may ad networks these days,” said Malwarebytes researcher Jérôme Segura, in a blog.
+“Usually, aggressive affiliates remunerated per lead will use these kinds of tactics to drive traffic to game apps or even tech support scams”.
+In order to activate the free VPN app, users must join the MobileXpression research community.
+“Often times, affiliates are not properly policed and we observe scare tactics to force the installation of various pieces of software,” Segura said.
+“It’s important to note that those affiliates are normally distinct from the software vendors themselves, but scammy behaviors end up reflecting poorly on everyone”.
+In this particular case, “one cannot help but feel that this VPN application comes with some serious baggage and unfortunately the average user will not take the time to review the fine details.
+If the intent is to use a VPN to anonymize your online activities, this does almost the opposite,” he added.
+</text>

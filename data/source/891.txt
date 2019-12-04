@@ -1,0 +1,10 @@
+<title>Palo Alto Networks Unit 42 Vulnerability Research February 2017 Disclosures - Palo Alto Networks Blog</title>
+<source> http://researchcenter.paloaltonetworks.com/2017/03/unit-42-palo-alto-networks-unit-42-vulnerability-research-february-2017-disclosures/?adbsc=social70487096&adbid=837713030045540352&adbpl=tw&adbpr=4487645412 </source>
+<date> 2017_03_06 </date>
+<text>
+As part of Unit 42’s ongoing threat research, we can now disclose that Palo Alto Networks Unit 42 researchers have discovered two code execution vulnerabilities affecting Adobe Flash (APSB17-04) that were addressed in Adobe’s monthly security update release:
+For current customers with a Threat Prevention subscription, Palo Alto Networks has also released IPS signatures providing proactive protection from these vulnerabilities.
+Traps, Palo Alto Networks advanced endpoint solution, can block memory corruption based exploits of this nature.
+Palo Alto Networks is a regular contributor to vulnerability research in Microsoft, Adobe, Apple, Google Android and other ecosystems.
+By proactively identifying these vulnerabilities, developing protections for our customers, and sharing the information with the security community, we are removing weapons used by attackers to threaten users, and compromise enterprise, government, and service provider networks.
+</text>

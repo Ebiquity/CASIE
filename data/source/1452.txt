@@ -1,0 +1,24 @@
+<title>Notorious iOS spyware has an Android sibling | ITworld</title>
+<source> http://www.itworld.com/article/3187469/security/notorious-ios-spyware-has-an-android-sibling.html </source>
+<date> 2017_04_04 </date>
+<text>
+Called Chrysaor, the Android variant can steal data from messaging apps, snoop over a phone’s camera or microphone, and even erase itself.
+On Monday, Google and security firm Lookout disclosed the Android spyware, which they suspect comes from NSO Group, an Israeli security firm known to develop smartphone surveillance products.
+Fortunately, the spyware never hit the mainstream.
+It was installed less than three dozen times on victim devices, most of which were located in Israel, according to Google.
+Other victim devices resided in Georgia, Mexico and Turkey, among other countries.
+Users were probably tricked into downloading the malicious coding, perhaps though a phishing attack.
+Once it installs, the spyware can act as keylogger, and steal data from popular apps such as WhatsApp, Facebook and Gmail.
+In addition, it possesses a suicide function that’ll activate if it doesn’t detect a mobile country code on the phone -- a sign that the Android OS is running on an emulator.
+The surveillance features are similar to those found in Pegasus, which has also been linked with NSO Group.
+At the time, Lookout called the spyware the most sophisticated attack it’s ever seen on a device.
+The iOS variant exploited three previously unknown vulnerabilities to take over a phone and surveil the user.
+The spyware was uncovered when a human rights activist in the United Arab Emirates was found infected by it.
+His phone had received an SMS text message, which contained a malicious link to the spyware.
+But Lookout had also been investigating into whether NSO Group developed an Android version.
+To find out, the security firm compared how the iOS version compromises an iPhone and matched those signatures with suspicious behavior from a select group of Android apps.
+Those findings were then shared with Google, which managed to identify who was affected.
+However, unlike the iOS version, the Android variant doesn’t actually exploit any unknown vulnerabilities.
+Instead, it taps known flaws in older Android versions.
+Chrysaor was never available on Google Play, and the small number of infected devices found suggests that most users will never encounter it, the search giant said.
+</text>

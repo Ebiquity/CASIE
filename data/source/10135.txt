@@ -1,0 +1,23 @@
+<title> Fake Vodafone Phishing In Irish Mailboxes   </title>
+<source> https://www.informationsecuritybuzz.com/news/fake-vodafone-phishing-irish-mailboxes/ </source>
+<date> 2017_01_05 </date>
+<text>
+ESET Ireland warns of an authentic looking phishing scam email, pretending to come from Vodafone.
+The cybercriminals are up to their old tricks even in the new year. An email, pretending to be from Vodafone has been spamming Irish mailboxes with a phishing attempt. The email reads:
+Dear Valued Customer,
+Just a quick reminder that you need to pay for your Vodafone service.
+Pay now to avoid service restriction or suspension.
+Your monthly bill for NETVIGATOR service has been issued.
+We have proceeded autopay payment according to your credit card information.
+However, such autopay payment is not successful.
+Your account is now overdue, so unless you’ve already paid in the last few days here’s what you need to do next. To check the total amount owing, please visit MyAccount
+To avoid suspension of service, please settle the above amount before 04 Jan 2017.
+Log In To MyAccount
+ https://www.vodafone.ie/myv/services/Process
+For details regarding the payment rejection, please contact your bank directly.
+It’s important that you make full payment of the outstanding amount to avoid restriction or suspension of your service. Please remember that if we suspend your service you’ll need to pay a reconnection fee. We’ll also apply all regular service charges until your service is cancelled.
+To help you manage your services, a number of online tools are available. You can pay your bill and track your usage through MyAccount and our 24×7 App.
+While the email is made to look very convincing, with all the Vodafone logos and overall appearance, all the links in the email lead to a fake website, registered in Mexico, which tries to trick the user into submitting their account info and payment details.
+If you have received such an email, flag it as spam and delete it. Do not click any of the links in it.
+</text>
+

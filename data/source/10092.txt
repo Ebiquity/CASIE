@@ -1,0 +1,17 @@
+<title> South Korean web host pays largest ransomware demand ever  </title>
+<source> https://www.cnet.com/news/largest-ransomware-ever-demand-south-korea-web-host/ </source>
+<date> 2017_06_20 </date>
+<text>
+WannaCry only demanded $300 from each victim. These hackers extorted $1 million from one South Korean company.
+Hackers appear to have pulled off a $1 million heist with ransomware in South Korea.
+The ransomware attacked more than 153 Linux servers that South Korean web provider Nayana hosted, locking up more than 3,400 websites on June 10. In Nayana's first announcement a few days later, it said the hackers demanded 550 bitcoins to free up all the servers -- about $1.62 million.
+Four days later, Nayana said it'd negotiated with the attackers and got the payment reduced to 397 bitcoins, or about $1 million. This is the single largest-known payout for a ransomware attack, and it was an attack on one company. For comparison, the WannaCry ransomware attacked 200,000 computers across 150 countries, and has only pooled $127,142 in bitcoins since it surfaced.
+Ransomware demands have risen rapidly over the past year, tripling in price from 2015 to 2016. But even then, the highest cost of a single ransomware attack was $28,730. 
+Nayana agreed to pay the ransomware in three installments, and said Saturday it's already paid two-thirds of the $1 million demand.
+"It is very frustrating and difficult, but I am really doing my best and I will do my best to make sure all servers are normalized," a Nayana administrator said, according to a Google translation of the blog post.
+The company is expected to make the final payment once all the servers from the first and second payouts have been restored.
+Trend Micro, a cybersecurity research firm, identified the ransomware as Erebus, which targets Linux servers for attacks. It first surfaced in September through web ads, and popped up again in February.
+"It's worth noting that this ransomware is limited in terms of coverage, and is, in fact, heavily concentrated in South Korea," Trend Micro researchers said Monday in a blog post.
+Paying ransomware is at the victim's discretion, but nearly all organizations, including government agencies and security researchers, advise against it.
+</text>
+

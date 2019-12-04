@@ -1,0 +1,14 @@
+<title>Hacker Compromises 2.5 Million Xbox 360, PSP ISO Forum Accounts</title>
+<source> http://www.esecurityplanet.com/hackers/hacker-compromises-2.5-million-xbox-360-psp-iso-forum-accounts.html </source>
+<date> 2017_02_01 </date>
+<text>
+Email addresses, passwords and IP addresses were exposed.
+The breach, which took place in September 2015 but was only recently disclosed, compromised email addresses, passwords and IP addresses, the Daily Mail reports.
+The hacker's likely aim was to profit financially from the stolen information.
+"Data breaches are often sold via darkweb sites or within closed trading circles," Hunt told the Daily Mail.
+Still, Willy Leichter, vice president of marketing at CipherCloud, told eSecurity Planet by email that while the attack targeted gaming forums, any large scale breach like this should concern businesses as well.
+"Users often use common passwords, security questions, or personal email addresses to access personal and work-related systems, making it easier for hackers to break into corporate networks and steal massive amounts of data," he said.
+And while all users are being advised to change their passwords, Jeff Hill, director of product management at Prevalent, said it may be too late to make a difference.
+"The initial breach occurred in September 2015, giving the attackers 17 months to operate undetected, more than enough time to find and exfiltrate enough data to profit greatly from their efforts," he said.
+"At this point, it’s not even clear the breach was actually detected -- possibly the attackers simply [wrung] as much return as possible out of their theft, and simply discarded the remaining useless data," Hill added.
+</text>

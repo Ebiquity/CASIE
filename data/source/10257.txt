@@ -1,0 +1,14 @@
+<title> Microsoft patches major Windows security flaw  </title>
+<source> https://www.techradar.com/news/microsoft-patches-major-windows-security-flaw </source>
+<date> 2018_11_18 </date>
+<text>
+Zero-day vulnerability could have allowed attackers to hijack a Windows system.
+Microsoft has patched a major zero-day vulnerability in Windows, the second such exploit detected in just a few weeks.
+The threat, the second such alert in just a month, was spotted by security experts at Kaspersky Lab and fixed as part of Microsoft's monthly Patch Tuesday release.
+Kaspersky Lab says the exploit had already been utilised for a number of cyberattacks in the Middle East, and was detected by the company's Automatic Exploit Prevention technology.
+The vulnerability, officially named by Microsoft as CVE-2018-8589, targeted the 32-bit version of Windows 7, and could have allowed attackers to gain "elevated privileges" and create exploits to gain access to a victim's system and run malicious code.
+The news comes just a few weeks after Kaspersky Lab detected a similar zero-day threat in Microsoft's system, having alerted the computing giant to a further Windows vulnerability that had been utilised by state-backed cyber-espionage group known as FruityArmor.
+“Autumn 2018 became quite a hot season when it comes to zero-day vulnerabilities," said Anton Ivanov, Security Expert at Kaspersky Lab. 
+"In just a month, we discovered two of their kind and detected two series of attacks in one region. Discreteness of cyberthreat actors’ activities remind us that it is of critical importance for companies to have in their possession all necessary tools and solutions that would be intelligent enough  to protect them from such sophisticated threats. Otherwise, they could become a subject to complex targeted attacks that will come out of nowhere."
+</text>
+

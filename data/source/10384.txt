@@ -1,0 +1,23 @@
+<title> Phishing alert: GDPR-themed scam wants you to hand over passwords, credit card details  </title>
+<source> https://www.zdnet.com/article/phishing-alert-gdpr-themed-scam-wants-you-to-hand-over-passwords-credit-card-details/ </source>
+<date> 2018_05_03 </date>
+<text>
+Criminals are attempting to trick consumers into handing over passwords and credit card details by taking advantage of the flood of emails being sent out ahead of new European privacy legislation.
+The European Union's new General Data Protection Regulation (GDPR) come into force on 25 May and the policy is designed to give consumers more control over their online data. As a result, in the run-up to it, organisations are sending out messages to customers to gain their consent for remaining on their mailing lists.
+With so many of these messages being sent out, it was perhaps only a matter of time before opportunistic cybercriminals looked to take advantage of the deluge of messages about GDPR and privacy policies arriving in people's inboxes.
+A GDPR-related phishing scam uncovered by researchers at cyber security firm Redscan is doing just this in an effort to steal data with emails claiming to be from Airbnb. The attackers appear to be targeting business email addresses, which suggests the messages are sent to emails scraped from the web.
+The phishing message addresses the user as an Airbnb host and claims they're not able to accept new bookings or send messages to prospective guests until a new privacy policy is accepted. 
+"This update is mandatory because of the new changes in the EU Digital privacy legislation that acts upon United States based companies, like Airbnb in order to protect European citizens and companies," the message says, and the recipient is urged to click a link to accept the new privacy policy.
+ Those who click the link are asked to enter their personal information, including account credentials and payment card information. If the user enters these, they're handing the data straight into the hands of criminals who can use it for theft, identity fraud, selling on the dark web and more.
+"The irony won't be lost on anyone that cybercriminals are exploiting the arrival of new data protection regulations to steal people's data," said Mark Nicholls, Director of Cyber Security at Redscan.
+"Scammers know that people are expecting exactly these kinds of emails this month and that they are required to take action, whether that's clicking a link or divulging personal data. It's a textbook phishing campaign in terms of opportunistic timing and having a believable call to action".
+Airbnb is sending messages to users about GDPR, but the messages contain far more detail and don't ask the users to enter any credentials, merely agree to the new Terms of Service.
+While the phishing messages might look legitimate at first glance, it's worth noting they don't use the right domain - the fake messages come from '@mail.airbnb.work' as opposed to '@airbnb.com'.
+Redscan has warned that attackers are likely to use GDPR as bait for other phishing scams, with messages claiming to be from other well-known companies.
+"As we get closer to the GDPR implementation deadline, I think we can expect to see a lot a lot more of these types of phishing scams over the next few weeks, that's for sure," said Nicholls, who warned attackers could attempt to use the ploy to deliver malware in future.
+"In the case of the Airbnb scam email, hackers were attempting to harvest credentials. Attack vectors do vary however and it's possible that other attacks may attempt to infect hosts with keyloggers or ransomware, for example." he said.
+Airbnb said those behind the attacks haven't accessed user details in order to send emails and that users who receive a suspicious message claiming to be from Airbnb should send it to their safety team.
+"These emails are a brazen attempt at using our trusted brand to try and steal user's details, and have nothing to do with Airbnb. We'd encourage anyone who has received a suspicious looking email to report it to our Trust and Safety team on report.phishing@airbnb.com, who will fully investigate," an Airbnb spokesperson told ZDNet.
+Airbnb also provided information on how to spot a fake email to help users to determine if a message is genuine or not.
+</text>
+

@@ -1,0 +1,9 @@
+<title>Can you trust your Android VPN client? - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/26/trust-android-vpn-client/ </source>
+<date> 2017_01_27 </date>
+<text>
+Do you trust your Android VPN client to keep your data secure and your online browsing private?
+The researchers have contacted the developers of the apps found sporting some or all of these issues, and some have reacted by fixing the vulnerabilities.
+Most of them, though, did not respond, and some responded only to confirm the findings and to offer justification for the choices they make about how they operate the service.
+“Despite the fact that Android VPN-enabled apps are being installed by millions of mobile users worldwide, their operational transparency and their possible impact on user’s privacy and security remains ‘terra incognita’ even for tech-savvy users,” the researchers pointed out, and added that judging by the analysis of the user reviews and ratings of these apps, most users are unaware that they might be risking their security and privacy.
+</text>

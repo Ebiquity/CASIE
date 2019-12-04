@@ -1,0 +1,17 @@
+<title>MongoDB Attacks Jump From Hundreds to 28,000 In Just Days | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/mongodb-attacks-jump-from-hundreds-to-28000-in-just-days/122957/ </source>
+<date> 2017_01_10 </date>
+<text>
+Security researchers report a massive uptick in the number of MongoDB databases hijacked and held for ransom.
+That’s sharp increase from last week when 2,000 MongoDB had been hijacked by two or three criminals.
+A wave attacks was first spotted on Dec. 27 by Victor Gevers, an ethical hacker and founder of GDI Foundation.
+That’s when he said a hacker going by the handle “Harak1r1” was compromising open MongoDB installations, deleting their contents, and leaving behind a ransom note demanding 0.2 BTC (about $220).
+Victims would discover they were hit with the data theft only when they accessed the MongoDB and came across a top database field with the ransom demand that read, “Contact this email with your IP of your server to recover your database”.
+Escalation of the attacks happened fast jumping from 200 14 days ago to 2,000 the following week.
+On Friday the numbers were at 10,000, and by Monday Merrigan said there was a huge spike in attacks via his Twitter account reporting 27,000 servers compromised representing 93 terabytes of data gone.
+Since identifying “Harak1r1” as the original attacker, they say more than a dozen additional hackers are now actively targeting MongoDB installations as well.
+Researchers said that in many cases, data stored in the MongoDB now is simply being destroyed and when victims pay the ransom they do not receive their data back.
+Last week, Gevers told Threatpost attackers were battling among themselves.
+He said, when one hacker would leave a ransom note, another hacker would target the same database, delete the original ransom note and leave their own.
+This further complicates a victim’s ability to retrieve data even if a ransom is paid, he said.
+</text>

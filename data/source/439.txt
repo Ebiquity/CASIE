@@ -1,0 +1,20 @@
+<title>Sex club for women exposes members’ private photographs – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/01/30/sex-club-for-women-exposes-members-private-photographs/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=49ed7c6d3e-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-49ed7c6d3e-455160889 </source>
+<date> 2017_01_31 </date>
+<text>
+Skirt Club is a place for lesbian and bisexual women to play out their fantasies, and it’s known for being discreet.
+But that doesn’t seem to apply when it comes to the online privacy component, according to Vice Germany.
+All the data collected by us is stored on a secure server.
+Not enough, according to Vice, which reported that Skirt Club kept members’ photos easily accessible online.
+With more than 5,000 members worldwide – many of whom are not open about this part of their lives – the potential privacy violations are significant.
+Vice included an example of those compromised: a 39-year-old woman who had been married for 15 years and said in her profile that “No one knows that I am bi in my environment.
+Vice Germany investigated after anonymous sources contacted the publication to voice concerns with the site, which went dark around 1 pm.
+Vice published a feature on Skirt Club in October 2016, which is probably why it was contacted about this.
+After they looked into those claims, the editors found that at that time, thousands of personal images that members had uploaded in order to join Skirt Club were accessible to non-members – photos of users partially or fully naked, often recognizable, sometimes even with their names mentioned in the image.
+You didn’t need to hack the site to see – they weren’t password protected and anyone curious enough to make a bit of an effort could view and download the photos.
+Vice was particularly critical of how Skirt Club dealt with the issue:
+After VICE Germany reported the security issues to Skirt Club in mid-December 2016, it took Skirt Club more than three weeks to patch the issue.
+The users’ pictures and data aren’t accessible any more, but the security issue isn’t resolved completely – and at the time of publication, Skirt Club hasn’t informed users of the former problem.
+Naked Security reached out to Skirt Club, which directed press inquiries toward its attorney:
+Skirt Club is directing all media enquiries to its lawyer, Dr Sebastian Gorski at Schertz Bergmann Rechtsanwälte in Berlin.
+</text>

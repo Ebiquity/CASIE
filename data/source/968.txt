@@ -1,0 +1,38 @@
+<title>Wikileaks&amp;apos; CIA dump looks like a dud for now - Chicago Tribune</title>
+<source> http://www.chicagotribune.com/news/opinion/commentary/ct-wikileaks-cia-vault-7-20170308-story.html </source>
+<date> 2017_03_09 </date>
+<text>
+This file photo taken on August 13, 2008 shows a man walking over the seal of the Central Intelligence Agency (CIA) in the lobby of CIA Headquarters in Langley, Va.
+Wikileaks' latest data dump, the "Vault 7," purporting to reveal the Central Intelligence Agency's hacking tools, appears to be something of a dud.
+If you didn't know before that spy agencies could apply these tools and techniques, you're naive, and if you think it undermines the attribution of hacker attacks on the Democratic National Committee and other targets, you'll be disappointed.
+On the surface, the dump — touted by Wikileaks as the biggest ever publication of confidential CIA documents — offers some explosive revelations.
+They're all over the news pages: The CIA is able to use your Samsung smart TV to eavesdrop on you!
+The CIA can get into your iPhone or Android device, as well as your Windows, Mac or Linux PC, and harvest your communications before they are encrypted!
+No encryption app — not even the Edward Snowden favorite, Signal, or WhatsApp, which uses the same encryption — is safe!
+The CIA hoards "zero day" vulnerabilities — weaknesses not known to the software's vendors — instead of revealing them to the likes of Google, Apple and Microsoft!
+CIA hackers use obfuscation tools to pretend its malware was made by someone else, including Russian intelligence!
+There's even a Buzzfeed story quoting current and former U.S. intelligence officers that the dump is "worse than Snowden's."
+There is little content in the dump to support these panicky reactions.
+Nothing in it indicates that the CIA has broken messenger encryption, as Open Whisper Systems, the software organization responsible for Signal, has been quick to point out.
+The CIA can read messenger communications only if it plants malware on a specific phone or computer; then it can harvest keystrokes and take screenshots.
+This is not about mass surveillance — something that should bother the vast majority of internet users — but about monitoring specific targets.
+Open Whisper Systems tweeted on March 7: "Ubiquitous e2e encryption is pushing intelligence agencies from undetectable mass surveillance to expensive, high-risk, targeted attacks."
+It's not much of a secret that using a hacked phone or computer renders end-to-end encryption useless.
+It was the essence of Apple's dispute with the Federal Bureau of Investigation last year, when the company wouldn't help the FBI get into a phone owned by San Bernardino shooter Syed Rizwan Farook.
+The Big Brother-style implications of a hacked Samsung TV are undermined by the nature of the documents that describe the hack.
+The CIA needs physical access to the TV set to weaponize it.
+Robert Graham, founder of Errata Security, wrote on the firm's blog:
+"The docs are clear that they can update the software running on the TV using a USB drive.
+There's no evidence of them doing so remotely over the Internet.
+If you aren't afraid of the CIA breaking in an installing a listening device, then you should't be afraid of the CIA installing listening software."
+The Wikileaks cache contains a manual for CIA hackers on making their malware harder to trace, for example, by adding foreign languages.
+Wikileaks also said that the CIA "collects and maintains a substantial library of attack techniques 'stolen' from malware produced in other states including the Russian Federation."
+The library, however, contains all sorts of publicly available malware, as well as samples tentatively attributed to foreign intelligence services; all that does is confirm that hackers, including CIA ones, aren't picky about the origins of the products they use.
+The important thing is that the malware should work.
+This shouldn't affect serious attempts to attribute hacker attacks.
+I'm not sure this is fully understood within the U.S. intelligence community itself — at any rate, the declassified report on Russian hacking it released late last year appeared to base attribution on the use of specific publicly available malware.
+But industry experts usually need much more evidence.
+A number of possible Russian attacks were attributed to Moscow's intelligence services because the attackers used specific command and control centers — servers — to collect information from various Russia adversaries.
+To set up a false flag operation, the CIA would need to go much further than obfuscating the origins of its malicious code.
+So all the jubilant tweets from Trump supporters declaring the CIA was behind the "Russian hacks" are at least premature and probably inaccurate.
+</text>

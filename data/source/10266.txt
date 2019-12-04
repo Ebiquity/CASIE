@@ -1,0 +1,25 @@
+<title> Cisco: Two critical bugs in DNA network software need these urgent patches </title>
+<source> https://www.zdnet.com/article/cisco-two-critical-bugs-in-dna-network-software-need-these-urgent-patches/ </source>
+<date> 2018_10_04 </date>
+<text>
+Cisco has plugged two severe vulnerabilities affecting its Digital Network Architecture (DNA) Center software. 
+Appliances running Cisco's DNA Center software before Release 1.1.4 are vulnerable to an authentication bypass that could allow a remote attacker to "take complete control" of its identity management functions.
+Network admins can use the DNA Center interface to add new devices to the network and manage them based on enterprise policies. DNA Center is part of Cisco's toolkit for internet-based networking.
+Lax security restrictions on key DNA management functions mean an attacker could send a valid identity management request to an affected system and then change existing system users or create new users, according to Cisco.
+The flaw, which is tracked as CVE-2018-0448, is rated critical and has a Common Vulnerability Scoring System (CVSS) v 3.0 rating of 9.8 out of 10. 
+It's fixed in release 1.1.4 and later and since there are no workarounds, admins will need to update to these releases to fix the bug.
+Cisco also fixed another critical DNA Center flaw, CVE-2018-15386, which could give a remote attacker direct access to core management functions.
+An attacker could exploit the bug by directly connecting to exposed DNA Center services and from there obtain or change critical system files.
+This bug is due to insecure default configurations affecting DNA Center release 1.1 Again, there are no workarounds for the bug, so admins will need to update to release 1.2 and later.
+Both flaws were found during internal testing. Cisco is not aware of any exploits in the wild for the flaws.
+Cisco has also fixed a critical flaw affecting Cisco Prime Infrastructure (PI) that could let a remote attacker upload any file they wishwithout requiring authentication. The file could be used to execute commands.
+On PI, Trivial File Transfer Protocol (TFTP) is enabled by default and accessible from the web interface, which an attacker could use toupload a malicious file.
+Customers should check Cisco's advisory to determine whether they're running a fixed release. It also has workarounds for some releases.
+The flaw was reported by independent security researcher Pedro Ribeiro through Beyond Security's SecuriTeam Secure Disclosure program. 
+Beyond Security notes in its detailed report about the PI issue that Ribeiro identified two flaws but only one was fixed in Cisco's patch.
+"The first vulnerability is a file-upload vulnerability that allows the attacker to upload and execute JSP files as the Apache Tomcat user."
+"The second vulnerability is a privilege escalation to root by bypassing execution restrictions in a SUID binary.
+"From our assessment the provided fix only addresses the file uploading part of the exploit, not the file inclusion, the ability to execute arbitrary code through it or the privileges escalation issue that the product has."
+Cisco also released patches for 33 more high- and medium-severity flaws affecting WebEx, SD-WAN products, and its ASA security appliances. 
+</text>
+

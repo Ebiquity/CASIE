@@ -1,0 +1,17 @@
+<title>Android Banking Trojan Source Code Leaked Online, Leads to New Variation Right Away</title>
+<source> https://www.bleepingcomputer.com/news/security/android-banking-trojan-source-code-leaked-online-leads-to-new-variation-right-away/ </source>
+<date> 2017_01_23 </date>
+<text>
+The Russian antivirus maker says the leaked source code appears to be a high-quality product and the security firm is positive this will attract the attention of many cyber-criminals looking for a base to develop and deploy their own mobile malware.
+Android banking trojans are usually sold for thousands of dollars, or rented for similar high fees.
+The easily availability of this trojan might lead to a surge in banking trojans targeting Android devices, Dr.Web researchers warn.
+According to the company, the leaked source code has already been taken, tweaked and twisted into a new banking trojan named Android.BankBot, currently seen in live infections.
+The BankBot version detected in the wild appears to target only users of Russian banks.
+According to Dr.Web, the trojan will lie in hiding until the user opens mobile banking apps or social media apps.
+When this happens, the trojan shows fake login overlays, asking the user to reauthenticate or re-enter his payment card details, where appropriate.
+BankBot can phish for credentials using overlays for apps such as Facebook, Viber, Youtube, WhatsApp, Uber, Snapchat, WeChat, imo, Instagram, Twitter, and the Google Play Store.
+This data is collected and sent back to online servers, where the crook can access it via a neatly arranged backend.
+Once the BankBot author has access to user information, he can initiate banking transactions, or sell the user's social media credentials online.
+When siphoning money out of a victim's bank account, BankBot will also intercept and silently delete incoming SMS messages, meaning the bank's transaction notification never reaches the user.
+Other BankBot features include the ability to send SMS messages and USSD requests, steal the user's contacts list, track the user via GPS coordinates, and request additional permissions via popups for the latest Android OS versions, where the permissions system is more layered and interactive than in previous releases.
+</text>

@@ -1,0 +1,12 @@
+<title> SMBs Increasingly Targeted in Ransomware Attacks </title>
+<source> https://www.infosecurity-magazine.com/news/smbs-targeted-ransomware/ </source>
+<date> 2018_03_16 </date>
+<text>
+Small and medium businesses across Europe are being actively targeted by ransomware attacks, new research has shown.
+According to data protection firm Datto, 87% of European IT service providers it surveyed said their SMB customers had been hit by a ransomware attack at some point during the previous 12 months. Additionally, 40% of respondents reported multiple attacks during that time. Just over a quarter of respondents (27%) reported experiencing multiple attacks in a single day.
+In terms of the impact these attacks are having, the survey revealed the average ransom demanded was between £500 and £2000. In 15% of reported cases the demand was in excess of £2000. Nearly half (47%) said paying the ransom was ineffective, as they still lost some of the data that had been encrypted by the attackers.
+As well as financial penalties, ransomware attacks can also impact the business in other ways. A majority of respondents (62%) said they’d experienced downtime during the attack. For smaller organizations, the combination of financial loss and downtime can threaten the continued operation of the business, Datto said.
+Frustratingly, just 40% of ransomware victims end up reporting the crime to the authorities. The FBI has previously said that reporting ransomware attacks will help it get a better understanding of exactly how many attacks are occurring as well as help the industry develop its defenses; traditional antivirus has so far proved to be ineffectual against most ransomware.
+“Ransomware is more than just a nuisance; it’s a major money-making operation backed by professional and well-funded organizations,” said Andrew Stuart, managing director, EMEA at Datto.
+</text>
+

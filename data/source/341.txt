@@ -1,0 +1,21 @@
+<title>Ransomware app hosted in Google Play infects unsuspecting Android user | Ars Technica</title>
+<source> http://arstechnica.com/security/2017/01/ransomware-app-hosted-in-google-play-infects-unsuspecting-android-user/ </source>
+<date> 2017_01_25 </date>
+<text>
+Google Play, the official market for Android apps, was caught hosting a ransomware app that infected at least one real-world handset, security researchers said Tuesday.
+The ransomware was dubbed Charger and was hidden inside an app called EnergyRescue, according to a blog post published by security firm Check Point Software.
+Once installed, Charger stole SMS contacts and prompted unsuspecting users to grant it all-powerful administrator rights.
+If users clicked OK, the malicious app locked the device and displayed the following message:
+You need to pay for us, otherwise we will sell portion of your personal information on black market every 30 minutes.
+WE GIVE 100% GUARANTEE THAT ALL FILES WILL RESTORE AFTER WE RECEIVE PAYMENT.
+WE WILL UNLOCK THE MOBILE DEVICE AND DELETE ALL YOUR DATA FROM OUR SERVER!
+TURNING OFF YOUR PHONE IS MEANINGLESS, ALL YOUR DATA IS ALREADY STORED ON OUR SERVERS!
+WE STILL CAN SELLING IT FOR SPAM, FAKE, BANK CRIME etc… We collect and download all of your personal data.
+All information about your social networks, Bank accounts, Credit Cards.
+We collect all data about your friends and family.
+The app sought 0.2 Bitcoin, currently worth about $180.
+In an e-mail, Check Point researchers said the app was available in Google Play for four days and had only a "handful" of downloads.
+"We believe the attackers only wanted to test the waters and not spread it yet," the researchers told Ars.
+The infection was detected by Check Point's mobile malware software, which the company sells to businesses.
+Google officials have since removed the app and have thanked Check Point for raising awareness of the issue.
+</text>

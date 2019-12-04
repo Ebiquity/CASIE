@@ -1,0 +1,9 @@
+<title>Taranaki High School in digital lockdown after hacker demands US$5000 to release school work</title>
+<source> https://www.stuff.co.nz/taranaki-daily-news/news/105913739/taranaki-high-school-in-digital-lockdown-after-hacker-demands-us5000-to-release-school-work </source>
+<date> 2018_08_02 </date>
+<text>
+An anonymous computer hacker has demanded US$5000 from a provincial high school to return course work they are holding for ransom.
+Hāwera High School staff in South Taranaki switched on their computers on Monday to discover a message demanding payment for the return of encrypted data on a server containing students' work and teaching resources, principal Rachel Williams said.
+The hack did not affect student and staff records but the entire school network was taken offline as a precaution. 
+The only devices being used at the school are running off their own data or a hotspot from a mobile phone, she said.Forensics experts from the police, Ministry of Education and the school's network provider were all working to find the source of the intrusion.
+</text>

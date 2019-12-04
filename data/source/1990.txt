@@ -1,0 +1,20 @@
+<title>No, Netflix is not a victim of Ransomware | CSO Online</title>
+<source> http://www.csoonline.com/article/3193397/security/no-netflix-is-not-a-victim-of-ransomware.html </source>
+<date> 2017_05_01 </date>
+<text>
+Over the weekend, a hacker known as TheDarkOverlord resurfaced and released the first episode of season five for "Orange is the New Black" a popular show on Netflix that isn't slated to air until June.
+A short time later, TheDarkOverlord released episodes 2 though 10, along with a warning to other Hollywood studios – you're next.
+The media jumped on the story. Netflix wouldn't confirm or deny the leaked episodes were legitimate, stating that proper law enforcement had been notified, and that a company used by several TV studios "had its security compromised."
+The company in question, Larson Studios, does audio post-production work for a number of shows and films, including NCIS Los Angeles, Designated Survivor, and Arrested Development. According to Larson Studios, they've done work for FOX, Netflix, ABC, NBC, IFC, Showtime, and more.
+As word of Netflix's security problem started to spread, news outlets starting comparing the incident to the Sony Pictures hack and the medical hacks over the last few years. While there are some comparisons to be made, they're not the same type of threat.
+Netflix didn't have a Ransomware incident, and neither did Larson Studios. Their files were stolen, not encrypted.
+Ransomware encrypts the files on a computer and renders them useless. Victims can recover the files if they pay a fee (ransom), or they can try and recover the files from backups.
+According to TheDarkOverlord, Larson Studios was targeted because they were a post-production company.
+Late last year, TheDarkOverlord hacked Larson Studios and downloaded an unknown number of files. Plenty of reporters knew TheDarkOverlord had targeted Hollywood, but until this weekend there was never any proof.
+Fast forward a few months. When Larson Studios didn't comply with the extortion demands, TheDarkOverlord turned their attention to Netflix. When Netflix refused to pay, season five (minus three episodes) of "Orange is the New Black" was released for download.
+"It didn't have to be this way, Netflix. You're going to lose a lot more money in all of this than what our modest offer was. We're quite ashamed to breathe the same air as you. We figured a pragmatic business such as yourselves would see and understand the benefits of cooperating with a reasonable and merciful entity like ourselves," TheDarkOverlord wrote in a statement.
+Netflix surpassed $2.5 billion in quarterly streaming revenue in Q1 2017, and added five million members to their subscriber base. While having one of their popular series leaked to the web isn't exactly helpful, it isn't clear if there will be any financial impact from this incident.
+Once again, extortion and Ransomware are two separate things.
+Netflix and Larson Studios are (were) being extorted, they were not infected with Ransomware and have complete access to their files.
+However, there is a lesson to be learned. Third-parties are always going to pose a risk to any organization, and this is certainly the case in Hollywood where secrecy and suspense are key to their business model.
+</text>

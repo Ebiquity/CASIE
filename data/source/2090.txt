@@ -1,0 +1,18 @@
+<title>Some Twitter Dude Is Trying to Take Credit for the Google Docs Phishing Attack</title>
+<source> https://www.bleepingcomputer.com/news/security/some-twitter-dude-is-trying-to-take-credit-for-the-google-docs-phishing-attack/ </source>
+<date> 2017_05_05 </date>
+<text>
+A Twitter user by the name @EugenePupov is trying to take credit for the massive phishing attack that hit Gmail users last night, and which attempted to trick users into granting permission for a fake Google Docs app to access their Gmail inbox details.
+While Google intervened and stopped the self-spreading attack about an hour after it started — which is a pretty good response time — questions still linger about who was behind it.
+If there's one thing we know for sure, is that the fake Google Docs app was registered using the email eugene.pupov@gmail.com.
+The owner of the aforementioned @EugenePupov Twitter account, who took credit for the attacks, claimed in a series of tweets [assembled below] it was only a test.
+While some might think this is an open&close case, it is not quite so. For starters, the Twitter account was registered yesterday, on the same day of the attack, which isn't necessarily suspicious, but it's odd.
+Second, if you would try to reset that Twitter account's password, you'll see that the Twitter account isn't registered with the same address used in the phishing attacks.
+Registering a Twitter account with the eugene.pupov@gmail.com email wouldn't haven been possible either way, as this Gmail address isn't registered at all.
+Furthermore, a Coventry University spokesperson told Bleeping Computer today that no person with the name Eugene Pupov is currently enrolled at their institution. Later they confirmed it on Twitter.
+If things weren't shady enough, the Twitter account used a profile image portraying a molecular biologist named Danil Vladimirovich Pupov, from the Institute of Molecular Genetics, at the Russian Academy of Sciences.
+When other users called out [1, 2] the Twitter account for using another person's image, the man behind the @EugenePupov account simply changed it to a blank white image.
+To clarify what exactly is going on with the Twitter account images, we've reached out to the real Danil Pupov hoping for some answers, as we weren't able to find any good reasons for why a molecular biologist would fiddle around with Gmail spam campaings and fake Google Docs apps.
+As things are looking right now, it appears that someone is either in the mood for a prank, or the real person behind the attack is trying to plant a false flag and divert the attention of cyber-security firms investigating the incident [1, 2].
+As for Google, after a more thorough investigation, the company says that only 0.1% of all Gmail users received the phishing email that contained the link to Pupov's fake Google Docs app that requested permission to access users' inboxes. That's around one million users of Gmail's one billion plus userbase.
+</text>

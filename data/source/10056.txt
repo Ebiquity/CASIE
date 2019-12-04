@@ -1,0 +1,16 @@
+<title> Up to 100,000 Taxpayers Compromised in Fafsa Tool Breach, I.R.S. Says  </title>
+<source> https://www.nytimes.com/2017/04/06/us/politics/internal-revenue-service-breach-taxpayer-data.html </source>
+<date> 2017_04_06 </date>
+<text>
+WASHINGTON — The Internal Revenue Service said on Thursday that the personal data of as many as 100,000 taxpayers could have been compromised through a scheme in which hackers posed as students using an online tool to apply for financial aid.
+The breach may be the most extensive since 2015, when thieves gained access to the tax returns of over 300,000 people by using stolen data and filed fraudulent returns to get refunds.
+The possibility of an attack became known in early March after the I.R.S. shut down its Data Retrieval Tool, which families used to import tax information to Fafsa, the Free Application for Federal Student Aid, on the Education Department’s website. The shutdown, at the height of financial aid application season, caused outrage among parents and students trying to fill out the complicated Fafsa forms.
+The I.R.S. has been struggling to overhaul its defenses against increasingly sophisticated cyberthreats as its budget shrinks and its staff dwindles.
+The agency became concerned last fall when it realized that it was possible for criminals to take advantage of the student loan tool that allows aid applicants to automatically populate the applications with their and their parents’ tax information. The worry was that thieves might use the stolen data to file fraudulent returns and steal refunds, as they did two years ago.
+“Fortunately we caught this at the front end,” John Koskinen, the I.R.S. commissioner, said Thursday at a Senate Finance Committee hearing. The I.R.S. does not expect the tool to be secure and operational again until October. “Our highest priority is making sure that we protect taxpayers and their identity,” he said.
+But the breadth of the breach remains unknown, and Mr. Koskinen faced tough questions during the hearing as to why he did not act sooner.
+Senator Orrin G. Hatch of Utah, the Republican chairman of the committee, wondered why Mr. Koskinen had waited several months to shut down the tool after realizing that it might be vulnerable.
+Mr. Koskinen said he did not want to cut off a tool that millions of financial aid applicants use before the evidence of foul play was clear. After monitoring activity in the system, the I.R.S. noticed an unusual spike of unfinished applications in February that suggested criminals were at work.
+The commissioner, who in the past has faced calls from many Republican lawmakers to resign, said that the agency had already sent out 35,000 letters to taxpayers and that it was planning to contact 100,000 people to alert them that they might be at risk. The agency believes that fewer than 8,000 fraudulent returns were filed and processed, resulting in refunds issued.
+The questions about the security of data at the I.R.S. came less than two weeks before tax day and amid new calls from Republicans that Mr. Koskinen resign before his term ends in November. The commissioner has been a boogeyman for Republicans for years, because many in the party think that he has misled them over accusations that the agency overzealously audited certain conservative nonprofit groups.
+</text>

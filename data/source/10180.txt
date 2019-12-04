@@ -1,0 +1,18 @@
+<title> Apache's latest SNAFU – Struts normal, all fscked up: Web app framework needs urgent patching </title>
+<source> https://www.theregister.co.uk/2018/08/22/apache_struts_2_vulnerability/ </source>
+<date> 2018_08_22 </date>
+<text>
+Another critical security hole has been found in Apache Struts 2, requiring an immediate update.
+The vulnerability – CVE-2018-11776 – affects core code and allows miscreants to pull off remote code execution against vulnerable servers and websites. It affects all versions of Struts 2, the popular open-source framework for Java web apps.
+The Apache Software Foundation has "urgently advised" anyone using Struts to update to the latest version immediately, noting that the last time a critical hole was found, the holes were being exploited in the wild just a day later. In other words, if you delay in patching, your organization will be compromised in short order via this bug, if you are running vulnerable systems.
+It was that earlier flaw that led to a nightmare data breach from credit company Equifax after it failed to patch swiftly enough. The details of nearly 150 million people were exposed, costing the company more than $600m, so this is not something to be taken lightly.
+The company that discovered the vulnerability – Semmle Security Research Team – warns that this latest one is actually worse that the one last year, which it also found. It has published a blog post with more information. Semmle found the hole back in April and reported it to Apache, which put out a patch in June that it has now pulled into formal updates (2.3.35 for those using version 2.3 and 2.5.17 for those on 2.5).
+As mentioned, the vulnerability is in the core code and doesn't require additional plugins to work. It is caused by insufficient validation of untrusted user data in the core of the Struts framework, and can be exploited in several different ways.
+Semmle says it has identified two different vectors but warns there may be others.
+
+Since it can be used remotely and due to the fact that Struts is typically used to create applications that are on the public internet, hackers are going to be especially focused on exploiting it so they can gain access to corporate networks.
+And there are some big targets out there: Apache Struts is extremely common with most large corporations using it somewhere in their systems for web apps.
+Semmle's VP of engineering, Pavel Avgustinov, had this to say about the hole on Wednesday this week: "Critical remote code execution vulnerabilities like the one that affected Equifax and the one we announced today are incredibly dangerous for several reasons: Struts is used for publicly-accessible customer-facing websites, vulnerable systems are easily identified, and the flaw is easy to exploit. A hacker can find their way in within minutes, and exfiltrate data or stage further attacks from the compromised system. It’s crucially important to update affected systems immediately; to wait is to take an irresponsible risk."
+This is very far from the first time that big security holes have been found in Struts, leading some to recommend that people simply stop using it.
+</text>
+

@@ -1,0 +1,26 @@
+<title> Feds: Iranians led cyberattack against Atlanta, other U.S. entities </title>
+<source> https://www.ajc.com/news/local-govt--politics/feds-iranians-led-cyberattack-against-atlanta-other-entities/xrLAyAwDroBvVGhp9bODyO/ </source>
+<date> 2018_11_28 </date>
+<text>
+Authorities on Wednesday charged two Iranian citizens for the ransomware cyber attack that hobbled the city of Atlanta’s computer network in March, and the federal indictment outlines the pair’s massive nationwide scheme to breach computer networks of local governments, health care systems and other public entities.
+The defendants, Faramarz Shahi Savandi, 34, and Mohammad Mehdi Shah Mansouri, 27, are alleged to have developed the SamSam ransomware, malicious software that encrypts data until the infected organizations paid ransom. 
+All told, the pair inflicted harm on more than 200 victims across the country and collected roughly $6 million in ransom over a three year period dating back to 2015. Their scheme caused over $30 million in losses to various entities, according to federal authorities.
+The hack to city of Atlanta computers in March crippled city business for days. One internal report that surfaced in August estimated the damage to the city could cost up to $17 million.
+“We’re glad that these people will be brought to justice,” Mayor Keisha Lance Bottoms told Channel 2 Action News. “Hopefully this will stop another municipality from experiencing what we did.”
+“The defendants allegedly hijacked victims’ computer systems and shut them down until the victims paid a ransom,” said Deputy Attorney General Rod Rosenstein, speaking at a press conference in Washington D.C. “Many of the victims were public agencies with missions that involve saving lives and performing other critical functions for the American people.”
+The two men are not in U.S. custody, and Iran has no extradition treaty with the U.S. But Justice Department officials expressed confidence that the Savandi and Mansouri’s travel patterns would subject them to being captured.
+Atlanta officials have repeatedly denied paying the $51,000 in ransom demanded by the hackers and the 26-page federal indictment released Wednesday doesn’t directly address which cities and entities paid ransom. Brian Benczkowski, an assistant attorney general for the U.S. Justice Department, told reporters on Wednesday that the agency wouldn’t identify which victims paid the attackers.
+A city of Atlanta spokesperson on Wednesday said again that no one acting on the city’s behalf, including its insurance carrier, paid any ransom. But the indictment has two references to Atlanta and it raises questions about whether or not the city paid ransom.
+The indictment describes the March 22 assault on Atlanta’s network and the effort by the two men to demand ransom. In one paragraph, the indictment says they demanded ransom from Atlanta in Bitcoin payments in exchange for encryption keys to recover the city’s compromised data.
+The next paragraph says that on April 19, Savandi “received funds associated with ransom proceeds, which were converted into Iranian rial and deposited by” an currency exchanger. The indictment does not say if those proceeds were associated with the Atlanta attack.
+But Ralph Echemendia, a computer hacking consultant who advises corporations on cyber security, said he read the indictment and thinks the payment was associated with the Atlanta attack because it would be one way that federal agents connected the breach to Savanda and Mansouri.
+The indictment describes how the two men demanded payments in bitcoins, a so-called crypto currency, and in Atlanta’s case, the demand equaled roughly $50,000.
+“The moment you try and turn it into dollars, euros or any kind of real currency it has to go through an exchange,” Echemendia said. “At that point the exchange would have to work with law enforcement … ultimately that is going to wind up in somebody’s back account.”
+The Justice Department declined to answer a question from the AJC about whether April 19 exchange of bitcoins into Iranian rial described in the indictment was related to Atlanta’s attack.
+Tony UcedaVelez, CEO of Versprite, an Atlanta based security services said the language in the indictment does make it seem a ransom was paid on the city’s behalf. But he said it could have been made by someone in law enforcement hoping the funds would lead to the attackers.
+UcedaVelez also pointed to an attachment in the indictment that indicated someone associated with the city had followed the attackers’ initial instructions.
+The indictment included a ransom note to Newark instructing it on how to download a Tor network browser and visit the attackers’ website where victims could upload two files to be decrypted as a demonstration. Newark paid its ransom of roughly $30,000.
+Another attachment shows the ransom website the attackers created for the city of Atlanta on the Tor network. To get there, someone would have had to download the Tor browser. And it appeared they had uploaded a couple of files for the demonstration.
+“Files available to decrypt: 2,” read a statement on the site.
+</text>
+

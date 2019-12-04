@@ -1,0 +1,17 @@
+<title>Experts Warn of Novel PDF-based Phishing Scam | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/experts-warn-of-novel-pdf-based-phishing-scam/122896/ </source>
+<date> 2017_01_06 </date>
+<text>
+The SANS Internet Storm Center published a warning on Wednesday about an active phishing campaign that utilizes PDF attachments in a novel ploy to harvest email credentials from victims.
+According to the SANS bulletin, the email has the subject line “Assessment document” and the body contains a single PDF attachment that claims to be locked.
+A message reads: “PDF Secure File UNLOCK to Access File Content”.
+Clicking on a link to unlock the document opens the PDF document using the computer’s default viewer.
+A dialogue box then appears above the PDF prompting the user to input their email address and password.
+They are not going after the most sophisticated users.
+They are going after Joe Cubicle that may not think twice about entering credentials to unlock a PDF,” said John Bambenek, handler at SANS Internet Storm Center.
+Bambenek suspects that attackers are harvesting credentials in hopes of gaining a small foothold into a company via an email account or to perpetuate further phishing scams.
+The email says it’s from VetMeds and the PDF is identified as a VetMeds assessment.
+Once opened, the contents of the one-page PDF indicates that the document is a SWIFT (Society for Worldwide Interbank Financial Telecommunication) banking transaction.
+“It doesn’t matter what email address or password you input into the fake unlocking mechanism.
+The document is opened and anything you input is transmitted to the spammer,” Bambenek said.
+</text>

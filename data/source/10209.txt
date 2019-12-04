@@ -1,0 +1,16 @@
+<title> Adobe Patch Tuesday November Fixed Multiple Information Disclosure Vulnerabilities </title>
+<source> https://latesthackingnews.com/2018/11/16/adobe-patch-tuesday-november-fixed-multiple-information-disclosure-vulnerabilities/ </source>
+<date> 2018_05_11 </date>
+<text>
+This week, Adobe released its monthly scheduled update bundle addressing vulnerabilities within its different products. The Adobe patch Tuesday November updates allegedly fixed numerous vulnerabilities leading to information disclosure. These vulnerabilities existed in Adobe Acrobat/Reader, Flash Player, and Photoshop CC.
+The recently released Adobe Patch Tuesday November updates addressed three different vulnerabilities – all resulting in information disclosure.
+The first one existed in the Adobe Photoshop CC affecting versions 19.1.6 and prior for both Windows and MacOS. As described in the security advisory, Adobe has fixed this important Out-of-bounds read vulnerability (CVE-2018-15980) in the Photoshop CC versions 19.1.7 and 20.0.
+The second information disclosure flaw affected Adobe Reader and Acrobat for Windows. Explaining about the flaw in their advisory, Adobe stated, “Successful exploitation could lead to an inadvertent leak of the user’s hashed NTLM password.”
+The vulnerability initially received the CVE number CVE-2018-4993, when Check Point Research first reported the bug. However, as recently disclosed by the EdgeSpot, Adobe only patched a single variant of this bug. Whereas, the EdgeSpot team discovered other variants that hinted towards a failed patching of the bug instead of a new vulnerability.
+The patched vulnerability has now received CVE number CVE-2018-15979 “to reflect that the patch is available”.
+The third vulnerability addressed this month is an out-of-bounds Read vulnerability (CVE-2018-15978) in the Adobe Flash Player. The affected versions include 31.0.0.122 and earlier for Windows, Linux, and MacOS.
+Unlike previous months, the Adobe Patch Tuesday November update bundle addressed fewer bugs. Moreover, none of the patched vulnerabilities had a critical severity impact. In October, Adobe patched 86 different vulnerabilities including 47 critical ones. Whereas, in September, they addressed 6 critical flaws.
+Adobe has fixed the bugs CVE-2018-15980 and CVE-2018-15978 in Adobe Photoshop CC versions 19.1.7 and 20.0 and Adobe Flash Player version 31.0.0.148, respectively. Whereas, CVE-2018-15979 has received a patch in Adobe Acrobat DC and Reader DC version 2019.008.20081, Acrobat 2017 and Acrobat Reader DC 2017 version 2017.011.30106, and Acrobat DC and Acrobat Reader DC (Classic 2015) version 2015.006.30457.
+For protection against the three important vulnerabilities addressed in November updates, users should make sure to upgrade their software to the patched versions at the earliest convenience.
+</text>
+

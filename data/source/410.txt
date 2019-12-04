@@ -1,0 +1,19 @@
+<title>Remote attackers can force Samsung Galaxy devices into never-ending reboot loop - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/27/samsung-galaxy-remote-attack-sms/ </source>
+<date> 2017_01_30 </date>
+<text>
+A single SMS can force Samsung Galaxy devices into a crash and reboot loop, and leave the owner with no other option than to reset it to factory settings and lose all data stored on it.
+This is because there are certain bugs in older Samsung Galaxy phones and tablets that can be triggered via SMS, and used by attackers to force maliciously crafted configuration messages onto the users’ device.
+The bugs allow these types of messages to be executed without user interaction.
+As the ContextIS researchers who discovered the vulnerabilities explained, this avenue of attack can be abused by crooks to hold users’ devices for ransom.
+“First a ransom note is sent, if ignored then the malicious configuration message can be sent,” they noted.
+If the victim pays up, a configuration message can later be sent to stop the rebooting.
+The vulnerabilities in question, CVE-2016-7988 and CVE-2016-7989, can be triggered through SMS on the S4, S4 Mini, S5 and Note 4, but not on newer Samsung devices.
+“It’s worth noting that although newer phones such as the S6 and S7 aren’t affected over the air, [a similar result] could be accomplished by a malicious app abusing CVE-2016-7988,” they added.
+These specific issues are related to modifications Samsung made to to the Android telephony framework and are found in a Samsung-specific application for handling carrier messages.
+“We responsibly disclosed this to Samsung who handle the patching process with carriers.
+We extended our standard 90 day disclosure policy to allow Samsung time to arrange for the patches to be made available,” the researchers told Help Net Security.
+Whether all users of vulnerable devices have received the patches is difficult to tell.
+“The Android update process is a bit of a minefield and is well illustrated in this HTC diagram,” they commented.
+They also noted that it’s possible that the same avenue of attack could be abused to target other devices – it all depends on how this same technology is handled by other vendors.
+</text>

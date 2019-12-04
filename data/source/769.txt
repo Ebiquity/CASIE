@@ -1,0 +1,29 @@
+<title>Macs Feel More Crypto-Locker Ransomware Love - BankInfoSecurity</title>
+<source> http://www.bankinfosecurity.com/blogs/macs-feel-more-crypto-locker-ransomware-love-p-2399 </source>
+<date> 2017_02_27 </date>
+<text>
+One tried-and-true technique continues to be hiding malware inside fake versions of popular files, then distributing those fake versions via app stores.
+Doing the same via peer-to-peer BitTorrent networks has also long been popular.
+But as with so many supposedly free versions of paid-for applications, users may get more than they bargained for.
+To wit, last week researchers at the security firm ESET spotted new ransomware - Filecoder.E - circulating via BitTorrent, disguised as a "patcher" that purports to allow Mac users to crack such applications as Adobe Premiere Pro CC and Microsoft Office 2016.
+As Toronto-based security researcher Cheryl Biswas notes in a blog post: "For those who torrent, be careful.
+ESET says the ransomware can also encrypt any Time Machine backups on network-connected volumes that are mounted at the time of the attack.
+If the ransomware infects a system, it demands 0.25 bitcoins - currently worth about $300 - for a decryption key.
+But ESET security researcher Marc-Etienne M.L Éveillé, in a blog post, says the application is so poorly coded that there's no way that a victim could ever obtain a decryption key.
+So far, ESET reports that the single bitcoin wallet tied to the ransomware has received no payments.
+"There is one big problem with this ransomware: It doesn't have any code to communicate with any C&C; server," says Éveillé, referring to a command-and-control server that might have been used to remotely control the infected endpoint.
+"This means that there is no way the key that was used to encrypt the files can be sent to the malware operators.
+This also means that there is no way for them to provide a way to decrypt a victim's files."
+The longstanding ransomware-defense advice, of course, is to never pay ransoms, because this directly funds cybercrime groups' ongoing research and development.
+Instead, stay prepared: Keep complete, disconnected backups of all systems, and periodically test that they can be restored, and thus never have to consider paying a ransom.
+"We advise that victims never pay the ransom when hit by ransomware," Éveillé says.
+In other ransomware news, new ransomware known as Trump Locker - not to be confused with Trumpcryption - turns out to be a lightly repackaged version of VenusLocker ransomware, according to Lawrence Abrams of the security analysis site Bleeping Computer, as well as the researchers known as MalwareHunter Team.
+"Unfortunately, you are hacked," the start of the malware's ransom demand reportedly reads.
+VenusLocker first appeared in October 2016; it got a refresh two months later.
+The researchers don't know if the group distributing Trump Locker is the same group that distributed VenusLocker, or if another group of attackers reverse-engineered the code.
+But they say that functionally, the two pieces of malware appear to be virtually identical, Bleeping Computer reports.
+For example, both Trump Locker and VenusLocker will encrypt some files types in full, while only encrypting the first 1024 bytes of other file types, including PDF, XLS, DOCX, and MP3 file formats.
+Fully encrypted files have ".TheTrumpLockerf" appended to their filename, while partially encrypted files get a ".TheTrumpLockerp" extension added, the researchers say.
+Finally, ransomware gangs' use of customer service portals - to help and encourage victims to pay their ransoms - continues, says Mikko Hypponen, chief research officer of Finnish security firm F-Secure.
+One chief function of this support appears to be to help victims who don't know their Windows from their ASP to find a way to remit bitcoins to attackers, according to research into crypto-ransomware called Spora and its related customer-support operation, conducted by F-Secure's Sean Sullivan.
+</text>

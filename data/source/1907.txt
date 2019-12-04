@@ -1,0 +1,13 @@
+<title>French Macron campaign confirms phishing attempts, says no data stolen | ZAWYA MENA Edition</title>
+<source> http://www.zawya.com/mena/en/story/French_Macron_campaign_confirms_phishing_attempts_says_no_data_stolen-TR20170426nL8N1HY3HDX2/ </source>
+<date> 2017_04_27 </date>
+<text>
+French presidential candidate Emmanuel Macron's campaign team confirmed on Wednesday that his party had been the target of a series of attempts to steal email credentials since January but that they had failed to compromise any campaign data.
+Macron's party, known as "En Marche!" or "Onwards", said it had been hit by at least five advanced "phishing" attacks that involved trying to trick a broad number of campaign staff members to click on professionally-looking fake web pages.
+The latest attacks were confirmed by security firm Trend Micro , whose researchers found links to a cyber espionage group it has dubbed Pawn Storm, the Macron team noted. Other experts link the group, also known as "Fancy Bear" or "APT 28", to Russian military intelligence agency GRU.
+Russia has denied involvement in attacks on Macron's campaign.
+Macron, an independent centrist who has been critical of Russian foreign policy, faces far-right leader Marine Le Pen in France's presidential runoff on May 7. Le Pen has taken loans from Russian banks and has called for closer ties with Moscow. 
+"Emmanuel Macron is the only candidate in the French presidential campaign to be targeted (in phishing attacks)," his party said in a statement, adding this was "no coincidence".
+In mid-February, an En Marche! official told a news conference the party was enduring "hundreds if not thousands" of attacks on its networks, databases and sites from locations inside Russia and asked the French government for assistance.
+The Macron campaign said on Wednesday it had carried out counter-offensive actions against the fake web sites, which were designed to trick campaign workers into divulging their user credentials. As a further precaution, it also said En Marche! does not use email to share confidential information.                                
+</text>

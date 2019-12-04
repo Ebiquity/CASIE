@@ -1,0 +1,13 @@
+<title> WebSphere and loathing in New York: IBM yanks buggy application server security fix from admins  </title>
+<source> https://www.theregister.co.uk/2018/10/11/ibm_websphere_security_fix_pulled/ </source>
+<date> 2018_10_11 </date>
+<text>
+IBM has withdrawn a patch for a significant security vulnerability in its WebSphere Application Server after the code knackered some systems.
+Just this week, Big Blue said it is working on a new fix for CVE-2018-1567, a remote-code execution vulnerability in versions 9.0, 8.5, 8.0, and 7.0 of the platform.
+According to IBM, the vulnerability would potentially allow an attacker to remotely execute Java code on a vulnerable web-app server via its SOAP connector port. The bug was sealed up on September 5, when IBM made the fix available for download and installation.
+Unfortunately, the patch had been causing problems, forcing IBM to pull the fix on Wednesday, more than a month. Big Blue said the patch was yanked "due to regression", which is the fancy way of saying it was mucking stuff up.
+"There may be a failure after the security fix for PI95973 is installed," IBM tells customers. "The fix has been removed while it is being reworked by development."
+IBM did not say when the updated patch might be arriving, putting some admins in the difficult position of either leaving a vulnerability open or risking crashes. We've asked the New York-based IT giant for more details, following a tip off from an eagle-eyed reader – let us know if you also spot any strange goings on with patches and so forth.
+In Big Blue's defense, this is far from the first time a company has had to pull a security patch that was found to pose stability concerns. Microsoft has to do this with some regularity. In fact, just today word surfaced that a number of HP users have been struggling with blue screen crashes affected their PCs after installing this week's Patch Tuesday updates.
+</text>
+

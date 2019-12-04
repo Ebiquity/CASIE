@@ -1,0 +1,24 @@
+<title>GameStop Online Shoppers Officially Warned of Breach | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/gamestop-online-shoppers-officially-warned-of-breach/126172/ </source>
+<date> 2017_06_12 </date>
+<text>
+GameStop customers received breach notification warnings this week, cautioning them that their personal and financial information could have been compromised nine months ago.
+According to postal letters sent to customers, GameStop said an undisclosed number of online customers had their credit card or bankcard data stolen, including the card numbers, expiration dates, names, addresses and the three-digit card verification values (CVV2).
+The breach occurred between Aug 10, 2016 to Feb 9, 2017, according to GameStop. In April, the company publicly acknowledged the breach. But, it wasn’t until last week that affected customers were individually notified that their cards were likely stolen.
+“I’m pretty upset at GameStop. I should have been notified when they knew about it in April,” said GameStop customer Ryan Duff, a former cyber operations tactician at U.S. Cyber Command.
+As a security professional, he said he expected better of GameStop when it came to notifying him of a possible breach of his credit card information. Subsequently, Duff said, the card used on GameStop.com back in November had been compromised, according to his bank.
+“There is no way it should have taken months to be notified,” he said.
+Breach notification laws differ from state to state. But many states, such as Massachusetts, mandate victims be notified “as soon as practicable and without unreasonable delay” or the company may face civil penalties. The rules are there, in part, to allow for consumers to freeze accounts and avoid paying fees associated with having their card stolen.
+“After receiving a report that data from payment card used on www.GameStop.com may have been obtained by unauthorized individuals, we immediately began an investigation and hired a leading cybersecurity firm to assist us,” wrote J. Paul Raines, chief executive officer of GameStop in a letter dated June 2 that was sent sent to impacted customers.
+“Although the investigation did not identify evidence of unauthorized access to payment card data, we determined on April 18, 2017 that the potential for what to have occurred existed for certain transactions,” he wrote.
+GameStop operates 7,500 retail stores and its consumer product network online includes GameStop.com, game site Kongregate.com and online retailer ThinkGeek. No retail customers were impacted by the breach, according to the company.
+“GameStop identified and addressed a potential security incident that was related to transactions made on GameStop’s website during a specific period of time,” the company said in a statement provided to Threatpost. “GameStop mailed notification letters to customers who made purchases during that time frame advising them of the incident and providing information on steps they can take.”
+Still unknown about the breach are how many customers may have been impacted, how was the data stolen and how was GameStop alerted to the fact the data had been stolen.
+In April, GameStop issued the statement: “GameStop recently received notification from a third party that it believed payment card data from cards used on the GameStop.com website was being offered for sale on a website.”
+Krebs on Security reported in April that GameStop had received an alert from a credit card processor stating that its website was potentially comprised.
+Originally, it was believed that the breach involved GameStop retail stores and that the company’s point-of-sale system may have been infected with malware. That was because the breach occurred at the height of the holiday sales season and that stolen data included card verification values (CVV2). Online merchants are not supposed to store CVV2 codes on their e-commerce sites.
+However, since GameStop said no retail customers were impacted, it is now believed that GameStop.com was hacked and that the data was stolen through the use of malware.
+Over the past 12 months, there has been an unprecedented number of data breaches. Some of those impacted have been ecommerce sites running vulnerable versions of Magento and WordPress and ecommerce platforms Powerfront CMS and OpenCart.
+Criminals have used a number of techniques to siphon off credit card data from these sites ranging from compromised ecommerce plugins that can perform reflected XSS (cross-site scripting) attacks, web-based keyloggers, and DOM-based XSS attacks.
+Over 2,000 WordPress sites are infected as part of a keylogger campaign that leverages an old malicious script.  
+</text>

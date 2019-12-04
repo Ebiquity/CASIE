@@ -1,0 +1,16 @@
+<title> Google, Facebook hit by $100M cyber attack  </title>
+<source> https://www.insurancebusinessmag.com/ca/news/cyber/google-facebook-hit-by-100m-cyber-attack-66410.aspx </source>
+<date> 2017_05_01 </date>
+<text>
+Following the news that a Lithuanian man had been charged over an email phishing scam attack against "two US-based internet companies" whose identities were not disclosed, it has been recently confirmed that the two companies involved were actually tech giants Google and Facebook.
+In a report published April 27, Fortune disclosed the identities of both companies. The companies had been tricked into wiring over US$100 million to the alleged scammer’s bank accounts.
+Evaldas Rimasauskas, 48, purportedly posed as an Asia-based manufacturer and deceived the two companies from at least 2013 to 2015.
+"Fraudulent phishing emails were sent to employees and agents of the victim companies, which regularly conducted multimillion-dollar transactions with [the Asian] company," the US Department of Justice (DOJ) said.
+The DOJ alleged that emails supposedly from the employees of said Asian manufacturer were sent from email accounts designed to look like they were actually from the firm.
+Rimasauskas was charged by the DOJ in March of sending the forged emails, as well as for fabricating invoices, contracts and letters "that falsely appeared to have been executed and signed by executives and agents of the victim companies."
+"We detected this fraud against our vendor management team and promptly alerted the authorities," a spokesperson for Google said in a statement. "We recouped the funds and we're pleased this matter is resolved."
+"Facebook recovered the bulk of the funds shortly after the incident and has been cooperating with law enforcement in its investigation," a representative from Facebook said.
+The BBC reported that neither Google nor Facebook revealed how much money they had transferred, or how much they recouped following the incident.
+While the two companies have advanced cybersecurity measures in place, the phishing attacks targeted individuals through their emails — attacks that could have been avoided through proper verification of dubious payment requests.
+"Sometimes staff [at large firms] think that they are defended, that security isn't part of their job," James Maude of cyber-security firm Avecto told the BBC. "But people are part of the best security you can have — that's why you have to train them."
+</text>

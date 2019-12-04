@@ -1,0 +1,9 @@
+<title>Facebook, Researcher at Odds Over Messenger Issue | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/facebook-researcher-at-odds-over-messenger-issue/123184/ </source>
+<date> 2017_01_20 </date>
+<text>
+Facebook is dismissing claims by a researcher who says multimedia content such as audio-based messages sent via its Facebook Messenger service can be intercepted by a third-party under certain conditions.
+On Tuesday, Mohamed Baset, a security analyst at ecommerce firm Linio México, published a proof-of-concept video demonstrating what he calls a Facebook flaw that allows an attacker to access audio or video files from Facebook servers and play them back.
+Facebook is dismissing Baset’s claims, telling Threatpost, “We appreciate researcher reports, but this is not a flaw and does not impact the normal functioning of voice clips on Messenger”.
+Baset concedes that the alleged threat he illustrates represents a “narrow attack surface” and is “not really that dangerous for most users”.
+</text>

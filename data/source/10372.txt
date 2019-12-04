@@ -1,0 +1,20 @@
+<title> This phishing attack pretends to come from someone you trust  </title>
+<source> https://www.zdnet.com/article/this-phishing-attack-pretends-to-come-from-someone-you-trust/ </source>
+<date> 2017_11_09 </date>
+<text>
+A wave of cyberattacks is targeting organisations' financial departments with a social engineering and phishing campaign designed to trick victims into downloading credential-stealing malware and other threats.
+Detailed by researchers at Barracuda Networks, the invoice impersonation attacks aim to persuade the victim that the messages are from trusted sources, or to act on impulse -- planting the idea that the target has lost money is a common tactic in phishing emails, as it creates panic for the user.
+The victim thinks they are reacting to an important request when all they're doing is playing right into the hands of the attackers.
+A new wave of these attacks involves attackers sending status updates for invoices -- but these don't just involve threat actors firing off millions of messages at random and hoping for the best; they're specially crafting the attacks to look authentic and crucially, from someone the target might trust.
+In one example of this attack, the target receives an email asking for a reply to a query about the payment status of an invoice. A legitimate-looking invoice number is provided in the subject line and the sender's name is chosen to be someone the recipient knows. 
+Mimicking someone the victim knows suggests the attackers are already familiar with the target and their network -- this information could simply have been scraped from a public profile such as LinkedIn or it could indicate that the attackers already have a foothold in the network which they're looking to exploit for further gains.
+The message might look legitimate at first glance -- especially for someone quickly scanning emails in a high-paced financial environment -- but the invitation to click on a link to respond to the supposed status should be treated with suspicion.
+But if a recipient does click through, the link will download a Word document supposedly containing the invoice -- which then goes onto install malware onto the system. It could be subtle, like a trojan or the victim could recognise their error immediately if faced with ransomware.
+The attackers aren't just using a single template in the campaign, researchers have spotted other lures used in an effort to distribute a malicious payload.
+A second invoice impersonation attack uses the subject 'My current address update' and claims to contain information from a trusted contact about a change of address, along with details of a new invoice. 
+Once again, the victim is encouraged to click through a link to download the document from a malicious host with the end result again being an infection with malware, credential theft or a compromised account.
+The attacks might seem simple, but those behind them wouldn't be deploying them if they didn't work.
+"Impersonation is a proven tactic that criminals are regularly using to attract victims into believing that they are acting on an important message, when that couldn't be further from the truth," said Lior Gavish, VP at Barracuda Networks.
+When it comes to protection against this type of attack, employee training can go a long way, especially if they're provided with a sandbox environment. 
+</text>
+

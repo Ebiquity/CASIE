@@ -1,0 +1,17 @@
+<title> Patch Tuesday: Microsoft Addresses Two Zero-Days in 60-Flaw Roundup  </title>
+<source> https://threatpost.com/patch-tuesday-microsoft-addresses-two-zero-days-in-60-flaw-roundup/135103/ </source>
+<date> 2018_08_14 </date>
+<text>
+Microsoft rolled out 60 patches for its Patch Tuesday release, impacting 19 critical flaws and 39 important flaws.
+Microsoft has rolled out its August Patch Tuesday fixes, addressing 19 critical vulnerabilities, including fixes for two zero-day vulnerabilities that are under active attack.
+Overall, the company patched a total of 60 flaws, spanning Microsoft Windows, Edge, Internet Explorer (IE), Office, .NET Framework,  ChakraCore, Exchange Server, Microsoft SQL Server and Visual Studio. Of those, 19 were critical, 39 were rated important, one was moderate and one was rated low in severity.
+
+The patch release includes two exploited flaws, CVE-2018-8373 and CVE-2018-8414, which were previously disclosed by researchers.
+The first zero-day, CVE-2018-8373, could result in remote code-execution (RCE) and grants the same privileges as a logged-in user, including administrative rights. The vulnerability exists in IE 9, 10 and 11, impacting all Windows operating systems from Server 2008 to Windows 10.
+Meanwhile, CVE-2018-8414 also enables RCE with the privileges of the logged-in user, and exists on Windows 10 versions 1703 and newer, as well as Server 1709 and Server 1803.
+“The two zero-day vulnerabilities are … publicly disclosed and exploited,” said Chris Goettl, director of product management, security, for Ivanti, in an email. “CVE-2018-8373 is a vulnerability that exists in the way that the scripting engine handles objects in memory in Internet Explorer. CVE-2018-8414 code-execution vulnerability exists when the Windows Shell does not properly validate file paths.”
+Microsoft also issued fixes for security issues that don’t impact Windows, but the company thought they were important enough to package into its OS updates, dubbed advisories. 
+
+Microsoft’s Patch Tuesday comes after the company found itself in hot water last month after its new update model caused stability issues for Windows operating systems and applications, particularly in July. The model irked customers so much that enterprise patching veteran Susan Bradley wrote an open letter to Microsoft executives expressing the “dissatisfaction your customers have with the updates released for Windows desktops and servers in recent months.”
+</text>
+

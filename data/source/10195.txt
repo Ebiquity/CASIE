@@ -1,0 +1,14 @@
+<title> EOS Forced to Patch ‘Epic’ Security Loopholes Ahead of Launch </title>
+<source> https://www.coindesk.com/eos-forced-to-patch-epic-security-loopholes-ahead-of-launch </source>
+<date> 2018_05_31 </date>
+<text>
+EOS has tweeted to confirm that it has patched “most” of the reported bugs and is “working hard” on the remainder. It expects the mainnet launch to stay on schedule.
+Qihoo 360, a China-based internet security firm, says it has notified the EOS blockchain project about “a series of epic vulnerabilities” discovered on its platform.
+The firm said in a Tuesday report that loopholes found in the EOS platform could expose nodes on the network to attackers, giving them the ability to execute code remotely and take “full control” of transactions. The firm claims that such an attack could potentially “decimate” the entire cryptocurrency network.
+Qihoo 360 went on to explain that bad actors would be able to attack the network by constructing and publishing smart contracts containing malicious code on the EOS mainnet and have EOS supernodes pack them into new blocks.
+Subsequently the code would affect all nodes on the network, including those of cryptocurrency wallets and exchanges, letting the attackers gain control of private keys to cryptocurrency transactions.
+While EOS has not yet made any public comment on the issue, Qihoo 360 said in another blog update that the project’s lead developer, Daniel Larimer, was notified of the issues and that he has since said the vulnerabilities – identified as issue number 3498 on Github – have been fixed.
+“If any of these asserts trigger in release it shouldn’t pass, but should throw. Allowing the code to continue running in release is a potential security vulnerability and will likely result in crashes elsewhere,” Larimer wrote on the Github page.
+Meanwhile, Larimer has today appealed for more external assistance in identifying critical bugs in the system with the project’s mainnet launch just days away.
+</text>
+

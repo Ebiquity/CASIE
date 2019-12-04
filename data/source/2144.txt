@@ -1,0 +1,14 @@
+<title>Intel chip vulnerability found to be far worse than thought - SiliconANGLE</title>
+<source> https://siliconangle.com/blog/2017/05/07/intel-chip-vulnerability-found-far-worse-thought/ </source>
+<date> 2017_05_08 </date>
+<text>
+A security vulnerability in Intel Corp. chips first disclosed last week looks far worse than initially thought, as hackers can hijack Intel processors without even needing a password.
+The vulnerability, which affects all Intel chips manufactured since 2008, from those code-named Nahalem to today’s Kaby Lake, stems from a flaw in vPro firmware suite including Intel Active Management Technology from versions 6 to 11.6. The security hole allows an unprivileged attacker to gain control of the manageability features provided by the firmware suite, giving a would-be hacker the same access that a systems administrator would have, including the ability to change boot up code and access the computer’s mouse, keyboard, monitor and programs installed.
+Intel argued that access to the vulnerability was fairly limited, in that a password was required to access AMT. But Tenable Network Security Inc. has discovered that the verification process for AMT accepts a blank password submission.
+As Rick Falkvinge at Private Internet Access explains:
+In order to get administrator privileges to the server memory, all you needed to do was to submit a blank password field instead of the expected privileged-access password hash, and you would have unlimited and unlogged read/write access to the entire server memory.
+With the ability to gain access to an Intel central processing unit as simple as submitting no password, experts are warning that the worst should be presumed.
+“If you have anything connected to the Internet with AMT on, disable it now. Assume the server has already been compromised,” SSH inventor Tatu Ylonen said in a blog post. “The exploit is trivial, a maximum of five lines of Python, and could be doable in a one-line shell command.”
+He said the flaw gives full control of affected machines, including the ability to read and modify everything. “It can be used to install persistent malware – possibly in the firmware – and read and modify any data.
+Ylonen recommended that AMT be disabled today and that affected users “mobilize whomever you need.” More specifically, he said, “start from the most critical servers: Active Directory, certificate authorities, critical databases, code signing servers, firewalls, security servers, HSMs (if they have it enabled).” Data center operators should “block ports 16992, 16993, 16994, 16995, 623, 664 in internal firewalls” if they can.
+</text>

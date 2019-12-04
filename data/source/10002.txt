@@ -1,0 +1,20 @@
+<title>Data breach hits luxury hotels in Tasmania, with guest details at risk of theft by 'third party'</title>
+<source> https://www.abc.net.au/news/2018-11-02/privacy-breach-at-resorts-owned-by-federal-group/10462072 </source>
+<date> 2018_11_02 </date>
+<text>
+Guests of two of Tasmania's luxury hotels have been told their personal data "may have been accessed by an unauthorised third party", with the company — casino giant Federal Group — telling people emails sent from the resorts may be bogus.
+Exterior of Henry Jones Art Hotel, in Hobart.
+The company has written to past guests of Hobart's Henry Jones Art Hotel and Saffire Freycinet, on Tasmania's east coast, informing them of the breach, in which the names, email addresses, physical addresses and telephone numbers of customers may have been accessed.
+In a statement, a Federal Group spokesperson said it confirmed it "experienced an unauthorised access to a third-party email distribution service and some past guests received an unusual spam-type email".
+"The system is now secure and the company is currently undertaking an internal investigation of the incident."
+Federal Group, which also owns and operates Wrest Point casino, said it would "encourage anyone who has received any email correspondence from either our Saffire or Henry Jones Art Hotel properties today to delete the email without opening it".
+Federal Group offered a list of what it described as "good security practices" it recommended for customers, which included:
+        Be aware of potential phishing emails and telephone calls from businesses or institutions requesting your personal details. 
+        Avoid opening attachments from unknown senders via email or social media.
+        Regularly change your passwords on other online services, if you re-use the same password.
+        Enable multi-factor authentication and other available security measures provided by your other online services.
+        Install anti-virus software and keep it updated.
+        Apply all recommended software patches from operating system and software providers.
+Federal Group refused to say whether they had contacted police over the incident.
+They also would not say how many people may have had their details compromised. 
+</text>

@@ -1,0 +1,20 @@
+<title> Atlanta officials still 'working around the clock' to resolve ransomware attack  </title>
+<source> https://www.csoonline.com/article/3264654/security/atlanta-officials-still-working-around-the-clock-to-resolve-ransomware-attack.html </source>
+<date> 2018_03_25 </date>
+<text>
+Federal officials, Microsoft and Cisco are working with the city of Atlanta to resolve the attack, but Atlanta's mayor won't say if the city paid the $51,000 ransom.
+As of Saturday, Atlanta officials and federal partners were still “working around the clock” to resolve the ransomware attack on city computers that occurred around 5 a.m. on Thursday, March 22, and encrypted some financial and person data.
+    As @Cityofatlanta officials & federal partners continue working around the clock to resolve issues related to the ransomware cyber attack launched against the City, solid waste & other DPW operations are not impacted.
+    — ATLPublicWorks (@ATLPublicWorks) March 24, 2018
+On Thursday, the official investigation included “the FBI, U.S. Department of Homeland Security, Cisco cybersecurity officials and Microsoft to determine what information has been accessed and how to resolve the situation.”
+A city employee sent WXIA a screenshot of the ransom demand, which included a pay-per-computer option of $6,800 or an option to pay $51,000 to unlock the entire system.
+CBS 46 reported that the ransom demand and instruction said:
+    Send .8 bitcoins for each computer or 6 bitcoins for all of the computers. (That's the equivalent of around $51,000.)
+    After the .8 bitcoin is sent, leave a comment on their website with the provided host name.
+    They’ll then reply to the comment with a decryption software. When you run that, all of the encrypted files will be recovered.
+On Friday, March 23, city employees were handed a printed notice as they walked through the front doors. They were told not to turn on their computers until the issue was resolved. Officials were still unsure who was behind the attack.
+Mayor Keisha Lance Bottoms advised city employees and customers to monitor their personal information, although there was no evidence to show customer or employee data was compromised. Mayor Bottoms clarified what services had not been impacted and were still available to residents and which ones had been impacted.
+Mayor Bottoms will not say if Atlanta intends to pay the ransom demand, saying, “We will be looking for guidance from, specifically, our federal partners on how to best navigate the best course of action.”
+During a press conference, Bottoms said, “What we want to make sure of is that we aren’t putting a Band-Aid on a gaping wound.” She then turned the press conference over to Richard Cox, the City of Atlanta's chief operations officer; the poor dude is brand new to serving as Atlanta’s COO. He confirmed the existence of the ransom demand but would not reveal the contents.
+</text>
+

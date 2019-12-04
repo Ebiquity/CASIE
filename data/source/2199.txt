@@ -1,0 +1,22 @@
+<title>Dating site users spammed with smut after ‘third-party’ data leak – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/05/09/dating-site-users-spammed-with-smut-after-third-party-data-leak/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=c0783090e6-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-c0783090e6-455160889 </source>
+<date> 2017_05_10 </date>
+<text>
+Users of the Guardian’s Soulmates dating site have been getting spammed with smut after the site leaked their contact information.
+The UK-based Guardian newspaper’s publisher, which runs the service, is blaming “human error” and a third-party technology provider for the leak, which has now been fixed. According to the BBC, the site — which charges users up to £32 ($41.50) per month — said that only email addresses and user IDs had been exposed directly. But that information can be used to dig out more from public profiles, said the company, including photos, relationship preferences and physical descriptions.
+Here’s a statement the publisher sent to The Register:
+    We can confirm we have received 27 enquiries from our members which show evidence of their email addresses used for their Soulmates account having been exposed.
+    We take matters of data security extremely seriously and have conducted thorough audits of all our internal systems and are confident that no outside party breached any of these systems. Our ongoing investigations point to a human error by one of our third party technology providers, which led to an exposure of an extract of data. This extract contained only members’ email addresses and user ID which can be used to find members’ publicly available online profiles.
+    We have taken appropriate measures to ensure this does not happen again, and we continue to review our processes and third party suppliers.
+    Nonetheless, we apologise to our members who were affected. If any of our members are concerned we encourage them to contact us on support@guardiansoulmates.com.
+One user who contacted the BBC said they’d starting receiving sexually explicit spam, laced with information from their Soulmates profile, in November.
+The user, who works in IT, said they weren’t completely surprised. Things like this can happen with online services. But they were still a bit taken aback, given that they hadn’t used the site for several years and they were no longer paying the membership fee.
+That user told the BBC that they had contacted Soulmates six months ago, concerned about what other information might have been breached.
+Another user who reached out to the BBC said that in spite of the breached information being public, it still felt “creepy” to see it lifted from the confines of the dating site:
+    It’s all information that I was happy to put online at one point anyway, but when it’s used outside of context like that it does feel a lot more creepy.
+We don’t have details on the identity of the third-party tech provider, or where, exactly, in the setup the door was left open. At any rate, if it is indeed the fault of a third party, this is just the latest example of how contractors can be the weak link in your security chain.
+It doesn’t matter how strict your own cybersecurity is if one of your contractors isn’t up to scratch. As we’ve noted before, everyone we do business with, share data with, outsource operations to, sell things to or buy things from forms a part of our own security chain. A breach at any point in the chain can have an impact on the privacy and integrity of our data.
+As for those Soulmates users now afflicted with sexually explicit spam, our sympathies. It’s hard enough to find true love. Who needs the heartache of trying, and failing, to keep your data out of the hands of e-jerks?
+We’ve passed out plenty of advice to avoid online dating fraud, but none of that applies here, given that you’re certainly not at fault in this one.
+Do be careful of that spam, though. Be it lascivious or as pure as a spring lamb, it’s still spam, and that stuff often goes hand in hand with malware. Don’t click!
+</text>

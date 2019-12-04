@@ -1,0 +1,14 @@
+<title> Clash of Clans Maker Hacked </title>
+<source> https://www.infosecurity-magazine.com/news/clash-of-clans-maker-hacked/ </source>
+<date> 2017_01_24 </date>
+<text>
+A breach of the Clash of Clans creator has exposed credentials for forum users.
+Supercell, the force behind that popular mobile game and others, said that a vulnerability in the software it uses to run its forums allowed third-party hackers to gain illegal access to some forum user information, including a number of emails and encrypted passwords.
+To provide its forum service, it uses software from vbulletin.com. The company said that its preliminary investigation suggests that the breach happened in September 2016—and that it has since been fixed.
+“We take any such breaches very seriously and we follow very strict policies when it comes to security,” Supercell said in a statement. “Please note that this breach only affects our Forum service. Game accounts have not been affected.”
+Avast Threat Labs senior malware analyst Jan Sirmer commented via email on the danger of attacks like these.
+“The forum administrators in this case do bear some responsibility—the vBulletin software being used to host the Supercell forum was out-of-date, and it’s up to the administrators to keep software like that up-to-date,” he said. “Online gamers are vulnerable to these kind of hacks because they provide their data to third parties—but the same is true for everyone who uses any online service.”
+Users should change the password they’re using on the forum as soon as possible, along with the password in any other systems they’re using with the same login.
+“The information the hackers obtained can either be used by the hackers themselves or sold on the darknet for other hackers to abuse,” Sirmir said. “As many people use the same login credentials to log in to online services, hackers try to use login credentials they get to gain access into other accounts.”
+</text>
+

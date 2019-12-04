@@ -1,0 +1,9 @@
+<title>New variant of WannaCry ransomware surfaces - Check Point - Security - Finance - CRN Australia</title>
+<source> https://www.crn.com.au/news/new-variant-of-wannacry-ransomware-surfaces---check-point-461856?eid=4&edate=20170516&utm_source=20170516&utm_medium=newsletter&utm_campaign=daily_newsletter </source>
+<date> 2017_05_16 </date>
+<text>
+A new variant of the WannaCry ransomware attack surfaced on Monday, according to cyber security firm Check Point Software, which it said it had stopped from damaging computers by activating a "kill switch" in the software.
+The company discovered the new variant at about 7am New York time on Monday, as it was infecting computers at a rate of about one per second, said Check Point researcher Maya Horowitz.
+The firm responded by setting up a server that initiated what is called a kill switch built into the software, which prevents it from encrypting data on infected machines or spreading to other computers, she said.
+Ransomware is illicit software that demands a "ransom" from an infected user to regain control of their computer.
+</text>

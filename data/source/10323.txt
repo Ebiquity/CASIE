@@ -1,0 +1,24 @@
+<title> Ransomware Attack At Blue Springs Medical Practice Exposes 45,000 Patient Records  </title>
+<source> https://www.kcur.org/post/ransomware-attack-blue-springs-medical-practice-exposes-45000-patient-records </source>
+<date> 2018_08_03 </date>
+<text>
+Officials at a medical practice in Blue Springs say they are taking steps to strengthen privacy protections after a ransomware attack affected nearly 45,000 patients.
+Blue Springs Family Care discovered in May that hackers had installed malware and ransomware encryption programs on its computer system, giving them full access to patient records.
+Ransomware is a kind of malware that locks up a computer. The attackers typically demand a ransom, often in Bitcoin or other cryptocurrencies, as a condition of unlocking the computer and allowing access to the system.
+Melanie Peterson, Blue Springs Family Care’s privacy officer, says the medical practice did not pay a ransom. Rather, it was able to use backups to regain computer access.
+In a letter to patients, Blue Springs Family Care said it had no evidence patients’ information had been used by unauthorized individuals. But it said it had taken steps to strengthen its defenses against similar attacks in the future.
+Peterson says the family medical practice has essentially rebuilt its computer system from scratch “to make sure that no traces of any kind of virus were left in the system.”
+The number of affected patients was as large as it was because the medical practice is required to keep medical records going back 10 years.
+Peterson says both the FBI and Blue Springs Police Department were notified of the attack. So far, the hackers have not been identified, she says.
+Blue Springs Family Care’s computer vendor discovered the ransomware attack on May 12. In its letter to patients, Blue Springs Family Care said it hired a forensic IT company to help quarantine the affected systems and to install software to monitor whether any unauthorized person was accessing the system.
+The attack on Blue Springs Family Care was not an anomaly. Health care businesses in particular have been targeted by ransomware attacks. According to Beazly, a cybersecurity insurance company, 45 percent of ransomware attacks in 2017 targeted the health care industry. Financial services, which accounted for 12 percent of ransomware attacks, were a distant second.
+Last month, Cass Regional Medical Center in Harrisonville, Missouri, reported a ransomware attack had briefly cut off access to its electronic health record system on July 9. Hospital officials said there was no indication patient data was accessed.
+Cass Regional was just the latest of many Missouri health care institutions targeted in the last few months by cyber-attackers. Others include Children’s Mercy Hospital in Kansas City, Barnes Jewish Hospital in St. Louis, Barnes-Jewish St. Peters Hospital in St. Peters and John J. Pershing VA Medical Center in Poplar Bluff.
+In Kansas, the Cerebral Palsy Research Foundation of Kansas, the Kansas Department for Aging and Disability Services, Atchison Hospital Association and a private medical practice in McPherson have all been hit with cyberattacks since March.
+“If you think about what’s in a health or medical record, there’s a lot of information that could be used to create or falsify documents on an individual,” says Madeline Allen, an assistant vice president in the cybertech practice at Lockton Companies, a Kansas City-based insurance broker.
+“So think about your medical record that contains not only your health information but also your name and address, your social security number, your date of birth, oftentimes a driver’s license number.
+“All of those things can be used to impersonate you, whether it be to open a line of credit, apply for a loan, file a tax return – all of those things. Pretty much everything you need would be found in your health record," Allen says. "If you can get a full health record on someone, it’s pretty valuable information to the bad guys as they’re looking to monetize that information.”
+For health care institutions, Allen says, it’s not so much a question of whether they will be attacked as when. As such, she says, apart from instituting technical measures, the most important thing they can do to ward off cyberattacks is to educate their employees.
+“Let them know that people are constantly trying to attack from all angles and the attacks are pretty sophisticated,” she says. “It’s very easy to click on a link thinking it’s legitimate or respond to an email that looks legitimate when in fact it’s not. So I think the education of employees and staff is perhaps the biggest step that health care facilities can take.”    
+</text>
+

@@ -1,0 +1,12 @@
+<title> Cooking Utensil Firm OXO Files Data Breach in California             </title>
+<source> https://www.infosecurity-magazine.com/news/cooking-utensil-firm-oxo-files-in/                                       </source>
+<date> 2019_01_10 </date>
+<text>
+Award-winning cooking tools company OXO revealed that it has suffered data breaches over the last two years that may have compromised customer and credit card information.
+In a breach disclosure letter filed with the State of California, OXO said that the data security incident involved “sophisticated criminal activity that may have exposed some of your personal information.” The attacker is believed to have accessed credit card information, along with names and billing and shipping addresses, though the letter does not state the scope of impact.
+“On December 17, 2018, OXO confirmed through our forensic investigators that the security of certain personal information that you entered into our e-commerce website (https://www.oxo.com) may have been compromised. We currently believe that information entered in the customer order form between June 9, 2017 – November 28, 2017, June 8, 2018 – June 9, 2018, July 20, 2018 – October 16, 2018 may have been compromised. While we believe the attempt to compromise your payment information may have been ineffective, we are notifying you out of an abundance of caution.”
+OXO is currently working with security consultants and forensic investigators, who are looking at past vulnerabilities in the website as part of an ongoing investigation of the incident. Additionally, the company has taken measures to secure its site to prevent future incidents.
+“This latest breach underscores the importance of 24/7 security monitoring,” said Matan Or-El, CEO of Panorays. “With the new year upon us, companies should perform an in-depth review of all their digital assets to ensure that they and their third parties have not been compromised. We expect that future hacks will be targeted towards entire industries so as to maximize the payout for cyber-criminals.”
+OXO has also secured the services of risk mitigation and response firm Kroll in order to extend identify monitoring services to its customers.
+</text>
+

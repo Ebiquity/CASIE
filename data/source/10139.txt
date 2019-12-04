@@ -1,0 +1,29 @@
+<title> Net Neutrality Activists Targeted by Clever Pornhub-Themed Phishing Campaign  </title>
+<source> https://www.bleepingcomputer.com/news/security/net-neutrality-activists-targeted-by-clever-pornhub-themed-phishing-campaign/ </source>
+<date> 2017_11_20 </date>
+<text>
+Employees of US NGOs Fight for the Future and Free Press were targeted with complex spear-phishing attempts between July 7 and August 8, reported today the Electronic Frontier Foundation (EFF). Both organizations targeted in the attacks are currently fighting against for Net Neutrality in the US.
+Based on currently available evidence, the attacks appear to have been orchestrated by the same attacker, located in a UTC+3-5:30 timezone, said EFF Director of Cybersecurity Eva Galperin and EFF security researcher Cooper Quintin.
+At least one victim fell for the attacks
+"Although this phishing campaign does not appear to have been carried out by a nation-state actor and does not involve malware, it serves as an important reminder that civil society is under attack," said the two today.
+"It is important for all activists, including those working on digital civil liberties issues in the United States, to be aware that they may be targeted by persistent actors who are well-informed about their targets’ personal and professional connections."
+At least one victim fell for the 70 fake emails sent during the phishing attempts. Attackers didn't deliver malware but lured victims away on a remote site designed to phish Google, Dropbox, and LinkedIn credentials.
+"The attackers were remarkably persistent, switching up their attacks after each failed attempt and becoming increasingly creative with their targeting over time," EFF said.
+The most creative of the spear-phishing emails was when victims received emails with the subject line "You have been successfully subscribed to Pornhub.com," or "You have been successfully subscribed to Redtube.com," two very popular adult video portals.
+Minutes later, victims received another email made to look like it was coming from the same two services. These second emails contained explicit subject lines.
+Because spear-phishing emails were aimed at work emails, most victims would have been inclined to unsubscribe from the incoming emails. This was the catch, as attackers doctored the unsubscribe link, leading victims to a fake Google login screen.
+
+Attackers used different tactics as the campaign progressed
+The PornHub and RedTube phishes were not the only ones. Attackers also used other tactics.
+⬭ Links to generic documents that asked users to enter credentials before viewing.
+⬭ LinkedIn message notifications that tried to trick users into giving away LinkedIn creds.
+⬭ Emails disguised to look like they were coming from family members, sharing photos, but which asked the victim to log in and give away credentials instead.
+⬭ Fake email notifications for hateful comments posted on the target's YouTube videos. When the victim followed the link included in the email, the target would have to enter Google credentials before performing the comment moderation actions.
+⬭ Emails that looked like a friend was sharing interesting news stories. Used topics and subject lines include:
+                 - Net Neutrality Activists 'Rickroll' FCC Chairman Ajit Pai
+                 - Porn star Jessica Drake claims Donald Trump offered her $10G, use of his private jet for sex
+                 - Reality show mom wants to hire a hooker for her autistic son
+
+In one case, one of the targeted activists received a request from a user asking for a link to buy her music. When the target replied, the attacker answered back with a Gmail phishing link, claiming the buy link didn't work. EFF experts say that victims who had two-factor authentication turned on for their accounts would have prevented attackers from logging into their profiles even if they had managed to obtain their password.
+</text>
+

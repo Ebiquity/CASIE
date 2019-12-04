@@ -1,0 +1,19 @@
+<title>Dok Mac malware intercepts victims' web traffic, installs backdoor - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/05/02/dok-mac-malware/ </source>
+<date> 2017_05_02 </date>
+<text>
+In examples uncovered by Check Point, the emails were made to look like they were sent from a tax agency, and ostensibly warn the recipients about inconsistencies in their tax returns.
+The attached file (Dokument.zip) they are instructed to open is made to look like a document file, but is actually an application.
+If the victim downloads and opens it, it will perform a myriad of silent changes on the target machine, all geared towards setting up a malicious proxy server, which will allow the attacker to gain complete access to all victim communication.
+“[The malware] uses sophisticated means to monitor—and potentially alter—all HTTP and HTTPS traffic to and from the infected Mac. This means that the malware is capable, for example, of capturing account credentials for any website users log into, which offers many opportunities for theft of cash and data,” Malwarebytes researchers explained.
+“Further, OSX.Dok could modify the data being sent and received for the purpose of redirecting users to malicious websites in place of legitimate ones.”
+In another instance, unearthed by Malwarebytes, another variant of the same dropper doesn’t do the fake “OS X Updates Available” routine, but installs an open source backdoor named Bella, generally available from GitHub.
+The software is a Python script capable of extracting a wide variety of sensitive data from macOS machines (passwords, keychain, screenshots, location data, iMessage and SMS chat transcripts, etc.). This version of the script has been configured to connect to a C&C server in Moscow.
+“Business users should be aware that this malware could exfiltrate a large amount of company data, including passwords, code signing certificates, hardware locations and much more. If you’ve been infected, contact your IT department,” the researchers advised, and noted that it is unknown whether there is any connection between Noah, the author of Bella, and the creators of the OSX.Dok malware. 
+“Bella may simply have been used by unrelated hackers since it is freely available as open-source software,” they pointed out.
+Well, the valid developer certificate that has been used to sign the malware has been revoked by Apple, so potential new victims won’t be able to open the app and get infected. 
+Of course, future versions of the malware could be signed with another, likely stolen, developer certificate.
+In the meantime, though, users who have been successfully hit with OSX.Dok are advised to either erase the hard drive and restore the system from a backup made prior to infection, or get help in cleaning the machine from an expert.
+“Removal of the malware can be accomplished by simply removing the two [malicious] LaunchAgents files, but there are many leftovers and modifications to the system that cannot be as easily reversed. Changes to the sudoers file should be reversed and a knowledgeable user can easily do so using a good text editor (like BBEdit), but making the wrong changes to that file can cause serious problems,” they noted.
+The bad certificate should also be removed, and so should a LaunchAgents file named homebrew.mxcl.tor.plist. But, according to them, “the numerous legitimate command-line tools installed, consisting of tens of thousands of files, cannot be easily removed.”
+</text>

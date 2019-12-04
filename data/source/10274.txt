@@ -1,0 +1,15 @@
+<title> Oracle patches 301 vulnerabilities, including 46 with a 9.8+ severity rating </title>
+<source> https://www.zdnet.com/article/oracle-patches-301-vulnerabilities-including-46-with-a-9-8-severity-rating/ </source>
+<date> 2018_10_17 </date>
+<text>
+Yesterday, Oracle released its quarterly critical patch update (CPU) for Q3 2018, the October edition, during which the company fixed 301 vulnerabilities.
+Of the 301 flaws, 45 had a severity rating of 9.8 (on a scale of 10) and one even received the maximum 10 rating.
+Vulnerabilities that receive this severity ratings this high can be exploited remotely, with no authentication, and the exploit chain is accessible even to low-skilled attackers, even to those with no in-depth technical knowledge.
+Oracle's security team will publish more information about each vulnerability in the coming days. This will give companies more time to update affected applications before details about each flaw are generally available to everyone, including the bad guys.
+For now, little information is known, but the vulnerability that received the 10.0 rating impacts Oracle GoldenGate, a data replication framework that can work with large quantities of information in real-time.
+This issue doesn't impact standalone GoldenGate installations, but also the numerous other Oracle product setups where GoldenGate can be deployed as an add-in option, such as the Oracle Database Server, DB2, MySQL, Sybase, Terradata, and others.
+As for vulnerabilities rated 9.8 on the severity scale, these were reported affecting products such as the Oracle Database Server, Oracle Communications, the Oracle Construction and Engineering Suite, the Oracle Enterprise Manager Products Suite, Oracle Fusion Middleware, Oracle Insurance Applications, Oracle JD Edwards, MySQL, Oracle Retail, the Oracle Siebel CRM, and the Oracle Sun Systems Products Suite.
+Despite the staggering number of patched flaws --301--, this isn't Oracle's biggest recorded CPU. That title goes to July 2018's CPU, which addressed 334 vulnerabilities, 55 of which had a 9.8 severity rating.
+This was also Oracle's last CPU for 2018. According to the folks at ERPScan, in 2018, Oracle patched 1119 vulnerabilities, the same number of flaws it patched last year in 2017.
+</text>
+

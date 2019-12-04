@@ -1,0 +1,29 @@
+<title>Shadow Brokers leak NSA-linked Microsoft hacking tools - CyberScoop</title>
+<source> https://www.cyberscoop.com/shadow-brokers-leak-nsa-linked-microsoft-hacking-tools/ </source>
+<date> 2017_01_13 </date>
+<text>
+The mysterious group that claims to have stolen digital weapons once used by the National Security Agency published a trove of active Microsoft Windows software exploits on Thursday.
+The code dump, accompanied by a farewell message written in broken English by the enigmatic group the Shadow Brokers, confirms claims implicit in an earlier post Sunday.
+While the prior message showed filenames, directories and screenshots — implying the existence of these capabilities — along with an associated price tag, today’s download provides functional code.
+Of the 61 files provided in total in the newly released set, only one had ever been catalogued by anti-virus databases, based on a VirusTotal scan conducted earlier Thursday morning.
+The files contain user mode and kernel mode modules.
+Notably, the one tool effectively recognized by the virus scanner avoided detection from Malwarebytes, Panda, Comodo and Fortinet products, said Rendition Infosec founder Jake Williams.
+In their supposed final message, the ShadowBrokers say they are “making [an] exit” and “going dark”— although an associated bitcoin wallet will remain open for new bids.
+The group claims it will come out of hiding to provide the remaining stolen hacking tools only upon receiving 10,000 bitcoin, or $8.13 million worth of the anonymous currency.
+Cybersecurity experts tell CyberScoop the exploits are outdated because they are designed to work against old versions of Microsoft operating systems.
+“This dump contains Windows Implants and not Unix tools, reinforcing the insider theory.
+And the outdated Windows target of those implants reinforce the opinion that Shadow Brokers only has old dirt,” said Matt Suiche, founder of United Arab Emirates-based cybersecurity startup Comae Technologies.
+“There is no reason to have all the tools of every platforms etc.
+The exploits can be understood as highly advanced hacking tools that were likely developed and deployed by a sophisticated adversary, like an intelligence service, explained Michael Zeberlein, director of intelligence analysis with Area 1 Security.
+“They’re basically enterprise class IT infrastructure and systems management functions applied in an offensive fashion.
+They would help you get very granular control of computers and servers running in an enterprise environment, an entire organization,” Zeberlein told CyberScoop.
+“Really, these tools provide incredible capability”.
+“There’s no doubt that this is Equation Group’s stuff based on old reporting,” said Zeberlein.
+A meticulous analysis associated with Sunday’s blog post suggests that the leaked information likely came from an insider, rather than a hacker with access to a compromised attack server, based on file configurations, CyberScoop first reported.
+“Attackers and defenders around the globe will be reverse engineering these to repurpose [attacks] and create defenses,” Williams said.
+“This data, it’s a big deal … because it includes information related to client and server components, which will basically help [intelligence analysts] trace old breaches back to the Equation Group,” a former U.S. intelligence official told CyberScoop on the condition of anonymity.
+The Shadow Brokers first emerged on social media in August by similarly dumping operational code for a cohort of old firewall exploits that targeted vulnerabilities in Cisco, Fortinet and Juniper Networks products.
+Because the source code for these firewall exploits was provided in a public forum, random hackers began using the tools themselves.
+“While we cannot surmise the attacker’s [Shadow Brokers] identity or motivation nor where or how this pilfered trove came to be, we can state that several hundred tools from the leak share a strong connection with our previous findings from the Equation Group,” Kaspersky Lab researchers, many of whom originally helped identify Equation Group’s existence in 2015, wrote in a company blog post in August.
+The Equation Group is believed to have ties to the NSA.
+</text>

@@ -1,0 +1,22 @@
+<title> Hard Rock, Loews hotels admit data breach  </title>
+<source> https://www.zdnet.com/article/hard-rock-loews-hotels-admit-data-breach/ </source>
+<date> 2018_07_10 </date>
+<text>
+Hard Rock Hotels & Casinos alongside Loews Hotels have warned customers that a security failure may have resulted in the theft of their information.
+Both incidents appear to have been linked to a third-party reservation platform, SynXis, which only begun informing client hotels of the security breach in June, months after the attacks took place.
+Hard Rock Hotels & Casinos issued a statement informing customers of the data breach last week, which took place due to the Sabre Hospitality Solutions SynXis third-party reservation system.
+The hotel chain, which operates 176 cafes, 24 hotels and 11 casinos in 75 countries, said SynXis, the backbone infrastructure for reservations made through hotels and travel agencies, provided the avenue for data theft and the exposure of customer information.
+"The unauthorized party first obtained access to payment card and other reservation information on August 10, 2016," the hotel chain said. "The last access to payment card information was on March 9, 2017."
+Hard Rock Hotel & Casino properties in Biloxi, Cancun, Chicago, Goa, Las Vegas, Palm Springs, Panama Megapolis, Punta Cana, Rivera Maya, San Diego and Vallarta are all affected.
+According to Sabre, an "unauthorized party gained access to account credentials that permitted unauthorized access to payment card information, as well as certain reservation information" for a "subset" of reservations.
+The attacker was able to grab unencrypted payment card information for hotel reservations, including cardholder names, card numbers, and expiration dates. In some cases, security codes were also exposed, alongside guest names, email addresses, phone numbers, and addresses.
+In May, Sabre said an investigation into a possible breach was underway. In a quarterly SEC filing, the company said, "unauthorized access has been shut off, and there is no evidence of continued unauthorized activity at this time."
+While Sabre has not revealed exactly how the system was breached, the company has hired third-party cybersecurity firm Mandiant to investigate.
+Loews Hotels also appears to be a victim of the same security failure. According to NBC, Sabre was also at fault and cyberattackers were able to slurp credit card, security code, and password information through the booking portal. In some cases, email addresses, phone numbers, and street addresses were also allegedly exposed.
+According to Sabre, its software is used by roughly 36,000 hotel properties.
+"Not all reservations that were viewed included the payment card security code, as a large percentage of bookings were made without a security code being provided," Sabre said in a statement. "Others were processed using virtual card numbers in lieu of consumer credit cards. Sabre has notified law enforcement and the credit card brands as part of our investigation."
+If you stayed in one of these properties on the dates mentioned above, you may be at risk of identity theft should the attackers choose to sell their stolen cache of data.
+Sabre suggests signing up for a free credit report -- available to US consumers once a year for free -- and notify their bank of any stolen activity. However, no compensation has yet been made available.
+These hotel chains are far from the only ones that have suffered a data breach in recent years. Back in April, InterContinental admitted that a data breach first believed to be isolated to 12 properties actually harmed roughly 1,200, resulting in the exposure of customer credit card data. 
+</text>
+

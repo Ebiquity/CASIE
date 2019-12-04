@@ -1,0 +1,16 @@
+<title> Nation-State-Linked Hackers Targeted UK Foreign Office </title>
+<source> https://www.infosecurity-magazine.com/news/nation-state-hackers-uk-foreign/ </source>
+<date> 2017_04_13 </date>
+<text>
+The shadowy hacker consortium known as Callisto Group targeted the UK's Foreign Office over several months in 2016.
+According to research firm F-Secure, Callisto Group is an advanced threat actor whose known targets include military personnel, government officials, think tanks and journalists, especially in Europe and the South Caucasus. Their primary interest appears to be gathering intelligence related to foreign and security policy in the Eastern Europe and South Caucasus regions, and this, combined with infrastructure footprint links to known state actors, suggests a nation-state benefactor, the firm said.
+In October 2015 the Callisto Group targeted a handful of individuals with phishing emails that attempted to obtain the target’s webmail credentials. Then, in early 2016, the Callisto Group began sending highly targeted spear phishing emails with malicious attachments that contained, as their final payload, the “Scout” malware tool from the HackingTeam RCS Galileo platform. Scout was, ironically, originally developed for law enforcement.
+“These spear-phishing emails were crafted to appear highly convincing, including being sent from legitimate email accounts suspected to have been previously compromised by the Callisto Group via credential phishing,” F-Secure noted in a paper, adding that the group is continuing to set up new phishing infrastructure every week.
+One of the targets for Callisto in 2016 was the Foreign Office, according to BBC sources. The outlet reports that the government is investigating an attack that began in April last year. A source told the BBC that the compromised server didn’t contain the most sensitive information, fortunately.
+In a statement, the UK's National Cyber Security Centre (NCSC) declined attribution or comment and merely said: "The first duty of government is to safeguard the nation and as the technical authority on cybersecurity, the NCSC is delivering ground breaking innovations to make the UK the toughest online target in the world. The government's Active Cyber Defence programme is developing services to block, prevent and neutralise attacks before they reach inboxes.”
+F-Secure also said that evidence suggests the Callisto Group may have a nation-state sponsor, and that it uses infrastructure tied to China, Russia and Ukraine. It told the BBC that Callisto Group's hacking efforts show similarities in tactics, techniques, procedures and targets to the Russia-linked group known as APT28, though the two appear to be different entities.
+However, Callisto Group is also associated with infrastructure used for the sale of controlled substances, which “hints at the involvement of a criminal element,” F-Secure said.
+Going a bit further, a different source told the BBC that two of the phishing domains used in the UK attack “were once linked to an IP address mentioned in a US government report into Grizzly Steppe.”
+Grizzly Steppe is the code-name for Russian meddling in the US elections.
+</text>
+

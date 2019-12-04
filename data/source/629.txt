@@ -1,0 +1,18 @@
+<title>Open Databases a Juicy Extortion Target | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/open-databases-a-juicy-extortion-target/123688/ </source>
+<date> 2017_02_14 </date>
+<text>
+Recent attacks against insecure MongoDB, Hadoop and CouchDB installations represent a new phase in online extortion, born from ransomware’s roots with the promise of becoming a nemesis for years to come.
+First spotted on Dec. 27 by Victor Gevers, an ethical hacker and founder of GDI Foundation, attacks in the past two months shot up from 200 to near 50,000.
+The first of these ransom attacks against insecure databases traces back to a hacker identified as Harak1r1, who Gevers said was responsible for compromising open MongoDB installations, deleting their contents, and leaving behind a ransom note demanding 0.2 BTC (about $220 at the time).
+After that, escalation of attacks against open MongoDB installations happened fast, jumping from hundreds one week, to 2,000 the next, and 10,000 the following week.
+At last count more than 56,000 open MongoDB databases alone are ripe for attack, according to the most recent numbers available from GDI Foundation.
+But that doesn’t include a slew of new databases now being targeted by cybercriminals.
+Security researchers at Rapid7 estimate that 50 percent of the 56,000 vulnerable MongoDB servers have been ransomed.
+In a typical ransomware attack, an attacker compromises a computer via malware or Trojan and encrypts local data that can only be unlocked with an encryption key obtained for a price.
+That spurred a maturing of ransomware used against more sophisticated healthcare, government and educational targets with similar phishing, malware and Trojan techniques.
+However, experts say, both have acted as the stepping stones to this type of data hijacking.
+With data hijacking, attackers compromise insecure database installations, copy data, then delete the contents and leaving behind a ransom note in the form of a directory name demanding a ransom be paid via Bitcoin.
+Rapid7 has already seen additional databases such as Redis, Kibana and other SQL databases targeted in its honeypots.
+Josh Gomez, senior security researcher with security firm Anomali, said moving forward attacks will be less random, more targeted and seek high-value repositories with weak protection.
+</text>

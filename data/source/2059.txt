@@ -1,0 +1,12 @@
+<title>Google Docs Phishing Attack Abuses Legitimate ...</title>
+<source> http://www.darkreading.com/attacks-breaches/google-docs-phishing-attack-abuses-legitimate-third-party-sharing-/d/d-id/1328797? </source>
+<date> 2017_05_04 </date>
+<text>
+Google users today were hit with an extremely convincing phishing spree launched by attackers who manipulated Google Docs' legitimate third-party sharing mechanism.
+Targets received messages with the subject like "[Sender] has shared a document on Google Docs with you" often from senders they knew. The messages contained links, which led to a page that clearly requested access to the user's Gmail account. If the target user provides access, the attack begins sending spam to all the user's contacts. Theoretically, the attacker could also access the victim's messages and steal sensitive data, but thus far there have been no reports of such activity.
+Because it takes advantage of Google's legitimate third-party sharing mechanism, the phishing message is much more difficult to identify as malicious. The icons and messaging are familiar to Google users. Gmail itself did not filter the messages as phishing or flag them as spam, but rather sent them to Gmail users' "Primary" inbox mail folders. The senders were familiar enough to have the target in their contact lists.
+One way to spot the attack: some targets report that the message includes a recipient with an address that begins "hhhhhhhhhhhhhh" and ends with the domain "mailinator.com."  
+Google responded with a fix and issued a statement: 
+"We have taken action to protect users against an email impersonating Google Docs, and have disabled offending accounts. We’ve removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again. We encourage users to report phishing emails in Gmail. If you think you were affected, visit http://g.co/SecurityCheckup"
+Those who have already fallen victim to this attack should also go to their Google account permissions settings and revoke access to the false "Google Docs" application. They're also advised to set up two-factor authentication.
+ </text>

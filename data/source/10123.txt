@@ -1,0 +1,21 @@
+<title> The FBI is investigating a ransomware attack on the city of Atlanta  </title>
+<source> https://www.cnn.com/2018/03/22/us/atlanta-ransomware-attack/index.html </source>
+<date> 2018_03_23 </date>
+<text>
+ (CNN)Atlanta's mayor on Thursday urged anyone with personal information in city information systems to check their financial records as an investigation continues into a ransomware attack on the city.
+Ransomware is a malicious software that prevents or limits users from accessing their system by locking them out until a ransom is paid. NBC affiliate WXIA reported that the city received a ransom demand in bitcoin for $6,800 per unit or $51,000 to unlock the entire system. CNN has not independently confirmed the report.
+Mayor Keisha Lance Bottoms advised city employees to contact credit agencies and monitor their bank accounts in case their personal data was compromised. She urged the public to take the same precautions while investigators work to determine the scope of the attack.
+"We don't know the extent so we just ask that you be vigilant," Bottoms said in a Thursday news conference. "All of us are subject to this attack, if you will. Many of us pay our bills online, we have direct deposit, so go online and check your bank statements." 
+Atlanta Chief Operating Officer Richard Cox confirmed that the city received a written demand related to the attack. When asked in the news conference if the city was going to pay a ransom, Bottoms said, "We can't speak to that right now."
+"We will be looking for guidance from, specifically, our federal partners on how to best navigate the best course of action," she said.
+The Federal Bureau of Investigation and Department of Homeland Security are investigating the cyberattack, which Atlanta Information Management officials learned of Thursday at 5:40 a.m., Cox said. DHS spokesman Scott McConnell said the agency offered technical expertise and support and referred questions to the city.
+The city announced outages earlier Thursday to various customer-facing applications, including those used to pay bills and access court-related information.
+Thursday afternoon, Cox said several departments were affected, too. Some city data remains encrypted while investigators continue to determine the scope of the attack, he said.
+The city's payroll has not been affected, he said. Public safety and water services are operating without incident.
+The city engaged Microsoft and a team from Cisco's Incident Response Services in the investigation, Deputy Chief Information Officer Daphne Rackley said.
+When asked if the city was aware of vulnerabilities and failed to take action, Rackley said the city had implemented measures in the past that might have lessened the scope of the breach. She cited a "cloud strategy" to migrate critical systems to secure infrastructure.
+"This is not a new issue to the state of Georgia, it's not a new issue to our country. We have been taking active measures to mitigate any risk in the past."
+In the meantime, the mayor urged caution.
+"We don't know if it's limited to information related to just our employees or if it's more extensive than that. But because we don't know I think that it would be appropriate for the public just to be vigilant in checking their accounts and making sure your credit agencies also have been notified."
+</text>
+

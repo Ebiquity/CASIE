@@ -1,0 +1,19 @@
+<title>Vulnerability in WhatsApp and Telegram allowed complete account takeover - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/15/whatsapp-telegram-vulnerability/ </source>
+<date> 2017_03_15 </date>
+<text>
+Check Point researchers today revealed a new vulnerability on WhatsApp and Telegram’s online platforms – WhatsApp Web & Telegram Web.
+By exploiting this vulnerability, attackers could completely take over user accounts, and access victims’ personal and group conversations, photos, videos and other shared files, contact lists, and more.
+The vulnerability allows an attacker to send the victim malicious code, hidden within an innocent looking image.
+As soon as the user clicks on the image, the attacker can gain full access to the victim’s WhatsApp or Telegram storage data, thus giving full access to the victim’s account.
+The attacker can then send the malicious file to all the victim’s contacts, potentially enabling a widespread attack.
+Check Point disclosed this information to the WhatsApp and Telegram security teams on March 8, 2017.
+WhatsApp and Telegram acknowledged the security issue and developed fixes for worldwide web clients.
+“Thankfully, WhatsApp and Telegram responded quickly and responsibly to deploy the mitigation against exploitation of this issue in all web clients,” said Oded Vanunu, head of product vulnerability research at Check Point.
+WhatsApp Web users wishing to ensure that they are using the latest version are advised to restart their browser.
+WhatsApp and Telegram use end-to-end message encryption as a data security measure, to ensure that only the people communicating can read the messages, and nobody in between.
+Yet, the same end-to-end encryption was also the source of this vulnerability.
+Since messages were encrypted on the side of the sender, WhatsApp and Telegram were blind to the content, and were therefore unable to prevent malicious content from being sent.
+After fixing this vulnerability, content will now be validated before the encryption, allowing malicious files to be blocked.
+Both web versions mirror all messages sent and received by the user on the mobile app, and are fully synced with users’ devices.
+</text>

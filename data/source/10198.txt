@@ -1,0 +1,16 @@
+<title> Use Windows, macOS? Don't be hacked by PDF, patch these critical Adobe flaws now </title>
+<source> https://www.zdnet.com/article/use-windows-macos-dont-be-hacked-by-pdf-patch-these-critical-adobe-flaws-now/ </source>
+<date> 2018_10_02 </date>
+<text>
+Adobe's scheduled October update for its Acrobat and Reader PDF software addresses 85 vulnerabilities, including dozens of critical flaws that allow arbitrary code execution.
+The patches also address multiple privilege-escalation and information-disclosure flaws, shoring up Adobe's PDF software further following a patch for a critical Acrobat and Reader flaw plugged two weeks ago.
+The bugs affect Acrobat DC and Reader versions 2018.011.20063 and earlier from Adobe's continuous track, Acrobat 2017 and Acrobat Reader 2017 2017.011.30102, and Acrobat DC and Reader DC versions 2015.006.30452 and earlier from Adobe's classic 2015 track.
+The flaws affect the software running on Windows and macOS systems.
+This update is the largest set of fixes Adobe's PDF software since it swatted 105 vulnerabilities in July. However, fortunately the company says it is not currently aware of any exploits in the wild for bugs fixed in this update.
+Users and admins nonetheless should install fixed versions, according to Adobe, because if an attacker developed an exploit it could lead to arbitrary code execution in the context of the current user because the software is sandboxed.
+Since PDFs are still widely used in the enterprise, hackers continue to develop new techniques to break the sandbox by combining PDF attacks with operating system flaws.
+This happened earlier this year, prompting a warning from Adobe in May after it was informed by researchers at ESET and Microsoft that they'd discovered a malicious PDF using a zero-day remote code execution flaw in Reader with a sandbox-busting Windows privilege escalation flaw.
+Adobe credits researchers from Qihoo 360, Cisco Talos, Beihang University, Palo Alto Networks, and Check Point for reporting flaws patched in the October update.
+Check Point researcher Omri Herscovici was responsible for reporting 35 of this month's bugs, all of which were information disclosure flaws.
+</text>
+

@@ -1,0 +1,13 @@
+<title>Exploit revealed for remote root access vulnerability affecting many router models - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/11/exploit-vulnerability-routers/ </source>
+<date> 2017_04_12 </date>
+<text>
+Back in January 2013, researchers from application security services firm DefenseCode unearthed a remote root access vulnerability in the default installation of some Cisco Linksys (now Belkin) routers.
+The flaw was actually found in Broadcom’s UPnP implementation used in popular routers, and ultimately the researchers extended the list of vulnerable routers to encompass devices manufactured by the likes of ASUS, D-Link, Zyxel, US Robotics, TP-Link, Netgear, and others.
+“Back in the days, Cisco fixed the vulnerability, but we are not sure about all other router vendors and models because there are too many of them,” the DefenseCode team noted. 
+When DefenseCode first came out with the vulnerability in 2013, Rapid7 researchers also found a number of flaws in other popular UPnP implementations, and by scanning the Internet, revealed that there were approximately 15 million devices with a vulnerable Broadcom UPnP implementation.
+It’s difficult to tell how many of these devices are still vulnerable but, as DefenseCode’s Leon Juranic pointed out to me, users rarely (if ever) update their router’s firmware, so there are bound to be still many of them.
+And given how many people have watched and analyzed their technical video of the exploit in action over the years, obviously many are interested in it.
+Still, I think we can all agree, four years is more than enough time for patching, and nobody can fault them for publishing the exploit. Hopefully, if there are manufacturers that still haven’t pushed out a patch they’ll do it now, but this is could also be a welcome impetus for users to update their router’s firmware – especially those that haven’t done it for years.
+Whitepapers and offers
+</text>

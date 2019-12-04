@@ -1,0 +1,10 @@
+<title>Nothing to see here? Banks' latest cybersecurity concern  | American Banker</title>
+<source> https://www.americanbanker.com/news/nothing-to-see-here-banks-latest-cybersecurity-concern </source>
+<date> 2017_02_09 </date>
+<text>
+Cyberattacks on banks and others have seemingly disappeared, making them all the more dangerous.
+Malicious software, the type criminals use to steal online banking login credentials from customer or employee desktops, has been getting more stealthy and effective over time, as its authors get progressively better at evading antivirus and antimalware programs.
+But there’s an emerging generation of malware that’s even sneakier.
+It’s not only designed to escape detection, it can lurk in computer memory or a legitimate computer tool, where normal security software can’t see it.
+Malicious code that runs in memory is called “fileless”.
+</text>

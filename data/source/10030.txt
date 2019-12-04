@@ -1,0 +1,12 @@
+<title>Senate Democrats still recovering from computer ransomware attack</title>
+<source> https://www.pennlive.com/politics/index.ssf/2017/03/senate_democrats_recovering_al.html </source>
+<date> 2017_03_27 </date>
+<text>
+Senate Democrats are still rebuilding their computer system after hackers demanded a ransom earlier this month to unlock the network.
+The state legislators' offices continue to operate via a combination of cell phones and laptops, some personal and some provided by the caucus. In the last two weeks, email service was also restored.
+On Monday, Senate Minority Leader Jay Costa said Microsoft technicians would begin going around to strip down and rebuild every computer with the goal of having everything restored in the next several days.
+"[They are] working to rebuild our network so we're all operating off one system," the Allegheny County Democrat said. "We're rebooting that very soon."
+Costa said he cannot comment on the ongoing investigation or the exact dollar amount demanded by the hackers. The caucus has not and will not pay the ransom, he said.
+"For people who do pay the ransom, the likelihood they'll get the codes they need to undo the encryption is much lower than people talk about," he said. "And there are a number of times it's happened you don't hear about."
+Hackers who launch such attacks lock their targets out of their data in an effort to extract a ransom for its return. The security firm SonicWall estimated 638 million ransomware attacks that cost $209 million last year, more than 167 times the 3.8 million attacks recorded in 2015.
+</text>

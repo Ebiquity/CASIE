@@ -1,0 +1,10 @@
+<title>Severe vulnerabilities spotted in LG G3, G4, and G5</title>
+<source> https://www.scmagazine.com/severe-vulnerabilities-spotted-in-lg-g-series-devices/article/632361/ </source>
+<date> 2017_01_19 </date>
+<text>
+MWR Labs researchers recently disclosed two high-security vulnerabilities in LG G3, G4, and G5 mobile devices.
+The bugs include a Path Transversal flaw and an Arbitrary File Disclosure flaw, according to the respective security advisories.
+The Path Transversal flaw was caused by the application not validating that URL parameters did not contain potentially malicious characters and could allow an attacker on the same network as a user to make any media file or folder shareable without authentication or user interaction.
+The Arbitrary File Disclosure flaw was caused by the SmartShare.Cloud application launching an unauthenticated HTTP Server listening on all interfaces while connected to a WiFi network and could allow an attacker to retrieve any media file from the Cloud storage of the victim as long as they knew the file name.
+Users are encouraged to ensure their devices are updated to the latest versions as Version 2.4.0 has mitigated the issues.
+</text>

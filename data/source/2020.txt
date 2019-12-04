@@ -1,0 +1,13 @@
+<title>Retina-X admits they have suffered a data breach - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/05/02/retina-x-data-breach/ </source>
+<date> 2017_05_02 </date>
+<text>
+Retina-X Studios, the makers of several consumer-grade monitoring products, have finally announced that they have suffered a data breach.
+Retina-X and FlexiSpy, another spyware maker, were attacked by two hackers / hacker groups that revealed last week how they went about compromising the companies’ assets and made off with customer and other data. 
+“A hacker known for SQL exploits of great magnitude was able to find a weakness in a decompiled and decrypted version of a now-discontinued product. The vulnerability hidden inside the coded software led to a breach of the database and the eventual exploit by unauthorized individuals,” the company noted.
+“According to the report, the attacker was able to break into a server that held database tables for Net Orbit, PhoneSheriff and TeenShield. The tables held information such as login usernames, subscription keys, device metadata, text messages, GPS locations, contacts’ information, apps installed and website logs. A third-party photo storage account was also breached. Only accounts created before February 21st, 2017 were affected.”
+They were quick to point out that no payment information was compromised, and they say that the attacker has not publicly released the stolen data – and he seemingly does not plan to.
+They are also trying to differentiate itself from the other victim (FlexiSpy), by saying that their software can’t be used to monitor individuals that the monitorer has no legal right to keep under surveillance (e.g. their employees or their underage children), because this would violate their terms of service and the account would be terminated. 
+“Our child and employee monitoring software shows up as an icon and in the Installed Apps list of devices. There are also notifications to let the user of the device know that activities are being monitored,” the company noted, while failing to mention that these notifications can be turned off and the icon removed.
+They also did not mention how or how quickly they are able to discover that someone is using the software to perform illegitimate surveillance. For all we know, it could be weeks or months, but even days are too much for people who are spied on in this way.
+</text>

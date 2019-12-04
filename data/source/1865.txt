@@ -1,0 +1,16 @@
+<title>Hipchat resets user passwords after possible breach | CSO Online</title>
+<source> http://www.csoonline.com/article/3192192/security/hipchat-resets-user-passwords-after-possible-breach.html </source>
+<date> 2017_04_25 </date>
+<text>
+HipChat has reset all its users' passwords after what it called a security incident that may have exposed their names, email addresses and hashed password information.
+In some cases, attackers may have accessed messages and content in chat rooms, HipChat said in a Monday blog post. But this happened in no more than 0.05 percent of the cases, each of which involved a domain URL, such as company.hipchat.com.
+HipChat didn't say how many users may have been affected by the incident. The passwords that may have been exposed would also be difficult to crack, the company said. The data is hashed, or obscured, with the bcrypt algorithm, which transforms the passwords into a set of random-looking characters. For added security, HipChat "salted" each password with a random value before hashing it.
+HipChat warned that chat room data including the room name and topic may have also been exposed. But no financial or credit information was taken, the company said.
+HipChat is a popular messaging service used among enterprises, and an attack that exposed sensitive work-related chats could cause significant harm. 
+The service, which is owned by Atlassian, said it detected the security incident last weekend. It affected a server in the HipChat Cloud and was caused by a vulnerability in an unnamed, but popular, third-party library that HipChat.com used, the company said. 
+No other Atlassian systems were affected, the company said. “We are confident we have isolated the affected systems and closed any unauthorized access,” HipChat said in its blog post.
+This is not the first time the messaging service has faced problems keeping accounts secure. In 2015, HipChat reset user passwords after detecting and blocking suspicious activity in which account information was stolen from less than 2 percent of its users.
+When breaches occur, security experts advise users to change their passwords for any accounts where they used the same login information. Users can consider using a password manager to help them store complex, tough-to-memorize passwords. 
+HipChat has already sent an email to affected users, informing them of the password reset.
+In 2015, rival chat application Slack reported its own breach, and as a result rolled out two-factor authentication to beef up its account security. HipChat does not offer two-factor authentication.
+</text>

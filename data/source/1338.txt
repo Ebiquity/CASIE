@@ -1,0 +1,19 @@
+<title>IIS 6.0 Vulnerability Leads to Code Execution - TrendLabs Security Intelligence Blog</title>
+<source> http://blog.trendmicro.com/trendlabs-security-intelligence/iis-6-0-vulnerability-leads-code-execution/ </source>
+<date> 2017_03_29 </date>
+<text>
+Microsoft Internet Information Services (IIS) 6.0 is vulnerable to a zero-day Buffer Overflow vulnerability (CVE-2017-7269) due to an improper validation of an ‘IF’ header in a PROPFIND request.
+A remote attacker could exploit this vulnerability in the IIS WebDAV Component with a crafted request using PROPFIND  method.
+Successful exploitation could result in denial of service condition or  arbitrary code execution in the context of the user running the application.
+According to the researchers who found this flaw, this vulnerability was exploited in the wild in July or August 2016.
+Other threat actors are now in the stages of creating malicious code based on the original proof-of-concept (PoC) code.
+Web Distributed Authoring and Versioning (WebDAV) is an extension of the HTTP protocol that allows clients to perform remote Web content authoring operations.
+WebDAV extends the set of standard HTTP methods and headers allowed for the HTTP request.
+Few example of WebDAV methods are COPY, LOCK, MKCOL, PROPFIND, UNLOCK etc.
+This vulnerability is exploited using the PROPFIND method and IF header.
+The PROPFIND method retrieves properties defined on the resource identified by the Request-URI.
+All the WebDAV-Compliant resources must support the PROPFIND method.
+The IF header handles the state token as well as the ETags.
+It makes the request conditional by supplying a series of state lists with conditions that match tokens and ETags to specific resource.
+If all states present in the IF header fail, the request fails with 412 (Precondition Failed) status.
+</text>

@@ -1,0 +1,19 @@
+<title> Kubernetes Updates Patch Critical Privilege Escalation Bug </title>
+<source> https://www.bleepingcomputer.com/news/security/kubernetes-updates-patch-critical-privilege-escalation-bug/ </source>
+<date> 2018_12_04 </date>
+<text>
+A critical vulnerability in Kubernetes open-source system for handling containerized applications can enable an attacker to gain full administrator privileges on Kubernetes compute nodes.
+Kubernetes makes it easier to manage a container environment  by organizing application containers into pods, nodes (physical or virtual machines) and clusters. Multiple nodes form a cluster, managed by a master that coordinates cluster-related activities like scaling, scheduling, or updating apps. 
+Each node has an agent called Kubelet that facilitates communication with the Kubernetes master via the API. The number of nodes available in a Kubernetes system can be hundreds and even thousands.
+Pulling this off is easy on default configurations, where "all users (authenticated and unauthenticated) are allowed to perform discovery API calls that allow this escalation," says Jordan Liggitt, staff software engineer at Google.
+The security bug was discovered by Darren Shepherd, co-founder of Rancher Labs company that provides the Kubernetes-as-a-Service solution called Rancher. Now tracked as CVE-2018-1002105, the flaw is critical, with a Common Vulnerability Scoring System (CVSS) score of 9.8 out of 10.
+According to the latest version of the vulnerability severity calculator, exploiting the security glitch has low difficulty and does not require user interaction.
+Red Hat's OpenShift Container Platform uses Kubernetes for orchestrating and managing containers is also impacted by the vulnerability. In an advisory on the matter, the company explains that the flaw can be used in two ways against its products.
+One involves a normal user with 'exec,' 'attach,' or 'portforward' rights over a Kubernetes pod (a group of one or more containers that share storage and network resources); they can escalate their privileges to cluster-admin level and execute any process in a container.
+The second attack method exploits the API extension feature used by ‘metrics-server’ and ‘servicecatalog’ in OpenShift Container Platform, OpenShift Online, and Dedicated. No privileges are required and an unauthenticated user can get admin rights to any API extension deployed to the cluster.
+"Cluster-admin access to ‘servicecatalog’ allows creation of service brokers in any namespace and on any node," the advisory details.
+The problem has been addressed in the latest Kubernetes revisions: v1.10.11, v1.11.5, v1.12.3, and v1.13.0-rc.1. Kubernetes releases prior to these along with the products and services based on them are affected by CVE-2018-1002105.
+Red Hat released patches for the OpenShift family of containerization software (OpenShift Container Platform, OpenShift Online, and OpenShift Dedicated) and users received service updates they can install at their earliest convenience.
+The software company warns that a malicious actor could exploit the vulnerability to steal data or inject malicious code, as well as "bring down production applications and services from within an organization’s firewall."
+</text>
+

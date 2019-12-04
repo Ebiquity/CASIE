@@ -1,0 +1,16 @@
+<title> Microsoft: Crash-causing Outlook 2010 security patches are now fixed  </title>
+<source> https://www.zdnet.com/article/microsoft-crash-causing-outlook-2010-security-patches-are-now-fixed/ </source>
+<date> 2018_11_23 </date>
+<text>
+Microsoft's new Outlook 2010 update ought to provide the critical security fixes without the crashes.
+Microsoft has released a new update for Outlook 2010 that should plug its critical security flaws without causing crashes. 
+Microsoft earlier this week warned that the 64-bit version of the security update KB 4461529 from its November Patch Tuesday was causing Outlook 2010 crashes.
+Despite the crashes, Microsoft warned users not to remove the update, which plugged four remote code execution flaws that it said were more likely be exploited. Until a new update was released Microsoft recommended users try Outlook Web Access instead.
+As spotted by Woody Leonhard, Microsoft this week released KB 4461585 for Outlook 2010, which includes patches for the four flaws and shouldn't trigger crashes. Microsoft confirmed it does fix the crash issues caused by KB 4461529.
+The fixed update can be downloaded from Microsoft's download center and not the Microsoft Update Catalog.
+Microsoft cautions the update is only for the .msi edition of Office 2010 and not for Office 365 Home.
+"Be aware that the update in the Microsoft Download Center applies to the Microsoft Installer (.msi)-based edition of Office 2010. It doesn't apply to the Office 2010 Click-to-Run editions, such as Microsoft Office 365 Home," Microsoft notes.
+Microsoft has set out instructions for checking which edition you have in a blogpost.
+There are no further updates available for the Outlook 2010 non-security updates KB4461522 and KB2863821, which Microsoft pulled on November 15 because they were causing crashes in Access and other apps. Microsoft recommended users uninstall both the updates.  
+</text>
+

@@ -1,0 +1,11 @@
+<title> Russian officials hired criminals to hack 500 million Yahoo accounts, according to Feds </title>
+<source> https://www.theverge.com/2017/3/15/14934654/yahoo-russia-hackers-charged-breach-security-fsb-criminal </source>
+<date> 2017_03_15 </date>
+<text>
+Today, federal officials announced new charges relating to the 2014 hack of Yahoo, alleging a conspiracy between criminal hackers and the Russian Federal Security Agency (or FSB). The indictment names two FSB agents — Igor Suschin and Dmitry Dokuchaev — who allegedly contracted two criminal hackers — Aleksey Belan and Karim Baratov — to compromise Yahoo’s database, which included both US military officers and Russian journalists believed to be of interest to the FSB. Baratov was arrested yesterday in Canada, Department of Justice officials say.
+“There are no free passes for foreign, state-sponsored criminal behavior,” Assistant Attorney General McCord told reporters at a press conference.
+When Yahoo first disclosed the breach in September, the company attributed the attack to “a state-sponsored actor,” a claim that some security experts found questionable at the time. Subsequent reports found that the Yahoo database was sold a number of times, suggesting a criminal profit motive rather than intelligence gathering.
+According to the Department of Justice, that was a result of the FSB’s collaboration with its criminal contractors, who sold much of the stolen information after it had been handed over. One of the contractors also allegedly searched the accounts for gift cards and other financial info.
+Yahoo’s database was breached two separate times during the period — once in August 2013 and again in late 2014, revealing account details for hundreds of millions of users each time. Today’s charges deal only with the 2014 breach, which compromised 500 million accounts. Many blamed Yahoo CEO Marissa Mayer for refusing to invest in more robust security measures. Mayer later acknowledged the error, and gave up her annual salary, bonus and equity grant for 2016 as a result.
+Details of the breaches became public only after Yahoo had struck a deal to be acquired by Verizon. News of the security issues caused significant friction in the deal, ultimately causing Verizon to lower its purchase price by $350 million, to $4.4 billion dollars.
+</text>

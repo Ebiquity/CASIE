@@ -1,0 +1,25 @@
+<title> How to spot (and avoid) these Facebook and social media prize scams  </title>
+<source> https://www.nbcnews.com/better/business/how-avoid-these-social-media-prize-scams-ncna879971 </source>
+<date> 2018_06_05 </date>
+<text>
+Prize scams are as old as the hills, but people keep falling for them — sending the fraudsters hundreds, sometimes thousands of dollars to claim their cash, luxury cars or other non-existent prizes.
+Sweepstakes, lottery and prize scams “are among the most serious and pervasive frauds operating today,” according to a new report from the Better Business Bureau. And along with phone calls, letters and email, the crooks are now using text messages, pop-ups and phony Facebook messages to lure their victims. In fact, social media is now involved in a third of the sweepstakes fraud complaints received by the FBI’s Internet Crime Complaint Center (IC3).
+“Scammers are like viruses. They mutate and adapt and find things that work,” said Steve Baker, former director of the Federal Trade Commission’s Midwest region and author of the BBB report. “The crooks have discovered social media big time and since social media is free to use, they can easily do a whole lot of damage from other countries.”
+The BBB study found that:
+    Nearly 500,000 people reported a sweepstakes, lottery or other prize scam to law enforcement agencies in the U.S. and Canada in the last three years.
+    Monetary losses totaled $117 million last year.
+Facebook Messenger Lottery Fraud
+Scammers are creating bogus websites that look like a legitimate lottery or sweepstakes site. Or they are reaching out to potential victims who don’t properly set their privacy settings on social media platforms such as Facebook.
+The BBB report says Facebook Messenger, the private messaging app, is a favorite way for fraudsters to find victims. They can use Messenger — with or without a Facebook profile — and contact people who are not Facebook friends.
+In many cases, the bogus message appears to be from Publishers Clearing House (PCH) congratulating you on winning a big prize. To claim that prize, it says, you need to send them money.
+“That’s a red flag warning,” said Chris Irving, a PCH assistant vice president. “If anybody asks you to send money to collect a prize, you know it's a scam and it's not from the real Publishers Clearing House. At Publishers Clearing House or any legitimate sweepstakes, the winning is always free — no purchase, no payment, no taxes or customs to pay.”
+The crooks also impersonate Facebook founder Mark Zuckerberg in some of their phony Messenger messages.
+“They post a fake profile of Zuckerberg on Facebook,” Baker said. “Then they send you a message through the Facebook messenger system saying: ‘Hi this is Mark Zuckerberg. I'm delighted to be able to tell you that you have won the Facebook Lottery and here is the person you need to contact to get the money.’ ”
+Take the bait and click the link, and you’ll be told to send money to claim your winnings. Of course, there is no Facebook Lottery and Zuckerberg is not sending prize notices to anyone.
+In a recent story on social media scams, the New York Times reported it found 208 accounts that impersonated Zuckerberg or Facebook COO Sheryl Sandberg on Facebook and Instagram. At least 51 of the impostor accounts, including 43 on Instagram, were lottery scams. (In 2012, Facebook purchased Instagram for $1 billion.)
+Facebook says it’s working to stop the scammers who use its platform to trick people out of their money. In March, the company announced it was using new machine learning techniques that helped it detect more than a half-million accounts related to fraudulent activity.
+“These ploys are not allowed on Facebook and we're constantly working to better defend against them,” said Product Manager Scott Dickens. “While we block millions of fake accounts at registration every day, we still need to focus on the would-be scammers who manage to create accounts. Our new machine learning models are trained on previously confirmed scams to help detect new ones.”
+The company has also posted a warning on how to avoid Facebook scams.
+The BBB report calls on Facebook and other social media platforms to make “additional efforts” to prevent fake profiles and to make it easier for users to contact them about fraud.
+</text>
+

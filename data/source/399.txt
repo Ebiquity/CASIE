@@ -1,0 +1,15 @@
+<title>Trump’s Personal Phone Is a National Security Risk - Motherboard</title>
+<source> http://motherboard.vice.com/read/trumps-personal-android-phone-is-a-national-security-risk </source>
+<date> 2017_01_27 </date>
+<text>
+In the evenings, Trump keeps himself company with television and his "old, unsecured Android phone," according to a recent The New York Times report, which contradicts an earlier report that said he had "traded in" his old Android phone for a more secure one.
+It's unclear exactly what type of phone he's using for his late-night White House tweeting, but it doesn't sound like it's a hardened, government-approved, Android phone such as the one supported by the Pentagon's Defense Information Systems Agency, which helps the White House with communications tools.
+The source added that if they were to advise Trump on using cell phones, they'd tell him to use a highly customized one so hackers wouldn't have a comparable test device.
+But the best thing, they added, would be to simply tell Trump: "no more cell phones."
+Using any kind of phone, according to the source and other security researchers, is a risk in and of itself for Trump.
+If someone were to hack Trump through his Twitter-phone (for lack of a better word), they might steal his password to other more important accounts, or, worse, they could jump to another device on the White House internal network, perhaps one that contains more sensitive information.
+"[Trump] shouldn't have personal computers of any kind, they should be government controlled."
+In 2014, hackers broke into the White House network.
+At the time, the Obama administration downplayed the intrusion, saying it only affected the unclassified networks, but former White House officials said that network can still hold sensitive information such as the president's schedule, staff member's emails and other information.
+In theory, this is the kind of data hackers could get if they could get into the network from Trump's personal Android phone and then get into another computer connected to the same network.
+</text>

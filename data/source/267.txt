@@ -1,0 +1,15 @@
+<title>Exploit Kit Jumps on Old Applications «  isssource.com</title>
+<source> http://www.isssource.com/exploit-kit-jumps-on-old-applications/?utm_source=hs_email&utm_medium=email&utm_content=40939671&_hsenc=p2ANqtz-_qAe5oIBeto86K4x_eD8-XZ9XOP9GeM0f72Oy7_UmoWe7gp3W7ZpN1w4_K0UaEeKCuL3qwKRQQ1kuuBmpZCTzfE-oPcQ&_hsmi=40939671 </source>
+<date> 2017_01_19 </date>
+<text>
+There are plenty of examples of why organizations need to update technology and apply patches.
+It is taking advantage of outdated versions of applications such as Flash, Internet Explorer, or Microsoft Edge to distribute the Cerber ransomware, researchers said.
+The attack leverages malicious domains to launch drive-by attacks against unsuspecting visitors and preys on their failure to update applications in a timely manner, said Andra Zaharia, a security evangelist at Heimdal Security, in a blog post.
+As long as they use outdated browsers or plugins that contain known vulnerabilities, they are likely to end up infected with malware.
+Only outdated versions of Flash Player, Silverlight, Internet Explorer and Microsoft Edge are the focus of the attack, Zaharia said.
+RIG exploits one of eight vulnerabilities, including CVE-2015-8651 (CVSS Score: 9.1), CVE-2015-5122 (CVSS Score: 10, affects nearly 100 Flash versions), CVE-2016-4117 (CVSS Score: 10), CVE-2016-1019 (CVSS Score: 10), CVE-2016-7200 and CVE-2016-7201 (both CVSS Score: 7.6, affecting Microsoft Edge), CVE-2016-3298 (CVSS Score: 3.6, affects Internet Explorer versions 9, 10, 11), and CVE-2016-0034 (CVSS Score: 9.3).
+After compromising a user’s computer, the exploit kit proceeds to downloading and installing the Cerber ransomware, one of the most prolific threats last year.
+The malware encrypts a user’s files and demands a ransom for the decryption key.
+Zaharia said the one thing users must do to ensure increased protection is to keep their software updated at all times.
+Applying security updates in a timely manner is at the heart of prevention when it comes to exploit kit attacks.
+</text>

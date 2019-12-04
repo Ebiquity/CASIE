@@ -1,0 +1,32 @@
+<title>Ransomware 2016: Attack and Loss | 360 Total Security blog</title>
+<source> https://blog.360totalsecurity.com/en/attack-loss-ransomware-2016/?utm_source=hs_email&utm_medium=email&utm_content=39928830&_hsenc=p2ANqtz-_hUzBFj6MlafjvrqOU0UzD-VQYQIDwglOzggQVO647FeElrxfFitk938HPkVOmD7sk_VEefR5Z-31c5xtj25l7DEwkog&_hsmi=39928830 </source>
+<date> 2017_01_03 </date>
+<text>
+Ransomware, a special version of trojan that encrypts files, has become a new and tremendously growing type of cybercrime.
+The 2016 Ransomware Report released by 360 Security Center lately presents that:
+– 4.9 million computers were attacked in China
+ – 56,000 ransomware infections worldwide only in March 2016
+ – $1 billion dollar source of income for cyber criminals estimated by FBI
+ – Almost half of organizations have been hit with ransomware
+In January 2016, three Indian banks’ and a pharmaceutical company’s computer systems were infected by ransomware.
+The attacker asked for 1 bitcoin (about $905) for each infected computer, and then used unprotected desktop interface to infect other connected computers from remote.
+These corps lost several million dollars due to the huge number of infected computers .
+February 5th 2016, Hollywood Presbyterian Medical Center paid a $17,000 ransom in bitcoin to a hacker who seized control of the hospital’s computer systems and would give back access only when the money was paid.
+Two hospitals in Ottawa and in Ontario were attacked by ransomware later on.
+In February 2016, several schools’ computer systems were attacked by ransomware.
+The hacker took control of the intranet and servers, and asked for 20 bitcoin.
+These school ended up paying the anonymous hacker $8,500 to get their IT systems back.
+In the mid-February, a new ransomware “Locky” started to spread out via email.
+7 out of 10 malicious email attachments delivered Locky in Q2 2016.
+Once users activated the file attached in the email, their files were encrypted and had to pay the distributor a certain ransom to decrypt these files.
+May 2016, a series of ransomware attacks on the House of Representatives have led US congress to ban using Yahoo Mail and Google hosted-apps, and warned their members about being caution of Internet security.
+In October, 2016, 277 ransomware attacks were reported to Government Computer Emergency Response Team in Hong Kong, China.
+Most of the malware were hidden in email attachments and disguised as bills or receipts to trick users to click.
+The victims included the Marine Department of Hong Kong and Deloitte, one of the biggest accounting firms in the world.
+In November 2016, other than emails, Locky began to transmit through social networks such as Facebook, LinkedIn with images contained malicious application.
+The file could be automatically downloaded while users were browsing, and installed once users clicked to check.
+November 2016, San Francisco public transportation system Muni was hacked and requested for a $73,000 ransom in bitcoin to get back encrypted data.
+SFMTA (The San Francisco Municipal Transportation Authority) refused to pay the ransom and shut down the fair system.
+We can see that ransomeware is terrifying and collecting money illegally around the world.
+However, it’s almost impossible to decrypt the infected files by yourself, even for people with high information technology skills.
+</text>

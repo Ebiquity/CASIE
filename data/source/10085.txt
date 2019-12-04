@@ -1,0 +1,22 @@
+<title> Ransomware Gang Made Over $100,000 by Exploiting Apache Struts Zero-Day  </title>
+<source> https://www.bleepingcomputer.com/news/security/ransomware-gang-made-over-100-000-by-exploiting-apache-struts-zero-day/ </source>
+<date> 2017_04_06 </date>
+<text>
+For more than a month, at least ten groups of attackers have been compromising systems running applications built with Apache Struts and installing backdoors, DDoS bots, cryptocurrency miners, or ransomware, depending if the machine is running Linux or Windows.
+For their attacks, the groups are using a zero-day in Apache Struts, disclosed and immediately fixed last month by Apache.
+The vulnerability, CVE-2017-5638, allows an attacker to execute commands on the server via content uploaded to the Jakarta Multipart parser component, deployed in some Struts installations.
+Attackers initially focused on Linux server.
+According to cyber-security firms F5, attacks started as soon as Cisco Talos researchers revealed the zero-day's presence and several proof-of-concept exploits were published online.
+Since early March, attacks have slowly evolved. F5 experts say that in the beginning, attackers targeted Struts instances running on Linux servers, where they would end up installing the PowerBot malware, an IRC-controlled DDoS bot also known as PerlBot or Shellbot.
+In later attacks, some groups switched to installing a cryptocurrency miner called "minerd" that mined for the Monero cryptocurrency.
+In other attacks reported by the SANS Technology Institute, some attackers installed Perl backdoors.
+Recent attacks also targeted Struts running on Windows
+Both SANS and F5 experts report that after March 20, one of these groups switched to targeting Struts instances installed on Windows systems.
+Using a slightly modified exploit code, attackers executed various shell commands to run the BITSAdmin utility and then downloaded (via Windows' built-in FTP support) the Cerber ransomware.
+From this point on, Cerber took over, encrypted files, and displayed its standard ransom note, leaving victims no choice but pay the ransom demand or recover data from backups.
+"The attackers running this [Cerber] campaign are using the same Bitcoin ID for a number of campaigns," the F5 team said. "This particular account has processed 84 bitcoins [~$100,000]."
+F5 experts also noted that, on average, roughly 2.2 Bitcoin (~$2,600) go in and out of this particular wallet on a daily basis. The most recent payments dates to today.
+It is worth mentioning that F5 published their findings last week, on March 29. Today, SANS detailed similar findings, meaning the campaign spreading Cerber ransomware via Struts on Windows is still going strong.
+A patch for Apache Struts servers is available on the Struts website. Struts is an open source MVC framework for creating modern Java web applications, and its widely used in enterprise environments, for both Intranets and public websites. Some of the initial attacks on Struts-based applications have been tracked by cyber-security firm AlienVault.
+</text>
+

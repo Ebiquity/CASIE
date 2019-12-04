@@ -1,0 +1,17 @@
+<title> Microsoft Windows zero-day vulnerability disclosed through Twitter </title>
+<source> https://www.zdnet.com/article/windows-zero-day-vulnerability-disclosed-through-twitter/ </source>
+<date> 2018_08_28 </date>
+<text>
+Microsoft has quickly reacted to the disclosure of a previously unknown zero-day vulnerability in the Windows operating system.
+On Monday, Twitter user SandboxEscaper revealed the existence of the bug on the microblogging platform. As reported by the Register, the user said:
+    "Here is the alpc bug as 0day. I don't f**king care about life anymore. Neither do I ever again want to submit to MSFT anyway. F**k all of this shit."
+The user linked to a page on GitHub which appears to contain a proof-of-concept (PoC) for the vulnerability.
+Following the disclosure, on Tuesday, Will Dormann, vulnerability analyst at CERT/CC verified the bug, adding that the zero-day flaw works "well in a fully-patched 64-bit Windows 10 system."
+The Windows vulnerability is described as a local privilege escalation security flaw in the Microsoft Windows task scheduler caused by errors in the handling of Advanced Local Procedure Call (ALPC) systems.
+If exploited, the zero-day bug permits local users to obtain system privileges. As ALPC is a local system, the impact is limited, but the public disclosure of a zero-day is still likely a headache for the Redmond giant.
+There are no known workarounds for the vulnerability, which has been awarded a CVSS score of 6.4 -- 6.8.
+SandboxEscaper's tweet has since been deleted. However, Microsoft has acknowledged the zero-day flaw.
+This is likely to take place on September 11, the next scheduled Microsoft Patch Tuesday, unless the firm decides to issue an out-of-schedule patch.
+    "Windows has a customer commitment to investigate reported security issues, and proactively update impacted devices as soon as possible. Our standard policy is to provide solutions via our current Update Tuesday schedule."
+</text>
+

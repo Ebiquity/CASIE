@@ -1,0 +1,16 @@
+<title> Abbott releases firmware patch to fix cybersecurity flaws in 350,000 medical devices </title>
+<source> https://www.healthcareitnews.com/news/abbott-releases-firmware-patch-fix-cybersecurity-flaws-350000-medical-devices </source>
+<date> 2018_04_19 </date>
+<text>
+The device manufacturer acquired St Jude Medical last year and has since been working to fix severe vulnerabilities found in its pacemakers.
+Abbott released its second and final round of planned cybersecurity updates to its pacemakers, programmers and remote monitoring systems to fix severe cybersecurity flaws in the devices.
+The patch will update the battery performance alert, allowing the device to monitor for abnormal battery behavior and automatically vibrate to tell the patient when something is wrong.
+The planned updates began last year, and the latest firmware update was approved by the Food and Drug Administration last week. The update applies to about 350,000 of Abbott’s implantable cardioverter defibrillators and implantable cardiac resynchronization therapy defibrillators.
+The devices were originally manufactured by St Jude Medical, which Abbott acquired last year.
+At that time, St Jude was under fire for remaining quiet about defibrillator issues that caused rapid battery depletion. The FDA found St Jude continued to ship these devices despite knowing about the defect. In fact, the agency found those flaws caused patient deaths.
+The flaws, made public in 2016 by Muddy Waters and security firm MedSec, could allow an unauthorized user to access the defibrillaors and modify the programming controls. Since acquiring St Jude, Abbott has been working to patch those vulnerabilities.
+The FDA’s recall notice said the firmware update will reduce the risk of patient harm due to premature battery depletion and potential exploitation of the flaws in the devices. The update will effectively complete the necessary patches to prevent unauthorized access.
+The update is not a response to any new flaws, but are merely a continuation of last year’s patches, according to officials.
+"Technology and its security are always evolving, and this firmware upgrade is part of our commitment to ensuring our products include the latest advancements and protections for patients," said Robert Ford, executive vice president of medical devices at Abbott, in a statement.
+</text>
+

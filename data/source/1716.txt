@@ -1,0 +1,20 @@
+<title>Microsoft patched 'NSA hack' Windows flaws before leak - BBC News</title>
+<source> http://www.bbc.com/news/technology-39620534 </source>
+<date> 2017_04_18 </date>
+<text>
+Microsoft says it had already fixed software flaws linked to an alleged breach of the global banking system before they were exposed last week.
+On Friday, a group called the Shadow Brokers published details of several hacking tools, indicating they had been used by the US National Security Agency (NSA) to spy on money transfers.
+Reports suggested Microsoft's Windows operating system remained vulnerable.
+But the firm revealed it had in fact addressed the problem in March.
+"Customers have expressed concerns around the risk [Shadow Brokers'] disclosure potentially creates," it said in a security update.
+"Our engineers have investigated the disclosed exploits, and most of the exploits are already patched."
+The company has not, however, revealed how it became aware of the flaws.
+Microsoft normally acknowledges third parties who tip it off to problems, but has not done so in this case.
+The Reuters news agency reported that the company had told it that neither the NSA nor any other part of the US government had informed it of the hacking tools' existence.
+That calls into question how Microsoft learned of the issue - tech blog Ars Technica commented it was "highly unlikely" that the patch and leak would both have occurred so close together by coincidence. 
+Whisteblower Edward Snowden had previously leaked documents in 2013 that alleged the NSA had carried surveillance of the Brussels-based Society for Worldwide Interbank Financial Telecommunication (Swift) for several years, but did not specify how.
+Swift allows the world's banks to send payment orders and other messages about large financial transactions in a "secure and reliable" manner. 
+It is used by about 11,000 financial institutions. The allegation is that third parties - known as Swift Service Bureaus - that provide access to Swift's network were targeted by the NSA, rather than Swift itself.
+"If Shadow Brokers' claims are indeed verified, it seems that the NSA sought to totally capture the backbone of [the] international financial system to have a God's eye [view] into a Swift Service Bureau - and potentially the entire Swift network," blogged security researcher Matt Suiche after the latest leak.
+"If the US had a specific target in the region's financial system, NSA penetration offers [an alternative to] merely relying upon good faith compliance procedures, standard diplomatic requests, or collaborating with Swift."
+</text>

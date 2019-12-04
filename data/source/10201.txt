@@ -1,0 +1,17 @@
+<title> Cisco: Patch now, attackers are exploiting ASA DoS flaw to take down security </title>
+<source> https://www.zdnet.com/article/cisco-patch-now-attackers-are-exploiting-asa-dos-flaw-to-take-down-security/ </source>
+<date> 2018_06_28 </date>
+<text>
+ After observing attacks on customers, Cisco is telling users to install the fix for a recently disclosed denial-of-service flaw affecting a number of its security appliances.
+The flaw, tracked as CVE-2018-0296, was detailed in an advisory on June 6 and affects Cisco ASA Software and Cisco Firepower Threat Defense (FTD) Software.
+"Cisco strongly recommends that customers upgrade to a fixed software release to remediate this issue," Omar Santos of Cisco's Product Security Incident Response Team warned on June 22.
+The attacks follow the publication of proof-of-concept exploits for the flaw. Santos notes that a unauthenticated, remote attacker could cause a device to reload unexpectedly and cause a denial-of-service (DoS) condition.
+
+ Additionally, an exploit could cause a DoS or unauthenticated disclosure of information. However, Santos said: "Only a denial-of-service condition (device reload) has been observed by Cisco."
+Cisco has also updated the advisory for CVE-2018-0296 with details about the attacks.
+The researcher who found the flaw, Michał Bentkowski from Polish security firm Securitum, gave a brief description of the root cause in a tweet shortly after Cisco disclosed the bug.
+Bentkowsky reported the issue to Cisco as a way to use directory-traversal techniques to disclose information to an unauthenticated attacker.
+Cisco labeled its primary impact as a DoS condition, but said it is possible that on certain releases of ASA a device reload would not occur, yet still allow an attacker to use directory-traversal techniques to view sensitive system information.
+Bleeping Computer identified two proof-of-concept exploits for CVE-2018-0296 on GitHub. One attempts to extract user names from Cisco ASA. The other states: "If the web server is vulnerable, the script will dump in a text file both the content of the current directory, files in +CSCOE+ and active sessions." 
+</text>
+

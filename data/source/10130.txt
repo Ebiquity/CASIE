@@ -1,0 +1,19 @@
+<title> Saudi agency says country targeted in cyber spying campaign   </title>
+<source> https://www.reuters.com/article/us-saudi-cyber/saudi-agency-says-country-targeted-in-cyber-spying-campaign-idUSKBN1DK27M </source>
+<date> 2017_11_20 </date>
+<text>
+Saudi Arabian security officials said on Monday that the country had been targeted as part of a wide-ranging cyber espionage campaign observed since February against five Middle East nations as well as several countries outside the region.
+The Saudi government’s National Cyber Security Center (NCSC) said in a statement the kingdom had been hit by a hacking campaign bearing the technical hallmarks of an attack group dubbed “MuddyWater” by U.S. cyber firm Palo Alto Networks.
+Palo Alto’s Unit 42 threat research unit published a report last Friday showing how a string of connected attacks this year used decoy documents with official-looking government logos to lure unsuspecting users from targeted organizations to download infected documents and compromise their computer networks.
+Documents pretending to be from the U.S.National Security Agency, Iraqi intelligence, Russian security firm Kaspersky and the Kurdistan regional government were among those used to trick victims, Unit 42 said in a blog post (goo.gl/SvwrXv). 
+The Unit 42 researchers said the attacks had targeted organizations in Saudi Arabia, Iraq, the United Arab Emirates, Turkey and Israel, as well as entities outside the Middle East in Georgia, India, Pakistan and the United States.
+The Saudi security agency said in its own statement that the attacks sought to steal data from computers using email phishing techniques targeting the credentials of specific users.
+The NCSC said they also comprised so-called “watering hole” attacks, which seek to trick users to click on infected web links to seize control of their machines. 
+The technical indicators supplied by Unit 42 are the same as those described by the NCSC as being involved in attacks against Saudi Arabia. The NCSC said the attacks appeared to be by an “advanced persistent threat” (APT) group - cyber jargon typically used to describe state-backed espionage.
+Saudi Arabia has been the target of frequent cyber attacks, including the “Shamoon” virus, which cripples computers by wiping their disks and has hit both government ministries and petrochemical firms.
+Saudi Aramco, the world’s largest oil company, was hit by an early version of the “Shamoon” virus in 2012, in the country’s worst cyber attack to date.
+The NCSC declined further comment on the source of the attack or on which organizations or agencies were targeted. Unit 42 said it was unable to identify the attack group or its aims and did not have enough data to conclude that the MuddyWater group was behind the Saudi attacks as outlined by NCSC. 
+“We cannot confirm that the NCSC posting and our MuddyWater research are in fact related,” Christopher Budd, a Unit 42 manager told Reuters. “There’s just not enough information to make that connection with an appropriate level of certainty.”
+Palo Alto Networks said the files it had uncovered were almost identical to information-stealing documents disguised as Microsoft Word files and found to be targeting the Saudi government by security firm MalwareBytes in a September report. 
+</text>
+

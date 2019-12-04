@@ -1,0 +1,20 @@
+<title>Surprise! Extortionists have no qualms about claiming they ‘hacked’ your business – HOTforSecurity</title>
+<source> https://hotforsecurity.bitdefender.com/blog/surprise-extortionists-have-no-qualms-about-claiming-they-hacked-your-business-18121.html </source>
+<date> 2017_05_31 </date>
+<text>
+No one likes to have their company hacked. No one is going to be happy if hackers manage to break into systems and steal away their intellectual property.
+In the case of companies like Disney, having a $230 million blockbuster like the latest Pirates of the Caribbean movie stolen could prove to be very costly if hackers follow through with their threats to seed their pirated copy of the film on torrent sites, disrupting its official release.
+But imagine how much more galling it would be to give in to the hackers’ blackmail threats and pay a ransom for the movie not to be leaked online, only to discover later that the extortionists never had a copy of the film in the first place?
+Earlier this month it was widely reported that Walt Disney’s CEO Bob Iger had been contacted by hackers who were threatening to release one of the studio’s movies onto the internet unless a ransom was paid.
+Iger didn’t say what movie the hackers claimed to have stolen, but it was widely thought to be the soon to be released “Pirates of the Caribbean: Dead Men Tell No Tales.”
+That theory of the hacked movie’s identity certainly gained more momentum when it was reported that torrents had been spotted on Pirate Bay claiming to be the blockbuster starring Johnny Depp, Javier Bardem and Geoffrey Rush.
+
+However, none of those downloadable torrents were confirmed to contain the “Pirates of the Caribbean” movie. And in a video interview with Yahoo Finance, Disney’s CEO debunked claims that a movie had ever been stolen:
+“To our knowledge we were not hacked. We had a threat of a hack of a movie being stolen. We decided to take it seriously but not react in the manner in which the person who was threatening us had required. We don’t believe that it was real and nothing has happened.”
+In short, Disney says that it was not accurate that a movie was ever stolen, and it refused to pay the ransom demand to the extortionists.
+And that, in itself, may be a lesson for other companies to keep a cool head when they receive an extortion demand claiming that intellectual property or sensitive data has been stolen by hackers.
+Obviously all threats should be taken seriously, and you should explore appropriately whether it is possible a security breach has genuinely occurred, review the security of your systems, and inform law enforcement agencies as appropriate.
+But don’t be too quick to pay the criminals who are making threats against you. If you can, seek evidence that the hackers have what they claim to have, rather than reaching first for your wallets.
+It’s perfectly possible that some extortionists are simply jumping on the bandwagon of high profile hacks in an attempt to trick you into believing your company is the latest victim.
+Keep a cool head when your company receives a threat, or else you might find yourself in deep water, swimming with the hungry fishes.
+</text>

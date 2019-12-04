@@ -1,0 +1,11 @@
+<title>Cyber attacks said to be initiated by email | ZAWYA MENA Edition</title>
+<source> https://www.zawya.com/mena/en/story/Cyber_attacks_said_to_be_initiated_by_email-ZAWYA20170125044039/ </source>
+<date> 2017_01_26 </date>
+<text>
+It’s not confirmed that this is the same variant of the Shamoon malware which attacked Saudi Arabian organization
+Image used for illustrative purposes
+A man types on a computer keyboard in Warsaw in this February 28, 2013 illustration file picture.
+JEDDAH – Industry sources revealed that some 5 to 10 public and private organizations have been impacted by the second Shamoon virus attack, a aggressive disk-wiping malware, on Monday.
+According to research, the group uses a custom information-stealing remote access Trojan (RAT) known as Trojan.Ismdoor as well as a selection of hacking tools to steal sensitive credentials from compromised organizations.
+As threats arise, CEOs and organization leaders in the region will revamp and boost their cyber security strategies, according to Charles Habak head of financial services at Booz Allen Hamilton who predicted digital bank trends for 2017.
+</text>

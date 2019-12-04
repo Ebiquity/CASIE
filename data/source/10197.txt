@@ -1,0 +1,13 @@
+<title> Haven't updated your Adobe PDF software lately? Here's 85 new reasons to do it now </title>
+<source> https://www.theregister.co.uk/2018/10/02/adobe_acrobat_reader_patch/ </source>
+<date> 2018_10_02 </date>
+<text>
+Adobe has posted an update to address 85 CVE-listed security vulnerabilities in Acrobat and Reader for both Windows and macOS.
+The PDF apps have received a major update that includes dozens of fixes for flaws that would allow for remote code execution attacks if exploited. Other possible attacks include elevation of privilege flaws and information disclosure vulnerabilities.
+Fortunately, Adobe said that none of the bugs was currently being targeted in the wild - yet.
+For Mac and Windows Acrobat/Reader DC users, the fixes will be present in versions 2019.008.20071. For those using the older Acrobat and Reader 2017 versions, the fix will be labeled 2017.011.30105.
+Because PDF readers have become such a popular target for email and web-based malware attacks, users and admins alike would do well to test and install the updates as soon as possible. Exploit-laden PDFs have for more than a decade proven to be one of the most reliable ways to put malware on someone's machine.
+In total, Adobe credited 19 different researchers with discovering and reporting the vulnerabilities. Among the more prolific bug hunters were Omri Herscovici of CheckPoint Software, who was credited for finding and reporting 35 CVE-listed bugs, and Ke Liu and Tencent Security Xuanwu Lab, who was credited with finding 11 of the patched Adobe vulnerabilities. Beihang University's Lin Wang was given credit for nine vulnerabilities.
+While we're on the subject of massive security updates, both users and admins will want to mark their calendars for a week from Tuesday. October 9 is slated to be this month's edition of the scheduled 'Patch Tuesday' monthly security update.
+</text>
+

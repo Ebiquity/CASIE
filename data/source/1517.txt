@@ -1,0 +1,12 @@
+<title>Ransomware Attack on Pediatric Practice Exposes 55,447 Patients' Information</title>
+<source> http://www.esecurityplanet.com/network-security/ransomware-attack-on-pediatric-practice-exposes-55447-patients-information.html </source>
+<date> 2017_04_07 </date>
+<text>
+While the company was able to avoid falling victim to the ransomware, the attackers may have been able to access patient data.
+On February 6, 2017, an employee noticed that a virus had begun encrypting the practice's servers.
+The encryption process was slowed by the company's anti-virus software, and ABCD's IT company was able to take its servers offline and identify the virus as Dharma Ransomware, a variant of Crysis for which decryption tools are available.
+"ABCD's IT company reported that these virus strains typically do not exfiltrate ('remove') data from the server; however, exfiltration could not be ruled out," the company said in a statement.
+"Also, during the analysis of ABCD's servers and computers, suspicious user accounts were discovered suggested that hackers may have accessed portions of ABCD's network."
+The IT company was able to remove the virus and all corrupt data from its servers, and successfully restored all affected data from a secure backup.
+"As a result, no confidential information was lost or destroyed, including protected health information," the company said.
+</text>

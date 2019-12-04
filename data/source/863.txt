@@ -1,0 +1,23 @@
+<title>Yahoo cookie hacks affected 32 million accounts, CEO foregoes bonus | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/03/marissa-mayer-forgoes-bonus-after-yahoo-botches-hack-investigation/ </source>
+<date> 2017_03_02 </date>
+<text>
+Yahoo CEO Marissa Mayer said she'll forego her 2016 bonus and any stock award for this year after the company admitted it failed to properly investigate hack attacks that compromised more than a billion user accounts.
+Further ReadingYahoo admits it’s been hacked again, and 1 billion accounts were exposed "When I learned in September 2016 that a large number of our user database files had been stolen, I worked with the team to disclose the incident to users, regulators, and government agencies," she wrote in a note published Monday on Tumblr.
+"However, I am the CEO of the company and since this incident happened during my tenure, I have agreed to forgo my annual bonus and my annual equity grant this year and have expressed my desire that my bonus be redistributed to our company’s hardworking employees, who contributed so much to Yahoo’s success in 2016."
+Her note came as Yahoo for the first time said that outside investigators identified about 32 million accounts for which forged browser cookies were used or taken in 2015 and 2016.
+The investigators said some of the forgeries were connected to the same nation-sponsored attackers who compromised Yahoo in 2014.
+The cookies tied to the forgeries have since been invalidated.
+Yahoo also said that the 2014 attacks targeted 26 specific accounts by exploiting the company’s account management tool.
+The company went on to say unnamed senior executives failed to grasp the extent of the breach early enough.
+A filing submitted Monday with the US Securities and Exchange Commission stated:
+Based on its investigation, the Independent Committee concluded that the Company’s information security team had contemporaneous knowledge of the 2014 compromise of user accounts, as well as incidents by the same attacker involving cookie forging in 2015 and 2016.
+In late 2014, senior executives and relevant legal staff were aware that a state-sponsored actor had accessed certain user accounts by exploiting the Company’s account management tool.
+The Company took certain remedial actions, notifying 26 specifically targeted users and consulting with law enforcement.
+While significant additional security measures were implemented in response to those incidents, it appears certain senior executives did not properly comprehend or investigate, and therefore failed to act sufficiently upon, the full extent of knowledge known internally by the Company’s information security team.
+Specifically, as of December 2014, the information security team understood that the attacker had exfiltrated copies of user database backup files containing the personal data of Yahoo users but it is unclear whether and to what extent such evidence of exfiltration was effectively communicated and understood outside the information security team.
+However, the Independent Committee did not conclude that there was an intentional suppression of relevant information.
+Nonetheless, the Committee found that the relevant legal team had sufficient information to warrant substantial further inquiry in 2014, and they did not sufficiently pursue it.
+As a result, the 2014 Security Incident was not properly investigated and analyzed at the time, and the Company was not adequately advised with respect to the legal and business risks associated with the 2014 Security Incident.
+The Independent Committee found that failures in communication, management, inquiry and internal reporting contributed to the lack of proper comprehension and handling of the 2014 Security Incident.
+</text>

@@ -1,0 +1,12 @@
+<title>Android Ransomware Locks Phone and Asks for Credit Card Number</title>
+<source> https://www.bleepingcomputer.com/news/security/android-ransomware-locks-phone-and-asks-for-credit-card-number/ </source>
+<date> 2017_01_20 </date>
+<text>
+According to Fortinet researcher Kai Lu, the one who discovered this new threat, the ransomware appears to be targeting only Russian-speaking users, as its ransom note is only available in Russian.
+A translated version of the ransom note is available below.
+There are several things that stand out about this threat.
+The first is the humongous ransom demand it asks victims for, which is 545,000 Russian rubles (~$9,100).
+This ransom demand is between 10 and 100 times over the price of some phones, and most users who can't remove the screen locker will instead choose to buy a new phone rather than paying the crooks.
+To pay the ransom, victims have to enter their credit card number directly in the ransom screen, a technique very different from how other ransomware operators like to work, which is via Bitcoin, Tor, or gift cards.
+The other thing that sets this ransomware apart is the usage of the Google Cloud Messaging (GCM) platform, now renamed in Firebase Cloud Messaging.
+</text>

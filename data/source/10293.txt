@@ -1,0 +1,22 @@
+<title> Google: Apple, your sneaky iPhone patching is endangering users </title>
+<source> https://www.zdnet.com/article/google-apple-your-sneaky-iphone-patching-is-endangering-users/ </source>
+<date> 2018_10_05 </date>
+<text>
+A Google Project Zero researcher has published a macOS exploit to demonstrate that Apple is exposing its users to security risks by patching serious flaws in iOS but not revealing the fact until it fixes the same bugs in macOS a week later.
+This happened during Apple's update for critical flaws in iOS 12, tvOS 12 and Safari 12 on September 17.
+A Wayback Machine snapshot of the original advisory doesn't mention any of the bugs that Project Zero researcher Ivan Fratric had reported to Apple, and which were actually fixed.
+Then, a week later, after Apple patched the same bugs in macOS, the company updated its original advisory with details about the nine flaws that Fratric had reported, six of which affected Safari.
+The update fixed a Safari bug that allowed arbitrary code execution on macOS if a vulnerable version of Safari browsed to a website hosting an exploit for the bugs.
+While Fratric concedes that Apple is probably concealing the fix in iOS to buy time to patch macOS, he argues the end result is that people may ignore an important security update because they weren't properly informed by Apple in the security advisory.
+"This practice is misleading because customers interested in the Apple security advisories would most likely read them only once, when they are first released and the impression they would get is that the product updates fix far fewer vulnerabilities and less severe vulnerabilities than is actually the case."
+Even worse, a skilled attacker could use the update for iOS to reverse-engineer a patch, develop an exploit for macOS, and then deploy it against a macOS user-base that doesn't have a patch.
+Users also don't know that Apple has released information that could make their systems vulnerable to attack.
+Fratric developed an exploit for one of the Safari bugs he reported and published the attack on Thursday. The bugs were all found using a publicly available fuzzing tool he developed, called Domato, meaning anyone else, including highly advanced attackers, could use it too.
+"If a public tool was able to find that many bugs, it is expected that private ones might be even more successful," he noted.
+He wasn't aiming to write a reliable or sophisticated exploit, but the bug is useful enough for a skilled exploit writer to develop an attack to spread malware and "potentially do a lot of damage even with an unreliable exploit".
+Fratric said he successfully tested the exploit on Mac OS 10.13.6 High Sierra, build version 17G65. "If you are still using this version, you might want to update," noted Fratric.
+On the upside, it appears Apple and its Safari WebKit team have improved the security of the browser compared with the results of Fratric's Domato fuzzing efforts last year, which turned up way more bugs in Safari than in Chrome, Internet Explorer, and Edge. Last year he found 17 Safari flaws using the fuzzing tool.
+His final word of warning is not to discount any of the bugs he found just because no one's seen them being attacked in the wild.
+"While it is easy to brush away such bugs as something we haven't seen actual attackers use, that doesn't mean it's not happening or that it couldn't happen," the researcher noted. 
+</text>
+

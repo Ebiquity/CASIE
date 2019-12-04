@@ -1,0 +1,9 @@
+<title>Wasaga Pays Ransom for Town Data</title>
+<source> http://www.bayshorebroadcasting.ca/news_item.php?NewsID=101476 </source>
+<date> 2018_05_09 </date>
+<text>
+Wasaga Beach has paid part of the ransom to hackers who took over the town's computer system earlier this month.
+The computer ransomware attack started Sunday, April 29th. Staff discovered they couldn't access town data when the arrived on Monday.  
+CAO George Vadeboncoeur says some of the data has been retrieved, but he's not saying how much money the town has had to pay the hackers. He says the town doesn't actually know who the ransomware virus attackers are. He does say they appear to be in a time zone six hours different from ours, and English is not their first language.
+Vadeboncoeur says town council will get a report on the ransom paid at a meeting once the situation is resolved. He says he doesn't know yet when that will be, but he says some of the town's data has now been retrieved.
+</text>

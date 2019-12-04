@@ -1,0 +1,15 @@
+<title>Ashley Madison users blackmailed again - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/25/ashley-madison-blackmail/ </source>
+<date> 2017_04_25 </date>
+<text>
+Criminals are still trying to shake down users of the Ashley Madison dating/cheating online service.
+As you might remember, the service was hacked in 2015, and the attackers stole sensitive personal and financial data of 37 million users, and later dumped it online. 
+Since then, cyber criminals have been attempting to monetize this data by sending emails to users whose info they found in the dump, threatening to reveal all of it to the target’s nearest and dearest, and asking for money in exchange for silence.
+The emails generally contain some of the target’s personal data as to make the threat believable, and often claims that the attackers have found the target’s Facebook account and, therefore, have the means to contact their friends, family, and employer.
+In this latest round of blackmail attempts, they are threatening to set up a site and publish all the stolen information.
+“On May 1 2017 we are launching our new site – Cheaters Gallery – exposing those who cheat and destroy families. We will launch the site with a big email to all the friends and family of cheaters taken from Facebook, LinkedIn and other social sites. This will include you if do not pay to opting out,” the email says, as noted by ZDNet’s Robin Harris, who received one. 
+The extortionists are asking for some $500 (in Bitcoin).
+It’s impossible to tell whether these crooks are the same ones that mounted previous email blackmail attempts. What is definitely obvious is that they are betting on there still being some users with too much to lose if the information gets out.
+Harris did not share the contents of the email he received, but recipients can be sure that if their Facebook or other social media account isn’t specified in it, the blackmailers haven’t actually connected the two accounts.
+More likely than not, they have simply written a script that takes specific info from the Ashley Madison data dump, inserts it in a template email, and fires these emails off to as many recipients as possible.
+</text>

@@ -1,0 +1,11 @@
+<title>Security Researchers Urge The Guardian to Retract WhatsApp “Backdoor” Story</title>
+<source> http://news.softpedia.com/news/security-researchers-urge-the-guardian-to-retract-whatsapp-backdoor-story-512042.shtml </source>
+<date> 2017_01_23 </date>
+<text>
+Last week, we reported about a cryptographer who found a supposed vulnerability in WhatsApp and later gave an interview to The Guardian explaining the matter.
+The cryptographer later posted videos on YouTube explaining his findings, and WhatsApp’s response to his claims came in a timely manner.
+Cryptographer Tobias Boelter claimed that Facebook and WhatsApp could potentially intercept and read encrypted messages sent within the app.
+WhatsApp issued a statement saying that the alleged “backdoor” was actually an intentional design decision so that millions of messages could be delivered to their intended recipients.
+The developer of WhatsApp’s encryption protocol, Open Whisper Systems, also issued a statement backing up WhatsApp’s claims.
+Now it seems that security researchers from around the world have come together to defend WhatsApp and urge The Guardian to retract its story.
+</text>

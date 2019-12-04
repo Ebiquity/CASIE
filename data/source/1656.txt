@@ -1,0 +1,17 @@
+<title>Recent Microsoft 0-Day Used for Cyber-Espionage and Mundane Malware Distribution</title>
+<source> https://www.bleepingcomputer.com/news/security/recent-microsoft-0-day-used-for-cyber-espionage-and-mundane-malware-distribution/ </source>
+<date> 2017_04_14 </date>
+<text>
+The saga of CVE-2017-0199, a recently patched zero-day vulnerability affecting Microsoft Office and WordPad, just got a little stranger yesterday after cyber-security firm FireEye revealed the vulnerability was used by both cyber-criminals pushing mundane malware, and also by state-sponsored cyber-espionage groups.
+This twisted tale starts in July 2016, when security researcher Ryan Hanson discovered a flaw in RTF files that he could exploit to execute code on the underlying operating system.
+After finishing his research, Hanson submitted a write-up on the three bugs he found to Microsoft in October 2016, via the company's bug bounty program.
+Uncharacteristic to Microsoft, the company took almost six months to fix the three bugs discovered by Hanson, delivering patches for all three (CVE-2017-0106, CVE-2017-0199, and CVE-2017-0204) in April's Patch Tuesday.
+A few days before Microsoft patched the zero-day, news about it broke via blog posts from McAfee and FireEye, both companies revealing the zero-day was under active exploitation.
+Unfortunately, this long patching period gave others the time to discover the same flaw. While initially McAfee and FireEye restrained from revealing any details about the zero-day, now that a patch is available, several security firms are now sharing more behind-the-scenes details.
+According to FireEye, the zero-day first came on their radar on January 25, 2017, when they discovered a FinSpy module exploiting the flaw.
+While FireEye discovered only this campaign, the cyber-security firm believes Gamma Group made available this new Microsoft zero-day to all of its clients, meaning it was likely used in other countries where the company sold its "lawful intercept" spyware.
+Two months after this campaign, towards the end of March, FireEye says it detected the zero-day again, but this time used by a group of cyber-criminals spreading LatentBot, a sophisticated backdoor trojan, usually found in enterprise environments and used for economic espionage campaigns.
+This group apparently started a yard sale after McAfee and FireEye disclosed the zero-day in public. Fearing that a patch was coming, this group shared (most likely sold) the zero-day exploit with other crimeware groups.
+While initially this zero-day was classified as an Office vulnerability, Microsoft's security advisory revealed this vulnerability also affected WordPad, a free document viewer included by default with all Windows versions.
+This means that if users didn't have Office installed, they were at risk if they chose to open the booby-trapped files with WordPad. In this case, the exploit packed within the file would execute, download an HTA (HTML application) file disguised as an RTF, which in turn would run PowerShell commands that exploited the user's computer.
+</text>

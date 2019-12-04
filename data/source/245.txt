@@ -1,0 +1,26 @@
+<title>Vulnerabilities Leave iTunes, Apple's App Store Open to Script Injection | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/vulnerabilities-leave-itunes-app-store-open-to-script-injection/123129/ </source>
+<date> 2017_01_18 </date>
+<text>
+Apple is reportedly aware of and is in the middle of fixing a pair of vulnerabilities that exist in iTunes and the App Store.
+If exploited, researchers claim an attacker could inject malicious script into the application side of the vulnerable module or function.
+Vulnerability Lab’s Benjamin Kunz Mejri disclosed the vulnerabilities on Monday, explaining the issues can be jointly exploited via iTunes and the App Store’s iOS “Notify” function.
+Apple implemented the function in September, in the weeks leading up to the release of the game Super Mario Run.
+The function takes information from the device, such iCloud credentials or devicename values, to alert users when a soon-to-launch application debuts.
+Mejri, the firm’s founder, claims the Notify functionality can be exploited via a persistent input validation vulnerability and mail encoding web vulnerability.
+An attacker could substitute the name variable–the vulnerable firstname parameter–with a script launching a payload.
+Mejri said the issue stems from how Apple sends notifications from its @new-itunes.com web server; which doesn’t properly validate the iCloud name or devicename parameter.
+Instead of displaying introductory text, it can be rigged to execute malicious payloads.
+“The vulnerability can be exploited on restricted accessible iOS devices to the main account holder inbox,” Mejri wrote in his disclosure Monday, “The issue could be used as well to continue to calendar spam activities”.
+Mejri told Threatpost Tuesday that while the issue isn’t highly exploitable, it “definitely has a nice impact”.
+Exploiting the persistent input validation flaw would be easier, because it only requires an Apple account and “low or medium user interaction,” according to the researcher.
+Ultimately, if stitched together, he warns, the bugs could result in session hijacking, persistent phishing attacks, and persistent redirect to external sources.
+Mejri said he contacted Apple’s Product Security Team about the issues on Dec. 15 and acknowledged that the vulnerability should be able to be resolved on the server-side without performing any required end-user interaction or updates.
+He said a temporary patch has been implemented and believes a full fix is expected later this month.
+It’s unclear exactly when this month Apple will push that fix, however; it last updated iTunes in December, fixing 23 WebKit vulnerabilities in the software.
+Apple did not return multiple requests for comment regarding the vulnerabilities on Monday and Tuesday.
+A month after first communicating the issues to Apple, Vulnerability Lab elected to publish a proof of concept around the issues to see if they had any legs.
+“We decided to release the information until somebody uses the issue to exploit via iTunes,” Kunz Mejri told Threatpost Tuesday.
+The vulnerability is similar to one disclosed by Vulnerability Lab and patched by Apple in iTunes and the App Store a year and a half ago.
+Before it was fixed, like this week’s issue, an attacker could have remotely injected script into invoices, something that could have lead to hijacking, phishing, and redirect.
+</text>

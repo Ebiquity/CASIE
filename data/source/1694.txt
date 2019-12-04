@@ -1,0 +1,18 @@
+<title>Why Did Microsoft Wait Six Months To Patch a Critical Word Zero-Day? - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/why-did-microsoft-wait-six-months-to-patch-a-critical-word-zero-day </source>
+<date> 2017_04_17 </date>
+<text>
+ For weeks, perhaps months, hackers could take control of a victim's' computer, or install malware on it, just by tricking them into opening a booby-trapped document, thanks to a critical "zero-day" bug in most versions of Microsoft Word. 
+ When bugs are unknown to the vendor, and still unpatched, they're called zero-days. That's their value: they will work no matter what, as there's no fix for them. Criminal hackers, as well as hackers working for governments, sometimes use zero-days, but it's rare for the same zero-day exploit to be used by both groups.
+ Somehow, however, that's what happened with that Microsoft Word zero-day. The exploit was used by government hackers, likely inside Russia, to target victims and infect them with the infamous FinFisher spyware since at least late January. The same exploit, according to security firm FireEye, was also used by a criminal gang spreading malware known as Latentbot in March.
+ To add even more mystery to the mix, it appears that multiple researchers independent of each other found the original bug on which the exploit was developed. When Microsoft patched it on Tuesday, it credited three researchers, as well as its own internal teams. That's not unheard of, but as a recent study pointed out, it's rare for different teams or researchers to find the same bug, something that's known as "bug-collision." 
+ Ryan Hanson, a security researcher, claimed in a tweet that he originally found it in July and disclosed it to Microsoft in October. Hanson did not respond to a request for comment, but Motherboard was able to confirm this timeline. 
+ For some reason, however, Microsoft didn't patch it until this week. (For example, previous office bugs found by Google Project Zero got patched within 90 days.)
+ The company said in a statement that they heard of a "small number" of targeted attacks in the wild using the exploit "approximately one month ago," and added that there were no widespread attacks until McAfee disclosed the bug publicly last Saturday.
+ "This was a complex investigation that took time to thoroughly investigate and patch," a Microsoft spokesperson told Motherboard. "We performed an investigation to identify other potentially similar methods, and ensure that our fix addresses more than just the issue reported." 
+ It's unclear who developed the exploit used to spread FinFisher and Latentbot, but it's possible that the same developer sold it to both groups.
+ "I think whoever sells to FinFisher also does blackmarket business," said John Hultquist, a researcher at FireEye. "Talent, tools, and techniques move between espionage, criminal, and hacktivist worlds."
+ As the CEO of Hacking Team, a company that used to buy zero-day exploits, once said, "exclusive zero-days don't exist."
+"Talent, tools, and techniques move between espionage, criminal, and hacktivist worlds."
+ A source who works in the surveillance technology industry said that FinFisher buys exploits from private researchers as well as from Zerodium, a well-known exploit seller. The source, who asked to remain anonymous, said FinFisher recently offered access to an exploit subscription portal that seemed similar to what Zerodium's predecessor, Vupen, used to offer. Zerodium's founder Chaouki Bekrar declined to comment. (FinFisher did not respond to a request for comment.)
+</text>

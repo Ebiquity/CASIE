@@ -1,0 +1,17 @@
+<title>IHG Confirms Second Credit Card Breach Impacting 1,000-Plus Hotels | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/ihg-confirms-second-credit-card-breach-impacting-1000-plus-hotels/125033/ </source>
+<date> 2017_04_19 </date>
+<text>
+In what’s becoming a familiar refrain to guests, InterContinental Hotels Group, said late last week that payment card systems at more than 1,000 of its hotels had been breached.
+It’s the second breach that IHG, a multinational hotel conglomerate that counts Holiday Inn and Crowne Plaza among its chains, has disclosed this year. The company acknowledged in February that a credit card breach affected 12 of its hotels and restaurants.
+In a notice published to its site on Friday the company said a second breach occurred at select hotels between Sept. 29 and Dec. 29 last year. IHG says there’s no evidence payment card data was accessed after that point but can’t confirm the malware was eradicated until two to three months later, in February/March 2017, when it began its investigation around the breach.
+Like most forms of payment card malware these days, IHG said the variant on their system siphoned track data – customers’ card number, expiration date, and internal verification code – from the magnetic strip of cards as they were routed through affected hotel servers.
+The hotelier said the first breach also stemmed from malware found on servers used to process credit cards, but from August to December 2016. That breach affected hotels, along with bars and restaurants at hotels, such as Michael Jordan’s Steak House and Bar at InterContinental Chicago and the Copper Lounge at Intercontinental Los Angeles.
+IHG didn’t state exactly how many properties were affected by the second breach but that customers can use a lookup tool the company has posted to its site to search for hotels in select states and cities. IHG gives a timeline for each property and says hotels listed on the tool “may have been affected.”
+A cursory review of hotels in the lookup tool suggests far more than a dozen – more than a thousand – hotels, were affected by the malware.
+IHG says that since the investigation is ongoing the tool may may be updated periodically. Some properties, for a reason not disclosed, elected to not participate in the investigation, IHG said.
+While the company operates 5,000 hotels worldwide this most recent breach affects mostly U.S.-based chains. One hotel in Puerto Rico, a Holiday Inn Express in San Juan, is the only non-U.S. property that hit by malware this time around, IHG claims.
+The company said it began implementing a point-to-point encryption payment solution – technology that can reportedly prevent malware from scouring systems for payment card data last fall. The hotels that were hit by this particular strain of malware had not yet implemented the encryption technology, IHG claims.
+The news comes as an IHG subsidiary, boutique hotel chain Kimpton, is fighting a class action court case that alleges the company failed to take adequate and reasonable measures to protect guests payment card data.
+The chain said it was investigating a rash of unauthorized charges on cards used at its locations last summer. It eventually confirmed a breach in late August that involved cards used from Feb. 16, 2016 and July 7, 2016 at nearly all of its restaurants and hotels.
+</text>

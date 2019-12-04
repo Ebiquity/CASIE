@@ -1,0 +1,20 @@
+<title>WordPress Zero-Day Could Expose Password Reset Emails</title>
+<source> https://www.bleepingcomputer.com/news/security/wordpress-zero-day-could-expose-password-reset-emails/ </source>
+<date> 2017_05_05 </date>
+<text>
+Polish security expert Dawid Golunski has discovered a zero-day in the WordPress password reset mechanism that would allow an attacker to obtain the password reset link, under certain circumstances.
+The researcher published his findings yesterday, after reporting the flaw to the WordPress security team last July.
+After more than ten months and no progress, Golunski decided to go public and inform WordPress site owners of this issue so they could protect their sites by other means.
+The issue, tracked via the CVE-2017-8295 identifier, affects all WordPress versions and is related to how WordPress sites put together the password reset emails.
+According to Golunski, an attacker can craft a malicious HTTP request that triggers a tainted password reset operation by injecting a custom SERVER_NAME variable, such as "attacker-domain.com".
+This means that when the WordPress site puts together the password reset email, the "From" and "Return-Path" values will be in the form of "wordpress@attacker-domain.com".
+Most users would think this zero-day is useless, as the attacker wouldn't achieve anything more than sending a password reset email to the legitimate site owner, but from the wrong Sender address.
+These complex exploitation scenarios are most likely the main reason why the WordPress team has not prioritized patching this issue until now. The same opinion is shared by security experts from Sucuri, a vendor of web-based security products, recently acquired by GoDaddy.
+"The vulnerability exists, but is not as critical as advertised for several reasons," said Sucuri vulnerability researcher Marc Montpas. "The whole attack relies on the fact that the victim's email is not accessible at the time the attack is occurring, which greatly reduces the chance of a successful attack."
+His colleague, Denis Sinegubko, also shared his thoughts on the issue. "After a brief reading and assuming the attack works, it has limited impact as it requires an individual site to be accessible by IP address, so will not work for most sites on shared servers. Only for poorly configured dedicated servers."
+"The whole attack scenario is theoretically possible but in practice, I don't see thousands of sites getting hacked because of this vulnerability any time soon," Montpas added.
+But if some users are not willing to take risks, webmasters managing high-value sites looking for a way to prevent exploitation of this zero-day have some options at their dispossable.
+"As a temporary solution users can enable UseCanonicalName to enforce [a] static SERVER_NAME value," Golunski proposes.
+On Reddit, other users also recommended that site owners "create a dummy vhost that catches all requests with unrecognized Host headers."
+Depending on your technical prowess, you can also experiment with other mitigations discussed in this Reddit thread, at least until the WordPress team patches this issue.
+</text>

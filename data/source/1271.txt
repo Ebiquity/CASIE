@@ -1,0 +1,26 @@
+<title>Leaked iCloud credentials obtained from third parties, Apple says | CSO Online</title>
+<source> http://www.csoonline.com/article/3184566/security/leaked-icloud-credentials-obtained-from-third-parties-apple-says.html </source>
+<date> 2017_03_24 </date>
+<text>
+"There have not been any breaches in any of Apple's systems including iCloud and Apple ID," an Apple representative said in an emailed statement.
+"The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services."
+A group calling itself the Turkish Crime Family claims to have login credentials for more than 750 million icloud.com, me.com and mac.com email addresses, and the group says more than 250 million of those credentials provide access to iCloud accounts that don't have two-factor authentication turned on.
+The hackers want Apple to pay $700,000 -- $100,000 per group member -- or "$1 million worth in iTunes vouchers."
+Otherwise, they threaten to start wiping data from iCloud accounts and devices linked to them on April 7.
+In a message published on Pastebin Thursday, the group said it also asked for other things from Apple, but they don't want to make public.
+"We're actively monitoring to prevent unauthorized access to user accounts and are working with law enforcement to identify the criminals involved," the Apple representative said.
+"To protect against these type of attacks, we recommend that users always use strong passwords, not use those same passwords across sites and turn on two-factor authentication."
+However, the unusually high numbers advanced by the group are hard to believe.
+It's also hard to keep up with the group's claims, as at various times over the past few days, it has released conflicting or incomplete information that it has later revised or clarified.
+The group claims that it started out with a database of more than 500 million credentials that it has put together over the past few years by extracting the icloud.com, me.com and mac.com accounts from stolen databases its members have sold on the black market.
+The hackers also claim that since they've made their ransom request public a few days ago, others have joined in their effort and shared even more credentials with them, putting the number at more than 750 million.
+The group claims to be using 1 million high-quality proxy servers to verify how many of the credentials give them access to unprotected iCloud accounts.
+Apple provides two-factor authentication for iCloud, and accounts with the option turned on are protected even if their password is compromised.
+The latest number of accessible iCloud accounts advanced by the Turkish Crime Family is 250 million.
+That's an impressive ratio of one in every three tested accounts.
+The largest ever data breach was from Yahoo with a reported 1 billion accounts.
+"At best they’ve got some reused credentials, but I wouldn’t be surprised if it’s almost entirely a hoax."
+Hunt hasn't seen the actual data that the Turkish Crime Family claims to have, and there isn't much evidence aside from a YouTube video showing a few dozen email addresses and plain text passwords.
+However, he has significant experience with validating data breaches and has seen many bogus hacker claims over the years.
+To be on the safe side, users should follow Apple's advice and create a strong password for their account and turn on two-factor authentication or two-step verification at the very least.
+</text>

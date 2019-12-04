@@ -1,0 +1,22 @@
+<title> BEC Soars Again as Fraudsters Target Employees </title>
+<source> https://www.infosecurity-magazine.com/news/bec-soars-again-as-fraudsters/ </source>
+<date> 2017_03_24 </date>
+<text>
+Business Email Compromise (BEC) attacks jumped 45% in the final quarter of 2016, compared to the previous three months, according to new stats from Proofpoint.
+The security vendor claimed such attacks have grown both in volume and sophistication.
+Also known as “CEO fraud” and “whaling”, these attacks typically involve fraudsters spoofing the email addresses of company CEOs to trick staff members into transferring funds outside the company.
+However, Proofpoint also includes attempts to target HR teams for confidential tax information and sensitive employee data, as well as engineering departments which may have access to a wealth of lucrative corporate IP.
+In its analysis of over 5000 global enterprise customers, it claimed that in two-thirds of cases the attacker spoofed the “from” email domain to display the same as that of the targeted company.
+These attacks can thwart some systems, because they don’t feature malware as such – just a combination of this domain spoofing and social engineering of the victim to force them to pay up.
+Part of the trick is to harry the target, rushing them so they have less time to think about what they’re doing.
+That’s why over 70% of the most common BEC subject line families appraised by Proofpoint featured the words “Urgent”, “Payment” and “Request”.
+The vendor claimed that firms in the manufacturing, retail and technology sectors are especially at risk, as cyber-criminals repeatedly look to take advantage of more complex supply chains and SaaS infrastructures.
+Vice-president of products, Robert Holmes, argued that although employee education was important, it needs to be complemented by the right set of tools to weed out fraudulent emails.
+“When it comes to BEC attacks, employees should never be an organization’s first line of defense. It is the organization’s responsibility to ensure that security technologies are in place, so that BEC attacks are stopped before they can reach their intended target,” he told Infosecurity Magazine.
+BEC has become so popular among the black hats that the FBI warned organizations last year the scams had cost billions since 2013.
+Trend Micro predicted that 2017 would see more and more cyber-criminals turn to BEC given the potential rich pickings – claiming the average pay-out is $140,000, versus just $722 for a typical ransomware attack.
+However, Holmes argued that ransomware and BEC actors are likely “two distinct types of criminal”.
+“While ransomware attacks require technical infrastructure to launch campaigns at scale, BEC attacks are socially engineered and highly targeted in nature, conducted by a single actor rather than teams, and generally launched from shared email platforms,” he explained.
+“While cyber-criminals will always go where the money is, we do not envision a drastic change in tactics such as traditional purveyors of ransomware transitioning to BEC. As long as ransomware and trojans continue to pay, cyber-criminals with technical skillsets are unlikely to down tools and pivot towards such a fundamentally different type of attack vector.”
+</text>
+

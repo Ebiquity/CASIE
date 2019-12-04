@@ -1,0 +1,29 @@
+<title> Hackers hit Onslow County utility with ransomware attack  </title>
+<source> https://www.wnct.com/news/local-news/hackers-hit-onslow-county-utility-with-ransomware-attack/1525255352 </source>
+<date> 2018_10_15 </date>
+<text>
+The Onslow Water and Sewer Authority's internal computer system, including servers and personal computers, was hit by a ransomware attack Saturday.
+The utility said customer information was not compromised in the attack, but many of databases will have to be recreated in their entirety.
+OWNASA said it is coordinating with the FBI, the Department of Homeland Security, the state of North Carolina,  and several technology security companies in response to the attack.
+The safety of the public’s water supply and the area’s environment are not in danger, the utility said.
+ONWASA began experiencing persistent virus attacks from a polymorphic malware known as EMOTET on October 4.
+The virus was thought to be under control, but when it persisted ONWASA brought in outside security specialists. 
+The specialist continued to work the problem with ONWASA Information Technology (IT) staff. 
+At what ONWASA officials said may have been a timed event, the malware launched a sophisticated virus known as RYUK at 3 a.m. on Saturday.
+An ONWASA IT staffer saw the attack and immediately disconnected ONWASA from the internet.
+However, the crypto-virus spread quickly along the network, encrypting databases and files. 
+The attack is similar in nature to those experienced by Atlanta, Georgia and Mecklenburg County. 
+lONWASA said it had mulitple layers of computer protection in place, including firewalls and malware/anti-virus software. 
+The defenses of the computer systems at the main office were penetrated. 
+ONWASA has received one email from the cybercriminals, who it said may be based in a foreign country. 
+The email is consistent with ransomware attacks of other governments and corporations. 
+OWNASA officials said ransom monies “would be used to fund criminal, and perhaps terrorist activities in other countries. Furthermore, there is no expectation that payment of a ransom would forestall repeat attacks. ONWASA will not negotiate with criminals nor bow to their demands. The FBI agrees that ransoms should not be paid. ONWASA will undertake the painstaking process of rebuilding its databases and computer systems from the ground up.”
+The lack of computing ability will affect the timeliness of service from ONWASA for several weeks to come. Initially, the utility will operate manually at all plant and office locations.
+Water and wastewater service to homes and businesses will not be interrupted, the utility said. 
+Customers may continue to make credit card payments by phone, at ONWASA's kiosk locations (by check, cash, or credit card), and in person at the main office at 228 Georgetown Road, Jacksonville. 
+Satellite Offices in Holly Ridge, Swansboro, and Richlands have the capability of processing credit card payments by phone and very limited other services. 
+Service orders, account creation, connections, disconnections, development review, backflow program, engineering, and human resources will utilize manual processes until the computer systems are restored. 
+While phone service remains, email service has been interrupted for most of the utility. 
+ONWASA said a team of local, state, and federal agencies are cooperating to restore the utility and bring the criminals to justice.  
+</text>
+

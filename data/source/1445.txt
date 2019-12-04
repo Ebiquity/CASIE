@@ -1,0 +1,12 @@
+<title>European companies hit with highly customizable ransomware - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/03/eu-companies-customizable-ransomware/ </source>
+<date> 2017_04_04 </date>
+<text>
+Panda Security researchers have been following and analyzing ransomware attacks that have been targeting European business for a few months now, and have tied them to the same group.
+Through it, the attackers can chose which contact email to provide to the victim in the ransom message, which files and folders will be encrypted, whether the malware will autodelete after the encryption process, and so on.
+These attacks are a definite indication that the Ransomware-as-a-Service trend is gaining momentum, and ransomware-wielding crooks don’t need to be extremely skilled to perform the attacks.
+In these specific cases, securing RDP servers is critical, and can be done by either making them inaccessible from the Internet, or by employing long and hard-to-guess passwords and two factor authentication for user accounts with remote access.
+Encrypting the remote connection is also a good idea.
+Vulnerable RDP servers provide attackers with a perfect staging point within the organization’s network.
+From there, they can find more information about the machines on the network, and make a more informed decision about which of them hold information and files that are crucial for the firm.
+</text>

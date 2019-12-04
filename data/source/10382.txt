@@ -1,0 +1,15 @@
+<title> Tesla Cloud Account Data Breach Revealed in RedLock Security Report  </title>
+<source> https://www.eweek.com/cloud/tesla-cloud-account-data-breach-revealed-in-redlock-security-report </source>
+<date> 2018_02_20 </date>
+<text>
+An unsecured Kubernetes container management console allowed cyber-attackers to breach a Tesla cloud account that contained sensitive data, including telemetry data from the company’s electric cars, according to a report by security company RedLock. 
+Details about Tesla cloud account breach where included in RedLock report as an example of the cyber-security threats face enterprises that store sensitive data and run important business applications on cloud services. 
+RedLock’s Cloud Security Intelligence team found that the Tesla breach resulted from the exposure of Amazon Web Services security credentials after hackers penetrated Tesla’s Kubernetes console, which was not password protected This led to the exposure of the company’s Amazon S3 cloud account, which contained sensitive data including the Tesla vehicle telemetry. 
+
+What was most remarkable about the CSI report was that the problems that affect on premises infrastructure are the same ones that affect cloud infrastructure. The difference is that most organizations have learned over the years to provide at least some level of protection for their on premises infrastructure and assets. Unfortunately, it appears that the same isn’t true of their cloud resources. 
+Part of the problem, it appears, comes from a lack of familiarity with managing cloud services. But security for those services does exist is readily available. Amazon, for example regularly sends out emails to AWS users explaining what security measures, products and services are available for its cloud environments. 
+Unlike private, on-premises environments, the public cloud is just that—public. That means it can be accessed by anyone, including an attacker that possesses the credentials that can enable access from anywhere. What that means is that access security is even more important, because you have no means of preventing a criminal from trying to gain access. 
+But it also means that monitoring your cloud environment is just as important as your on premises physical environment. Monitoring at least provides a way to find an attacker that’s gotten past your access controls. The CSI team also recommends a “deny all” setting on your firewall for outbound cloud traffic, and setting your cloud so that configuration changes are automatically reported. 
+The key here is to remember that while the cloud provider can play a role in helping ensure your cloud is secure, they can’t do it alone. It’s your part of the cloud, your data, and you’re paying for those computing assets. It’s your job to make sure they’re secure.  
+</text>
+

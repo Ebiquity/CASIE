@@ -1,0 +1,21 @@
+<title>Mobile forensics firm Cellebrite confirms data breach - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/01/13/cellebrite-data-breach/ </source>
+<date> 2017_01_13 </date>
+<text>
+Israeli mobile forensics firm Cellebrite has announced that it has suffered a data breach following an unauthorized access to an external web server.
+“The impacted server included a legacy database backup of my.Cellebrite, the company’s end user license management system.
+The company had previously migrated to a new user accounts system.
+Presently, it is known that the information accessed includes basic contact information of users registered for alerts or notifications on Cellebrite products and hashed passwords for users who have not yet migrated to the new system,” the company stated, and added that it is still investigating the attack.
+They are also notifying affected customers, and advising them to change their passwords.
+The confirmation comes a few hours after Motherboard released general information about 900 GB of data that they obtained and has supposedly been stolen from the firm.
+The cache includes alleged usernames and passwords for logging into Cellebrite databases connected to the company’s my.cellebrite domain,” the publication noted.
+“The dump also contains what appears to be evidence files from seized mobile phones, and logs from Cellebrite devices”.
+The hacker that shared the data with the publication and is apparently behind the breach also noted that access to the compromised servers has been traded among hackers in IRC chat rooms, so it’s possible that other persons have exfiltrated potentially sensitive data.
+“The Cellebrite breach shows that anyone can be hacked, even firms whose bread and butter is data exfiltration.
+And Cellebrite isn’t the first organization of this type to be targeted – Hacking Team and Gamma International have both experienced similar attacks by groups opposed to government surveillance,” Tony Gauda, CEO of ThinAir, commented for Help Net Security.
+“While the 900 GB of data hasn’t been released publicly, it’s safe to assume that the information is highly sensitive.
+Besides customer information, the hackers managed to retrieve technical data, which could have serious repercussions if it were to fall into the wrong hands.
+Incidents such as this are the cyber equivalent of robbing a gun store, and I wouldn’t be surprised if the proprietary info stolen eventually made its way online.
+Demand for advanced hacking tools and techniques has never been higher and until these firms start securing their digital arsenals with technology capable of rendering data useless when it’s compromised, they will continue to find themselves in the crosshairs of hackers”.
+Cellebrite’s name has become widely known after reports that the company has been asked for help to exfiltrate data from the locked iPhone belonging to Syed Farook, one of the San Bernardino shooters.
+</text>

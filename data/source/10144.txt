@@ -1,0 +1,17 @@
+<title> Nintendo patches 'un-patchable' Tegra X1 exploit to curb Switch piracy  </title>
+<source> https://www.theinquirer.net/inquirer/news/3035771/nintendo-patches-un-patchable-switch-nvidia-tegra-x1-flaw </source>
+<date> 2018_07_12 </date>
+<text>
+THAT UN-PATCHABLE FLAW in the Nintendo Switch? Yeah, the Japanese gaming firm has only gone and fixed it, according to console hacker Michael.
+Michael, who goes by the Twitter handle @SciresM, tweeted that it's bad news for console hackers and Nintendo is pushing out new console models with a fix that stops tech-savvy folks from messing around with the software that the hybrid games console can boot with.
+The flaw was thought to be un-patchable as it affected the Nvidia Tegra X1 chip that sits at the heart of the console.
+But Nintendo hates piracy more than most games firms, and as such, will release new versions of the Switch that don't have the silicon-level flaw in them. The patch involves using a system called  ‘iPatches' which updates parts of the code applying to the Tegra X1's fuses which plugs the boot hacking exploit. 
+Current consoles out in the wild will still be vulnerable due to the patch needing to be applied at a hardware level, but new models won't be susceptible to the hack. 
+But there's a bit of an odd situation here, as the new consoles will come running 4.1.0 versions of the Switch firmware; the latest Switch firmware is 5.1.0. So while the new Switchers will come off the production line immune to the Tegra X1 exploit, they will still be vulnerable to other hacking techniques. 
+With this in mind, Michael advises that people keen to crack into their Switch consoles should not apply any updates, as the older version of the console's firmware is the easier it's to hack.
+So while the un-patchable flaw may have been fixed the current iteration of the Switch is still no un-hackable.
+Not that hacking the Switch is a good idea if you want to run pirated games, as Nintendo takes a very dim view of that and cracks down so hard on pirates that it'll permanently ban any console caught with bootlegged software from its online network.
+With The Legend of Zelda: Breath of the Wild and Mario Odyssey alone there are tens of hours of gaming to be had on the Switch. let along all the stuff that's incoming and the suite of indie titles the console supports.
+So if you desperately need to hack the Switch to play more games, perhaps it's time to take a break from gaming and go out into the sun; we hear the UK is lovely at the moment. 
+</text>
+

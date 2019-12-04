@@ -1,0 +1,23 @@
+<title>Addressing SAP HANA Zero-Day Critical Vulnerabilities</title>
+<source> https://securityintelligence.com/news/got-sap-hana-your-calendar-just-filled-up-with-zero-day-critical-vulnerabilities/ </source>
+<date> 2017_03_15 </date>
+<text>
+I get an alert on my phone from a news feed around critical vulnerability patches being released by SAP.
+Before I discuss the details of the latest two SAP HANA vulnerabilities and the potential business impact, let me take a moment to reiterate that this is the most vulnerable period for any SAP customer with this critical flaw in their IT landscape.
+This period, which I call “Hackers Busy Cracking,” started this morning and will not end until affected clients across the globe apply the patch from SAP.
+Onapsis Security Research Lab discovered these vulnerabilities but hasn’t published technical details yet.
+We do know that the vulnerability is in the user self-service functionality provided by SAP HANA and has been present since SPS09 of SAP HANA, which was released in 2014.
+As the name suggests, the user self-service functionality enables users to perform maintenance and support activities for their accounts and for new users to register the accounts.
+For this functionality to be useful, it must be accessible from wherever the user population is, be it on internal or external networks.
+The second critical vulnerability revolves around session fixation, which can allow an attacker to elevate privileges by impersonating another user in the system.
+The SAP HANA 2.0 SPS 00 version is affected by this vulnerability.
+User self-service is a good example of technology that is a double-edged sword.
+It cuts costs associated with supporting a large user population and reduces the time taken to correct user issues, thus ensuring individuals spend more time as productive users.
+However, any unattended mechanism that allows modification of accounts without human intervention will always be an attractive target.
+According to the Onapsis report, a combination of vulnerabilities can allow an attacker with remote access to the user self-service functionality to edit any account on the system, including activating previously deactivated accounts.
+The natural target for this attack would be the SYSTEM account present in all HANA deployments.
+The potential business impact of an attacker with access to the SYSTEM account is extraordinary.
+I strongly urge all SAP HANA customers to check their HANA version levels and make immediate plans to prioritize these updates.
+SAP customers who have already deployed active threat protection (ATP) controls or third-party products are one step ahead of zero-day threats.
+For the rest, look to invest in an active threat monitoring and detection solution — meaning a SAP-specific threat vector detection solution.
+</text>

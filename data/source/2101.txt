@@ -1,0 +1,18 @@
+<title>Unpatched WordPress Password Reset Vulnerability Lingers | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/unpatched-wordpress-password-reset-vulnerability-lingers/125421/ </source>
+<date> 2017_05_05 </date>
+<text>
+A zero-day vulnerability exists in WordPress Core that in some instances could allow an attacker to reset a user’s password and gain access to their account.
+Researcher Dawid Golunski of Legal Hackers disclosed the vulnerability on Wednesday via his new ExploitBox service. All versions of WordPress, including the latest, 4.7.4, are vulnerable, the researcher said.
+The vulnerability (CVE-2017-8295) happens because WordPress uses what Golunski calls untrusted data by default when it creates a password reset email.
+In a proof-of-concept writeup, Golunski points out that WordPress uses a variable, SERVER_NAME, to get the hostname to create a From/Return-Path header for the password reset email. Since that variable, by its nature, can be customized, an attacker could insert a domain of his choosing and make it so an outgoing email could be sent to a malicious address, the researcher says. The attacker would then receive the reset email and be able to change the account password and take over.
+“Depending on the configuration of the mail server, it may result in an email that gets sent to the victim WordPress user with such malicious From/Return-Path address set in the email headers,” Golunski wrote. “This could possibly allow the attacker to intercept the email containing the password reset link in some cases requiring user interaction as well as without user interaction.”
+Golunski writes that there are three scenarios in which a user could be tricked, and only one of them relies on user interaction.
+In one, an attacker could perform a denial of service attack on the victim’s email account in order to prevent the password reset email from reaching the victim’s account. Instead, it could bounce back to the malicious sender address, pointed at the attacker.
+Second, Golunski says some auto-responders may attach a copy of the email sent in the body of the auto-replied message.
+Third, by sending multiple password reset emails, he says the attacker could trigger the victim to ask for an explanation, below, which could contain the malicious password link.
+Golunski said he reported the issue to WordPress’s security team multiple times, initially more than 10 months ago in July 2016. The researcher told Threatpost that WordPress never outright rejected his claim – he says WordPress told him it was working on the issue – but acknowledged that too much time has passed without a clear resolution, something which prompted him to release details on the bug on Wednesday.
+Campbell said that it’s possible WordPress will patch the issue, even if just for poorly configured servers, but acknowledged he didn’t have a timetable for the fix. Concerned WordPress users should follow a public ticket that was started for the issue last July, Campbell added.
+While there’s no official fix available yet, Golunski says users can enable the UseCanonicalName setting on Apache to enforce a static SERVER_NAME value to ensure it doesn’t get modified.
+Golunski has had his hands full finding vulnerabilities related to PHP-based email platforms. He discovered a remote code execution bug in SquirrelMail in January that disclosed and quickly patched last month and similar RCE bugs in PHPMailer and SwiftMailer, libraries used to send emails via PHP, at the end of 2016.
+</text>

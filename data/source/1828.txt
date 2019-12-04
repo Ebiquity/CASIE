@@ -1,0 +1,14 @@
+<title>Top-ranked programming Web tutorials introduce vulnerabilities into software - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/04/21/programming-tutorials-vulnerabilities/ </source>
+<date> 2017_04_24 </date>
+<text>
+Researchers from several German universities have checked the PHP codebases of over 64,000 projects on GitHub, and found 117 vulnerabilities that they believe have been introduced through the use of code from popular but insufficiently reviewed tutorials.
+The researchers identified popular tutorials by inputing search terms such as “mysql tutorial”, “php search form”, “javascript echo user input”, etc. into Google Search.
+The first five results for each query were then manually reviewed and evaluated for SQLi and XSS vulnerabilities by following OWASP’s guidelines (Reviewing Code for SQL Injection, Cross Site Scripting Prevention Cheat Sheat). This resulted in the discovery of 9 tutorials containing vulnerable code (6 with SQLi, 3 with XSS). 
+Based on these, they created two types of queries that they used against the aforementioned data set obtained from GitHub. “We use strict queries to identify known vulnerable patterns in web applications, and normal queries to identify code analogues of tutorial code,” they explained. 
+The results were, finally, manually reviewed by the researchers.
+“Thanks to our framework, we have uncovered over 100 vulnerabilities in web application code that bear a strong resemblance to vulnerable code patterns found in popular tutorials. More alarmingly, we have confirmed that 8 instances of a SQLi vulnerability present in different web applications are an outcome of code copied from a single vulnerable tutorial,” they noted. “Our results indicate that there is a substantial, if not causal, link between insecure tutorials and web application vulnerabilities.”
+“[Our findings] suggest that there is a pressing need for code audit of widely consumed tutorials, perhaps with as much rigor as for production code,” they pointed out.
+In their research, they evaluated only PHP application code, but their approach can be easily used to evaluate codebases in other programming languages, especially because they have made available their crawler (GithubSpider) and code analogue detector (CADetector) tools.
+Unfortunately, such a search can be easily replicated – “even with limited resources such as a standard PC and a broadband DSL connection” – by individuals or groups intent of discovering vulnerabilities in software for future exploitation.
+</text>

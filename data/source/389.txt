@@ -1,0 +1,11 @@
+<title>Hacker Selling 126 Million Cell Phone Details of "U.S. Cellular" Customers</title>
+<source> https://www.hackread.com/hacker-selling-126-million-us-cellular-customers-data/ </source>
+<date> 2017_01_27 </date>
+<text>
+Now, the same vendor is selling something that is not just unique but also highly sensitive and something the Intelligence agencies around the world would consider an excellent opportunity to get their hands on.
+The vendor is selling a database containing personal and cell phone number details of 126,761,168 citizens of the United States taken from United States Cellular Corporation (U.S. Cellular), a regional carrier which owns and operates the fifth-largest wireless telecommunications network in the United States, serving 4.9 million customers in 426 markets in 23 U.S. states.
+DoubleFlag claims the database is updated till January 2017 and never been leaked on the Internet before.
+The database according to him contains details such as first name, last name, address, city, state and phone numbers of one hundred twenty-six million seven hundred sixty-one thousand one hundred sixty-eight (126,761,168) Americans.
+The price set for this database is 0.5497 Bitcoin (USD 500).
+This means anyone with access to this database can scan and check cell phone number details of millions of American citizens.
+</text>

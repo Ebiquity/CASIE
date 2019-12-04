@@ -1,0 +1,38 @@
+<title> Quebec urged to do more on cybersecurity, experts saying the province ‘is an embarrassment’ </title>
+<source> https://www.thestar.com/news/canada/2018/11/18/quebec-urged-to-do-more-on-cybersecurity-experts-saying-the-province-is-an-embarrassment.html </source>
+<date> 2018_11_18 </date>
+<text>
+MONTREAL—On Sept 10, municipal employees in a region between Montreal and Quebec City arrived at work to discover a threatening message on their computers notifying them they were locked out of all their files.
+In order to regain access to its data, the regional municipality of Mekinac was told to deposit eight units of the digital currency Bitcoin into a bank account — roughly equivalent to $65,000.
+Mekinac’s IT department eventually negotiated the cyber extortionists down and paid $30,000 in Bitcoin, but not before the region’s servers were disabled for about two weeks.
+The attack highlights the inability of many small municipalities to adequately protect their data, but also the lack of guidance on cybersecurity provided to them by the Quebec government, according to Prof. Jose Fernandez, a malware expert at Montreal’s Polytechnique engineering school.
+“Quebec is an embarrassment,” Fernandez said in an interview, adding that he has tried without success to contact government representatives to alert them to the problem.
+“There hasn’t been any traction on this issue in the past 15 years,” he said. “I try to speak to (the government) but there is nobody. Who are you going to call? Nobody.” 
+Bernard Thompson, reeve for the Mekinac regional municipality, said the ransom demand presented a real dilemma for his small organization. Mekinac groups together 10 municipalities with a population of roughly 13,000 people.
+“It was hard, clearly, on the moral side of things that we had to pay a bunch of bandits,” Thompson said.
+Mekinac’s attackers used malicious software — known as malware or ransomware — to demand money in return for keys to unlock the data.
+Fernandez said it is ironic that Quebec is home to a thriving cybersecurity industry and is an emerging hub for artificial-intelligence research, yet the provincial government is “decades” behind other provinces in defending against cyberattacks. 
+Still, Quebec is not the only province experiencing attacks. Several municipal governments and businesses in Ontario were recently hit by ransomware attacks, prompting the Ontario Provincial Police to issue an advisory in September.
+In response to the growing problem, Communications Security Establishment — the Defence Department’s electronic intelligence agency — launched the Canadian Centre for Cyber Security last month. It is responsible for monitoring “new forms of ransomware” and advising the federal and provincial governments.
+Spokesman Evan Koronewski said the centre has no provincial or territorial equivalent.
+Fernandez, however, notes that some provinces are taking significant steps. British Columbia and New Brunswick have established offices dedicated to protecting government data. Meanwhile in Quebec, he said, small towns are left unprotected.
+“I’m hoping the new government does something about it,” he said.
+Patrick Harvey, spokesman for the Public Security Department, disputed the claim the provincial government is unprepared for cyberattacks.
+He said the Treasury Department has a director of information responsible for ensuring government data is protected. The Public Security Department has a unit dedicated to responding to cyberattacks within the administration and provincial police.
+But municipalities are not part of the unit’s mandate. “Municipalities are autonomous entities that are responsible for ensuring the security of their digital infrastructure,” Harvey said.
+Mekinac’s servers were compromised after an employee opened and clicked on a link in a fraudulent email sent by the hackers.
+Once opened, the malware was downloaded onto the computer, giving the hackers access to the entire network. The hackers then encrypted all the data and held it hostage until they received their bitcoins.
+Once a system’s data is encrypted, it’s virtually impossible to crack the code without a key — and there is nothing police can do about it.
+Most professional criminals use commercial grade encryption and to locate a key to decrypt data would take “astronomical effort in terms of computing,” Fernandez said.
+“You either pay or you don’t get the data.”
+The identity and location of Mekinac’s hackers were never discovered.
+Thompson said police seized some of his computers for analysis and told his office not to negotiate or pay the criminals. 
+But Thompson said his region couldn’t heed that advice, because it would have meant months of data re-entry, costing significantly more than $30,000.
+So they paid, got their data back and learned a valuable lesson.
+“In the end, in terms of the security of our system, (the attack) was actually positive,” Thompson said.
+A local cybersecurity company — for $10,000 a year — helped the regional municipality build firewalls and encrypt its own data.
+“We are practically no longer vulnerable,” Thompson said. “Everything is encrypted now. Every email is analyzed before we even receive it.”
+He warns that small towns across the province are just as susceptible to attack as his region was. 
+“Every day, our system catches malicious emails trying to penetrate — but they are stopped,” he said. “But the attacks keep coming.”
+</text>
+

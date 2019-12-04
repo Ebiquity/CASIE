@@ -1,0 +1,16 @@
+<title></title>
+<source> http://www.reuters.com/article/us-taiwan-cyber-idUSKBN15L128 </source>
+<date> 2017_02_07 </date>
+<text>
+Rick Wang, an official with Taiwan’s Financial Supervisory Commission (FSC), said each brokerage had received an email setting a deadline for the transfer of funds to avoid a distributed denial of service (DDoS) attack.
+They have become common tools for cyber criminals trying to cripple businesses and organizations with significant online activities.
+“We have never seen this on such a scale - five companies hit at one time with the same threat,” said Wang, adding that the regulator usually sees single instances of cyber-crime.
+FireEye, a cybersecurity consultancy, said the attacks were similar to a wave of threatened denial of service attacks by a previously unidentified group that first appeared in Europe last month.
+The Taiwan attacks do not pose a threat to the island’s broader trading and financial system, Wang said, but he added that the regulator had asked all securities firms to step up defensive measures.
+“The emails were sent under the name of the ‘Armada Collective’,” said Chiu Shao-chou, an official of the internet cybercrime division of Taiwan’s Criminal Investigation Bureau, the government’s top investigation body.
+The Armada Collective, a hacking extortion group, has been linked to financial blackmail heists elsewhere.
+But Chiu said the group has been put under watch and Taiwan investigators were still looking into the original source of the emails.
+The email demanded payment in web-based digital currency bitcoin equivalent to about T$300,000 ($9,731.41), Taiwan media said.
+None of the securities companies made any payments, Chiu said.
+Another brokerage firm, Capital Securities Corp, was hit on Monday by a DDoS attack lasting 20 minutes before its system recovered, the regulator said, but it did not link the latest case to the threatening emails.
+</text>

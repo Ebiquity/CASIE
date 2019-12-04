@@ -1,0 +1,19 @@
+<title>Proofpoint Finds Social Media Phishing Scam Steals Credentials And Credit Cards - Information Security Buzz</title>
+<source> http://www.informationsecuritybuzz.com/news/proofpoint-finds-social-media-phishing-scam-steals-credentials-credit-cards/ </source>
+<date> 2017_01_05 </date>
+<text>
+In a new blog post researchers from Proofpoint have tracked a phishing campaign leveraging the concept of “Twitter Brand Verification”.
+Because the actors in this case are relying on paid, targeted ads on Twitter, users don’t need to do anything to see the phishing link.
+Attackers are increasing the sophistication of social engineering approaches and extending them across social channels.
+Users and brands need to be increasingly savvy to avoid getting snared by ads, accounts, and messages that initially look legitimate.
+While this attack was observed on Twitter, such a scam could be implemented on any social media platform that implements some form of account verification.
+The full blog post can be found here, however key takeouts include:
+“Verified accounts” are a powerful tool on Twitter to help brands differentiate themselves from fraudulent, impersonation, and parody accounts on the social media site.
+When an account is officially verified, it displays a special badge intended to reassure Twitter users that they are interacting with a genuine brand and not an impostor.
+Recently, however, threat actors are using the promise of verified accounts to lure users into a credit card phishing scheme.
+Account verification is a process that Twitter manages for “accounts of public interest” and requires brands to go through multiple verification steps.
+The promise, then, of a quick verification process is attractive, especially to smaller businesses that potentially lack the resources to meet Twitter’s requirements for account verification.
+In this phishing attack, discovered by Proofpoint researchers in December, attackers place legitimate ads targeting brand managers and influencers with a link to a phishing site purporting to offer account verification.
+The ads themselves come from an account that mimics the official Twitter support account, @support.
+The fraudulent account, @SupportForAll6, uses Twitter branding, logos, colors, etc., to increase the sense of authenticity, despite a very low number of followers and a suspect name.
+</text>

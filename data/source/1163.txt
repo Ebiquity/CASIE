@@ -1,0 +1,14 @@
+<title>300+ Cisco switches affected by critical bug found in Vault 7 data dump - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/20/cisco-switches-bug-vault-7-data-dump/ </source>
+<date> 2017_03_20 </date>
+<text>
+While combing through WikiLeaks’ Vault 7 data dump, Cisco has unearthed a critical vulnerability affecting 300+ of its switches and one gateway that could be exploited to take over the devices.
+The flaw is present in the Cisco Cluster Management Protocol (CMP) processing code in Cisco IOS and Cisco IOS XE Software.
+“The vulnerability is due to the combination of two factors: the failure to restrict the use of CMP-specific Telnet options only to internal, local communications between cluster members and instead accept and process such options over any Telnet connection to an affected device, and the incorrect processing of malformed CMP-specific Telnet options,” Cisco explained.
+An exploit could allow an attacker to execute arbitrary code and obtain full control of the device or cause a reload of the affected device”.
+The extensive and complete list of affected devices is provided in the security advisory.
+Cisco says that they are not aware of any public announcements or active malicious use of the vulnerability, and that they will provide free software updates to address it (they don’t say when).
+In the meantime, users can mitigate the risk by disabling the Telnet protocol and switching to using SSH.
+If that’s not possible, they can reduce the attack surface by implementing infrastructure access control lists.
+It also includes indicators of compromise that can be used to detect exploitation attempts.
+</text>

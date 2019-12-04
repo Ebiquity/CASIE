@@ -1,0 +1,17 @@
+<title>User info of millions of Wishbone users slurped by hackers - Help Net Security</title>
+<source> https://www.helpnetsecurity.com/2017/03/16/wishbone-data-breach/ </source>
+<date> 2017_03_17 </date>
+<text>
+Science Inc., the company behind the popular online poll creation app Wishbone, has suffered a data breach.
+As a consequence, personal and account information of over 2.2 million of the app’s users is being circulated on underground forums.
+The compromised records include names, usernames, email addresses and telephone numbers of the users, but also their gender and birth date (if they chose to share that info when they set up the account).
+According to Troy Hunt, who received a copy of the compromised MongoDB database, 2,326,452 full names, 2,247,314 unique email addresses, and 287,502 cellphone numbers were included.
+Most importantly, the great majority of Wishbone users are teenagers and young adults, and predominantly female.
+“I’d be worried about the potential for kids to abuse the data,” Hunt told Motherboard.
+“There’s a lot of young people in there and finding, say, young females and being able to contact them by phone is a worry”.
+Not only that, but the data could be used to ferret out additional information about these persons, either via phishing or by searching the Internet for unsecured social media accounts that can be tied to them.
+Armed with all this information, fraudsters could easily perpetrate identity theft schemes.
+And perhaps the stolen data has already been misused.
+Hunt say that the data breach dates back to August 2016, but according to the notification letter the Wishbone team sent out, they “became aware that unknown individuals may have had access to an API without authorization and were able to obtain account information of its users” only on March 14, 2017.
+Since then, they “rectified” the vulnerability that allowed the information to be slurped by the attackers, and are now advising users to consider changing their passwords (even though they have not been compromised in the incident).
+</text>

@@ -1,0 +1,18 @@
+<title></title>
+<source> http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K </source>
+<date> 2017_02_13 </date>
+<text>
+Last spring, hackers got into the system at the ministry, which was then headed by now-Prime Minister Paolo Gentiloni, and the attacks carried on for more than four months but did not  gain access to classified information, the paper said.
+“The Italian government had already informed (the paper) of what it is reporting today,” the source said in response to the article, noting that security had since been stepped up.
+“These were not attacks on the encrypted computer system which carries the most important and sensitive information, but the email system for staff at the foreign ministry and embassies,” the source said.
+Gentiloni, who took over as premier in December, was not affected by the attack, the Guardian quoted a government official as saying.
+He avoided using email when he was serving as foreign minister, the paper said.
+According to the Guardian, two people with knowledge of the attack said the Russian state was believed to have been behind it.
+The source close to the ministry could not confirm this.
+Cyber crime has come into sharp focus since United States intelligence agencies accused Russia of interfering in last year’s U.S. election.
+The Russian foreign ministry did not immediately respond to a request for comment on Friday’s report.
+The Kremlin has described allegations of Russian interference in the U.S. election as “fabricated” and “a witch hunt”.
+An Italian government source told Reuters this year that the foreign ministry had been hacked in the past and that Rome suspected the perpetrators were Russian, but that it is impossible to say with certainty where such attacks came from.
+Last month, an Italian brother and sister were arrested on suspicion of hacking into the emails of European Central Bank President Mario Draghi and thousands of others.
+The police chief who conducted the investigation said there was no evidence they had acted on behalf of foreign states.
+</text>

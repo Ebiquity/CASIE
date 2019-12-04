@@ -1,0 +1,13 @@
+<title> Hackers Hold Local Government Computers for Ransom and Demand Two Bitcoin  </title>
+<source> http://fortune.com/2017/12/06/cybersecurity-bitcoin-ransomware-north-carolina/ </source>
+<date> 2017_12_06 </date>
+<text>
+Officials in Mecklenburg, N.C. must make a difficult decision by 1 p.m. ET on Wednesday: They must choose whether to pay two bitcoins—currently worth about $25,000—to hackers who are holding the county’s computer files for ransom, [Update: they refused to pay].
+The situation is the latest example of cyber criminals deploying a form of software known as ransomware, which freezes up files on a computer network until someone enters a decryption code to unlock them. Typically, the code can only be obtained by paying the hackers.
+An official for the county, which encompasses the city of Charlotte, said the ransomware was triggered when an employee clicked on an email attachment, and that it is wrecking havoc with daily operations:
+“She said an example of the problem is the county’s code enforcement office, where much of the work is done electronically. Employees no longer have access to their records. But she said they are switching to paper records for work on Wednesday,” according to the Charlotte Observer.
+The official also explained that the county faces a dilemma in deciding whether to pay. While paying the ransom may be the only way to obtain the decryption key, there is no guarantee the hackers will honor their commitment and provide the key.
+The anonymous hackers do not appear to have targeted Mecklenburg county in particular, but rather the official thinks the attack was launched as part of a broader money-making scheme involving ransomware.
+Similar attacks, which typically exploit old Microsoft software, struck millions of computers in two separate waves earlier this year, affecting everything from businesses to governments to hospitals. While most of the incidents occurred in Europe and Asia, U.S. organizations were hit too—including a transit system in Sacramento, Calif. and a hospital in Los Angeles.
+</text>
+

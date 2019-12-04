@@ -1,0 +1,16 @@
+<title>Gannett hit with email phishing attack</title>
+<source> https://www.usatoday.com/story/tech/news/2017/05/02/gannett-hit-email-phishing-attack/101200110/ </source>
+<date> 2017_05_04 </date>
+<text>
+The attack was discovered when the perpetrators attempted a fraudulent wire transfer of money.
+A link has been posted to your Facebook feed. 
+A phishing email attack potentially compromised the accounts of as many as 18,000 current and former employees of media company Gannett Co.
+As of Tuesday there was no indication of access to or acquisition of any sensitive personal data from employees’ accounts, said the company.
+Gannett Co. (GCI) is the owner of USA TODAY, the publisher of this report, and 109 local news properties across the United States.
+The attack was discovered on March 30 and investigated by Gannett’s cybersecurity team. It appeared to originate in emails to human resources staff.
+The 18,000 current and former employees of the company will be sent notices about the incident and offer of credit monitoring via the US Postal Service. 
+No customer account information was touched by the phishing attack.
+They will be provided with an offer of credit monitoring because employee information was potentially available through some of the affected account login credentials before the accounts were locked down.
+Phishing attacks are a common method used by attackers to infiltrate computer networks. They typically consist of faked emails sent to an employee that entice them to click on a link that unleashes malicious software that can compromise their computer accounts. Once in a network, attackers can then leapfrog to other accounts, working their way deeper into the system.
+In the Gannett attack, the infiltration was discovered when the perpetrator attempted to use a co-opted account for a fraudulent corporate wire transfer request. The attempt was identified by Gannett's finance team as suspicious and was unsuccessful.
+</text>

@@ -1,0 +1,29 @@
+<title>Decoys, Phishing, and the Cloud: The Latest Fan-out Effect - Netskope</title>
+<source> https://resources.netskope.com/h/i/321341739-decoys-phishing-and-the-cloud-the-latest-fan-out-effect </source>
+<date> 2017_01_19 </date>
+<text>
+Netskope Threat Research Labs has observed phishing attacks using decoy PDF files, URL redirection, and Cloud Storage services to infect users and propagate malware.
+Because many organizations have default “allow” security policies for popular Cloud Storage services and PDF readers to let users take advantage of these useful services, these attacks pass through the corporate network to end users’ machines undetected.
+Moreover, as users collaborate and share through cloud services, these malicious files posing as PDFs “fan out” to shared users, creating a secondary propagation vector.
+We are calling this the “CloudPhishing Fan-out Effect”.
+In this blog, we will detail the insidious nature of CloudPhishing and the secondary fan-out using two recently detected cases.
+We will also illustrate how an attack – even if unsuccessful – may leave the target vulnerable to future attacks.
+Additionally, we will outline the Netskope protection stance, and general best practices to handle this attack.
+The CloudPhishing fan-out effect occurs when a victim inadvertently shares the phishing document with colleagues, whether internal or external, via a cloud service.
+This is particularly insidious in the cloud, as shared users lose the context of the document’s external origin and may trust the internally shared document as if it were created internally.
+Other than having the file shared in OneDrive, the SaaS application is unrelated to the attack.
+This threat, seen in one of our customer environments, is detected by Netskope Active Threat Protection as Backdoor.Phishing.FW.
+The decoy PDF is usually delivered as an email attachment named,“invoice” in an attempt to lure the victim into executing the file.
+This, in effect, weakens the security posture of the endpoint against future attacks.
+The decoy PDF connects to the TinyURL link, http://TinyURL[.
+The attacker used the TinyURL link as an evasive tactic to hide the original link.
+At the time of analysis, the web page was down and not serving any content.
+This might be because the web page was removed or renamed.
+Our analysis showed that the Adobe Acrobat Reader prompts a security warning to the user when the document connects to a link.
+This feature allows any URL related to the domain that is on the allowed list.
+Based on the behavior seen in the latest version of the Adobe Acrobat Reader, we recommend users un-check the “Remember this action…” option while allowing the PDF to connect to an external link.
+We also advise users to hover their mouse over the hyperlink to confirm the link and also regularly monitor managed Internet access settings in the PDF reader’s Trust Manager.
+The phishing PDF decoys showcase the use of URL redirectors and cloud services, and also a secondary propagation vector within the shared users leading to the CloudPhishing fan-out.
+By taking advantage of the “default allow” action in popular PDF readers, the attacker can easily deploy multiple attacks without getting the security warning after the first alert.
+This makes the attacker effectively a host for phishing pages or malicious payloads using URL redirection services and Cloud Storage services.
+</text>

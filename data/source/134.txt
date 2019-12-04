@@ -1,0 +1,9 @@
+<title>Realtors Be Aware: You Are a Target - SANS Internet Storm Center </title>
+<source> https://isc.sans.edu/forums/diary/Realtors+Be+Aware+You+Are+a+Target/21911/ </source>
+<date> 2017_01_10 </date>
+<text>
+Real estate transactions are some of the higher value transactions performed by individuals and organizations.
+They often exceed hundreds of thousands of dollars in value, and for commercial properties, millions of dollars are quite normal.
+Many buyers and sellers are not familiar with what is normal when it comes to real estate transactions.
+Over the last few years, we have seen this exploited in a specific form of "Business E-Mail Compromise," where an attacker is injecting e-mails into conversations to trick the victim to transfer money to the wrong account.
+</text>

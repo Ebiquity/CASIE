@@ -1,0 +1,10 @@
+<title>Polish banks on alert after mystery malware found on computers | CSO Online</title>
+<source> http://www.csoonline.com/article/3166555/security/polish-banks-on-alert-after-mystery-malware-found-on-computers.html </source>
+<date> 2017_02_08 </date>
+<text>
+Polish media reported last week that the IT security teams at many Polish banks have been busy recently searching their systems for a particular strain of malware after several unnamed banks found it on their computers.
+It's not clear what the malware's end goal is, but in at least one case it was used to exfiltrate data from a bank's computer to an external server.
+The nature of the stolen information could not be immediately determined because it was encrypted, Polish IT news blog Zaufana Trzecia Strona reported Friday.
+After the malware program is downloaded and executed on a computer, it connects to remote servers and can be used to perform network reconnaissance, lateral movement and data exfiltration, the BadCyber researchers said in a blog post.
+The malware is similar to other crimeware tools, but has not been documented before.
+</text>

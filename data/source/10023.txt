@@ -1,0 +1,10 @@
+<title>Phishing scam targets direct payroll deposits, FBI says in alert</title>
+<source> https://www.cbsnews.com/news/hackers-in-phishing-scam-target-direct-payroll-deposits-fbi-says-in-alert/ </source>
+<date> 2018_09_24 </date>
+<text>
+If your paycheck hits your bank account through direct deposit, be on the lookout for emails requesting personal information including log-in credentials -- they could be a phishing scam by hackers who want to access your bank account.
+The FBI warning comes as cyber criminals target the online payroll accounts of employees in a variety of industries, especially those in education, healthcare and commercial aviation. 
+What is phishing? It's a scam that involves targeting employees through phony emails designed to bait the reader -hence the word "phishing"-  and capture their login credentials. The login credentials are used to access individual payroll accounts in order to change bank account information, according to the agency; the cyber thieves then block alerts to consumers warning of changes to their direct deposits, which are then redirected to another account, often a prepaid card controlled by scammers.
+Employees should hover their cursor over hyperlinks in any emails to view the URL to ensure it's actually related to the company it purports to be from, and any suspicious requests should be forwarded to company IT or HR departments, the FBI advised. 
+Most importantly, do not supply login credentials or personally identifying information in response to any email, the agency said. 
+</text>

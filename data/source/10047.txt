@@ -1,0 +1,19 @@
+<title> Phishing campaigns target airline consumers seeking business credentials   </title>
+<source> http://securityaffairs.co/wordpress/57630/cyber-crime/phishing-airline-consumers.html </source>
+<date> 2017_04_02 </date>
+<text>
+A series of phishing campaigns is targeting airline consumers with messages crafted to trick victims into handing over personal or business credentials.
+A wave string of phishing campaigns is targeting airline consumers with messages crafted to trick victims into handing over personal or business credentials.
+The phishing messages pretend to be sent from a travel agency or a someone inside the target firm, they include a weaponized document or embed a malicious link.
+“Over the past several weeks, we have seen a combination of attack techniques. One, where an attacker impersonates a travel agency or someone inside a company. Recipients are told an email contains an airline ticket or e-ticket,” explained Asaf Cidon, vice president, content security services at Barracuda Networks. 
+According to Barracuda Networks, aviation-themed phishing attacks contain links to spoofed airline sites, threat actors personalize the phishing page in a way to trick victims into providing business information.
+The attackers show a deep knowledge of the targets, hackers are targeting logistic, manufacturing and shipping industries.
+“It’s clear there is some degree of advanced reconnaissance that takes place before targeting individuals within these companies,” Cidon added.
+Recently the U.S. Computer Emergency Readiness Team issued an alert of phishing campaigns targeting airline consumers.
+“US-CERT has received reports of email-based phishing campaigns targeting airline consumers. Systems infected through phishing campaigns act as an entry point for attackers to gain access to sensitive business or personal information.” reads the US-CERT warning.
+“US-CERT encourages users and administrators to review an airline Security Advisory(link is external) and US-CERT’s Security Tip ST04-014 for more information on phishing attacks.”
+The US-CERT specifically references the security advisory published by Delta Air Lines that warned its consumers of fraudulent activities.
+“Delta has received reports of attempts by parties not affiliated with us to fraudulently gather customer information in a number of ways including: fraudulent emails, social media sites, postcards, Gift Card promotional websites claiming to be from Delta Air Lines and letters or prize notifications promising free travel,” states the Delta Air Lines warning.
+Barracuda confirmed that these campaigns have a high success rate:
+“Our analysis shows that for the airline phishing attack, attackers are successful over 90 percent of the time in getting employees to open airline impersonation emails,” concluded Cidon. “This is one of the highest success rates for phishing attacks.”
+</text>

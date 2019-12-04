@@ -1,0 +1,24 @@
+<title>Locky and Sage Ransomware Use the Same Distribution Infrastructure</title>
+<source> http://virusguides.com/locky-sage-ransomware-use-distribution-infrastructure/?utm_source=hs_email&utm_medium=email&utm_content=42105252&_hsenc=p2ANqtz-9nB8Ris1lChHuV9NAcqnKXBjQS6uO41L0s_m1CeFsZ7Qxe2ACvzXBoVLqmbdfk93-DpyLiDaXY-Oe3wsE6h4GXV1BjNQ&_hsmi=42105252 </source>
+<date> 2017_02_07 </date>
+<text>
+PhishMe security researchers warn that the Locky ransomware is relying on the same delivery infrastructure which was previously used for the Sage ransomware distribution.
+Cybercriminals often share infrastructure between one another, so the fact that Locky and Sage use the same recourses is not that surprising.
+However, the fact also shows that the crooks behind Locky are working on securing new distribution venues after the main Locky distributor – Necurs botnet – recently went silent.
+The Sage ransomware first appeared on the malware stage at the end of last year and was analyzed early this year.
+The first distribution email messages relied on racy or explicit narratives to fool victims into opening the malicious attachments.
+Later, the operators abandoned this tactic and starting using business-related themes and random numbers in the subjects to avoid spam filters.
+Some of the delivery emails didn’t come with a subject at all but they did use the victim`s name in the file attachment name.
+This file attachment was usually a double-zipper archive that contained a malicious .js file or an Office document.
+Other messages posed as a rejected financial transaction, failed deposit/refund or canceled order alerts in order to trick the users into opening them.
+The campaign, according to PhishMe, used a .zip file (named “document_1.zip”), containing a JavaScript application in it, which would download the Sage ransomware in the form of a Windows executable.
+The payload was retrieved from the domain affections[.
+]top, and the malware relied on the same payment gateway’s Tor site as before, as well as the Tor2Web gateway addresses on rzunt3u2[.
+Then, however, on January 26th, another phishing campaign was spotted to distribute the Locky ransomware, leveraging the same email messages and metadata.
+]top was used as a part of the distribution for this infection on January 30th.
+“This connection pushes the narrative forward in yet another way as the Locky distribution in question was yet another example of that ransomware being paired with the Kovter Trojan”.
+The connection between Kovter and Locky has been already analyzed a couple of times.
+Most recently, Microsoft discovered a two-step delivery technique which intended to drip Locky first, but if that failed, it switched to dropping the Kovter Trojan.
+This sharing of infrastructure between Locky and Sage once again proves how cybercriminals often reuse delivery infrastructure and malware support.
+The overlapping distribution of these two ransomware pieces can be seen as evidence of the commodity status for such infections.
+</text>

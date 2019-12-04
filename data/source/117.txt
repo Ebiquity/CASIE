@@ -1,0 +1,17 @@
+<title>SecurityBrief NZ - Ransomware to dominate cyber security landscape </title>
+<source> https://securitybrief.co.nz/story/ransomware-dominate-cyber-security-landscape/ </source>
+<date> 2017_01_09 </date>
+<text>
+Ransomware will continue to dominate the cyber security landscape, with a new report from security specialists ESET forecasting the ‘year of ransomware’ will continue into 2017.
+ESET’s Trends 2017: Security held ransom presents key cyber security topics of relevance for both businesses and consumers about the latest threats taking shape in the new year and identifies ransomware as a key threat to protect against.
+The report suggests ransomware will continue en masse.
+“We anticipate a new trend on the horizon: The Ransomware of Things or RoT, i.e.
+the possibility of cybercriminals “hijacking” devices such as home security cameras and then demanding a ransom payment in exchange for restoring control to the user,” ESET says in the report.
+Nick FitzGerald, senior research fellow at ESET agrees that ransomware attacks will continue to increase in ANZ throughout 2017.
+“Ransomware was a serious security problem throughout 2016.
+ESET takes no joy from having been on the right side of that prediction, nor in predicting that ongoing ransomware developments and ensuing success for the cybercriminals behind it seems likely to continue apace into 2017,” FitzGerald says.
+“As wealthy markets, Australia and New Zealand are often targeted in ransomware campaigns, and online users should continue to be especially wary of unsolicited email with attachments or URLs, and ‘too good to be true’ offers,” he says.
+According to FitzGerald, with the cost of cybercrime rising more than 200% over the past five years alone, ESET assembled the report to not only help businesses and individuals understand the advanced tactics and techniques employed by criminal hackers, but to safeguard against threats in the coming year.
+“Considering the adverse reputational as well as financial impacts which result from cybercrime, it is critical that all users are aware of the types of attacks that can affect them,” he says.
+“The report also highlights the importance of continual education as one of the essential components for staying safe online and offers its readers simple steps for raising one’s level of awareness”.
+</text>

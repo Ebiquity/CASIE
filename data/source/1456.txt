@@ -1,0 +1,20 @@
+<title>Still using IIS 6.0? Stop right now – the latest zero-day won’t be patched – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/04/03/unpatched-zero-day-flaw-in-iis-6-0-leaves-users-with-limited-options/ </source>
+<date> 2017_04_04 </date>
+<text>
+In a disclosure on March 27 that included their own simple Python proof-of-concept, the researchers outlined the “buffer overflow in the ScStoragePathFromUrl function in the WebDAV service” when an attacker sends an overlong IF header request as part of a PROPFIND request (if that sounds obscure you can read about WebDAV here).
+Designated CVE-2017-7269, that’s bad news, but the fact that it has been known about for months – with new exploits now likely – is the main takeaway.
+Given that IIS 6.0 shipped with Windows Server 2003 R2 in 2005 and Microsoft stopped supporting it after the end of life deadline passed in July 2015 (ie no more patches), one might assume that the install base is small.
+More likely, this is another version of the Windows XP situation where organisations find it hard to wean themselves off core software and end up putting themselves at risk.
+In 2015, research from analysts RiskIQ found 2,675 installs of IIS 6.0 inside 24 of the top FTSE-100 UK companies alone.
+Incredibly, the same analysis found 417 installs of IIS 5.0 in the same companies, which at that time was a year beyond extended support death.
+Shodan estimates 600,000 machines still visibly running this software globally, perhaps 10% of which have the PROPFIND extension running according to an analysis by one enterprising researcher.
+Nobody knows, but with Microsoft unlikely to step in with a fix, it could be more than enough to cause problems.
+The premium fix is to stop using IIS 6.0 immediately but for anyone who finds that difficult there is one hope: guerrilla patching.
+We discussed this phenomenon in our recent coverage of Google’s “Operation Rosehub”, but it can be summed up by the simple idea that if the vendor in whose software a vulnerability has arisen can’t or won’t fix the issue then someone else does it for them.
+A company called Acros Security dubbed this the “0patch” and, lo and behold, has come up with a “micro-patch” for CVE-2017-7269.
+We can’t vouch for this but Acros explains how developed this in some detail for anyone staring down the barrel of limited options.
+What the latest episode challenges is the fixed idea of software lifecycles according to big software vendors, which runs something like “we’ve told them in advance that support will be removed by a given date so if they don’t follow our advice and upgrade then that’s their lookout”.
+The near debacle of XP’s zombie afterlife was an example of this MO running aground on the rocks of business reality, beside which the latest IIS 6.0 event might look modest.
+But an unpatchable zero-day affecting hundreds of thousands of compromised web servers won’t be fun for anyone – Microsoft included.
+</text>

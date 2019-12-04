@@ -1,0 +1,18 @@
+<title> Monero wallet vulnerability made it possible to steal XMR from exchanges </title>
+<source> https://thenextweb.com/hardfork/2018/08/02/monero-bugs-patched/ </source>
+<date> 2018_08_02 </date>
+<text>
+It appears popular cryptocurrency Monero, often praised for its privacy functions, was riddled with security vulnerabilities – one of which allowed hackers to steal coins directly from the wallets of exchange desks.
+Utilizing old-fashioned social engineering, inventive hackers could forge transaction data and use it to trick support staff into crediting their account manually with extra XMR.
+By simply copying a line of code from Monero’s wallet – which is open-sourced and accessible to everyone – the attackers could manipulate the amounts shown by the wallet when facilitating transactions between addresses.
+The good thing is that the flaw has since been patched (in Monero at least, it is not entirely clear if this is the case for other Monero-based coins). The more concerning part is that it is only one out of six vulnerabilities disclosed by Monero in the last 24 hours alone, according to information from its HackerOne bug bounty program.
+Other bugs included a Denial of Service attack vector that could’ve been abused to clog the Monero blockchain and a Python script exploit that made it possible to take down active nodes on the network. Just like the wallet flaw, all of these vulnerabilities have already been fixed.
+This is not the first time researchers have found kinks in the anonymous cryptocurrency’s code – but to Monero’s credit, its dev team has always made sure to address such concerns appropriately.
+It’s no surprise that bug bounties are really becoming an industry standard, considering considering how much damage they can prevent. Recently $24,000 was claimed in one week across four different blockchain projects.
+Apparently, probing EOS is even more profitable: one hacker got paid $80,000 in one day for identifying critical bugs in its code.
+
+Update August 3, 09:15 AM UTC: Monero project lead Riccardo Spagni, better known under the pseudonym ‘fluffypony,’ has since addressed the vulnerability disclosures in an email to Hard Fork.
+Spagni highlighted that although the bugs were made public yesterday, they were discovered – separately – over the span of several months.
+“The [wallet] vulnerability was introduced by the sub-address functionality, so it’s relatively new,” Spagni told Hard Fork.
+</text>
+

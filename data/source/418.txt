@@ -1,0 +1,13 @@
+<title>
+<source> https://www.infosecurity-magazine.com/news/us-marketer-exposes-400000-audio/ </source>
+<date> 2017_01_30 </date>
+<text>
+A controversial Florida-based marketing company has accidentally exposed nearly 400,000 audio recordings with customers, providing criminals with the perfect raw data to commit follow-up fraud.
+Security vendor MacKeeper claimed the files were left publicly available, leading to one of its biggest discoveries to date, and include customer details such as names, addresses, phone numbers, credit card numbers and CV2 numbers.
+The firm is still working its way through the huge trove of data, but said that it has discovered 17,649 audio recordings with credit card numbers and private customer files and 375,368 audio recordings of “cold calls,” which also include some personal customer information.
+The revelations are doubly damaging for the company in question, Vici Marketing.
+That’s because back in 2009 it apparently agreed to pay $350,000 to settle a complaint by the Florida Attorney General's Office that got hold of stolen consumer information but didn’t take the correct steps to ensure it was acquired legitimately.
+MacKeeper claimed that, as well as the privacy snafu which exposed sensitive customer data, Vici Marketing may also be breaking state laws because many of the cold call recordings do not warn customers that the calls are being recorded and subsequently stored.
+“Under the terms of the 2009 settlement Vici is permanently prohibited from acquiring or using data without due diligence, using data of unlawful or questionable origin, accessing and using data for consumer telemarketing without background due diligence, and unlawful telemarketing”.
+Researchers said it will take them several weeks to verify all the audio data they have, and promised to securely delete the publicly available data once the case is closed.
+</text>

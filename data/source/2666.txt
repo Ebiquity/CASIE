@@ -1,0 +1,16 @@
+<title> Kmart Point of Sale Hacked with 'Undetectable' Malware </title>
+<source> https://www.infosecurity-magazine.com/news/kmart-point-of-sale-hacked/ </source>
+<date> 2017_06_01 </date>
+<text>
+Kmart has suffered another credit card breach, its second in three years. This time though, its chip-and-PIN card readers significantly contained the fallout.
+Kmart is not saying how many of its 750 stores in the US were affected by the point-of-sale (PoS) malware, but it stressed that no personal data, including names, addresses, Social Security Numbers or email addresses, was stolen. It also talked up its EMV reader implementation.
+Kmart has EMV-enabled terminals in its stores, forcing customers with chip cards to insert their cards instead of swiping their stripes, which minimized the impact of the infection. Still, as independent researcher Brian Krebs reported, those consumers without chip cards could feel significant effects:
+“The malware copies account data stored on the card’s magnetic stripe,” he explained. “Armed with that information, thieves can effectively clone the cards and use them to buy high-priced merchandise from electronics stores and big box retailers.”
+Several financial institutions flagged the breach to Krebs, indicating that fraud is indeed occurring as a result of the attack, though again, no details are available as to how widespread the impact is.
+The incident has no relation to previous breaches, the bargain retailer said in an FAQ, noting that it’s confident that it was successful in eradicating any residual traces of malware or persistence left behind by earlier attacks. Instead, its payment systems were infected with malware that Kmart says was “undetectable” by its antivirus protections.
+“Does this mean that we may be dealing with an entirely new family of malware or methods of infecting POS terminals, or that the solution they were using was unable to detect the threat?” said Richard Henderson, Global Security Strategist, Absolute, via email. “If the former, then it will be absolutely critical for Kmart to get information about this attack to other retailers, antivirus companies and network security appliance vendors so that everyone can both look for indicators of compromise inside their own networks and bolster defenses against this new threat.”
+If a hole was simply found in KMart's defenses, it brings up the need for a defense-in-depth approach, he added.
+The incident was a passing test for the PCI DSS standard of payment security as well, some said.
+"This is another example what cybersecurity experts are saying day by day: no IT systems can stay safe if they hold something valuable,” said Csaba Krasznay, product evangelist at Balabit, in a note. “More than 10 years ago, T.J.Maxx suffered a very similar data breach when approximately 100 million cards data was stolen. That incident helped the drive for credit-card companies to introduce PCI DSS as a mandatory security standard for everyone who manages card data. If Kmart was really able to avoid large scale data leakage, then we can be sure that PCI DSS is mature and useful enough in these circumstances, at this point."
+</text>
+

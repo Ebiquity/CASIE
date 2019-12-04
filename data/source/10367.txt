@@ -1,0 +1,16 @@
+<title> 2 Iranian men face new charges over Atlanta cyberattack  </title>
+<source> https://www.apnews.com/e81264497a074004a8bc042f4f05cdd1 </source>
+<date> 2018_12_05 </date>
+<text>
+Two Iranian men already indicted in New Jersey in connection with a broad cybercrime and extortion scheme targeting government agencies, cities and businesses now face new federal charges in Georgia related to a ransomware attack that caused havoc for the city of Atlanta earlier this year.
+A federal grand jury in Atlanta returned an indictment Tuesday accusing Faramarz Shahi Savandi and Mohammad Mehdi Shah Mansouri of violating the Computer Fraud and Abuse Act, federal prosecutors said in a news release Wednesday. The New Jersey indictment against the pair was filed last month on broad conspiracy charges that included the Atlanta cyberattack.
+Byung “BJay” Pak, the U.S. attorney in Atlanta, said in a news release that the Atlanta indictment was sought in coordination with the earlier indictment and seeks to ensure that “those responsible for the attacks face justice here as well.”
+The Atlanta indictment accuses the two men of launching a ransomware attack against Atlanta that encrypted vital city computer systems. The attack significantly disrupted city operations and caused millions of dollars in losses, prosecutors said.
+The Department of Justice has said the two men remain fugitives and are believed to be in Iran, though they are not believed to be connected to the Iranian government. No attorney was listed for either man in online court records.
+In the Atlanta attack, a ransomware known as SamSam was used to infect about 3,789 computers belonging to the city, prosecutors said. The ransomware encrypted the files on the computers and showed a ransom note demanding payment for a decryption key.
+The note demanded 0.8 bitcoin per affected computer or six bitcoin to decrypt all affected computers. Atlanta Mayor Keisha Lance Bottoms said in the days after the ransomware attack that the ransom demand was equivalent to $51,000.
+The ransom note provided a bitcoin address to pay the ransom and a website accessible only on the dark web, where it said the city could retrieve the decryption key, prosecutors said. The decryption key became inaccessible shortly after the attack, and the city didn’t pay the ransom, prosecutors said.
+The New Jersey indictment filed Nov 27 accuses the two men of creating the SamSam ransomware and says it was used to encrypt the computers of more than 200 victims, including government agencies, cities and businesses. Among the other victims are the city of Newark, New Jersey, the Colorado Department of Transportation, the Port of San Diego and six health care companies across the U.S., according to the Justice Department.
+The New Jersey charges include conspiracy to commit wire fraud and conspiracy to commit fraud and related activity in connection with computers. The overall scheme allowed the hackers to make about $6 million and caused the victims to lose more than $30 million, prosecutors said.
+</text>
+

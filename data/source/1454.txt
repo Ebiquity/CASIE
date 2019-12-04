@@ -1,0 +1,31 @@
+<title>Samsung's Android Replacement Is a Hacker's Dream - Motherboard</title>
+<source> https://motherboard.vice.com/en_us/article/samsung-tizen-operating-system-bugs-vulnerabilities </source>
+<date> 2017_04_04 </date>
+<text>
+There was a caveat to the hack, however—the hijack involved older models of Samsung TVs and required the CIA have physical access to a TV to install the malware via a USB stick.
+But the window to this sort of hijacking is far wider than originally thought because a researcher in Israel has uncovered 40 unknown vulnerabilities, or zero-days, that would allow someone to remotely hack millions of newer Samsung smart TVs, smart watches, and mobile phones already on the market, as well as ones slated for future release, without needing physical access to them.
+The security holes are in an open-source operating system called Tizen that Samsung has been rolling out in its devices over the last few years.
+It already has Tizen running on some 30 million smart TVs, as well as Samsung Gear smartwatches and in some Samsung phones in a limited number of countries like Russia, India and Bangladesh—the company plans to have 10 million Tizen phones in the market this year.
+Samsung also announced earlier this year that Tizen would be the operating system on its new line of smart washing machines and refrigerators too.
+But the operating system is riddled with serious security vulnerabilities that make it easy for a hacker to take control of Tizen-powered devices, according to Israeli researcher Amihai Neiderman.
+A Samsung Z1 with the Tizen operating system on display at the Mobile World Congress 2015 in Barcelona, Spain.
+But one security hole Neiderman uncovered was particularly critical.
+It involves Samsung's TizenStore app—Samsung's version of Google Play Store—which delivers apps and software updates to Tizen devices.
+Neiderman says a flaw in its design allowed him to hijack the software to deliver malicious code to his Samsung TV.
+Because the TizenStore software operates with the highest privileges you can get on a device, it's the Holy Grail for a hacker who can abuse it.
+"You can update a Tizen system with any malicious code you want," he says.
+Although TizenStore does use authentication to make sure only authorized Samsung software gets installed on a device, Neiderman found a heap-overflow vulnerability that gave him control before that authentication function kicked in.
+Although researchers have uncovered problems with other Samsung devices in the past, Tizen has escaped extensive scrutiny from the security community, probably because it's not widely used on phones yet.
+It didn't take long for Neiderman to notice how bad the Tizen code was on his TV, which caused him to purchase a few Tizen phones to see what he could do with them as well.
+He says much of the Tizen code base is old and borrows from previous Samsung coding projects, including Bada, a previous mobile phone operating system that Samsung discontinued.
+"You can see that they took all this code and tried to push it into Tizen," Neiderman says.
+But most of the vulnerabilities he found were actually in new code written specifically for Tizen within the last two years.
+Many of them are the kind of mistakes programmers were making twenty years ago, indicating that Samsung lacks basic code development and review practices to prevent and catch such flaws.
+But there's a basic flaw in it whereby it fails to check if there is enough space to write the data, which can create a buffer overrun condition that attackers can exploit.
+A buffer overrun occurs when the space to which data is being written is too small for the data, causing the data to write to adjacent areas of memory.
+A Tizen stand at the at the Mobile World Congress 2015 in Barcelona, Spain.
+They use it on some data transmissions but not others, and usually not on ones that need it most.
+"They made a lot of wrong assumptions about where they needed encryption," he says, noting that "it's extra work to move between secure connections and unsecure connections."
+This indicates that they didn't do it inadvertently but were making conscious decisions not to use SSL in those places, he says.
+Neiderman contacted Samsung months ago to report the problems he found but got only an automated email in response.
+</text>

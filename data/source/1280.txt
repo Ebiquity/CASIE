@@ -1,0 +1,16 @@
+<title>Android Forums hacked; password reset notice issued</title>
+<source> https://www.hackread.com/android-forums-hacked-passwords-reset/ </source>
+<date> 2017_03_24 </date>
+<text>
+Around 50% of the impacted accounts never posted on the forum which leads to the conclusion that they weren’t real users but bots.
+The stolen data contains email addresses, hashed passwords, and salts but none of the usernames were taken.
+However, good news is that all passwords have been reset.
+Therefore it’s too early to assume what happened or how attackers were able to access the database.
+Nevertheless, the administrators believe that it could be because of a phishing attack.
+It must be noted that one of the forum’s staff members was also impacted by the breach which is not surprising since hackers are successfully cracking passwords from previous data breaches and using them for further attacks.
+More: 21 Million Decrypted Gmail, 5 Million Yahoo Accounts Being Sold on Dark Web
+The forum is implementing new security measures including site-wide HTTPS support,  2-step authentication requirement for their staff and passwords randomizing of inactive accounts.
+This is not the first time when Android Forums was security issues.
+In 2012, the forum suffered a massive data breach in which user credentials of 1 million users were stolen.
+At the time of publishing this article, the Android Forums was down for scheduled maintenance but you can still go through the security notice through Google Cache.
+</text>

@@ -1,0 +1,20 @@
+<title>Custom phishing attacks grow as crooks create fake flight confirmations, receipts | ZDNet</title>
+<source> http://www.zdnet.com/article/custom-phishing-attacks-grow-as-crooks-create-fake-flight-confirmations-receipts/ </source>
+<date> 2017_04_03 </date>
+<text>
+ malware -- and they're even mimicking internal corporate travel and expenses systems to steal personal details from the victims they target.
+While cybercriminals using the lure of fake travel itineraries to dupe staff working in sectors reliant on shipping goods or employee travel isn't new,  researchers have uncovered a particularly advanced phishing attack.
+Discovered by cybersecurity researchers at Barracuda Networks, this airline phishing attack uses a variety of techniques to capture sensitive data from victims and deploy an advanced persistent threat.
+The email from the attacker impersonates a travel agency or an employee in the target's own HR or finance department.
+The email's subject line claims it's a forwarded message about a flight confirmation, stating the airline, the destination, and the price of the flight.
+All three of these elements are carefully researched by the attackers, who select them specifically according to the target, in order to make the email look legitimate in context of the company and the email recipient.
+Taking the time to tailor phishing emails in this way works: these messages are opened 90 percent of the time, one of the highest success rates for phishing attacks, according to Barracuda.
+Once opened, the email presents the target with an attachment in the form of a PDF or Microsoft Word document.
+The attachment purports to be a flight confirmation or receipt but, of course, it's neither of these things.
+When the target opens the attachment, the malware runs immediately, dropping an advanced persistent threat into the network, and enabling the attacker to stealthily monitor the infected organisation -- likely with the aim conducting espionage and stealing data.
+Another variant of this attack which, instead of dropping malware to stealthily steal data, uses phishing links to directly take sensitive information from the victim.
+These phishing links are ultimately designed to trick the victim into supplying sensitive corporate credentials, which the attackers will then use to infiltrate the company network, databases, and emails in order to steal information.
+Cybersecurity researchers warn that the combined use of impersonation, malware, and phishing is particularly dangerous because these methods complement one another, enabling the attacker to essentially gain control of the network.
+At this stage, the attackers can stealthily conduct espionage or even drop additional malware and ransomware.
+Sometimes it can be very difficult to identify a phishing email, but the likes of  sandboxing and advanced persistent threat prevention combined with employee training and awareness can increase the chances of preventing attacks from compromising the network.
+</text>

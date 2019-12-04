@@ -1,0 +1,18 @@
+<title>Latest Huawei Security Advisory Highlights a Privilege Elevation Vulnerability</title>
+<source> https://www.xda-developers.com/latest-huawei-security-advisory-highlights-a-privilege-elevation-vulnerability/ </source>
+<date> 2017_02_24 </date>
+<text>
+Huawei has just announced a new vulnerability that is currently possible on both the Huawei Honor 7 and the Huawei Mate S. This is said to be a privilege elevation vulnerability that is possible thanks to an arbitrary file upload in Huawei Themes.
+The vulnerability already has an update ready to fix it and devices susceptible to this simply needs to apply the latest update to be safe from it.
+As of right now, we don’t have any details about how quickly this update is going out to devices though.
+Huawei tells us this vulnerability was initially reported to Huawei PSIRT by Nicky (Wu Huiyu).
+Nicky works in Tencent’s Security Platform Department and is responsible for finding vulnerabilities in various products and services.
+We’re told Mr. Wu followed proper protocol to contact Huawei and coordinated the vulnerability disclosure so they can keep their customers as safe as possible.
+We’re told this vulnerability impacts the Huawei Honor 7 that is running software versions newer than PLK-UL00C17B385.
+Meaning, if you have the Honor 7 from Huawei and have the PLK-UL00C17B385 firmware (or newer), then your device is safe from this attack.
+This attack is also possible on the Huawei Mate S, but it was fixed in software version CRR-L09C432B380.
+So again, if you have the Mate S from Huawei and are running the CRR-L09C432B380 firmware (or newer), then you’re safe as well.
+This was not a remote attack and you were only at risk when certain conditions were met.
+You would have had to have someone trick you into installing a malicious theme on your device for it to infect it.
+This was possible because of a lack of a “theme pack check” since it allowed the theme to include some malicious files which would have been executed once installed.
+</text>

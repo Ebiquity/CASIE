@@ -1,0 +1,22 @@
+<title> Cisco patches critical vulnerabilities in Policy Suite </title>
+<source> https://www.zdnet.com/article/cisco-patches-critical-flaws-in-policy-suite/ </source>
+<date> 2018_10_05 </date>
+<text>
+Cisco has resolved a set of critical vulnerabilities in Policy Suite which permit attackers to cause havoc in the software's databases.
+This week, the tech giant released a security advisory detailing four vulnerabilities which could place enterprise users at risk of information leaks, account compromise, database tampering, and more.
+The first vulnerability, CVE-2018-0374, has earned a CVSS base score of 9.8. Described as an unauthenticated bypass bug, the security flaw "could allow an unauthenticated, remote attacker to connect directly to the Policy Builder database," according to Cisco.
+The bug has been caused by a simple lack of authentication and as there is no requirement for identity verification, Policy Builder databases can be accessed and tampering with without limitation.
+Cisco Policy Suite releases prior to 18.2.0 are affected.
+The second vulnerability, CVE-2018-0375, is a default password error. The CVSS 9.8 bug is present in the Cluster Manager of Cisco Policy Suite and could allow an unauthenticated, remote attacker to log in to a vulnerable system using a root account.
+The serious security problem has emerged due to the use of undocumented, static user credentials for root accounts. If a hacker has knowledge of these credentials, they can become a root user and are able to execute arbitrary commands.
+Versions of the software prior to 18.2.0 are vulnerable to exploit.
+The third bug, CVE-2018-0376, is another unauthenticated access problem and is also caused by a lack of authentication measures.
+"A successful exploit could allow the attacker to make changes to existing repositories and create new repositories," Cisco says.
+Cisco Policy Suite versions prior to 18.2.0 are affected.
+The fourth security flaw, CVE-2018-0377, affects the Open Systems Gateway initiative (OSGi) interface of Cisco Policy Suite.
+There is a lack of authentication within the OSGi interface which permits attackers to circumvent security processes and directly connect to the interface, access any files contained within they wish, and modify any content which is accessible through the process.
+This vulnerability impacts Policy Suite versions prior to 18.1.0.
+There are no workarounds to circumvent these vulnerabilities. However, patches have been issued to address them and Cisco says that no reports have been received which indicate the bugs are being exploited in the wild.
+In addition, Cisco has revealed seven now-patched bugs affecting SD-WAN solutions. The vulnerabilities included command injection security flaws, a remote code execution bug, and arbitrary file overwrite issues.
+</text>
+

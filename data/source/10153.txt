@@ -1,0 +1,15 @@
+<title> Mozilla Patches Critical Code Execution Bug in Firefox 62  </title>
+<source> https://threatpost.com/mozillas-release-of-firefox-62-packs-nine-fixes/137230/ </source>
+<date> 2018_09_06 </date>
+<text>
+Mozilla released nine fixes in its Wednesday launch of Firefox 62 for Windows, Mac and Android – including one for a critical glitch that could enable attackers to run arbitrary code.
+Overall, the latest version of the Firefox browser included fixes for the critical issue, three high-severity flaws, two moderate problems and three low-severity vulnerabilities. Topping the list is a memory safety bug (CVE-2018-12376), discovered by a number of Mozilla developers and community members.
+A critical impact bug means the vulnerability can be used to run attacker code and install software, requiring no user interaction beyond normal browsing, according to Mozilla. The memory safety problem, which exists in Firefox 61 and Firefox ESR 60, meets these criteria, researchers said. Mozilla didn’t release further details, but it did assign one CVE to represent multiple similar issues.
+In addition to the memory safety bug(s), Mozilla also fixed three high-severity vulnerabilities in its latest update.
+These include a use-after-free glitch in refresh driver timers (CVE-2018-12377), which power browser-page refreshes.
+Another high-severity bug (CVE-2018-12378) is a use-after-free vulnerability that occurs when an IndexedDB index (a low-level API for client-side storage of significant amounts of structured data) is deleted while still in use by JavaScript code providing payload values. “This results in a potentially exploitable crash,” the advisory said.
+Mozilla developers and community members also found a memory-safety bug (CVE-2018-12375) in Firefox 61, which showed evidence of memory corruption and could be exploited to run arbitrary code, according to the advisory.
+The moderate and low-severity fixes that were deployed in Firefox 62 include patches for an out-of-bounds write flaw (triggered when the Mozilla Updater opens a MAR format file that contains a very long item filename); and a proxy bypass glitch in the browser’s proxy settings.
+Firefox 62 for desktop is available for download on Mozilla’s website.
+</text>
+

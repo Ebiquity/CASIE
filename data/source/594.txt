@@ -1,0 +1,18 @@
+<title>High Severity BIND Vulnerability Can Lead to A Crash | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/high-severity-bind-vulnerability-can-lead-to-a-crash/123677/ </source>
+<date> 2017_02_10 </date>
+<text>
+The Internet Systems Consortium patched the BIND domain name system this week, addressing a remotely exploitable vulnerability it considers high severity and said could lead to a crash.
+The issue affects servers that use both the DNS64 and RPZ function simultaneously.
+DNS64 is a mechanism for synthesizing AAAA records from A records.
+It’s traditionally used to allow IPv6-only clients to receive IPv6 addresses proxied to IPv4 addresses.
+The RPZ mechanism is used by Domain Name System recursive resolvers to allow for the customized handling of the resolution of collections of domain name information.
+Versions 9.8.8, 9.9.3-S1, 9.9.3, 9.9.10b1, 9.10.0, and 9.10.5b1, 9.11.0 are all considered vulnerable, according to the ISC.
+When servers use both mechanisms simultaneously, a vulnerability (CVE-2017-3135) that stems from query processing could result in an inconsistent state, triggering either an INSIST assertion failure or an attempt to read through a NULL pointer, according to a security advisory published Wednesday.
+The INSIST assertion failure could lead to a subsequent abort, ISC said, while the NULL pointer in some instances can lead to a segmentation fault, which causes the process to be terminated.
+Ramesh Damodaran and Aliaksandr Shubnik, engineers at Infoblox, a Silicon Valley firm that does DNS, DHCP and IP management, uncovered the vulnerability and reported it to the ISC.
+Damodaran previously helped identified an unspecified packet processing remote denial of service vulnerability in BIND 9.
+The Internet Systems Consortium patched the BIND domain name system this week, addressing what it calls a critical error condition in the software.
+Researchers find industrial control system malware similar to BlackEnergy, Havex, and Stuxnet going undetected on Google VirusTotal for years.
+The Internet Systems Consortium (ISC) announced it is planning to patch versions of its DHCP to mitigate a denial of service vulnerability.
+</text>

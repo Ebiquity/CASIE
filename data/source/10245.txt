@@ -1,0 +1,19 @@
+<title> “WannaCrypt” ransomware scam demands payment in advance!  </title>
+<source> https://nakedsecurity.sophos.com/2018/06/22/wannacrypt-ransomware-scam-demands-payment-in-advance/ </source>
+<date> 2018_06_22 </date>
+<text>
+What’s worse than ransomware that scrambles all your files and demands money for the key to unlock them and get them back?
+Well, WannaCry certainly added a new dimension to the ransomware danger, because it combined the data-scrambling process with self-spreading computer virus code.
+As a result, WannaCry could worm its way through your network automatically, potentially leaving you with hundreds or even thousands of scrambled computers in a single attack, even if only one user opened a booby-trapped attachment or downloaded a file from a poisoned website.
+The crooks behind the SamSam ransomware have also latched onto a rather different approach: instead of trying to reach thousands or tens of thousands of victims around the world with a hard-hitting spam campaign, and squeezing each of them for hundreds or thousands of dollars each, the SamSammers seem to attack one organisation at a time.
+Indeed, the SamSammers generally keep their hand hidden until they have broken into the network and figured out, using similar techniques to penetration testers, a list of computers they know they can encrypt all at the same time.
+Then they let fly on all of those identified devices at once, giving them a much higher chance of scrambling at least some computers that are critical to the workflow of your company,
+Finally, they make a payment demand, typically charging a few thousand dollars for each individual computer you want to unlock, but also offering an all-you-can-eat deal of $50,000 to decrypt everything.
+The bad news is that this WannaCrypt “demanding money with menaces” threat email is very widespread – we’ve had people worried about it from all over, which is why we decided to write up this warning.
+The good news is that these particular crooks don’t actually have any malware to back up their threat.
+Indeed, their claim that “antivirus software will not be able to detect [the] program” is one of the few truths in this scam, for the simple and fortunate reason that, in this case, there is no program to detect.
+Just to be clear here: disk wiping malware – think of it as ransomware with no decryption key, so you can’t buy your files back from the crooks even if you want to – most certainly exists.
+So, these WannaCrypt scammers could, in theory, have been telling the truth, giving you just a few hours to hunt down and turn off their attack code before your data was destroyed.
+In this particular case, however, the whole thing is a fraud, right down to the existence of the malware in the first place.
+</text>
+

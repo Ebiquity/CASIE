@@ -1,0 +1,16 @@
+<title> Businesses warned: Don't open emails purportedly from IRS or Indiana Revenue </title>
+<source> http://chestertontribune.com/PoliceFireEmergency/businesses_warned_dont_open_emai.htm </source>
+<date> 2017_11_21 </date>
+<text>
+The Indiana Department of Revenue (DOR) and the Internal Revenue Service (IRS) are warning folks of fraudulent emails impersonating either revenue agency and encouraging individuals to open files corrupted with malware.
+These scam emails use tax transcripts as bait to entice users to open the attachments.
+The scam is particularly problematic for businesses or government agencies whose employees open the malware infected attachments, putting the entire network at risk. This software is complex and may take several months to remove.
+This well-known malware, known as Emotet, generally poses as specific banks or financial institutions to trick individuals into opening infected documents. It has been described as one of the most costly and destructive malware to date. Emotet is known to constantly evolve, and in the past few weeks has masqueraded as the IRS, pretending to be “IRS Online.” The scam email includes an attachment labeled “Tax Account Transcript” or something similar, with the subject line often including “tax transcript.”
+Both DOR and IRS have several tips to help individuals and businesses not fall prey to email scams:
+ Remember, DOR and the IRS do not contact customers via email to share sensitive documents such as a tax transcript.
+ Use security software to protect against malware and viruses, and be sure it’s up-to-date.
+ Never open emails, attachments or click on links when you’re not sure of the source.
+ If an individual is using a personal computer and receives an email claiming to be the IRS, it is recommended to delete or forward the email to phishing@irs.gov orto investigations@dor.in.gov
+ Business receiving these emails should also be sure to contact the company’s technology professionals.
+</text>
+

@@ -1,0 +1,24 @@
+<title>CloudPets Notifies California AG of Data Breach | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/cloudpets-notifies-california-ag-of-data-breach/124002/ </source>
+<date> 2017_03_02 </date>
+<text>
+Spiral Toys, the parent company behind CloudPets, yesterday sent the California Attorney General a breach notification that on many fronts contradicts what experts have said about a database breach that exposed user data and private voice messages, many of which were made by children.
+The notification says that the company was not aware of a breach until Feb 22 when it received an inquiry from a Motherboard reporter who was informed by researchers Troy Hunt and Victor Gevers of a serious issue involving the toymaker’s customer data.
+This runs contrary to timelines provided by Hunt and Gevers showing both reached out to a number of Spiral Toys contacts, including its ZenDesk ticketing system, around Dec 30.
+The data was copied and deleted from an exposed MongoDB instance found online.
+It’s unknown how many times the database was accessed before its contents were deleted and a ransom note left behind, symptomatic of other attacks against poorly protected MongoDB databases.
+The recordings were not stored in the database, but the database did contain references to file paths to the messages, which were stored on an Amazon Web Services AWS S3 storage bucket.
+The database, Spiral Toys said in its notification, did include emails and encrypted passwords, which Hunt counters were not encrypted, but were hashed with bcrypt.
+Combined with a nonexistent password strength rule on Spiral Toys’ part, the hashed passwords could easily be cracked, Hunt said.
+The company meanwhile said it would notify 500,000 affected users, force a password reset, and implement new password strength requirements.
+Hunt and Gevers said there were actually more than 800,000 registered users exposed in the breach.
+“The breach has been addressed and from our best knowledge no images or messages were leaked onto the internet,” Spiral Toys said.
+“A hacker could get to that data if they started ‘guessing’ simple passwords”.
+Which is exactly what a hacker would do, Hunt said.
+“This is what hash cracking is and it’s a highly automated process that’s particularly effective against databases that had no password rules,” Hunt said.
+Hunt points out that simple passwords such as qwe—a sample password shown during a CloudPets setup video—combined with the stolen email addresses pose a serious privacy risk.
+CloudPets are teddy bears that can send and receive messages using Bluetooth Low Energy connectivity to a mobile app, which sends the messages.
+The most typical use case is where a child can remotely send a message to a parent or authorized adult through the bear.
+“If this product was secure, it would have been a nice contribution to the IOT/gadget/toy market,” Gevers said.
+The best thing is that they learn from this and start making a new secure product line”.
+</text>

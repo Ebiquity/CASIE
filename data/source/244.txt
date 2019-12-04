@@ -1,0 +1,41 @@
+<title>Router Vulnerabilities Disclosed in July Remain Unpatched | Threatpost | The first stop for security news</title>
+<source> https://threatpost.com/router-vulnerabilities-disclosed-in-july-remain-unpatched/123115/ </source>
+<date> 2017_01_18 </date>
+<text>
+Details on serious vulnerabilities in a number of routers freely distributed by a major Thai ISP were published on Monday after private disclosures made to the vendors in July went unanswered.
+Researcher Pedro Ribeiro of Agile Information Security found accessible admin accounts and command injection vulnerabilities in ZyXel and Billion routers distributed by TrueOnline, Thailand’s largest broadband company.
+Ribeiro said he disclosed the vulnerabilities through Beyond Security’s SecuriTeam Secure Disclosure Program, which contacted the affected vendors last July.
+Ribeiro published a proof of concept exploit yesterday as well.
+Ribeiro told Threatpost he’s unsure whether TrueOnline introduced the vulnerabilities as it adds its own customization to the routers, or whether they came from the respective manufacturers.
+A ZyXel representative told Threatpost the router models are no longer supported and would not comment on whether patches were being developed.
+A request for comment from Billion was not returned in time for publication.
+The commonality between the routers appears to be that they’re all based on the TC3162U system-on-a-chip manufactured by TrendChip.
+Affected routers are the ZyXel P660HN-T v1 and P660HN-T v2, and Billion 5200 W-T, currently in distribution to TrueOnline customers.
+The TC3162U chips run two different firmware variants, one called “ras” which includes the Allegro RomPage webserver vulnerable to the Misfortne Cookie attacks, and the other called tclinux.
+The tclinux variant contains the vulnerabilities found by Ribeiro, in particular several ASP files, he said, are vulnerable to command injection attacks.
+He also cautions that they could be also vulnerable to Misfortune Cookie, but he did not investigate this possibility.
+“It should be noted that tclinux contains files and configuration settings in other languages (for example in Turkish).
+Therefore it is likely that these firmware versions are not specific to TrueOnline, and other ISP customised routers in other countries might also be vulnerable,” Ribeiro said in his advisory.
+“It is also possible that other brands and router models that use the tclinux variant are also affected by the command injection vulnerabilities (the default accounts are likely to be TrueOnline specific)”.
+In addition to Ribeiro’s proof-of-concept, Metasploit modules are available for three of the vulnerabilities.
+Most of the vulnerabilities can be exploited remotely, some without authentication.
+“These vulnerabilities are present in the web interface.
+The default credentials are part of the firmware deployed by TrueOnline and they are authorized to perform remote access over the WAN,” Ribeiro said.
+“Due to time and lab constraints I was unable to test whether these routers expose the web interface over the WAN, but given the credentials, it is likely”.
+The ZyXel P660HN-T v1 router is vulnerable to an unauthenticated command injection attack that can be exploited remotely.
+Ribeiro said he found the vulnerability in the remote system log forwarding function, specifically in the ViewLog.asp page.
+V2 of the same router contains the same vulnerability, but cannot be exploited without authentication, he said.
+“Unlike in the P660HN-Tv1, the injection is authenticated and in the logSet.asp page.
+However, this router contains a hardcoded supervisor password that can be used to exploit this vulnerability,” Ribeiro said.
+“The injection is in the logSet.asp page that sets up remote forwarding of syslog logs, and the parameter vulnerable to injection is the serverIP parameter”.
+The Billion 5200W-T is also vulnerable to unauthenticated and authenticated command injection attacks; the vulnerability was found in its adv_remotelog.asp page.
+“The Billion 5200W-T router also has several other command injections in its interface, depending on the firmware version, such as an authenticated command injection in tools_time.asp (uiViewSNTPServer parameter),” Ribeiro said.
+It should be noted that this router contains several hardcoded administrative accounts that can be used to exploit this vulnerability”.
+Ribeiro said default and weak admin credentials were found on the all of the versions and were accessible remotely.
+The researcher said it’s unknown whether the routers can be patched remotely.
+“Again, given the existence of default credentials that have remote access, it is likely that it is possible to update the firmware remotely,” Ribeiro said.
+Most of iBall baton routers in India are also vulnerable to unauthenticated and authenticated command injection attack,i have reason to believe default and weak admin credentials are on the all of the versions and were accessible remotely.
+i Have I “Ball WRA150N” ADSL2+ iBall baton Router.And IBall  is  never accepting not even taking response  to complains and request for latest firmware patches.
+ASUS patched a bug that allowed attackers to pair two vulnerabilities to gain direct router access and execute commands as root.
+Thanks to Meltdown and Spectre, January has already been an extremely busy month of patching for Microsoft.
+</text>

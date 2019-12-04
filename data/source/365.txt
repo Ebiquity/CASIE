@@ -1,0 +1,18 @@
+<title>Dark Web’ Largest Trading Platform AlphaBay Hacked; 200k Messages Leaked</title>
+<source> https://www.hackread.com/dark-webs-largest-trading-platform-alphabay-hacked-200000-messages-leaked/ </source>
+<date> 2017_01_26 </date>
+<text>
+Recently a hacker identified the existence of two high-risk bugs and revealed this information on Reddit’s forum posts.
+The hacker, who uses the alias Cipher0007, managed to steal 200,000 private messages.
+These messages were exchanged between users/buyers and sellers.
+ZDNet reports that Cipher0007 disclosed the vulnerabilities earlier this week and revealed on Reddit that these flaws could be used to steal private messages on AlphaBay.
+The messages weren’t protected by PGP keys, which made it easier for Cipher0007 to steal them in such large proportion.
+Must Read: 
+AlphaBay posted an official statement on Pastebin in which they admitted the presence of these bugs and also confirmed that Cipher0007 has hacked around 218,000 messages.
+It must be noted that the hacked messages weren’t older than 30 days since the site’s system automatically purges messages that are more than 30 days old.
+To prove that he has managed to infiltrate AlphaBay and stole private messages, Cipher0007 posted numerous screenshots too.
+AlphaBay rewarded Cipher0007 for not selling the flaws or exposing the stolen data to the public.
+Cipher0007 then disclosed the methods he used to exploit AlphaBay to the company and finally the developers at the trading platform managed to fix the flaws.
+Cellular” Customers
+This is not the first time when a Dark Web domain has been hacked.
+</text>

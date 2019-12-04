@@ -1,0 +1,26 @@
+<title>Why Printers Still Pose a Security Threat</title>
+<source> http://www.darkreading.com/endpoint/why-printers-still-pose-a-security-threat/d/d-id/1328316? </source>
+<date> 2017_03_09 </date>
+<text>
+Networked printers for years have left gaping holes in home and office network security.
+Today, experts continue to find flaws in popular laser printers, which are putting businesses at risk.
+Experts at the University Alliance Ruhr recently announced vulnerabilities in laser printers from manufacturers including Dell, HP, Lexmark, Samsung, Brother, and Konica.
+The flaws could permit print docs to be captured, allow buffer overflow exploits, disclose passwords, or cause printer damage.
+Up to 60,000 currently deployed printers could be vulnerable, they estimate.
+When unprotected, printers expose users to several types of attacks, says Jeremiah Grossman, chief of security strategy at SentinelOne.
+Hackers can use vulnerabilities to capture old printer logs, which may contain sensitive information.
+They may also use these flaws to establish their foothold in a networked device and move laterally throughout the organization to gather data.
+Some attackers want to wreak havoc outside a single business.
+With networked printers under their control, a cybercriminal may use one company's bandwidth to perform DDoS attacks on other organizations and individuals around the world.
+These examples are among the many types of damage that will continue to threaten security as part of the growing Internet of Things, Grossman predicts.
+"Most of the time, printers are not going to be terribly different from any IoT device," he explains.
+Hackers who find vulnerabilities in the web interface can take over, as they could for any device connected to the network.
+The difference, of course, is printers have been around far longer than most IoT products.
+This presents a market failure that will be difficult to correct because patches won't be made available.
+Even when they are, devices won't be patched often.
+Right now the easiest vectors include web hacking and email attacks, but they will move to IoT as computers and operating systems get more secure.
+Printers are low-hanging fruit, he says, and easier to target.
+He also recommends isolating printers on local networks, separate from PCs, and disabling out-of-network communication so even if they're hacked, printers can't interact with adversaries outside the organization.
+Wingate suggests adopting the same baseline security practices businesses employ for computers; for example, periodically update passwords so sensitive content isn't left in the open for people to steal.
+He also recommends intrusion detection, another practice people use for their PCs but don't frequently employ on printers.
+</text>

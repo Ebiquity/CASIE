@@ -1,0 +1,12 @@
+<title> Apple Store ‘Thank you for your order’ Scam Email  </title>
+<source> https://content.govdelivery.com/accounts/UKCOVENTRY/bulletins/18ee546#link_1402481520159 </source>
+<date> 2017_03_24 </date>
+<text>
+Coventry Trading Standards is again warning Apple Store users to be aware of phishing emails attempting to steal your Apple ID log in details as well as personal and financial information.
+A Westwood resident reported receiving an authentic looking email ‘invoice’ from the Apple Store in regards to an order that was placed. At the end of the email, there is a link to ‘View Your Order’.
+If you click on this link, you will no doubt be taken to a fake server and a page asking you to provide personal information, including full credit/debit card details.
+Criminals can then steal any information that you supply and use it to hijack your Apple account, commit credit card fraud in your name, and attempt to steal your identity.
+The Apple Store will never ask you to provide personal details (such as passwords or credit card numbers) via email.
+If you do have a genuine Apple account, you can check it with Apple directly, but do not use any links in the email. Just type the site's address into your browser.
+If you receive what you think is a phishing email claiming to be from Apple you can forward it to them. Full details are available on the Apple website. 
+</text>

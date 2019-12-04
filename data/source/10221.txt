@@ -1,0 +1,14 @@
+<title> Oracle fixes Solaris vulnerability that could allow kernel level privilege escalation </title>
+<source> https://www.zdnet.com/article/oracle-fixes-solaris-vulnerability-could-allow-kernel-level-privilege-escalation/ </source>
+<date> 2018_07_24 </date>
+<text>
+A vulnerability in some versions of the Oracle Solaris enterprise OS could allow attackers to edit code in the memory and exploit it to gain full root control over a machine.
+The privilege escalation vulnerability -- now patched -- is present in current versions of Oracle Solaris 10 and 11 running Sun StorageTek Availability Suite (AVS) for the filesystem and could be used to access to a low-level user or service account and, from there, gain complete root access to the system.
+The memory corruption bug has been uncovered and detailed by researchers at Trustwave -- and its origins go all the way back to 2007. The original issue was disclosed in 2009 and apparently fixed, but researchers revisited the code this year only to find the fix was partial and loopholes still allowed the execution of malicious code.
+The origins of the exploit, CVE-2018-2892, lie in one small fragment of code which contains a number of separate vulnerabilities around the dereferencing pointer, the means of getting values stored in a specific memory location.
+"Attackers can exploit this vulnerability to take access to a low-level user or service account and gain complete root access to the entire system," Neil Kettle, application security principal consultant at SpiderLabs at Trustwave, told ZDNet.
+An attacker exploiting this vulnerability would need direct access to a user or service account.
+"This can be obtained by targeting users with social engineering attacks or by exploiting vulnerabilities in existing services. Once the attacker has access to any account, this vulnerability can be very easily exploited to gain complete root control over the system," said Kettle.
+While the original 2007 vulnerability has probably been used in the wild, there's no confirmation that the new exploit has been used to conduct an attack. Nonetheless, Trustwave disclosed the discovery to Oracle, which has delivered a patch to fix the loophole.
+</text>
+

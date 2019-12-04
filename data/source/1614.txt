@@ -1,0 +1,12 @@
+<title>Critical Vulnerability Puts ICS Security at Risk</title>
+<source> https://securityintelligence.com/news/critical-vulnerabilities-put-ics-security-at-risk/ </source>
+<date> 2017_04_12 </date>
+<text>
+ Thousands of industrial control systems (ICS) could be at risk of hacking due to critical vulnerabilities affecting a popular piece of software. SecurityWeek detailed how the flaws affect an application from 3S-Smart Software Solutions. The potential problem for ICS security stems from CODESYS, a hardware-independent middleware layer for programming Industrial Internet of Things (IIoT) and ICS.
+ SecurityWeek reported the issue has now been resolved by 3S-Smart Software Solutions. However, the need for a patch, which could take some time to roll out to all affected organizations, highlighted the need for IT managers to be aware of the risk to connected technologies, particularly when it comes to ICS security.
+ The flaws were discovered by security firm CyberX. Phil Neray, vice president of industrial cybersecurity and marketing at CyberX, described how the vulnerabilities affect all devices incorporating CODESYS Web Server v2.3 and earlier versions of the software.
+ CODESYS is used to program a range of devices, such as programmable logic controllers and human machine interfaces. CyberX detailed how these devices are used in almost all elements of critical industrial infrastructure, including power plants, oil and gas installations, and chemical and pharmaceutical factories.
+ The first vulnerability, CVE-2017-6027, allows an attacker to upload arbitrary files to the CODESYS Web Server and potentially create remote code execution. The second flaw, CVE-2017-6025, is a stack-based buffer overflow that attackers could use to crash the application or execute arbitrary code.
+ The fear is that attackers could use the flaws to create safety failure and environmental damage at critical industrial infrastructure. ICS-CERT published an advisory note and rated the potential risk score of the vulnerabilities as critical because attackers can potentially gain remote code execution capabilities.
+ 3S-Smart Software has released a patch, but CyberX suggested that the rollout process could be complicated by a range of factors.
+</text>

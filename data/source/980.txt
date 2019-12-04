@@ -1,0 +1,27 @@
+<title>Critical vulnerability under “massive” attack imperils high-impact sites [Updated] | Ars Technica</title>
+<source> https://arstechnica.com/security/2017/03/critical-vulnerability-under-massive-attack-imperils-high-impact-sites/ </source>
+<date> 2017_03_09 </date>
+<text>
+In a string of attacks that have escalated over the past 48 hours, hackers are actively exploiting a critical vulnerability that allows them to take almost complete control of Web servers used by banks, government agencies, and large Internet companies.
+The code-execution bug resides in the Apache Struts 2 Web application framework and is trivial to exploit.
+Although maintainers of the open source project patched the vulnerability on Monday, it remains under attack by hackers who are exploiting it to inject commands of their choice into Struts servers that have yet to install the update, researchers are warning.
+Making matters worse, at least two working exploits are publicly available.
+"We have dedicated hours to reporting to companies, governments, manufacturers, and even individuals to patch and correct the vulnerability as soon as possible, but the exploit has already jumped to the big pages of 'advisories,' and massive attempts to exploit the Internet have already been observed."
+Researchers at Cisco Systems said they are seeing a "high number of exploitation events" by hackers attempting to carry out a variety of malicious acts.
+One series of commands that attackers are injecting into webpages stops the firewall protecting the server and then downloads and executes malware of the attacker's choice.
+The payloads include "IRC bouncers," which allow the attackers to hide their real IP address during Internet chats; denial-of-service bots; and various other packages that conscript a server into a botnet.
+"These are several of the many examples of attacks we are currently observing and blocking," Cisco's Nick Biasini wrote.
+"They fall into two broad categories: probing and malware distribution.
+The payloads being delivered vary considerably, and to their credit, many of the sites have already been taken down and the payloads are no longer available."
+The vulnerability resides in what's known as the Jakarta file upload multipart parser, which according to official Apache Struts 2 documentation is a standard part of the framework and needs only a supporting library to function.
+Apache Struts versions affected by the vulnerability include Struts 2.3.5 through 2.3.31, and 2.5 through 2.5.10.
+Servers running any of these versions should upgrade to 2.3.32 or 2.5.10.1 immediately.
+It's not clear why the vulnerability is being exploited so widely 48 hours after a patch was released.
+One possibility is that the Apache Struts maintainers didn't adequately communicate the risk.
+Although they categorize the vulnerability security rating as high, they also describe it as posing a "possible remote code execution" risk.
+Outside researchers, meanwhile, have said the exploits are trivial to carry out, are highly reliable, and require no authentication.
+It's also easy to scan the Internet for vulnerable servers.
+It's also possible to exploit the bug even if a Web application doesn't implement file upload functionality.
+Update 3/9/2017 10:07 California time: In a comment to this post, Ars Technology Editor Peter Bright provides a much more plausible explanation for the delay in patching this highly critical vulnerability.
+Most bug fixes, he pointed out, require downloading and installing a patch, possibly rebooting a machine, and being done with it.
+</text>

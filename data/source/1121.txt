@@ -1,0 +1,22 @@
+<title>Corporate database leak exposes details of DoD, IBM and AT&amp;T staffers | TheINQUIRER</title>
+<source> https://www.theinquirer.net/inquirer/news/3006533/corporate-database-leak-exposes-details-of-dod-ibm-and-at-t-staffers?utm_content=buffera3e26&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer </source>
+<date> 2017_03_16 </date>
+<text>
+Here are five best practices that can help you boost end-user experiences, simplify performance management, and reduce the cost of your AWS environment.
+The number of successful cyberattacks per year per company has increased by 46% over the last four years.
+But what really needs to be considered when exploring a solution?
+The leaked database weighs in at 52.2GB, and according to ZDNet comes via business services firm Dun & Bradstreet, which sells it to marketers that send targeted email campaigns.
+After examining the data, Hunt has revealed that the data dump contains details belonging exclusively to US-based companies and government agencies.
+California is the most represented demographic with over four million records, followed by New York with 2.7 million records and Texas with 2.6 million records.
+The leading organisation by records is the Department of Defense, with 101,013 personnel records exposed in the dump.
+It is followed by the United States Postal Service (USPS) with 88,153 leaked employee records and AT&T with 67,382.
+Other firms affected by the leak includes CVS with 40,739 records, Citigroup with 35,292 and IBM with 33,412.
+The database contains dozens of fields, some including personal information such as names, job titles and functions, work email addresses, and phone numbers.
+While the database doesn't contain more sensitive information, such as credit card numbers or SSNs, Hunt says it's an "absolute goldmine for targeted spear phishing."
+"From this data, you can piece together organisational structures and tailor messaging to create an air of authenticity and that's something that's attractive to crooks and nation-state actors alike," he said.
+"I often work with companies attempting to mitigate the damage of their organisational data being publicly exposed (frequently due to data breaches), and I can confidently say that knowing this information is out there circulating would concern many of them."
+Dun & Bradstreet has denied responsibility for the leak and said it could have come from come from any of its thousands of clients.
+"Based on our analysis, it is our determination that there has been no exposure of sensitive personal information from, and no infiltration of our system.
+The information in question is data typically found on a business card.
+"As general practice, Dun & Bradstreet uses an agile security process and evaluates and evolves security controls to protect the integrity of our data," a spokesperson told the INQUIRER.
+</text>

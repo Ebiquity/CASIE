@@ -1,0 +1,20 @@
+<title> INTERNET GIANTS DUPED Google and Facebook lose ‘£77million after falling for phishing scam sending cash to Lithuanian conman’  </title>
+<source> https://www.thesun.co.uk/tech/3446705/google-facebook-lose-77million-phishing-scam-lithuanian-conman/ </source>
+<date> 2017_04_29
+ </date>
+<text>
+Evaldas Rimasauskas, 49 who allegedly conned two of the world's biggest companies was arrested on fraud charges
+GOOGLE and Facebook have admitted they were conned out of an alleged $100million (£77million) in a phishing scam.
+The two world's biggest companies fell victim after a Lithuanian man allegedly tricked employees into wiring over the money to bank accounts that he controlled, Fortune reported on Thursday.
+Evaldas Rimasauskas, 48, is accused of posing as an Asia-based manufacturer and deceived the internet giants from around 2013 until 2015.
+He was arrested earlier this month in Lithuania at the request of US authorities
+The conman is said to have forged email addresses, invoices and corporate stamps to impersonate Quanta and trick them into paying for computer supplies.
+Rimasauskas, who is awaiting extradition proceedings, has denied the allegations.
+The US Department of Justice (DOJ) said last month: "Fraudulent phishing emails were sent to employees and agents of the victim companies, which regularly conducted multi-million-dollar transactions with [the Asian] company."
+Both Facebook and Google have confirmed the fraud and said that they had been able to recoup funds.
+But they didn't reveal how much money it had transferred and recouped.
+A Google spokeswoman said: "We detected this fraud against our vendor management team and promptly alerted the authorities."
+"We recouped the funds and we’re pleased this matter is resolved."
+A spokeswoman for Facebook added: "Facebook recovered the bulk of the funds shortly after the incident and has been cooperating with law enforcement in its investigation."
+Security experts said the recent cyber attack highlighted how sophisticated phishing scams are being used to fool even two of the biggest tech companies.
+</text>

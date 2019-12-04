@@ -1,0 +1,19 @@
+<title>Payday loan firm Wonga suffers data breach affecting up to 270,000  |  TechCrunch</title>
+<source> https://techcrunch.com/2017/04/10/pay-day-loan-firm-wonga-suffers-data-breach-affecting-up-to-270000/ </source>
+<date> 2017_04_10 </date>
+<text>
+Payday loan firm Wonga has suffered a data breach affecting up to 245,000 customers in the U.K. A further 25,000 customers in Poland may also be affected, according to the BBC.
+It says it does not believe customers’ Wonga account passwords were compromised but suggests concerned users change their password anyway.
+Wonga is warning affected customers to be “extra vigilant” and to alert their bank of potential risk — though it says it will also be contacting financial institutions about the breach.
+We’ve reached out to Wonga with questions and will update this story with any response.
+Update: In a statement a spokesperson for the company told us: “Wonga is urgently investigating illegal and unauthorised access to the personal data of some of its customers in the UK and Poland.
+We are working closely with authorities and we are in the process of informing affected customers.
+According to The Guardian, the company became aware of a problem last week but only realized on Friday that data could be accessed externally, and only started contacting affected customers on Saturday.
+The U.K.’s data protection regulator, the ICO, has apparently been informed of the breach — although it’s unclear when.
+An ICO spokesperson did not respond to the question, providing this statement instead: “All organisations have a responsibility to keep customers’ personal information secure.
+Where we find this has not happened, we can investigate and may take enforcement action”.
+Back in 2014 the company had to write down $340 million in unpaid loans, following an investigation by the U.K.’s Competition and Markets Authority over its lending practices.
+It was also fined by the regulator for sending fake lawyers’ letters to customers in arrears.
+Although Wonga attracted substantial tech investment for a real-time automated decision-making platform for affordability checks, it ended up having to write off the loans of 330,000 customers, and waive the interest and fees for a further 45,000 — raising questions about the efficacy of its algorithms.
+Tightened criteria on short-term loans by the U.K. financial regulator ultimately shrunk the size of Wonga’s business, which saw losses double in 2015 — to £80.2 million.
+</text>

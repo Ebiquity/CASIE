@@ -1,0 +1,15 @@
+<title>This Android Trojan pretends to be Flash security update but downloads additional malware | ZDNet</title>
+<source> http://www.zdnet.com/article/this-android-trojan-pretends-to-be-flash-security-update-but-downloads-additional-malware/ </source>
+<date> 2017_02_16 </date>
+<text>
+Malware tricks users into opening Android Accessibility menu, enabling the attacker to mimic users' clicks and select anything displayed on their screen.
+The Android Trojan can mimic the user's clicks and actions.
+A new form of Trojan malware targeting Android smartphones is duping victims into downloading a fake security update for Adobe Flash Player, which then makes them even more susceptible to malicious software.
+The malware is ultimately designed to monitor the users' activity for the purposes of stealing data, mimicking their actions in order to generate funds from fraudulent adware installations, and enabling the installation of various other types of malware --  including ransomware.
+Detected by researchers at security company ESET, the Trojan malware targets all versions of Google's mobile operating system and aims to trick victims into granting it special permissions which it uses to download additional malware.
+Users should also be wary of apps which appear to ask for many more permissions then they might need.
+For those who've already fallen victim to this malware, they can attempt to remove the malware by manually uninstalling the 'Flash-Player' app from their phone.
+However, more work may need to be done to completely remove malicious software from the device.
+"Unfortunately, uninstalling the downloader doesn't remove malicious apps the downloader might have installed.
+As with the downloader itself, the best way for cleaning up the device is using a mobile security solution," says Štefanko.
+</text>

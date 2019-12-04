@@ -1,0 +1,29 @@
+<title>WannaCry: here’s what we know now about the outbreak – Naked Security</title>
+<source> https://nakedsecurity.sophos.com/2017/05/15/wannacry-heres-what-we-know-now-about-the-outbreak/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=5518daa8fe-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-5518daa8fe-455160889 </source>
+<date> 2017_05_16 </date>
+<text>
+There’s no question that Friday’s WannaCry ransomware attack, which spread like wildfire, was bad. Its ability to spread like a worm by exploiting a Microsoft vulnerability was certainly new ground for a ransomware campaign. But along the way, there’s been a lot of fear and hype. Perspective is in order.
+Here’s a look at the latest in Sophos’ investigation, including a recap of how it is protecting customers. From there, we look at how this fits into overall attack trends and how, in the grand scheme of things, this doesn’t represent a falling sky.
+With the code behind Friday’s attack in the wild, we should expect copycats to cook up their own campaigns in the coming days to capitalize on the money-making opportunity in front of them.
+Over the weekend, accounts set up to collect ransom payments had received smaller amounts than expected for an attack of this size. But by Monday morning, the balances were on the rise, suggesting that more people were responding to the ransom message Monday. On Saturday, three ransomware-associated wallets had received 92 bitcoin payments totaling $26,407.85 USD. By Sunday, the number between the three wallets was up to $30,706.61 USD. By Monday morning, 181 payments had been made totaling 29.46564365 BTC ($50,504.23 USD).
+Analysis seems to confirm that Friday’s attack was launched using suspected NSA code leaked by a group of hackers known as the Shadow Brokers. It used a variant of the Shadow Brokers’ APT EternalBlue Exploit (CC-1353), and used strong encryption on files such as documents, images, and videos.
+A perfect attack would self-propagate but would do so slowly, randomly and unpredictably. This one was full throttle, but hardly to its detriment. Here we had something that spread like wildfire, but the machines that were impacted were probably still susceptible to secondary attacks because the underlying vulnerability probably hasn’t been patched.
+The problem is that exploit and payload are separate. The payload went fast and got stopped, but that’s just one of an infinite number of possibilities that can spread through the unsolved exploit.
+Companies still using Windows XP are particularly susceptible to this sort of attack. First launched in 2001, the operating system is now 16 years old and has been superseded by Windows Vista and Windows 7, 8 and 10 upgrades.
+It remains to be seen who was behind this attack. Sophos is cooperating with law enforcement to provide any intelligence it can gather about the origins and attack vectors. The company believes initial infections may have arrived via an email with a malicious payload that a user was tricked into opening.
+Sophos continues to update protections against the threat. Sophos Customers using Intercept X and Sophos EXP products will also see this ransomware blocked by CryptoGuard. Please note that while Intercept X and EXP will block the underlying behavior and restore deleted or encrypted files in all cases we have seen, the offending ransomware splash screen and note may still appear.
+For updates on the specific strains being blocked, Sophos is continually updating a Knowledge-Base Article on the subject.
+Meanwhile, everyone is urged to update their Windows environments as described in Microsoft Security Bulletin MS17-010 – Critical. For those using older versions of Windows, Microsoft has provided Customer Guidance for WannaCrypt attacks and has made the decision to make the Security Update for platforms in custom support only – Windows XP, Windows 8, and Windows Server 2003 – broadly available for download.
+As severe as this attack was, it’s important to note that we’re not looking at a shift in the overall attack trend. This attack represents a merging of old behaviors into a perfect storm. SophosLabs VP Simon Reed said:
+This attack demonstrates the opportunistic nature of commercial malware authors to re-use the most powerful of exploit techniques to further their aims, which is ultimately to make money.
+In the final analysis, the same advice as always applies for those who want to avoid such attacks.
+To guard against malware exploiting Microsoft vulnerabilities:
+To guard against ransomware in general:
+Finally, there’s the question of whether victims should pay the ransom or stand their ground. Sophos has mostly taken a neutral stance on the issue.
+In the case of this attack, paying the ransom doesn’t seem to be helping the victims so far. Therefore, Levy believes paying the WannaCry ransom is ill-advised:
+In general, paying is a bad idea unless the organization is truly desperate to get irreplaceable data back and when it is known that the ransom payment works. In this attack, it doesn’t appear to work.
+
+It’s been referred to as a ‘kill switch’ – that all the malware author had to do to throw the breaks on for some reason was to register some obscure domains. In the event a security researcher found the domains and registered them. He speculates that its not actually a kill switch but may be a form of sandbox detection (malware wants to run in the real world and hide when it’s in a researcher’s sandbox.) 
+The thinking goes that in the kind of sandbox environment used by security researchers the domains might appear to be registered when in fact they are not. If the malware can get a response from the unregistered domains it thinks it’s in a sandbox and shuts down.
+If you blocklist the domains in your network then you’re turning off the “kill switch”. If you allowlist the domains you’re allowing access to the kill switch.
+</text>

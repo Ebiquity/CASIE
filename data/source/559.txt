@@ -1,0 +1,16 @@
+<title>Your Smart TV Has Been Hijacked. To Continue, Please Pay Ransom</title>
+<source> http://www.pandasecurity.com/mediacenter/security/smart-tvs-ransomware/ </source>
+<date> 2017_02_08 </date>
+<text>
+Cybercriminals that specialize in ransomware, which affects thousands of computers and mobile devices every year, are ramping up their attacks against businesses.
+It is here that they can get their hands on valuable information and large sums of cash.
+This particular kind of malware, which hijacks devices and demands a ransom for their return, has managed to conquer another kind of technology: smart TVs.
+Last December, the American developer Darren Cauthon announced on Twitter that a family member’s television had fallen victim to one of these attacks.
+The television in question was an LG model that came out in 2014 that is compatible with Google TV, a version of Android tailored to televisions.
+Once it had infiltrated the device, the malicious software demanded a ransom of $500 dollars to unlock the screen, which simulated a warning from the Department of Justice.
+pic.twitter.com/kNz9T1kA0p
+— Darren Cauthon (@darrencauthon) December 25, 2016
+The appearance of the false message would lead you to believe that it’s a version of the ransomware known as Cyber.police, also known as FLocker.
+Ordinarily this ransomware affects smartphones with Google’s operating system.
+After hijacking the device, the malware collects information from the user and the system, including contact information and the location of the device, to be sent encrypted to cybercriminals.
+</text>

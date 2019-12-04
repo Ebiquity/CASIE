@@ -1,0 +1,16 @@
+<title> Adobe Patches Critical Photoshop Flaws in Unscheduled Update </title>
+<source> https://threatpost.com/adobe-patches-critical-photoshop-flaws-in-unscheduled-update/136765/ </source>
+<date> 2018_08_22 </date>
+<text>
+The two vulnerabilities are critical remote code execution flaws that exist in Adobe Photoshop CC.
+Adobe hurried out unscheduled patches today for two critical flaws that could enable remote code-execution in Photoshop CC.
+The patches impact two memory corruption vulnerabilities in Adobe Photoshop products, including Photoshop CC 2018 (v 19.1.6) and Photoshop CC 2017 (v 18.1.6), both for Windows and macOS. The release comes only a week after the company fixed a slew of glitches last Patch Tuesday.
+“Adobe has released updates for Photoshop CC for Windows and macOS,” the company said in a Wednesday security bulletin. “These updates resolve critical vulnerabilities in Photoshop CC 19.1.5 and earlier 19.x versions, as well as 18.1.5 and earlier 18.x versions.  Successful exploitation could lead to arbitrary code-execution in the context of the current user.”
+Both vulnerabilities (CVE-2018-12810) and (CVE-2018-12811) are critical remote code-execution flaws, according to the advisory, but further details around both flaws are not available.
+Kushal Arvind Shah of Fortinet’s FortiGuard Labs was credited with reporting the two flaws.
+Adobe said impacted users need to apply the fixes to the affected versions of Photoshop by updating to version 19.1.6 (via the applications’ update mechanism).
+Last week, Adobe released 11 total fixes for an array of products, including two critical patches for Acrobat and Reader for Windows and macOS. Exploitation of those two vulnerabilities could lead to arbitrary code execution in the context of the current user.
+Adobe said in an email that it is not aware of any exploits in the wild for the flaws. The update is a priority 3 in severity, meaning that it resolves vulnerabilities in a product that has historically not been a target for attackers, according to the company’s ranking system.
+In this case I would expect there may have been a disclosure deadline and the release did not make this month’s typical release cycle but needed to release before September’s release cycle.”
+</text>
+

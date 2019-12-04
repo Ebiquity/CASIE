@@ -1,0 +1,18 @@
+<title> SCAM WARNING Warning over Netflix scam that lets hackers steal your money  </title>
+<source> https://www.thesun.co.uk/money/8067318/warning-over-netflix-scam-that-lets-hackers-steal-your-money/ </source>
+<date> 2018_12_27 </date>
+<text>
+NETFLIX users are once again being warned not to fall for fake emails asking customers to update their payment details.
+The emails claim to be from the streaming service but are actually from scammers trying to steal your money.
+The convincing message reads: "We're having some trouble with your current billing information.
+"We'll try again, but in the meantime you may want to update your payment details."
+At the end of the email, there is a red button that tells you to "Update Account now".
+But if you click on it and follow the link, you will be taken to a fake website that is actually run by scammers who may use the information you enter to hack your bank account.
+The Federal Trade Commission, a government agency in the US, has now issued an urgent warning about the Netflix "phishing scam" and urged consumers not "take the bait".
+"Scammers use your information to steal your money, your identity, or both," it explained.
+"They also use phishing emails to get access to your computer or network.
+"If you click on a link, they can install ransomware or other programs that can lock you out of your data."
+But it's not the first time warnings have been issued over Netflix scams - in September this year Action Fraud did the same over a similar scam.
+And earlier in 2017, Netflix users were also hit with a sophisticated ‘phishing’ scam inviting them to type in bank details on a fake login page.
+</text>
+

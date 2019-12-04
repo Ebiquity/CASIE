@@ -1,0 +1,11 @@
+<title>That sound you hear is Splunk leaking data • The Register    </title>
+<source> https://www.theregister.co.uk/2017/04/03/that_sound_you_hear_is_splunk_leaking_data/?utm_content=buffera476d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer </source>
+<date> 2017_04_03 </date>
+<text>
+Splunk has patched a slip in its JavaScript implementation that leaks user information.
+The advisory at Full Disclosure explains that the leak happens if an attacker tricks an authenticated user into visiting a malicious Web page.
+It only leaks the username, and whether or not that user has enabled remote access; but this would provide enough for an attacker to try follow-up phishing attacks to try and get the user's credentials.
+The bug, the advisory says, is how Splunk used Object prototypes in JavaScript.
+Here's the proof-of-concept JavaScript from the advisory:
+The issue affects Splunk Enterprise versions 6.5.x before 6.5.3, 6.4.x before 6.4.6, 6.3.x before 6.3.10, 6.2.x before 6.2.13.1, 6.1.x before 6.1.13, 6.0.x before 6.0.14, 5.0.x before 5.0.18 and Splunk Light before 6.5.2, and the company has issued patches for all versions.
+</text>

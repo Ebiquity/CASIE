@@ -1,0 +1,15 @@
+<title> Researchers Find 300+ Fake UK Banking Sites </title>
+<source> https://www.infosecurity-magazine.com/news/researchers-find-300-fake-uk/ </source>
+<date> 2017_05_03 </date>
+<text>
+Researchers have discovered over 300 cybersquatting domains masquerading as real UK banking sites, many of which are designed to trick customers into handing over personal details.
+DomainTools used its PhishEye tool to search for domains registered by individuals to mimic those of Barclays, HSBC, Natwest, Lloyd’s and Standard Chartered.
+It found a whopping 324 registered domains abusing the trademarks of these lenders, including lloydstbs[.]com, standardchartered-bank[.]com and barclaysbank-plc[.]co.uk.
+“Imitation has long been thought to be the sincerest form of flattery, but not when it comes to domains,” explained DomainTools senior security researcher, Kyle Wilhoit. “While domain squatters of the past were mostly trying to profit from the domain itself, these days they’re often sophisticated cyber-criminals using the spoofed domain names for more malicious endeavors.”
+Cybersquatting can be used for a variety of ends, including redirecting the user to pay-per-click ads for the victim company’s competitors; for-profit survey sites, or ransomware and other forms of drive-by malware.
+However, one of the most common is to create a phishing page similar to the spoofed bank’s original, which will ask for log-ins or other banking and personal information.
+This years’ Verizon Data Breach Investigations Report (DBIR) claimed phishing has soared in popularity, present in a fifth (21%) of attacks, up from just 8% last year.
+“Many [cybersquatters] will simply add a letter to a brand name, such as Domaintoools.com, while others will add letters or an entire word such as ‘login’ to either side of a brand name. Users should remember to carefully inspect every domain they are clicking on or entering in their browser. Also, ensure you are watching redirects when you are going from site to site,” advised Wilhoit.
+“Brands can and should start monitoring for fraudulent domain name registrations and defensively register their own typo variants. It is better to lock down typo domains than to leave them available to someone else and at an average of £12 per year per domain, this is a relatively cheap insurance policy.”
+</text>
+

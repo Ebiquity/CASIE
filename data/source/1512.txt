@@ -1,0 +1,24 @@
+<title>Amnesia botnet targeting DVRs, Palo Alto report</title>
+<source> https://www.scmagazine.com/amnesia-botnet-targeting-dvrs-palo-alto-report/article/649070/ </source>
+<date> 2017_04_07 </date>
+<text>
+Over a quarter of a million devices used with DVRs around the globe are susceptible to a new botnet its discoverers have dubbed Amnesia.
+Unit 42 researchers at Palo Alto Networks announced on Thursday their detection of a new variant of the IoT/Linux botnet Tsunami, which they are referring to as Amnesia.
+The Amnesia botnet looks for an unpatched remote code execution vulnerability affecting DVR (digital video recorder) appliances manufactured by China-based TVT Digital and identified in nearly identical products from more than 70 global vendors.
+Unit 42 is claiming that the flaw is impacting about 227,000 devices all over the planet, with Taiwan, the United States, Israel, Turkey, and India being the most susceptible.
+Further, the researchers believe this is the first Linux malware to adopt virtual machine evasion techniques to defeat malware analysis sandboxes.
+Not only that, should the code recognize it has reached into VirtualBox, VMware or a QEMU-based virtual machine, it will wipe the virtualized Linux system by deleting all the files in file system, the post stated.
+"This affects not only Linux malware analysis sandboxes but also some QEMU based Linux servers on VPS or on public cloud," the researchers said.
+The power is in how the malware can exploit the remote code execution vulnerability to scan for, locate and attack vulnerable systems.
+Once connected, the malware enables the remote attackers to gain full control of the affected device.
+The researchers speculate that bad actors could potentially use the Amnesia botnet to launch wide-scale DDoS attacks on a scale previously seen in the fall 2016 with the Mirai botnet.
+Apparently, no patches have yet been issued to address the flaw, the researchers said.
+As to why a patch has yet to be issued to fix this year-old flaw, Ryan Olson, intelligence director of Unit 42 at Palo Alto Networks, told SC Media on Thursday that it's up to the manufacturer to create a patch.
+His team hasn't found any evidence they have released one.
+The vulnerable DVRs are typically connected to closed circuit TV (CCTV) equipment, which are often installed in offices and stores, Olson said.
+"The people operating these should limit access to those devices from the internet so they are not exposed to potential malicious actors."
+This, he added, is typically accomplished using a firewall that stops the traffic before it reaches the vulnerable device.
+The fact that the actors behind this malware are using VM-detection mechanisms in a Linux malware family indicates that they likely have prior experience creating malware, Olson explained.
+The good news is that no large-scale attacks have yet been launched using the Amnesia botnet, though judging by the harm from Mirai, the researchers at Palo Alto warned the damage large-scale IoT-based botnets could do is substantial.
+They recommended users have "the latest protections" installed and to block traffic to Amnesia's command-and-control server (listed in their post).
+</text>

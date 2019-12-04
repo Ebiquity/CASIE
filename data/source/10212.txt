@@ -1,0 +1,19 @@
+<title> Patch Drupal now: Yet another critical website bug found – a sequel to 'Drupalgeddon2' </title>
+<source> https://www.theregister.co.uk/2018/04/25/drupal_premieres_sequel_to_critically_vulnerability_drupalgeddon2/ </source>
+<date> 2018_04_25 </date>
+<text>
+After scrambling to patch a critical vulnerability late last month, Drupal is at it again.
+The open source content management project has issued an unscheduled security update to augment its previous patch for Drupalgeddon2.
+There was also a cross-site scripting bug advisory in mid-April.
+The latest Drupal core vulnerability, designated, SA-CORE-2018-004 and assigned CVE-2018-7602, is related to the March SA-CORE-2018-002 flaw (CVE-2018-7600), according to the Drupal security team. It can be exploited to take over a website's server, and allow miscreants to steal information or alter pages.
+"It is a remote code execution vulnerability," explained a member of the Drupal security team in an email to The Register. "No more technical details beyond that are available."
+The vulnerability affects at least Drupal 7.x and Drupal 8.x. And a similar issue has been found in the Drupal Media module.
+In a blog post from earlier this month about the March patch, Dries Buytaert, founder of the Drupal project, observed that all software has security issues and critical security bugs are rare.
+While the March bug is being actively exploited, the Drupal security team says it's unaware of any exploitation of the latest vulnerability. But it won't be long – those maintaining the project observed automated attacks appearing about two weeks after the SA-CORE-2018-002 notice.
+The fix is to upgrade to the most recent version of Drupal 7 or 8 core. The latest code can be found at Drupal's website.
+For those running 7.x, that means upgrading to Drupal 7.59. For those running, 8.5.x, the latest version if 8.5.3.
+And for those still on 8.4.x, there's an upgrade to 8.4.8, despite the fact that as an unsupported minor release, the 8.4.x line would not normally get security updates. And finally, if you're still on Drupal 6, which is no longer officially supported, unofficial patches are being developed here.
+Drupal users appear to be taking the release in stride, though with a bit of grumbling.
+"Drupal Wednesday looks like the new Windows patch day," quipped designer Tom Binroth via Twitter. "I would rather spend my time on creating new stuff than patching Drupal core sites."
+</text>
+

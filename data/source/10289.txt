@@ -1,0 +1,19 @@
+<title> Mozilla Patched Multiple Security Vulnerabilities in Thunderbird 60.3 </title>
+<source> https://latesthackingnews.com/2018/11/05/mozilla-patched-multiple-security-vulnerabilities-in-thunderbird-60-3/ </source>
+<date> 2018_11_05 </date>
+<text>
+Mozilla has recently fixed multiple security flaws in its Thunderbird 60.3 email client. These vulnerabilities also include a critical security bug that allegedly affected Mozilla’s Firefox and Firefox ESR browsers as well.
+Last week, Mozilla patched multiple security flaws altogether in its latest Thunderbird 60.3 including a critical security flaw. As explained in Mozilla’s security advisory, numerous community members and developers at Mozilla discovered reported memory safety bugs that only affected Thunderbird email client, but also had impacted Firefox and Firefox ESR.
+Describing the bugs (CVE-2018-12390), Mozilla stated,
+Some of these bugs showed evidence of memory corruption and we presume that with enough effort that some of these could be exploited to run arbitrary code.
+Mozilla has fixed the bugs in Firefox 63, Firefox ESR 60.3, and Thunderbird 60.3 respectively.
+Apart from the critical memory safety bugs, Mozilla also released fixes for several other vulnerabilities affecting Thunderbird. These include three vulnerabilities with a high severity level, and low severity level memory safety bugs (CVE-2018-12389).
+The three high severity flaws include:
+    CVE-2018-12391: HTTP Live Stream audio data accessible cross-origin (affected Firefox for Android only). The bug could allow accessing audio data across origins during HTTP live stream playback on the Firefox browser for Android.
+    CVE-2018-12392: Crash with nested event loops. An attacker could trigger an exploitable crash by exploiting the bug.
+    CVE-2018-12393: Integer overflow during Unicode conversion while loading JavaScript. This out-of-bounds write vulnerability only affected 32-bit builds.
+With regards to the conditions for the exploit, Mozilla elaborated,
+In general, these flaws cannot be exploited through email in the Thunderbird product because scripting is disabled when reading mail, but are potentially risks in browser or browser-like contexts.
+Mozilla patched multiple vulnerabilities in the previous versions of Thunderbird and Firefox last month. That time too, Mozilla released a fix for critical code execution vulnerability affecting Thunderbird 60.2, Firefox 61 and Firefox ESR 60.1.
+</text>
+

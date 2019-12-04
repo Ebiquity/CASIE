@@ -1,0 +1,17 @@
+<title>Cyberattack has not affected U.S. government, White House says | PBS NewsHour</title>
+<source> http://www.pbs.org/newshour/rundown/cyberattack-not-affected-u-s-government-white-house-says/ </source>
+<date> 2017_05_16 </date>
+<text>
+WASHINGTON — President Donald Trump’s homeland security adviser said Monday that the malware that has infected 300,000 computers in 150 countries is “in the wild,” but so far has not infiltrated U.S. government systems.
+Tom Bossert, assistant to the president for homeland security and counterterrorism, said three variants of the malware have been discovered and the U.S. government was closely monitoring the situation with officials in Britain.
+“Overall, the U.S. infection rate has been lower than many parts of the world, but we may still see significant impacts in additional networks as these malware attacks morph and change,” Bossert told reporters at the White House. “We had a small number of affected parties in the U.S., including FedEx. As of today, no federal systems are affected.”
+Computers across the world were locked up Friday and users’ files held for ransom when dozens of countries were hit in a cyber-extortion attack that targeted hospitals, companies and government agencies. Cybersecurity experts say the unknown hackers who launched the “ransomware” attacks used a hole in Microsoft software that was discovered by the National Security Agency and exposed when NSA documents were leaked online.
+The Department of Homeland Security is taking the lead on the investigation in the United States.
+The Cyber Threat Intelligence Integration Center is keeping the U.S. government informed about classified information concerning the investigation, he said.
+If Americans follow the patching information issued by the FBI, Microsoft and the Homeland Security Department, they will be protected from the malware and the variants, Bossert said.
+“While it would be satisfying to hold accountable those responsible for this hack — something that we are working on quite seriously — the worm is in the wild, so to speak at this point, and patching is the most important message as a result,” he said. “Despite appearing to be criminal activity intended to raise money, it appears that less than $70,000 has been paid in ransoms and we are not aware of payments that have led to any data recovery.”
+Neither the FBI or NSA would comment Monday.
+Trump signed an executive order on Friday aimed at boosting the nation’s cybersecurity, as well as building and maintaining “a modern, secure, and more resilient executive branch IT architecture.”
+“The trend is going in the wrong direction in cyberspace, and it’s time to stop that trend and reverse it on behalf of the American people,” Bossert said after that signing last week. “We have seen increasing attacks from allies, adversaries, primarily nation-states, but also non-nation-state actors, and sitting by and doing nothing is no longer an option.”                
+Homeland Security Advisor Tom Bossert announces May 11 that Trump signed an executive order to bolster the government's cyber security and protect the nation's critical infrastructure from cyber attacks, during a news briefing at the White House in Washington, D.C.
+</text>

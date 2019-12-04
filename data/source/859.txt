@@ -1,0 +1,36 @@
+<title>6 dangerous toys that are not child's play | CSO Online</title>
+<source> http://www.csoonline.com/article/3176094/data-breach/6-dangerous-toys-that-are-not-childs-play.html#slide1 </source>
+<date> 2017_03_02 </date>
+<text>
+The most recent breach of smart teddy bears -- which can receive and send voice messages from children and parents -- have been involved in a data breach dealing with more than 800,000 user accounts.
+The company behind the products, Spiral Toys, is denying that any customers were hacked.
+Zach Lanier, director of research at Cylance, went through the more famous incidents involving toys and breaches and offers a tip with each case.
+This may have given attackers access to voice recordings from the toy's customers, by allegedly making the mistake of storing the customer information in a publicly exposed online MongoDB database that required no authentication process.
+Thus anyone, including the attackers, was able to view and steal the data.
+CloudPets placed no requirement on password strength, making it much easier to decipher passwords.
+Tip: Always create a secure password, no matter the strength requirement.
+Include lowercase and uppercase letter, symbols and numbers.
+Use a password manager to help create and store unique passwords for sites and services.
+A line of stuffed animals, these connected toys combine with a mobile application that was vulnerable due to a number of weak APIs, which didn’t verify who sent messages.
+This meant that an attacker could guess usernames, or email addresses, and ask Fisher-Price for server return details about associated accounts and children’s profiles, which provides their name, birthdate, gender, language and toys they have played with.
+Tip: If the IoT device connects to a mobile app or desktop computer, it is important to examine how it connects.
+If the start of the URL address is http rather than https, which is the secure version of HTTP, then your device is making a less secure connection.
+The doll has a microphone and accesses the internet to answer your child's questions.
+Moreover, criminals could have the ability collect your personal information.
+Tip: If the toy does require Wi-Fi, make sure it supports modern, more secure Wi-Fi capabilities like WAP2.
+Their speech-recognition software maker Nuance Communications violated federal rules by listening to children and saving the recordings.
+It’s valuable to know how they are using your data.
+Don’t provide personal information that seems extra or unnecessary.
+VTech had its app store database, Learning Lodge, hacked.
+As a result of the breach, over 11.6 million accounts were compromised in a cyberattack, exposing photos of children and parents as well as chat logs.
+The profile data leaked included their names, genders and birth dates.
+Tip: Check to see if the manufacturer has had any cybersecurity issues in the past, and if so, how they responded.
+Alternatively, if the company is relatively new, your device is definitely at greater risk.
+The interactive toy has the ability to communicate and record conversations.
+Those conversations are sent to the company’s servers, analyzed and then stored in the cloud.
+The toy was criticized for spying on kids by recording their conversations.
+Through Wi-Fi, attackers can hijack the connection to spy on your children, steal personal information, and turn the microphone of the doll into a surveillance device.
+Tip: Since the device is Wi-Fi enabled, confirm if the device supports modern security protocols.
+If the device only uses WEP or WPA (but not WPA2) security standards, it may be too risky to use.
+Those versions are older and over time have become almost entirely insecure from attack.
+</text>

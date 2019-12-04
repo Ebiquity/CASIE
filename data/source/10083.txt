@@ -1,0 +1,10 @@
+<title> Sanctions Ransomware Makes Fun of USA Sanctions Against Russia  </title>
+<source> https://www.bleepingcomputer.com/news/security/sanctions-ransomware-makes-fun-of-usa-sanctions-against-russia/ </source>
+<date> 2017_03_31 </date>
+<text>
+If you want to know what some ransomware developers think about the USA, you can get a good idea from the ransom note of the Sanctions Ransomware that was released in March. Dubbed Sanctions Ransomware due to the image in the ransom note, the developer makes it fairly obvious how they feel about the USA and their attempts to sanction Russia.
+I was tipped off about this new ransomware after someone was infected and had their files encrypted with the .wallet extension. This extension is typically associated with the Crysis/Dharma ransomware, but according to Michael Gillespie, the creator of ID-Ransomware, the files encrypted by Sanctions do not contain the standard Dharma/Crysis file markers as shown below.
+While I have not been able to find a sample of the actual ransomware, I was able to find a copy of the ransom note on ID-Ransomware. This ransom note is called RESTORE_ALL_DATA.html  and contains a link to a satoshibox page where the ransomware developer is selling the decryption key for 6 bitcoins. This equates to about $6,500 USD at bitcoin's current rate. 
+As this is a very large ransom payment and due to the fact that this ransomware is not in wide circulation, it leads me to believe that this ransomware developer may be conducting targeted attacks.
+Unfortunately, this is all the information we have at this time. At some point we will find a sample and be able to provide more information as we further analyze this ransomware.
+</text>

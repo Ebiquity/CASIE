@@ -1,0 +1,13 @@
+<title>A Dark Web Child Porn Site Is Forcing Its Visitors to Learn Security Tips - Motherboard</title>
+<source> http://motherboard.vice.com/read/a-dark-web-child-porn-site-is-forcing-its-visitors-to-learn-security-tips </source>
+<date> 2017_01_11 </date>
+<text>
+Whether cops are going undercover to learn more about suspects, or deploying hacking tools to unmask them on a mass scale, each side is always trying to stay one step ahead of the other.
+Apparently in response to law enforcement's use of malware, one dark web child pornography site recently started redirecting visitors to a page with additional security advice if their browser runs JavaScript.
+"At [child pornography site] we have always had a big JavaScript warning if you have it enabled," one user on a dark web child abuse site wrote in December of last year.
+JavaScript is sometimes used as a delivery mechanism for a browser exploit; meaning that if users turn it on, they may make themselves vulnerable to attack, which could ultimately reveal their identity.
+But this site doesn't just warn people about the dangers of JavaScript.
+Tails is an operating system that routes all of a user's traffic through the Tor anonymity network, and is designed to not leave any forensic traces on the host machine.
+The dark web child pornography site also blocks connections from Tor2Web gateways, which are proxies that people can use to access dark web sites without the protection of the Tor network.
+The site also allegedly stops people accessing it via mobile phone browsers.
+</text>

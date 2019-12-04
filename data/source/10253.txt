@@ -1,0 +1,17 @@
+<title> Man-in-the-middle flaw left smartphone banking apps vulnerable   </title>
+<source> tps://www.zdnet.com/article/man-in-the-middle-flaw-left-smartphone-banking-apps-vulnerable/ </source>
+<date> 2017_12_05 </date>
+<text>
+A flaw in certificate pinning exposed customers of a number of high-profile banks to man-in-the-middle attacks on both iOS and Android devices.
+A vulnerability in the mobile apps of major banks could have allowed attackers to steal customers' credentials including usernames, passwords, and pin codes, according to researchers.
+ The flaw was found in apps by HSBC, NatWest, Co-op, Santander, and Allied Irish bank. The banks in question have now all updated their apps to protect against the flaw.
+Uncovered by researchers in the Security and Privacy Group at the University of Birmingham, the vulnerability allows an attacker who is on the same network as the victim to perform a man-in-the-middle attack and steal information.
+The vulnerability lay in the certificate pinning technology, a security mechanism used to prevent impersonation attacks and use of fraudulent certificates by only accepting certificates signed by a single pinned CA root certificate.
+While certificate pinning usually improves security, a tool developed by the researchers to perform semi-automated security-testing of mobile apps found that a flaw in the technology meant standard tests failed to detect attackers trying to take control of a victim's online banking. As a result, certificate pinning can hide the lack of proper hostname verification, enabling man-in-the-middle attacks.
+The findings have been outlined in a research paper and presented at the Annual Computer Security Applications Conference in Orlando, Florida. The tool was run on 400 security critical apps in total, leading to the discovery of the flaw.
+Tests found apps from some of the largest banks contained the flaw which, if exploited, could have enabled attackers to decrypt, view, and even modify network traffic from users of the app. That could allow them to view information entered and perform any operation that app can usually perform -- such as making payments or transferring of funds.
+Other attacks allowed hackers to perform in-app phishing attacks against Santander and Allied Irish bank users, allowing attackers to take over part of the screen while the app was running and steal the entered credentials.
+The researchers have worked with the National Cyber Security Centre and all the banks involved to fix the vulnerabilities, noting that the current version of all the apps affected by the pinning vulnerability are now secure.
+A University of Birmingham spokesperson told ZDNet all the banks were highly cooperative: "once this was flagged to them they did work with the team to amend it swiftly."  
+</text>
+
