@@ -1,6 +1,6 @@
 # CASIE : CyberAttack Sensing and Information Extraction
 
-Tool for extracting cyberattack event information <coming soon>
+Tool for extracting cyberattack event information ..coming soon
 
 Annotation corpus of cybersecurity event in news articles
 The corpus contains 1000 annotation and source files.
