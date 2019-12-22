@@ -2,10 +2,11 @@
 
 ## Tool for extracting cyberattack event information 
 Components of CASIE are written in Python:
-1. nug\_arg\_detection.py (applied Domain-Word2vec) or nug\_arg\_detection_bert.py (applied BERT) are for detecting nugget and argument. 
-2. realis_identify.py is for identifying realis for event nugget.
-3. role_phrase.py is for assigning roles to arguments.
-4. Others scripts are needed for running components.
+1. nug\_arg\_detection.py (applied Domain-Word2vec) or nug\_arg\_detection_bert.py (applied BERT) are for training the neural classifier to detect nugget and argument. 
+2. realis_identify.py is for training the neural classifier to identify realis for event nugget.
+3. role_phrase.py is for training the neural classifier to assign roles to arguments.
+4. link_coref.py is for identifying realis and linking role using in the trained models and grouping the mentions of the coreference events.
+5. Others scripts are needed for running CASIE's components.
 
 ## Annotation corpus of cybersecurity event in news articles
 The corpus contains 1000 annotation and source files.
