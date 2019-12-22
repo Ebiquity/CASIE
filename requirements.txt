@@ -35,7 +35,7 @@ sklearn-crfsuite==0.3.6
 SPARQLWrapper==1.8.2
 tensorboard==1.13.1
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.13.1
+tensorflow-gpu==1.15.0
 tensorflow-hub==0.4.0
 urllib3==1.24.1
 Wikipedia-API==0.4.4
