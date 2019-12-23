@@ -20,7 +20,7 @@ Keras-Preprocessing==1.0.9
 keras-self-attention==0.39.0
 keras-transformer==0.21.0
 matplotlib==3.0.3
-nltk==3.4
+nltk==3.4.5
 numpy==1.17.2
 python-crfsuite==0.9.6
 pytorch-pretrained-bert==0.4.0
@@ -35,8 +35,8 @@ sklearn-crfsuite==0.3.6
 SPARQLWrapper==1.8.2
 tensorboard==1.13.1
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.13.1
+tensorflow-gpu==1.15.0
 tensorflow-hub==0.4.0
-urllib3==1.24.1
+urllib3==1.24.2
 Wikipedia-API==0.4.4
 
