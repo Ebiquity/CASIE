@@ -22,6 +22,8 @@ Any problems found, please contact taneeya1@umbc.edu.
 
 Taneeya Satyapanich, Tim Finin and Francis Ferraro, [CASIE: Extracting Cybersecurity Event Information from Text](https://ebiquity.umbc.edu/paper/html/id/874/CASIE-Extracting-Cybersecurity-Event-Information-from-Text), 34th AAAI Conference on Artificial Intelligence, Feb. 2020.
 
+Taneeya Satyapanich, Modeling and extracting information about cybersecurity events from text. Ph.D. Dissertation, University of Maryland, Baltimore County, December 2019.
+
 Taneeya Satyapanich, Tim Finin and Francis Ferraro, [Extracting Rich Semantic Information about Cybersecurity Events](https://ebiquity.umbc.edu/paper/html/id/873/Extracting-Rich-Semantic-Information-about-Cybersecurity-Events), 2nd Workshop on Big Data for CyberSecurity, held with the IEEE Int. Conf. on Big Data, Dec. 2019.
 
 
