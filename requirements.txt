@@ -21,7 +21,7 @@ keras-self-attention==0.39.0
 keras-transformer==0.21.0
 matplotlib==3.0.3
 nltk==3.4.5
-numpy==1.17.2
+numpy==1.21.0
 python-crfsuite==0.9.6
 pytorch-pretrained-bert==0.4.0
 pywikibot==3.0.dev0
