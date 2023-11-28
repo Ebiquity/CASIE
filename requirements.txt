@@ -29,7 +29,7 @@ PyYAML==5.4
 rdflib==4.2.2
 requests==2.31.0
 scikit-learn==0.21.3
-scipy==1.2.1
+scipy==1.10.0
 sklearn==0.0
 sklearn-crfsuite==0.3.6
 SPARQLWrapper==1.8.2
